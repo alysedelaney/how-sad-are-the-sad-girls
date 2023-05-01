@@ -1,7 +1,7 @@
 # How Sad Are the Sad Girls?
 Alyse Delaney, Pratt MSLIS '24<br>Final Project for INFO 664: Programming for Cultural Heritage
 
-This project aims to debunk the "Sad Girl Indie Music" trope through data. Read more about the project here.
+This project aims to debunk the "Sad Girl Indie Music" trope through data. Read more about the project [here](https://docs.google.com/document/d/1uBBlC-WBtrlOfgHpTPAn2G1VoJEtJQFliruDjgaQeYY/edit?usp=sharing).
 
 ## Data
 *(how-sad-are-the-sad-girls/data/...)*
