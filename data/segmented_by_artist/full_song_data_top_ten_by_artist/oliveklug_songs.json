@@ -1,0 +1,4382 @@
+{
+  "artist_name": "Olive Klug",
+  "spotify_id": "3SEtmo8E5DJVuGddKYqeiU",
+  "songs": [
+    {
+      "spotify_id": "72Q3BQhu0w6A81ouAUp7UL",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 2,
+        "api_path": "/songs/7152669",
+        "artist_names": "Olive Klug",
+        "full_title": "Raining in June by\u00a0Olive\u00a0Klug",
+        "header_image_thumbnail_url": "https://images.genius.com/fd0c6e87d01b8e03009ff2b7c41c4662.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/fd0c6e87d01b8e03009ff2b7c41c4662.640x640x1.jpg",
+        "id": 7152669,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 14589570,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1661482475,
+        "path": "/Olive-klug-raining-in-june-lyrics",
+        "pyongs_count": 4,
+        "relationships_index_url": "https://genius.com/Olive-klug-raining-in-june-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 8,
+          "day": 28
+        },
+        "release_date_for_display": "August 28, 2021",
+        "release_date_with_abbreviated_month_for_display": "Aug. 28, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/fd0c6e87d01b8e03009ff2b7c41c4662.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/fd0c6e87d01b8e03009ff2b7c41c4662.640x640x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 2,
+          "hot": false,
+          "pageviews": 5925
+        },
+        "title": "Raining in June",
+        "title_with_featured": "Raining in June",
+        "updated_by_human_at": 1661482475,
+        "url": "https://genius.com/Olive-klug-raining-in-june-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2686902",
+          "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+          "id": 2686902,
+          "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+          "index_character": "o",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Olive Klug",
+          "slug": "Olive-klug",
+          "url": "https://genius.com/artists/Olive-klug"
+        },
+        "artist": "Olive Klug",
+        "lyrics": "Raining in June Lyrics[Verse 1]\nI'm already scared of the winter even though summer's taking her sweet time to start\nIt's her manipulative art\nShe's full of greed, she's such a tease with neon blues and greens and sweaty palms\nShe tricks your heart into thinking that it's calm\nBut then the rain comes back like it always does\n\n[Verse 2]\nEvery noon of every June I used to sit beside my window sill and stare\nUp at the gray skies, she didn't even care\nThat I had waited, calculated all the lakes that I would swim\nAnd all the carnival games I'd win\nIf it would only clear up by then I'd lift my chin\n[Verse 3]\nSo I will try\nI will wait patiently for July\nOr move to somewhere with a clearer sky\nAnd when I do\nLife will be yellow I won't sink into the blues\n\n[Verse 4]\nAnd so I tried\nI couldn't wait patiently for July\nSo I moved to somewhere with a clearer sky\nBut when I did\nI only missed the rainYou might also like4Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 2,
+          "api_path": "/songs/7152669",
+          "apple_music_id": "1581292945",
+          "apple_music_player_url": "https://genius.com/songs/7152669/apple_music_player",
+          "artist_names": "Olive Klug",
+          "description": {
+            "plain": "\u201cIt\u2019s about romanticizing the summer, or more generally the \"brighter days\u201d. Thinking that once the weather gets better and the sun comes out, all my troubles will somehow disappear, but realizing once you arrive at that sunny moment, all you can think about is missing the feeling of the rain.\"\n\nTaken from an announcement of the song\u2019s release on Olivia\u2019s tiktok: https://www.tiktok.com/@olivklug?lang=en&is_copy_url=1&is_from_webapp=v1"
+          },
+          "embed_content": "<div id='rg_embed_link_7152669' class='rg_embed_link' data-song-id='7152669'>Read <a href='https://genius.com/Olive-klug-raining-in-june-lyrics'>\u201cRaining in June\u201d by Olive\u00a0Klug</a> on Genius</div> <script crossorigin src='//genius.com/songs/7152669/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Raining in June by\u00a0Olive\u00a0Klug",
+          "header_image_thumbnail_url": "https://images.genius.com/fd0c6e87d01b8e03009ff2b7c41c4662.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/fd0c6e87d01b8e03009ff2b7c41c4662.640x640x1.jpg",
+          "id": 7152669,
+          "language": "en",
+          "lyrics_owner_id": 14589570,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Olive-klug-raining-in-june-lyrics",
+          "pyongs_count": 4,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Olive-klug-raining-in-june-sample",
+          "release_date": "2021-08-28",
+          "release_date_for_display": "August 28, 2021",
+          "release_date_with_abbreviated_month_for_display": "Aug. 28, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/fd0c6e87d01b8e03009ff2b7c41c4662.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/fd0c6e87d01b8e03009ff2b7c41c4662.640x640x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 6,
+            "iq_earners": 5,
+            "transcribers": 3,
+            "unreviewed_annotations": 2,
+            "verified_annotations": 0,
+            "hot": false,
+            "pageviews": 5925
+          },
+          "title": "Raining in June",
+          "title_with_featured": "Raining in June",
+          "url": "https://genius.com/Olive-klug-raining-in-june-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "see_pageviews",
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 3274618,
+            "annotator_login": "iwont",
+            "api_path": "/referents/23842782",
+            "classification": "unreviewed",
+            "fragment": "Raining in June",
+            "id": 23842782,
+            "is_description": true,
+            "path": "/23842782/Olive-klug-raining-in-june/Raining-in-june",
+            "range": {
+              "content": "Raining in June"
+            },
+            "song_id": 7152669,
+            "url": "https://genius.com/23842782/Olive-klug-raining-in-june/Raining-in-june",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7152669",
+              "client_timestamps": {
+                "updated_by_human_at": 1661482475,
+                "lyrics_updated_at": 1661482475
+              },
+              "context": "Olive Klug",
+              "id": 7152669,
+              "image_url": "https://images.genius.com/fd0c6e87d01b8e03009ff2b7c41c4662.640x640x1.jpg",
+              "link_title": "Raining in June by\u00a0Olive\u00a0Klug",
+              "title": "Raining in June",
+              "type": "Song",
+              "url": "https://genius.com/Olive-klug-raining-in-june-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/23842782",
+                "body": {
+                  "plain": "\u201cIt\u2019s about romanticizing the summer, or more generally the \"brighter days\u201d. Thinking that once the weather gets better and the sun comes out, all my troubles will somehow disappear, but realizing once you arrive at that sunny moment, all you can think about is missing the feeling of the rain.\"\n\nTaken from an announcement of the song\u2019s release on Olivia\u2019s tiktok: https://www.tiktok.com/@olivklug?lang=en&is_copy_url=1&is_from_webapp=v1"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 23842782,
+                "pinned": false,
+                "share_url": "https://genius.com/23842782",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/23842782/Olive-klug-raining-in-june/Raining-in-june",
+                "verified": false,
+                "votes_total": 3,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/3274618",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/c8207262fe82aad620084cad4034778f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/c8207262fe82aad620084cad4034778f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/c8207262fe82aad620084cad4034778f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/c8207262fe82aad620084cad4034778f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/r1cpws5ug88",
+                      "human_readable_role_for_display": null,
+                      "id": 3274618,
+                      "iq": 194,
+                      "login": "iwont",
+                      "name": "iwont",
+                      "role_for_display": null,
+                      "url": "https://genius.com/iwont",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=l0XlGsHzk7A"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2686902",
+            "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+            "id": 2686902,
+            "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Olive Klug",
+            "url": "https://genius.com/artists/Olive-klug"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/2686902",
+              "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+              "id": 2686902,
+              "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Olive Klug",
+              "url": "https://genius.com/artists/Olive-klug"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2686902",
+              "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+              "id": 2686902,
+              "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Olive Klug",
+              "url": "https://genius.com/artists/Olive-klug"
+            }
+          ]
+        }
+      },
+      "annotations": [
+        [
+          "I\u2019m already scared of the winter even though summer\u2019s taking her sweet time to start",
+          [
+            [
+              "Klugman utilizes the idea of summer versus winter to demonstrate that she fears something that has not yet come, despite its impending inevitability. We often struggle to live in the moment, already paralyzed in fear of what we have experienced before after \u201chaving it good for so long\u201d (possibly seasonal depression or a depressive episode)."
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "spotify_id": "5gdEr842qnJaDAY7WgDZJY",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/8537706",
+        "artist_names": "Olive Klug",
+        "full_title": "Dancing in the Moonlight by\u00a0Olive\u00a0Klug",
+        "header_image_thumbnail_url": "https://images.genius.com/acc6685027dfecb45c8855db082f1381.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/acc6685027dfecb45c8855db082f1381.1000x1000x1.jpg",
+        "id": 8537706,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 7018789,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1668878031,
+        "path": "/Olive-klug-dancing-in-the-moonlight-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Olive-klug-dancing-in-the-moonlight-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 7,
+          "day": 2
+        },
+        "release_date_for_display": "July 2, 2021",
+        "release_date_with_abbreviated_month_for_display": "Jul. 2, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/acc6685027dfecb45c8855db082f1381.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/acc6685027dfecb45c8855db082f1381.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Dancing in the Moonlight",
+        "title_with_featured": "Dancing in the Moonlight",
+        "updated_by_human_at": 1668878150,
+        "url": "https://genius.com/Olive-klug-dancing-in-the-moonlight-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2686902",
+          "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+          "id": 2686902,
+          "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+          "index_character": "o",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Olive Klug",
+          "slug": "Olive-klug",
+          "url": "https://genius.com/artists/Olive-klug"
+        },
+        "artist": "Olive Klug",
+        "lyrics": "Dancing in the Moonlight Lyrics[Verse 1]\nWe get it on most every night\nAnd when that ol' moon gets so big and bright\nIt's a supernatural delight\nEverybody was dancing in the moonlight\n\n[Verse 2]\nEverybody here is out of sight\nThey don't bark and they don't bite\nThey keep things loose, they keep things light\nEverybody was dancing in the moonlight\n[Chorus]\nDancing in the moonlight\nEverybody's feeling warm and bright\nIt's such a fine and natural sight\nEverybody's dancing in the moonlight\n\n[Verse 3]\nWe like our fun and we never fight\nYou can't dance and stay uptight\nIt's a supernatural delight\nEverybody was dancing in the moonlight\n\n[Chorus]\nDancing in the moonlight\nEverybody's feeling warm and bright\nIt's such a fine and natural sight\nEverybody's dancing in the moonlight\n\n[Verse 2]\nEverybody here is out of sight\nThey don't bark and they don't bite\nThey keep things loose, they keep them light\nEverybody was dancing in the moonlight\n\n[Outro]\nDancing in the moonlight\nEverybody's feeling warm and bright\nIt's such a fine and natural sight\nEverybody was dancing in the moonlight\nDancing in the moonlight\nEverybody's out of sightYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/8537706",
+          "apple_music_id": "1575116630",
+          "apple_music_player_url": "https://genius.com/songs/8537706/apple_music_player",
+          "artist_names": "Olive Klug",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_8537706' class='rg_embed_link' data-song-id='8537706'>Read <a href='https://genius.com/Olive-klug-dancing-in-the-moonlight-lyrics'>\u201cDancing in the Moonlight\u201d by Olive\u00a0Klug</a> on Genius</div> <script crossorigin src='//genius.com/songs/8537706/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Dancing in the Moonlight by\u00a0Olive\u00a0Klug",
+          "header_image_thumbnail_url": "https://images.genius.com/acc6685027dfecb45c8855db082f1381.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/acc6685027dfecb45c8855db082f1381.1000x1000x1.jpg",
+          "id": 8537706,
+          "language": "en",
+          "lyrics_owner_id": 7018789,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Olive-klug-dancing-in-the-moonlight-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Olive-klug-dancing-in-the-moonlight-sample",
+          "release_date": "2021-07-02",
+          "release_date_for_display": "July 2, 2021",
+          "release_date_with_abbreviated_month_for_display": "Jul. 2, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/acc6685027dfecb45c8855db082f1381.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/acc6685027dfecb45c8855db082f1381.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 2,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Dancing in the Moonlight",
+          "title_with_featured": "Dancing in the Moonlight",
+          "url": "https://genius.com/Olive-klug-dancing-in-the-moonlight-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 15689950,
+            "annotator_login": "rdu",
+            "api_path": "/referents/27085290",
+            "classification": "needs_exegesis",
+            "fragment": "Dancing in the Moonlight",
+            "id": 27085290,
+            "is_description": true,
+            "path": "/27085290/Olive-klug-dancing-in-the-moonlight/Dancing-in-the-moonlight",
+            "range": {
+              "content": "Dancing in the Moonlight"
+            },
+            "song_id": 8537706,
+            "url": "https://genius.com/27085290/Olive-klug-dancing-in-the-moonlight/Dancing-in-the-moonlight",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/8537706",
+              "client_timestamps": {
+                "updated_by_human_at": 1668878150,
+                "lyrics_updated_at": 1668878031
+              },
+              "context": "Olive Klug",
+              "id": 8537706,
+              "image_url": "https://images.genius.com/acc6685027dfecb45c8855db082f1381.1000x1000x1.jpg",
+              "link_title": "Dancing in the Moonlight by\u00a0Olive\u00a0Klug",
+              "title": "Dancing in the Moonlight",
+              "type": "Song",
+              "url": "https://genius.com/Olive-klug-dancing-in-the-moonlight-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/27085290",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 27085290,
+                "pinned": false,
+                "share_url": "https://genius.com/27085290",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/27085290/Olive-klug-dancing-in-the-moonlight/Dancing-in-the-moonlight",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/15689950",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/514byez1lk6",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/514byez1lk6",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/514byez1lk6",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/514byez1lk6",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ksdaui262g",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 15689950,
+                      "iq": 49737,
+                      "login": "rdu",
+                      "name": "rdu",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/rdu",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=UZnBP8WTqeQ"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2686902",
+            "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+            "id": 2686902,
+            "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Olive Klug",
+            "url": "https://genius.com/artists/Olive-klug"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1230304",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 1230304,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Jared Hacmac",
+              "url": "https://genius.com/artists/Jared-hacmac"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": [
+                {
+                  "annotation_count": 1,
+                  "api_path": "/songs/1261222",
+                  "artist_names": "Boffalongo",
+                  "full_title": "Dancing in the Moonlight by\u00a0Boffalongo",
+                  "header_image_thumbnail_url": "https://images.genius.com/61d03259dee5029283abbf286a893440.300x300x1.jpg",
+                  "header_image_url": "https://images.genius.com/61d03259dee5029283abbf286a893440.499x499x1.jpg",
+                  "id": 1261222,
+                  "language": "en",
+                  "lyrics_owner_id": 1549345,
+                  "lyrics_state": "complete",
+                  "path": "/Boffalongo-dancing-in-the-moonlight-lyrics",
+                  "pyongs_count": null,
+                  "relationships_index_url": "https://genius.com/Boffalongo-dancing-in-the-moonlight-sample",
+                  "release_date_components": {
+                    "year": 1970,
+                    "month": null,
+                    "day": null
+                  },
+                  "release_date_for_display": "1970",
+                  "release_date_with_abbreviated_month_for_display": "1970",
+                  "song_art_image_thumbnail_url": "https://images.genius.com/61d03259dee5029283abbf286a893440.300x300x1.jpg",
+                  "song_art_image_url": "https://images.genius.com/61d03259dee5029283abbf286a893440.499x499x1.jpg",
+                  "stats": {
+                    "unreviewed_annotations": 1,
+                    "hot": false
+                  },
+                  "title": "Dancing in the Moonlight",
+                  "title_with_featured": "Dancing in the Moonlight",
+                  "url": "https://genius.com/Boffalongo-dancing-in-the-moonlight-lyrics",
+                  "featured_artists": [],
+                  "primary_artist": {
+                    "api_path": "/artists/384072",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                    "id": 384072,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boffalongo",
+                    "url": "https://genius.com/artists/Boffalongo"
+                  }
+                }
+              ]
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1637878",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 1637878,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Sherman Kelly",
+              "url": "https://genius.com/artists/Sherman-kelly"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "6B4pFSBBp14BwvCAtR8RS3",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6699659",
+        "artist_names": "Olive Klug",
+        "full_title": "Spirit In Disguise by\u00a0Olive\u00a0Klug",
+        "header_image_thumbnail_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.1000x1000x1.jpg",
+        "id": 6699659,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 12650911,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1618350469,
+        "path": "/Olive-klug-spirit-in-disguise-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Olive-klug-spirit-in-disguise-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 9,
+          "day": 23
+        },
+        "release_date_for_display": "September 23, 2019",
+        "release_date_with_abbreviated_month_for_display": "Sep. 23, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Spirit In Disguise",
+        "title_with_featured": "Spirit In Disguise",
+        "updated_by_human_at": 1667936685,
+        "url": "https://genius.com/Olive-klug-spirit-in-disguise-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2686902",
+          "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+          "id": 2686902,
+          "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+          "index_character": "o",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Olive Klug",
+          "slug": "Olive-klug",
+          "url": "https://genius.com/artists/Olive-klug"
+        },
+        "artist": "Olive Klug",
+        "lyrics": "Spirit In Disguise Lyrics[Verse 1]\nShe's a beautiful fool\nWith an audience of actual, she\nDisregards the rules\nBut they tie her down, no she can't make a sound\nShe's cynically optimistic\nUnintentionally cryptic\nShe's not free yet\nBut she wants to be\nOh she's a spirit in disguise\n[Verse 2]\nShe's a goddess with a knack for climbing trees\nShe's a maniac\nAnd she'll dance alone in the middle of the street\nShe's radiant but fragile\nThere's a universe behind each smile\nShe's not free yet\nBut she wants to be\nOh she's a spirit in disguise\nShe's not free yet\nBut she's yearning to be\nOh she's a spirit in disguise\nHmm, spirit in disguiseYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6699659",
+          "apple_music_id": "1481303000",
+          "apple_music_player_url": "https://genius.com/songs/6699659/apple_music_player",
+          "artist_names": "Olive Klug",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6699659' class='rg_embed_link' data-song-id='6699659'>Read <a href='https://genius.com/Olive-klug-spirit-in-disguise-lyrics'>\u201cSpirit In Disguise\u201d by Olive\u00a0Klug</a> on Genius</div> <script crossorigin src='//genius.com/songs/6699659/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Spirit In Disguise by\u00a0Olive\u00a0Klug",
+          "header_image_thumbnail_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.1000x1000x1.jpg",
+          "id": 6699659,
+          "language": "en",
+          "lyrics_owner_id": 12650911,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Olive-klug-spirit-in-disguise-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Olive-klug-spirit-in-disguise-sample",
+          "release_date": "2019-09-23",
+          "release_date_for_display": "September 23, 2019",
+          "release_date_with_abbreviated_month_for_display": "Sep. 23, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Spirit In Disguise",
+          "title_with_featured": "Spirit In Disguise",
+          "url": "https://genius.com/Olive-klug-spirit-in-disguise-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/759346",
+            "cover_art_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.1000x1000x1.jpg",
+            "full_title": "Fire Alarm  by Olive Klug",
+            "id": 759346,
+            "name": "Fire Alarm ",
+            "release_date_for_display": "September 23, 2019",
+            "url": "https://genius.com/albums/Olive-klug/Fire-alarm",
+            "artist": {
+              "api_path": "/artists/2686902",
+              "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+              "id": 2686902,
+              "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Olive Klug",
+              "url": "https://genius.com/artists/Olive-klug"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 12650911,
+            "annotator_login": "mrperfectlyfine",
+            "api_path": "/referents/22724187",
+            "classification": "needs_exegesis",
+            "fragment": "Spirit In Disguise",
+            "id": 22724187,
+            "is_description": true,
+            "path": "/22724187/Olive-klug-spirit-in-disguise/Spirit-in-disguise",
+            "range": {
+              "content": "Spirit In Disguise"
+            },
+            "song_id": 6699659,
+            "url": "https://genius.com/22724187/Olive-klug-spirit-in-disguise/Spirit-in-disguise",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6699659",
+              "client_timestamps": {
+                "updated_by_human_at": 1667936685,
+                "lyrics_updated_at": 1618350469
+              },
+              "context": "Olive Klug",
+              "id": 6699659,
+              "image_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.1000x1000x1.jpg",
+              "link_title": "Spirit In Disguise by\u00a0Olive\u00a0Klug",
+              "title": "Spirit In Disguise",
+              "type": "Song",
+              "url": "https://genius.com/Olive-klug-spirit-in-disguise-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22724187",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22724187,
+                "pinned": false,
+                "share_url": "https://genius.com/22724187",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22724187/Olive-klug-spirit-in-disguise/Spirit-in-disguise",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/12650911",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/5cd849a725b807dd2b70185471033699",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/5cd849a725b807dd2b70185471033699",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/5cd849a725b807dd2b70185471033699",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/5cd849a725b807dd2b70185471033699",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/4lfon3zdx9u",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 12650911,
+                      "iq": 14737,
+                      "login": "mrperfectlyfine",
+                      "name": "mrperfectlyfine",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/mrperfectlyfine",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "attribution": "olivia klugman 1",
+              "provider": "soundcloud",
+              "type": "audio",
+              "url": "https://soundcloud.com/olivia-klugman-1/spirit-in-disguise"
+            },
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=a1pkFKCYSRE"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2686902",
+            "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+            "id": 2686902,
+            "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Olive Klug",
+            "url": "https://genius.com/artists/Olive-klug"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1230304",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 1230304,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Jared Hacmac",
+              "url": "https://genius.com/artists/Jared-hacmac"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2686902",
+              "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+              "id": 2686902,
+              "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Olive Klug",
+              "url": "https://genius.com/artists/Olive-klug"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "7cy8bN353JaUkc6qeTRg6B",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/8748578",
+        "artist_names": "Olive Klug",
+        "full_title": "Coming of Age by\u00a0Olive\u00a0Klug",
+        "header_image_thumbnail_url": "https://images.genius.com/82b02cba6928ab620aa5ad3550e9c79b.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/82b02cba6928ab620aa5ad3550e9c79b.1000x1000x1.jpg",
+        "id": 8748578,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 18017483,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1674284402,
+        "path": "/Olive-klug-coming-of-age-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Olive-klug-coming-of-age-sample",
+        "release_date_components": {
+          "year": 2023,
+          "month": 1,
+          "day": 13
+        },
+        "release_date_for_display": "January 13, 2023",
+        "release_date_with_abbreviated_month_for_display": "Jan. 13, 2023",
+        "song_art_image_thumbnail_url": "https://images.genius.com/82b02cba6928ab620aa5ad3550e9c79b.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/82b02cba6928ab620aa5ad3550e9c79b.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Coming of Age",
+        "title_with_featured": "Coming of Age",
+        "updated_by_human_at": 1676682956,
+        "url": "https://genius.com/Olive-klug-coming-of-age-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2686902",
+          "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+          "id": 2686902,
+          "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+          "index_character": "o",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Olive Klug",
+          "slug": "Olive-klug",
+          "url": "https://genius.com/artists/Olive-klug"
+        },
+        "artist": "Olive Klug",
+        "lyrics": "Coming of Age Lyrics[Verse 1]\nI've been skipping meals and dodging plans\nAnd listening to pop punk bands\nI'm tired of tryna fake it like it's fine\nBeen yelling at my friends\nAnd staying online 'til 3 AM\nHey teacher could you please extend my deadline\n\n[Pre-Chorus]\nI swore that I'd be done by now\nBut I need another year or two\nTo finish developing my mind\n[Chorus]\nOh I'm a toddler running through the bank\nThey told me I'd grow out of all this adolescent angst\nWhy do I still relate to Lady Bird\nAnd Taylor Swift makes me feel heard\nIt's like my pen is stuck to the last page\nAnd I can't finish my damn coming of age\n\n[Verse 2]\nI count th\u0435 New Year's days I nev\u0435r changed\nThe only difference is the pain\nPiercing my temples every morning\nA quarter century but I\u2019m still me\nNow with an overpriced degree\nI haven't seen since graduation\n\n[Pre-Chorus]\nSure I\u2019d love to grab coffee soon\nBut I might not text you back 'til June\nI'm not busy I'm just full of reservations\n\n[Chorus]\nI'm a toddler running through the bank\nThey told me I'd grow out of all this adolescent angst\nHate that I still relate to Lady Bird\nAnd Taylor's got a way with words\nIt's like my pen is stuck to the last page\nAnd I can't finish my damn coming of age\nYou might also like[Bridge]\nWhat's the point of growing up\nWhen it's obvious the world is fucked\nBy stuff someone thought up before my time\nSo I'll clean my toilet, pay my bills\nEat my salad, take my pills\nIn a box inside a city that's on fire\nNo wonder why I always wake up tired\n\n[Chorus]\nI'm a toddler running through the bank\nI don't think I'll grow out of my existential angst\nI\u2019ll skip the philosophical pretense\n'Cause Kierkegaard's a little dense\nI can't focus drawing doodles on the page\nOf this never ever ever ever ever ever\nEver ever ever ever ever ever ending\nComing of age\n\n[Outro]\nLa dada da da da\nDa dada dada da da da da dada dada\nDada dada dada dada dada daEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/8748578",
+          "apple_music_id": "1654984907",
+          "apple_music_player_url": "https://genius.com/songs/8748578/apple_music_player",
+          "artist_names": "Olive Klug",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_8748578' class='rg_embed_link' data-song-id='8748578'>Read <a href='https://genius.com/Olive-klug-coming-of-age-lyrics'>\u201cComing of Age\u201d by Olive\u00a0Klug</a> on Genius</div> <script crossorigin src='//genius.com/songs/8748578/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Coming of Age by\u00a0Olive\u00a0Klug",
+          "header_image_thumbnail_url": "https://images.genius.com/82b02cba6928ab620aa5ad3550e9c79b.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/82b02cba6928ab620aa5ad3550e9c79b.1000x1000x1.jpg",
+          "id": 8748578,
+          "language": "en",
+          "lyrics_owner_id": 18017483,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Olive-klug-coming-of-age-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Olive-klug-coming-of-age-sample",
+          "release_date": "2023-01-13",
+          "release_date_for_display": "January 13, 2023",
+          "release_date_with_abbreviated_month_for_display": "Jan. 13, 2023",
+          "song_art_image_thumbnail_url": "https://images.genius.com/82b02cba6928ab620aa5ad3550e9c79b.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/82b02cba6928ab620aa5ad3550e9c79b.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 2,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Coming of Age",
+          "title_with_featured": "Coming of Age",
+          "url": "https://genius.com/Olive-klug-coming-of-age-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 18017483,
+            "annotator_login": "kalmiakiddd",
+            "api_path": "/referents/27608622",
+            "classification": "needs_exegesis",
+            "fragment": "Coming of Age",
+            "id": 27608622,
+            "is_description": true,
+            "path": "/27608622/Olive-klug-coming-of-age/Coming-of-age",
+            "range": {
+              "content": "Coming of Age"
+            },
+            "song_id": 8748578,
+            "url": "https://genius.com/27608622/Olive-klug-coming-of-age/Coming-of-age",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/8748578",
+              "client_timestamps": {
+                "updated_by_human_at": 1676682956,
+                "lyrics_updated_at": 1674284402
+              },
+              "context": "Olive Klug",
+              "id": 8748578,
+              "image_url": "https://images.genius.com/82b02cba6928ab620aa5ad3550e9c79b.1000x1000x1.jpg",
+              "link_title": "Coming of Age by\u00a0Olive\u00a0Klug",
+              "title": "Coming of Age",
+              "type": "Song",
+              "url": "https://genius.com/Olive-klug-coming-of-age-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/27608622",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 27608622,
+                "pinned": false,
+                "share_url": "https://genius.com/27608622",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/27608622/Olive-klug-coming-of-age/Coming-of-age",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/18017483",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/cae0b50f8fc06c6935ae8c32035314d1",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/cae0b50f8fc06c6935ae8c32035314d1",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/cae0b50f8fc06c6935ae8c32035314d1",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/cae0b50f8fc06c6935ae8c32035314d1",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/cae0b50f8fc06c6935ae8c32035314d1",
+                      "human_readable_role_for_display": null,
+                      "id": 18017483,
+                      "iq": 160,
+                      "login": "kalmiakiddd",
+                      "name": "kalmiakiddd",
+                      "role_for_display": null,
+                      "url": "https://genius.com/kalmiakiddd",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=8Pe5CEuMPFg"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2686902",
+            "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+            "id": 2686902,
+            "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Olive Klug",
+            "url": "https://genius.com/artists/Olive-klug"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1781215",
+              "header_image_url": "https://images.genius.com/42786c8c1fefbabc882b3e09aaf9cad4.960x960x1.jpg",
+              "id": 1781215,
+              "image_url": "https://images.genius.com/42786c8c1fefbabc882b3e09aaf9cad4.960x960x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ehren Ebbage",
+              "url": "https://genius.com/artists/Ehren-ebbage"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2686902",
+              "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+              "id": 2686902,
+              "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Olive Klug",
+              "url": "https://genius.com/artists/Olive-klug"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "6YfjCMHQ0GWCcMtelpKVQB",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/7809239",
+        "artist_names": "Olive Klug",
+        "full_title": "Self Help by\u00a0Olive\u00a0Klug",
+        "header_image_thumbnail_url": "https://images.genius.com/308e4c370154f683f6710b905a7ec60f.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/308e4c370154f683f6710b905a7ec60f.1000x1000x1.jpg",
+        "id": 7809239,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 12843059,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1647570815,
+        "path": "/Olive-klug-self-help-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Olive-klug-self-help-sample",
+        "release_date_components": {
+          "year": 2022,
+          "month": 2,
+          "day": 4
+        },
+        "release_date_for_display": "February 4, 2022",
+        "release_date_with_abbreviated_month_for_display": "Feb. 4, 2022",
+        "song_art_image_thumbnail_url": "https://images.genius.com/7c68008ca6f6c52432d3bbc1b6eef887.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/7c68008ca6f6c52432d3bbc1b6eef887.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Self Help",
+        "title_with_featured": "Self Help",
+        "updated_by_human_at": 1667936993,
+        "url": "https://genius.com/Olive-klug-self-help-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2686902",
+          "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+          "id": 2686902,
+          "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+          "index_character": "o",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Olive Klug",
+          "slug": "Olive-klug",
+          "url": "https://genius.com/artists/Olive-klug"
+        },
+        "artist": "Olive Klug",
+        "lyrics": "Self Help Lyrics[Verse 1]\nWho I was three years ago would have a crush on me today\nShe'd take secret videos from the back of the house while I'm on stage\nI'd ask \"Who did your tattoos?\", and if you're ever in the mood\nI'd love to take you out so I could learn a thing or two\n\n[Verse 2]\nWho I am today would think that 21-year-old was sweet\nI'd indulge her bright-eyed inquiries and wouldn't tell her she's na\u00efve\nAnd though she'd think I had it all figured out\nI'd let her know I'm full of headaches, fear, and doubt\nBut I'd say \"Thank you for reminding me what this whole thing's about, I guess I've grown a lot and you show\u0435d me how.\"\nI get caught up in the forward crawl\n[Chorus]\nI forg\u0435t to see the beauty of it all\nThey say \"Just be yourself!\", well they forget that order's tall\nI'm still trynna find it\nBut this slightly younger helps me recall\n\n[Verse 3]\nWell who I'll be three years from now will have some shit to say to me\nRelax your furrowed brow, there ain't no reason to worry\nAnd if you feel like giving up\nYou gotta remember that you're tough\nYou'll find your power in the tears that line your cheeks\n\n[Verse 4]\nWho I am today would ask that older person for some cheats\nBut I'd secretly hope they wouldn't give any to me\nAnd in my fantasy they've got it figured out\nAnd all their confidence outweighs their minor doubts\nBut I'm wise enough to know that's not what this whole thing's about\nI've got some growing left and you've shown me how\n\n[Chorus/Outro]\nI get caught up in the forward crawl\nI forget to see the beauty of it all\nThey say just be yourself but they forget that order's tall\nI may never find it\nDon't really mind that\nCause this scrappy band of all the different versions of myself\nThey never fail\nTo catch me when I fallYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/7809239",
+          "apple_music_id": "1605697089",
+          "apple_music_player_url": "https://genius.com/songs/7809239/apple_music_player",
+          "artist_names": "Olive Klug",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_7809239' class='rg_embed_link' data-song-id='7809239'>Read <a href='https://genius.com/Olive-klug-self-help-lyrics'>\u201cSelf Help\u201d by Olive\u00a0Klug</a> on Genius</div> <script crossorigin src='//genius.com/songs/7809239/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Self Help by\u00a0Olive\u00a0Klug",
+          "header_image_thumbnail_url": "https://images.genius.com/308e4c370154f683f6710b905a7ec60f.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/308e4c370154f683f6710b905a7ec60f.1000x1000x1.jpg",
+          "id": 7809239,
+          "language": "en",
+          "lyrics_owner_id": 12843059,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Olive-klug-self-help-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Olive-klug-self-help-sample",
+          "release_date": "2022-02-04",
+          "release_date_for_display": "February 4, 2022",
+          "release_date_with_abbreviated_month_for_display": "Feb. 4, 2022",
+          "song_art_image_thumbnail_url": "https://images.genius.com/7c68008ca6f6c52432d3bbc1b6eef887.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/7c68008ca6f6c52432d3bbc1b6eef887.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Self Help",
+          "title_with_featured": "Self Help",
+          "url": "https://genius.com/Olive-klug-self-help-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 12843059,
+            "annotator_login": "plxnormsu",
+            "api_path": "/referents/25377669",
+            "classification": "needs_exegesis",
+            "fragment": "Self Help",
+            "id": 25377669,
+            "is_description": true,
+            "path": "/25377669/Olive-klug-self-help/Self-help",
+            "range": {
+              "content": "Self Help"
+            },
+            "song_id": 7809239,
+            "url": "https://genius.com/25377669/Olive-klug-self-help/Self-help",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7809239",
+              "client_timestamps": {
+                "updated_by_human_at": 1667936993,
+                "lyrics_updated_at": 1647570815
+              },
+              "context": "Olive Klug",
+              "id": 7809239,
+              "image_url": "https://images.genius.com/7c68008ca6f6c52432d3bbc1b6eef887.1000x1000x1.jpg",
+              "link_title": "Self Help by\u00a0Olive\u00a0Klug",
+              "title": "Self Help",
+              "type": "Song",
+              "url": "https://genius.com/Olive-klug-self-help-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/25377669",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 25377669,
+                "pinned": false,
+                "share_url": "https://genius.com/25377669",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/25377669/Olive-klug-self-help/Self-help",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/12843059",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/24f0998d83a247c7332d0a33231d146f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/24f0998d83a247c7332d0a33231d146f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/24f0998d83a247c7332d0a33231d146f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/24f0998d83a247c7332d0a33231d146f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/24f0998d83a247c7332d0a33231d146f",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 12843059,
+                      "iq": 464,
+                      "login": "plxnormsu",
+                      "name": "plxnormsu",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/plxnormsu",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=17DCxAj8qXY"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2686902",
+            "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+            "id": 2686902,
+            "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Olive Klug",
+            "url": "https://genius.com/artists/Olive-klug"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1781215",
+              "header_image_url": "https://images.genius.com/42786c8c1fefbabc882b3e09aaf9cad4.960x960x1.jpg",
+              "id": 1781215,
+              "image_url": "https://images.genius.com/42786c8c1fefbabc882b3e09aaf9cad4.960x960x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ehren Ebbage",
+              "url": "https://genius.com/artists/Ehren-ebbage"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2686902",
+              "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+              "id": 2686902,
+              "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Olive Klug",
+              "url": "https://genius.com/artists/Olive-klug"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "2HLx0fc5WDpKXxPY6IWJMC",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/8838725",
+        "artist_names": "Olive Klug",
+        "full_title": "Parched by\u00a0Olive\u00a0Klug",
+        "header_image_thumbnail_url": "https://images.genius.com/a774910d2f9ad463e833b3752618efeb.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/a774910d2f9ad463e833b3752618efeb.1000x1000x1.jpg",
+        "id": 8838725,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 7018789,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1676682901,
+        "path": "/Olive-klug-parched-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Olive-klug-parched-sample",
+        "release_date_components": {
+          "year": 2023,
+          "month": 2,
+          "day": 17
+        },
+        "release_date_for_display": "February 17, 2023",
+        "release_date_with_abbreviated_month_for_display": "Feb. 17, 2023",
+        "song_art_image_thumbnail_url": "https://images.genius.com/a774910d2f9ad463e833b3752618efeb.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/a774910d2f9ad463e833b3752618efeb.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Parched",
+        "title_with_featured": "Parched",
+        "updated_by_human_at": 1676682914,
+        "url": "https://genius.com/Olive-klug-parched-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2686902",
+          "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+          "id": 2686902,
+          "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+          "index_character": "o",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Olive Klug",
+          "slug": "Olive-klug",
+          "url": "https://genius.com/artists/Olive-klug"
+        },
+        "artist": "Olive Klug",
+        "lyrics": "Parched Lyrics[Verse 1]\nI collect your red flags and tie them to my chest\nThey're my new favorite dress\nAnd I'm not one to brag\nBut I think I might pass your impossible test\nI've been studying hard\nDecoding equations of contradictory texts\nAnd I think that I like\nThat I'm never quite sure\nWho I'll be to you next\n[Chorus]\nYou're a sunbeam\nThrough a brick wall\nYou're an empty glass on my bedside table\nAnd I can't sleep\nI'm too thirsty\nBut I'll refill you just as soon as I'm able\n\n[Verse 2]\nOur words dance in circles of meaningless hope\nTil the music stops and I choke\nYou ask what do I mean\nI just wanna get clean\nAnd rewrite all the words that we spoke\nThese feelings are knives carving into our lives\nBut we blame it on the moon\nBut don't worry it's early enough in the game\nWe'll be over soon\n\n[Chorus]\nYou're a sunbeam\nThrough a brick wall\nYou're an empty glass by my bedside table\nAnd I can't sleep\nI'm too thirsty\nBut I'll refill you\nBut only if you ask me to\nYou might also like[Verse 3]\nI've been stuck in a drought\nThought you'd be my way out\nBut I'm parched after talking to you\nI'm parched after talking to youEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/8838725",
+          "apple_music_id": "1664279808",
+          "apple_music_player_url": "https://genius.com/songs/8838725/apple_music_player",
+          "artist_names": "Olive Klug",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_8838725' class='rg_embed_link' data-song-id='8838725'>Read <a href='https://genius.com/Olive-klug-parched-lyrics'>\u201cParched\u201d by Olive\u00a0Klug</a> on Genius</div> <script crossorigin src='//genius.com/songs/8838725/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Parched by\u00a0Olive\u00a0Klug",
+          "header_image_thumbnail_url": "https://images.genius.com/a774910d2f9ad463e833b3752618efeb.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/a774910d2f9ad463e833b3752618efeb.1000x1000x1.jpg",
+          "id": 8838725,
+          "language": "en",
+          "lyrics_owner_id": 7018789,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Olive-klug-parched-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Olive-klug-parched-sample",
+          "release_date": "2023-02-17",
+          "release_date_for_display": "February 17, 2023",
+          "release_date_with_abbreviated_month_for_display": "Feb. 17, 2023",
+          "song_art_image_thumbnail_url": "https://images.genius.com/a774910d2f9ad463e833b3752618efeb.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/a774910d2f9ad463e833b3752618efeb.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Parched",
+          "title_with_featured": "Parched",
+          "url": "https://genius.com/Olive-klug-parched-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 7018789,
+            "annotator_login": "Xtidal",
+            "api_path": "/referents/27827703",
+            "classification": "needs_exegesis",
+            "fragment": "Parched",
+            "id": 27827703,
+            "is_description": true,
+            "path": "/27827703/Olive-klug-parched/Parched",
+            "range": {
+              "content": "Parched"
+            },
+            "song_id": 8838725,
+            "url": "https://genius.com/27827703/Olive-klug-parched/Parched",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/8838725",
+              "client_timestamps": {
+                "updated_by_human_at": 1676682914,
+                "lyrics_updated_at": 1676682901
+              },
+              "context": "Olive Klug",
+              "id": 8838725,
+              "image_url": "https://images.genius.com/a774910d2f9ad463e833b3752618efeb.1000x1000x1.jpg",
+              "link_title": "Parched by\u00a0Olive\u00a0Klug",
+              "title": "Parched",
+              "type": "Song",
+              "url": "https://genius.com/Olive-klug-parched-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/27827703",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 27827703,
+                "pinned": false,
+                "share_url": "https://genius.com/27827703",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/27827703/Olive-klug-parched/Parched",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/7018789",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/ee2e843e5c545ee94b2d719ab0aa02c9",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/ee2e843e5c545ee94b2d719ab0aa02c9",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/ee2e843e5c545ee94b2d719ab0aa02c9",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/ee2e843e5c545ee94b2d719ab0aa02c9",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/ee2e843e5c545ee94b2d719ab0aa02c9",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 7018789,
+                      "iq": 224443,
+                      "login": "Xtidal",
+                      "name": "Xtidal",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/Xtidal",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=ejvdDY3Kiu8"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2686902",
+            "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+            "id": 2686902,
+            "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Olive Klug",
+            "url": "https://genius.com/artists/Olive-klug"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "5qtWtxi3eBtxof0bbnbHvl",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/8537703",
+        "artist_names": "Olive Klug",
+        "full_title": "Out Of Line by\u00a0Olive\u00a0Klug",
+        "header_image_thumbnail_url": "https://images.genius.com/d0df9a43c7122b434508bdb21fe2884f.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/d0df9a43c7122b434508bdb21fe2884f.800x800x1.jpg",
+        "id": 8537703,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 7018789,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1671168334,
+        "path": "/Olive-klug-out-of-line-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Olive-klug-out-of-line-sample",
+        "release_date_components": {
+          "year": 2022,
+          "month": 11,
+          "day": 18
+        },
+        "release_date_for_display": "November 18, 2022",
+        "release_date_with_abbreviated_month_for_display": "Nov. 18, 2022",
+        "song_art_image_thumbnail_url": "https://images.genius.com/d0df9a43c7122b434508bdb21fe2884f.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/d0df9a43c7122b434508bdb21fe2884f.800x800x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Out Of Line",
+        "title_with_featured": "Out Of Line",
+        "updated_by_human_at": 1671168339,
+        "url": "https://genius.com/Olive-klug-out-of-line-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2686902",
+          "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+          "id": 2686902,
+          "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+          "index_character": "o",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Olive Klug",
+          "slug": "Olive-klug",
+          "url": "https://genius.com/artists/Olive-klug"
+        },
+        "artist": "Olive Klug",
+        "lyrics": "Out Of Line Lyrics[Verse 1]\nI've been falling in love with reckless abandon\nProjecting my joy on pretty faces\nEvery afternoon I\u2005spend\u2005muddying my shoes\nDon't\u2005try to tell me that I\u2005need new laces\n\n[Chorus]\nI'll start short-lived affairs, stop prettying my hair\nWho says I'm too old for truth or dare?\nI'll stop seeking to find, start saying what's on my mind\nI'm done waiting\nSo I guess I'll just get out of line\n[Verse 2]\nI've been living parallel lives in the corners of my mind\nGetting unattached to linear time\nI'm inviting all my friends, so the chaos never ends\nI'm begging you to plagiarize\n\n[Chorus]\nTo start short-lived affairs, graduate undeclared\nW\u0435'll never grow out of truth or dare\nW\u0435'll stop seeking to find, always say what's on our minds\nFuck this waiting\nI suggest we all get out of line\n\n[Bridge]\nIsn't life so fun, ain't it so great\nWhen you're watching all the rules disintegrate?\nThey've underrated being a disgrace\nIt's a joy when you've got all these silly little lines\nYou get to erase\n\n[Outro]\nIsn't life so fun, ain't it so great?\nIt's a joy when you've got all these silly little lines\nYou get to eraseYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/8537703",
+          "apple_music_id": "1649569496",
+          "apple_music_player_url": "https://genius.com/songs/8537703/apple_music_player",
+          "artist_names": "Olive Klug",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_8537703' class='rg_embed_link' data-song-id='8537703'>Read <a href='https://genius.com/Olive-klug-out-of-line-lyrics'>\u201cOut Of Line\u201d by Olive\u00a0Klug</a> on Genius</div> <script crossorigin src='//genius.com/songs/8537703/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Out Of Line by\u00a0Olive\u00a0Klug",
+          "header_image_thumbnail_url": "https://images.genius.com/d0df9a43c7122b434508bdb21fe2884f.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/d0df9a43c7122b434508bdb21fe2884f.800x800x1.jpg",
+          "id": 8537703,
+          "language": "en",
+          "lyrics_owner_id": 7018789,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Olive-klug-out-of-line-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Olive-klug-out-of-line-sample",
+          "release_date": "2022-11-18",
+          "release_date_for_display": "November 18, 2022",
+          "release_date_with_abbreviated_month_for_display": "Nov. 18, 2022",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d0df9a43c7122b434508bdb21fe2884f.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d0df9a43c7122b434508bdb21fe2884f.800x800x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Out Of Line",
+          "title_with_featured": "Out Of Line",
+          "url": "https://genius.com/Olive-klug-out-of-line-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 15689950,
+            "annotator_login": "rdu",
+            "api_path": "/referents/27085285",
+            "classification": "needs_exegesis",
+            "fragment": "Out Of Line",
+            "id": 27085285,
+            "is_description": true,
+            "path": "/27085285/Olive-klug-out-of-line/Out-of-line",
+            "range": {
+              "content": "Out Of Line"
+            },
+            "song_id": 8537703,
+            "url": "https://genius.com/27085285/Olive-klug-out-of-line/Out-of-line",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/8537703",
+              "client_timestamps": {
+                "updated_by_human_at": 1671168339,
+                "lyrics_updated_at": 1671168334
+              },
+              "context": "Olive Klug",
+              "id": 8537703,
+              "image_url": "https://images.genius.com/d0df9a43c7122b434508bdb21fe2884f.800x800x1.jpg",
+              "link_title": "Out Of Line by\u00a0Olive\u00a0Klug",
+              "title": "Out Of Line",
+              "type": "Song",
+              "url": "https://genius.com/Olive-klug-out-of-line-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/27085285",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 27085285,
+                "pinned": false,
+                "share_url": "https://genius.com/27085285",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/27085285/Olive-klug-out-of-line/Out-of-line",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/15689950",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/514byez1lk6",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/514byez1lk6",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/514byez1lk6",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/514byez1lk6",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ksdaui262g",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 15689950,
+                      "iq": 49737,
+                      "login": "rdu",
+                      "name": "rdu",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/rdu",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": {
+            "api_path": "/users/2976672",
+            "avatar": {
+              "tiny": {
+                "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+                "bounding_box": {
+                  "width": 16,
+                  "height": 16
+                }
+              },
+              "thumb": {
+                "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+                "bounding_box": {
+                  "width": 32,
+                  "height": 32
+                }
+              },
+              "small": {
+                "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+                "bounding_box": {
+                  "width": 100,
+                  "height": 100
+                }
+              },
+              "medium": {
+                "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+                "bounding_box": {
+                  "width": 300,
+                  "height": 400
+                }
+              }
+            },
+            "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l1pegbzlvms",
+            "human_readable_role_for_display": "Staff",
+            "id": 2976672,
+            "iq": 334938,
+            "login": "Gary",
+            "name": "Gary",
+            "role_for_display": "staff",
+            "url": "https://genius.com/Gary",
+            "current_user_metadata": {
+              "permissions": [],
+              "excluded_permissions": [
+                "follow"
+              ],
+              "interactions": {
+                "following": false
+              }
+            }
+          },
+          "lyrics_marked_staff_approved_by": {
+            "api_path": "/users/2976672",
+            "avatar": {
+              "tiny": {
+                "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+                "bounding_box": {
+                  "width": 16,
+                  "height": 16
+                }
+              },
+              "thumb": {
+                "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+                "bounding_box": {
+                  "width": 32,
+                  "height": 32
+                }
+              },
+              "small": {
+                "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+                "bounding_box": {
+                  "width": 100,
+                  "height": 100
+                }
+              },
+              "medium": {
+                "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+                "bounding_box": {
+                  "width": 300,
+                  "height": 400
+                }
+              }
+            },
+            "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l1pegbzlvms",
+            "human_readable_role_for_display": "Staff",
+            "id": 2976672,
+            "iq": 334938,
+            "login": "Gary",
+            "name": "Gary",
+            "role_for_display": "staff",
+            "url": "https://genius.com/Gary",
+            "current_user_metadata": {
+              "permissions": [],
+              "excluded_permissions": [
+                "follow"
+              ],
+              "interactions": {
+                "following": false
+              }
+            }
+          },
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=kH3ujNH_fnY"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2686902",
+            "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+            "id": 2686902,
+            "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Olive Klug",
+            "url": "https://genius.com/artists/Olive-klug"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "5hw0hFgKOgjJGey78ur2q2",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6943830",
+        "artist_names": "Olive Klug",
+        "full_title": "Precooked Rice (blurry illusions) by\u00a0Olive\u00a0Klug",
+        "header_image_thumbnail_url": "https://images.genius.com/e91e3d98a0b5d88c202f2bc08ffd6be7.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/e91e3d98a0b5d88c202f2bc08ffd6be7.1000x1000x1.jpg",
+        "id": 6943830,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 13991929,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1624550797,
+        "path": "/Olive-klug-precooked-rice-blurry-illusions-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Olive-klug-precooked-rice-blurry-illusions-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 6,
+          "day": 18
+        },
+        "release_date_for_display": "June 18, 2021",
+        "release_date_with_abbreviated_month_for_display": "Jun. 18, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/e91e3d98a0b5d88c202f2bc08ffd6be7.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/e91e3d98a0b5d88c202f2bc08ffd6be7.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Precooked Rice (blurry illusions)",
+        "title_with_featured": "Precooked Rice (blurry illusions)",
+        "updated_by_human_at": 1667934768,
+        "url": "https://genius.com/Olive-klug-precooked-rice-blurry-illusions-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2686902",
+          "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+          "id": 2686902,
+          "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+          "index_character": "o",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Olive Klug",
+          "slug": "Olive-klug",
+          "url": "https://genius.com/artists/Olive-klug"
+        },
+        "artist": "Olive Klug",
+        "lyrics": "Precooked Rice (blurry illusions) LyricsVerse 1:\nYou know just how to brew your coffee so\nEvery flavor shows its teeth\nYou take your time with each section of my spine, babe\nYou really know just how to please\nAnd you're meticulous with every grocery list\nYou've got a garden growing green\nI smile silently\nYou're staring back at me and say\nTell me what you're thinkin for a penny\nChorus:\nBut I don't want to tell you why I don't cry anymore\nHow many nights I've spent clutching my knees against the floor\nI buy precooked rice\nAnd I'm not that nice to myself\nI don't wanna show you what it's like behind my smile\nSo I'll just keep my thoughts at bay and kiss you for a while\nL\u0435t's keep our lips busy\nGet a little dizzier\nBlurring this illusion that I built for you\nDon't shatt\u0435r it now\n\nVerse 2:\nYou get up early, you go on runs\n6 miles through the city just for fun\nYou revel in the stillness of the morning\nInvite me to the desert without any sort of warning\nI take my pills at 11\nGet out of bed at quarter til\nCan't seem to find where I've misplaced my piece of mind but\nBelieve it or not this is how I heal\n\nChorus:\nBut I don't want to tell you why I don't cry anymore\nHow many nights I've spent clutching my knees against the floor\nI buy precooked rice\nAnd I'm not that nice to myself\nI don't wanna show you what it's like behind my smile\nSo I'll just keep my thoughts at bay and kiss you for a while\nLet's keep our lips busy\nGet a little dizzier\nBlurring this illusion that I built for you\nDon't shatter it now\nYou might also likeBridge:\nYou can buy me jade, we can hope it grows but\nToday I'm still too petrified to genuinely show you who I am\nBut I'll eat your homemade jam\n\nChorus 2:\nDon't wanna cry for you, won't open up that door\nSo I'll just get my things and drive away just like before\nI'll try to keep myself busy\nStop getting dizzy I'll\nHide behind this cold, aloof illusion\nSo for the sake of settling confusion\nIt's over now\nIt's over nowEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6943830",
+          "apple_music_id": "1572609346",
+          "apple_music_player_url": "https://genius.com/songs/6943830/apple_music_player",
+          "artist_names": "Olive Klug",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6943830' class='rg_embed_link' data-song-id='6943830'>Read <a href='https://genius.com/Olive-klug-precooked-rice-blurry-illusions-lyrics'>\u201cPrecooked Rice (blurry illusions)\u201d by Olive\u00a0Klug</a> on Genius</div> <script crossorigin src='//genius.com/songs/6943830/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Precooked Rice (blurry illusions) by\u00a0Olive\u00a0Klug",
+          "header_image_thumbnail_url": "https://images.genius.com/e91e3d98a0b5d88c202f2bc08ffd6be7.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/e91e3d98a0b5d88c202f2bc08ffd6be7.1000x1000x1.jpg",
+          "id": 6943830,
+          "language": "en",
+          "lyrics_owner_id": 13991929,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Olive-klug-precooked-rice-blurry-illusions-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Olive-klug-precooked-rice-blurry-illusions-sample",
+          "release_date": "2021-06-18",
+          "release_date_for_display": "June 18, 2021",
+          "release_date_with_abbreviated_month_for_display": "Jun. 18, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/e91e3d98a0b5d88c202f2bc08ffd6be7.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/e91e3d98a0b5d88c202f2bc08ffd6be7.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Precooked Rice (blurry illusions)",
+          "title_with_featured": "Precooked Rice (blurry illusions)",
+          "url": "https://genius.com/Olive-klug-precooked-rice-blurry-illusions-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 13991929,
+            "annotator_login": "OliviaKlugman",
+            "api_path": "/referents/23351305",
+            "classification": "needs_exegesis",
+            "fragment": "Precooked Rice (blurry illusions)",
+            "id": 23351305,
+            "is_description": true,
+            "path": "/23351305/Olive-klug-precooked-rice-blurry-illusions/Precooked-rice-blurry-illusions",
+            "range": {
+              "content": "Precooked Rice (blurry illusions)"
+            },
+            "song_id": 6943830,
+            "url": "https://genius.com/23351305/Olive-klug-precooked-rice-blurry-illusions/Precooked-rice-blurry-illusions",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6943830",
+              "client_timestamps": {
+                "updated_by_human_at": 1667934768,
+                "lyrics_updated_at": 1624550797
+              },
+              "context": "Olive Klug",
+              "id": 6943830,
+              "image_url": "https://images.genius.com/e91e3d98a0b5d88c202f2bc08ffd6be7.1000x1000x1.jpg",
+              "link_title": "Precooked Rice (blurry illusions) by\u00a0Olive\u00a0Klug",
+              "title": "Precooked Rice (blurry illusions)",
+              "type": "Song",
+              "url": "https://genius.com/Olive-klug-precooked-rice-blurry-illusions-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/23351305",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 23351305,
+                "pinned": false,
+                "share_url": "https://genius.com/23351305",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/23351305/Olive-klug-precooked-rice-blurry-illusions/Precooked-rice-blurry-illusions",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/13991929",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/915db1bb6f06b509c761ee12970ce6bd",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/915db1bb6f06b509c761ee12970ce6bd",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/915db1bb6f06b509c761ee12970ce6bd",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/915db1bb6f06b509c761ee12970ce6bd",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/915db1bb6f06b509c761ee12970ce6bd",
+                      "human_readable_role_for_display": null,
+                      "id": 13991929,
+                      "iq": 153,
+                      "login": "OliviaKlugman",
+                      "name": "OliviaKlugman",
+                      "role_for_display": null,
+                      "url": "https://genius.com/OliviaKlugman",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=oxtIr5SrWEM"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2686902",
+            "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+            "id": 2686902,
+            "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Olive Klug",
+            "url": "https://genius.com/artists/Olive-klug"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/2399721",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 2399721,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Sacha Muller",
+              "url": "https://genius.com/artists/Sacha-muller"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2686902",
+              "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+              "id": 2686902,
+              "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Olive Klug",
+              "url": "https://genius.com/artists/Olive-klug"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "2mglEF4hHXStMwWC3v863H",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6699662",
+        "artist_names": "Olive Klug",
+        "full_title": "Sailor Song by\u00a0Olive\u00a0Klug",
+        "header_image_thumbnail_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.1000x1000x1.jpg",
+        "id": 6699662,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 12650911,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1618351122,
+        "path": "/Olive-klug-sailor-song-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Olive-klug-sailor-song-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 9,
+          "day": 23
+        },
+        "release_date_for_display": "September 23, 2019",
+        "release_date_with_abbreviated_month_for_display": "Sep. 23, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Sailor Song",
+        "title_with_featured": "Sailor Song",
+        "updated_by_human_at": 1667936731,
+        "url": "https://genius.com/Olive-klug-sailor-song-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2686902",
+          "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+          "id": 2686902,
+          "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+          "index_character": "o",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Olive Klug",
+          "slug": "Olive-klug",
+          "url": "https://genius.com/artists/Olive-klug"
+        },
+        "artist": "Olive Klug",
+        "lyrics": "Sailor Song Lyrics[Verse]\nShe was a sailor\nStationed at the Northern Day\nAimlessly inspired, I was making my way up and down\nThe interstate\nI was just along for the ride when we locked eyes\nDrowning out the screams of the party behind us\nOnly two short days before I'm headed out to leave\nCouldn't help but lose myself in fantasy\n\n[Chorus 1]\nWhere you would sail me away with all our troubles off the ground\nFind shelter from the storm\nThe way you're with me now\nWe'll sing until our hearts sink deep down into th\u0435 blue\nDrunkenly waltzing in some, smoky saloon\nAnd \u0435ach morning\nWhen we wake up\nThe horizon will be moved\nThrough every ocean, every sea\nI will be true\n[Chorus 2]\nSo babe sail me away, watch the world as it floats by\nWho cares how did we start\nAsking every-while\nSomeday our life on land will be a distant memory\nThrough every ocean every sea\nStay true to meYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6699662",
+          "apple_music_id": "1481303001",
+          "apple_music_player_url": "https://genius.com/songs/6699662/apple_music_player",
+          "artist_names": "Olive Klug",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6699662' class='rg_embed_link' data-song-id='6699662'>Read <a href='https://genius.com/Olive-klug-sailor-song-lyrics'>\u201cSailor Song\u201d by Olive\u00a0Klug</a> on Genius</div> <script crossorigin src='//genius.com/songs/6699662/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Sailor Song by\u00a0Olive\u00a0Klug",
+          "header_image_thumbnail_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.1000x1000x1.jpg",
+          "id": 6699662,
+          "language": "en",
+          "lyrics_owner_id": 12650911,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Olive-klug-sailor-song-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Olive-klug-sailor-song-sample",
+          "release_date": "2019-09-23",
+          "release_date_for_display": "September 23, 2019",
+          "release_date_with_abbreviated_month_for_display": "Sep. 23, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Sailor Song",
+          "title_with_featured": "Sailor Song",
+          "url": "https://genius.com/Olive-klug-sailor-song-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/759346",
+            "cover_art_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.1000x1000x1.jpg",
+            "full_title": "Fire Alarm  by Olive Klug",
+            "id": 759346,
+            "name": "Fire Alarm ",
+            "release_date_for_display": "September 23, 2019",
+            "url": "https://genius.com/albums/Olive-klug/Fire-alarm",
+            "artist": {
+              "api_path": "/artists/2686902",
+              "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+              "id": 2686902,
+              "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Olive Klug",
+              "url": "https://genius.com/artists/Olive-klug"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 12650911,
+            "annotator_login": "mrperfectlyfine",
+            "api_path": "/referents/22724197",
+            "classification": "needs_exegesis",
+            "fragment": "Sailor Song",
+            "id": 22724197,
+            "is_description": true,
+            "path": "/22724197/Olive-klug-sailor-song/Sailor-song",
+            "range": {
+              "content": "Sailor Song"
+            },
+            "song_id": 6699662,
+            "url": "https://genius.com/22724197/Olive-klug-sailor-song/Sailor-song",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6699662",
+              "client_timestamps": {
+                "updated_by_human_at": 1667936731,
+                "lyrics_updated_at": 1618351122
+              },
+              "context": "Olive Klug",
+              "id": 6699662,
+              "image_url": "https://images.genius.com/9eaa23f67de9349a84139acba130ec3a.1000x1000x1.jpg",
+              "link_title": "Sailor Song by\u00a0Olive\u00a0Klug",
+              "title": "Sailor Song",
+              "type": "Song",
+              "url": "https://genius.com/Olive-klug-sailor-song-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22724197",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22724197,
+                "pinned": false,
+                "share_url": "https://genius.com/22724197",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22724197/Olive-klug-sailor-song/Sailor-song",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/12650911",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/5cd849a725b807dd2b70185471033699",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/5cd849a725b807dd2b70185471033699",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/5cd849a725b807dd2b70185471033699",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/5cd849a725b807dd2b70185471033699",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/4lfon3zdx9u",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 12650911,
+                      "iq": 14737,
+                      "login": "mrperfectlyfine",
+                      "name": "mrperfectlyfine",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/mrperfectlyfine",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "attribution": "olivia klugman 1",
+              "provider": "soundcloud",
+              "type": "audio",
+              "url": "https://soundcloud.com/olivia-klugman-1/sailor-song"
+            },
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=Y4FfSLhuTfA"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2686902",
+            "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+            "id": 2686902,
+            "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Olive Klug",
+            "url": "https://genius.com/artists/Olive-klug"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1230304",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 1230304,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Jared Hacmac",
+              "url": "https://genius.com/artists/Jared-hacmac"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2686902",
+              "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+              "id": 2686902,
+              "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Olive Klug",
+              "url": "https://genius.com/artists/Olive-klug"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "64n8uu5XwpRSmkjebQxr4i",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6699656",
+        "artist_names": "Olive Klug",
+        "full_title": "Not Forever After by\u00a0Olive\u00a0Klug",
+        "header_image_thumbnail_url": "https://images.genius.com/94b5146d2ad987627af8330d2f9304c5.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/94b5146d2ad987627af8330d2f9304c5.1000x1000x1.jpg",
+        "id": 6699656,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 12650911,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1644189556,
+        "path": "/Olive-klug-not-forever-after-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Olive-klug-not-forever-after-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 3,
+          "day": 18
+        },
+        "release_date_for_display": "March 18, 2021",
+        "release_date_with_abbreviated_month_for_display": "Mar. 18, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/94b5146d2ad987627af8330d2f9304c5.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/94b5146d2ad987627af8330d2f9304c5.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Not Forever After",
+        "title_with_featured": "Not Forever After",
+        "updated_by_human_at": 1667937085,
+        "url": "https://genius.com/Olive-klug-not-forever-after-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2686902",
+          "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+          "id": 2686902,
+          "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+          "index_character": "o",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Olive Klug",
+          "slug": "Olive-klug",
+          "url": "https://genius.com/artists/Olive-klug"
+        },
+        "artist": "Olive Klug",
+        "lyrics": "Not Forever After Lyrics[Verse 1]\nFour shots and you're pouring me a fifth\nBut no girl's ever looked at me like this\nYour roomate's pissed, she's halfway out the door\nWe throw our glasses back and I shiver as your hair kisses the floor\n\n[Chorus]\nI can't remember which party we danced through that night\nThe boys ask stupid questions\nWe just laugh at the secret we can't hide\nFor the first time Cinderella's staying out past midnight\nYour lips press soft against my shoulder\nIt's not forever\nIt's just a moment we can smile at when we're older\nHmm\n[Verse 2]\nYou grab my hand and drag me to your room\nMy heart takes off and doesn't stop 'till she is halfway to the moon\nSuddenly we're sober and we're shy\nBut someday we'll be brave enough to look each other in the eye\n\n[Chorus]\nI can't remember, which party we danced through that night\nThe boys ask stupid questions\nWe just laugh at the secret we can't hide\nFor the first time Cinderella can't hear the clock strike\nWith her lips pressed against my shoulder\nIt's not forever\nIt's just a moment we can smile at when we're older\nIt's not forever\nIt's just a moment we can smile at when we're older\n\n[Bridge]\nYou hit your face the next morning in line for the waffle iron\nI forgive you, I was nervous too\nA couple years float by 'till we talked for hours at a house party in College Park\nWe didn't kiss\nWe just reminisced\n\n[Chorus]\nI don't remember which one of us was last to reply\nThe boys still ask me stupid questions\nI just scoff and roll my eyes\nNow I know that Cinderella don't need no prince to survive\nSometimes I check up on your profile\nIt's not forever\nIt's just the way I tend to think of you and smile\nIt's not forever\nIt's just the way you cross my mind once in a while\nIt's not forever\nIt's just a moment we can smile at when we're olderYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6699656",
+          "apple_music_id": "1556900625",
+          "apple_music_player_url": "https://genius.com/songs/6699656/apple_music_player",
+          "artist_names": "Olive Klug",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6699656' class='rg_embed_link' data-song-id='6699656'>Read <a href='https://genius.com/Olive-klug-not-forever-after-lyrics'>\u201cNot Forever After\u201d by Olive\u00a0Klug</a> on Genius</div> <script crossorigin src='//genius.com/songs/6699656/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Not Forever After by\u00a0Olive\u00a0Klug",
+          "header_image_thumbnail_url": "https://images.genius.com/94b5146d2ad987627af8330d2f9304c5.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/94b5146d2ad987627af8330d2f9304c5.1000x1000x1.jpg",
+          "id": 6699656,
+          "language": "en",
+          "lyrics_owner_id": 12650911,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Olive-klug-not-forever-after-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Olive-klug-not-forever-after-sample",
+          "release_date": "2021-03-18",
+          "release_date_for_display": "March 18, 2021",
+          "release_date_with_abbreviated_month_for_display": "Mar. 18, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/94b5146d2ad987627af8330d2f9304c5.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/94b5146d2ad987627af8330d2f9304c5.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 4,
+            "iq_earners": 3,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Not Forever After",
+          "title_with_featured": "Not Forever After",
+          "url": "https://genius.com/Olive-klug-not-forever-after-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 12650911,
+            "annotator_login": "mrperfectlyfine",
+            "api_path": "/referents/22724178",
+            "classification": "needs_exegesis",
+            "fragment": "Not Forever After",
+            "id": 22724178,
+            "is_description": true,
+            "path": "/22724178/Olive-klug-not-forever-after/Not-forever-after",
+            "range": {
+              "content": "Not Forever After"
+            },
+            "song_id": 6699656,
+            "url": "https://genius.com/22724178/Olive-klug-not-forever-after/Not-forever-after",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6699656",
+              "client_timestamps": {
+                "updated_by_human_at": 1667937085,
+                "lyrics_updated_at": 1644189556
+              },
+              "context": "Olive Klug",
+              "id": 6699656,
+              "image_url": "https://images.genius.com/94b5146d2ad987627af8330d2f9304c5.1000x1000x1.jpg",
+              "link_title": "Not Forever After by\u00a0Olive\u00a0Klug",
+              "title": "Not Forever After",
+              "type": "Song",
+              "url": "https://genius.com/Olive-klug-not-forever-after-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22724178",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22724178,
+                "pinned": false,
+                "share_url": "https://genius.com/22724178",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22724178/Olive-klug-not-forever-after/Not-forever-after",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/12650911",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/5cd849a725b807dd2b70185471033699",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/5cd849a725b807dd2b70185471033699",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/5cd849a725b807dd2b70185471033699",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/5cd849a725b807dd2b70185471033699",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/4lfon3zdx9u",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 12650911,
+                      "iq": 14737,
+                      "login": "mrperfectlyfine",
+                      "name": "mrperfectlyfine",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/mrperfectlyfine",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=3wH9I0eX2JA"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2686902",
+            "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+            "id": 2686902,
+            "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Olive Klug",
+            "url": "https://genius.com/artists/Olive-klug"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/460440",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 460440,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Shannon McArthur",
+              "url": "https://genius.com/artists/Shannon-mcarthur"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2686902",
+              "header_image_url": "https://images.genius.com/c39c0e1197ff33b4a2266c939dc083fc.1000x429x1.jpg",
+              "id": 2686902,
+              "image_url": "https://images.genius.com/fa02b3a5606ccd03e80122d1dd46bca2.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Olive Klug",
+              "url": "https://genius.com/artists/Olive-klug"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    }
+  ]
+}

@@ -1,0 +1,3489 @@
+{
+  "artist_name": "Palehound",
+  "spotify_id": "4AgusFXPk24LCGMMplX34M",
+  "songs": [
+    {
+      "spotify_id": "1W9lPqClDs0J5ZCCUFjy5K",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 2,
+        "api_path": "/songs/2326976",
+        "artist_names": "Palehound",
+        "full_title": "Cinnamon by\u00a0Palehound",
+        "header_image_thumbnail_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.1000x1000x1.jpg",
+        "id": 2326976,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 2279578,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1609996165,
+        "path": "/Palehound-cinnamon-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Palehound-cinnamon-sample",
+        "release_date_components": {
+          "year": 2015,
+          "month": 8,
+          "day": 14
+        },
+        "release_date_for_display": "August 14, 2015",
+        "release_date_with_abbreviated_month_for_display": "Aug. 14, 2015",
+        "song_art_image_thumbnail_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 2,
+          "hot": false,
+          "pageviews": 12026
+        },
+        "title": "Cinnamon",
+        "title_with_featured": "Cinnamon",
+        "updated_by_human_at": 1660161948,
+        "url": "https://genius.com/Palehound-cinnamon-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/554950",
+          "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+          "id": 554950,
+          "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+          "index_character": "p",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Palehound",
+          "slug": "Palehound",
+          "url": "https://genius.com/artists/Palehound",
+          "iq": 100
+        },
+        "artist": "Palehound",
+        "lyrics": "Cinnamon Lyrics[Verse 1]\nFiending, peeking at the centerfolds\nCutting tinsel into gold\nAnd hoping you won\u2019t love me still\n\n[Verse 2]\nMellow, cringy ugly fellows\nMixing water into gin\nAnd chasing it with cinnamon\n\n[Chorus]\nOh my God\nCame down and rocked me, oh\n[Verse 3]\nMarksman, shooting apples off of heads\nJonesing for a cigarette\nWith sloppy shots on purpose\n\n[Verse 4]\nKeeping tabs on all my scrimmages\nAnd crossing out my closest friends\nFor someone I can\u2019t recommend\n\n[Chorus]\nOh my God\nCame down and rocked me, oh\n\n[Outro]\nDon\u2019t call it a ghost to my own\nOh, hoo\nGod called my life a pretty life\nIt made me cry\nLike oh, hooYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 2,
+          "api_path": "/songs/2326976",
+          "apple_music_id": "1438771728",
+          "apple_music_player_url": "https://genius.com/songs/2326976/apple_music_player",
+          "artist_names": "Palehound",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_2326976' class='rg_embed_link' data-song-id='2326976'>Read <a href='https://genius.com/Palehound-cinnamon-lyrics'>\u201cCinnamon\u201d by Palehound</a> on Genius</div> <script crossorigin src='//genius.com/songs/2326976/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Cinnamon by\u00a0Palehound",
+          "header_image_thumbnail_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.1000x1000x1.jpg",
+          "id": 2326976,
+          "language": "en",
+          "lyrics_owner_id": 2279578,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Palehound-cinnamon-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Palehound-cinnamon-sample",
+          "release_date": "2015-08-14",
+          "release_date_for_display": "August 14, 2015",
+          "release_date_with_abbreviated_month_for_display": "Aug. 14, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 6,
+            "iq_earners": 4,
+            "transcribers": 4,
+            "unreviewed_annotations": 2,
+            "verified_annotations": 0,
+            "hot": false,
+            "pageviews": 12026
+          },
+          "title": "Cinnamon",
+          "title_with_featured": "Cinnamon",
+          "url": "https://genius.com/Palehound-cinnamon-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "see_pageviews",
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/260717",
+            "cover_art_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.1000x1000x1.jpg",
+            "full_title": "Dry Food by Palehound",
+            "id": 260717,
+            "name": "Dry Food",
+            "release_date_for_display": "August 14, 2015",
+            "url": "https://genius.com/albums/Palehound/Dry-food",
+            "artist": {
+              "api_path": "/artists/554950",
+              "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "id": 554950,
+              "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Palehound",
+              "url": "https://genius.com/artists/Palehound",
+              "iq": 100
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Label",
+              "artists": [
+                {
+                  "api_path": "/artists/1819640",
+                  "header_image_url": "https://images.genius.com/ce07f83d80cc171fc09974d8c128838e.975x180x1.png",
+                  "id": 1819640,
+                  "image_url": "https://images.genius.com/b7b9969babfc7d8c8eb022f4981651b3.800x800x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Exploding in Sound Records",
+                  "url": "https://genius.com/artists/Exploding-in-sound-records"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 2279578,
+            "annotator_login": "OG-Shy-Charlie",
+            "api_path": "/referents/7948022",
+            "classification": "needs_exegesis",
+            "fragment": "Cinnamon",
+            "id": 7948022,
+            "is_description": true,
+            "path": "/7948022/Palehound-cinnamon/Cinnamon",
+            "range": {
+              "content": "Cinnamon"
+            },
+            "song_id": 2326976,
+            "url": "https://genius.com/7948022/Palehound-cinnamon/Cinnamon",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/2326976",
+              "client_timestamps": {
+                "updated_by_human_at": 1660161948,
+                "lyrics_updated_at": 1609996165
+              },
+              "context": "Palehound",
+              "id": 2326976,
+              "image_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.1000x1000x1.jpg",
+              "link_title": "Cinnamon by\u00a0Palehound",
+              "title": "Cinnamon",
+              "type": "Song",
+              "url": "https://genius.com/Palehound-cinnamon-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/7948022",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 7948022,
+                "pinned": false,
+                "share_url": "https://genius.com/7948022",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/7948022/Palehound-cinnamon/Cinnamon",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/2279578",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.rapgenius.com/avatars/tiny/df579221fbb032d87cd846122d641b47",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.rapgenius.com/avatars/thumb/df579221fbb032d87cd846122d641b47",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.rapgenius.com/avatars/small/df579221fbb032d87cd846122d641b47",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.rapgenius.com/avatars/medium/df579221fbb032d87cd846122d641b47",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.rapgenius.com/avatars/medium/df579221fbb032d87cd846122d641b47",
+                      "human_readable_role_for_display": null,
+                      "id": 2279578,
+                      "iq": 246,
+                      "login": "OG-Shy-Charlie",
+                      "name": "OG-Shy-Charlie",
+                      "role_for_display": null,
+                      "url": "https://genius.com/OG-Shy-Charlie",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=kfGfGpH7GJQ"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/554950",
+            "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+            "id": 554950,
+            "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Palehound",
+            "url": "https://genius.com/artists/Palehound",
+            "iq": 100
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/674624",
+              "header_image_url": "https://images.genius.com/597726a3878ac793a3c04dca478198fe.761x761x1.jpg",
+              "id": 674624,
+              "image_url": "https://images.genius.com/597726a3878ac793a3c04dca478198fe.761x761x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gabe Wax",
+              "url": "https://genius.com/artists/Gabe-wax"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1166007",
+              "header_image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "id": 1166007,
+              "image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ellen Kempner",
+              "url": "https://genius.com/artists/Ellen-kempner"
+            }
+          ]
+        }
+      },
+      "annotations": [
+        [
+          "Cutting tinsel into gold\n And hoping you won\u2019t love me still",
+          [
+            [
+              "\u2018Cutting tinsel into gold\u2019 as a relationship metaphor is Ellen knowingly looking at things in a very forgiving light. She knows her love isn\u2019t \u2018gold\u2019, just an imitation of it, however she chooses to believe that it\u2019s the real thing.\n\nThis is why she hopes her lover will stop loving her, because she is not strong enough to leave on her own and will make excuses to paint things in the best possible light."
+            ]
+          ]
+        ],
+        [
+          "God called my life a pretty life\n It made me cry",
+          [
+            [
+              "Despite being objectively aware that she isn\u2019t being treated well, Ellen presumably stays with this love interest because they(referred to as God) makes her feel seen.\n\n\u2018It made me cry\u2019 speaks to the weight of how special it feels to be appreciated and loved by someone, and that isn\u2019t a feeling she is willing to give up."
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "spotify_id": "3l7NAes5qqZu1KuugXUkWE",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/3374954",
+        "artist_names": "Palehound",
+        "full_title": "Pet Carrot by\u00a0Palehound",
+        "header_image_thumbnail_url": "https://images.genius.com/af684f41196fbbf8d4c5f3ba7b3d06b1.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/af684f41196fbbf8d4c5f3ba7b3d06b1.700x700x1.jpg",
+        "id": 3374954,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 5265591,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1513461138,
+        "path": "/Palehound-pet-carrot-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Palehound-pet-carrot-sample",
+        "release_date_components": {
+          "year": 2013,
+          "month": 10,
+          "day": 22
+        },
+        "release_date_for_display": "October 22, 2013",
+        "release_date_with_abbreviated_month_for_display": "Oct. 22, 2013",
+        "song_art_image_thumbnail_url": "https://images.genius.com/af684f41196fbbf8d4c5f3ba7b3d06b1.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/af684f41196fbbf8d4c5f3ba7b3d06b1.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Pet Carrot",
+        "title_with_featured": "Pet Carrot",
+        "updated_by_human_at": 1513461138,
+        "url": "https://genius.com/Palehound-pet-carrot-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/554950",
+          "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+          "id": 554950,
+          "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+          "index_character": "p",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Palehound",
+          "slug": "Palehound",
+          "url": "https://genius.com/artists/Palehound",
+          "iq": 100
+        },
+        "artist": "Palehound",
+        "lyrics": "Pet Carrot LyricsI've got a pet carrot\nMy best friend is a parrot\nAnd I say things that he don't mind\nSo he say things that he don't mind\n\nTattooed and on merit\nMy best friend is a parrot\nAnd I say things that he don't mind\nYeah he say things that he don't mind\n\nSet some knuckle space away from this\nSet some knuckle said away from this\nMy heart a beginner\nMy true love was a sinner\nAnd she said things that she don't mind\nYeah I said things that she don't mind\n\nAnd bundled up in summer\nMy true love was a bummer\nAnd he said things that he don't mind\nYeah I said things that he don't mind\n\nSet some knuckle space away from this\nSet some knuckle said away from this\nFrom this, from this, from thisYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/3374954",
+          "apple_music_id": "1438773098",
+          "apple_music_player_url": "https://genius.com/songs/3374954/apple_music_player",
+          "artist_names": "Palehound",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_3374954' class='rg_embed_link' data-song-id='3374954'>Read <a href='https://genius.com/Palehound-pet-carrot-lyrics'>\u201cPet Carrot\u201d by Palehound</a> on Genius</div> <script crossorigin src='//genius.com/songs/3374954/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Pet Carrot by\u00a0Palehound",
+          "header_image_thumbnail_url": "https://images.genius.com/af684f41196fbbf8d4c5f3ba7b3d06b1.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/af684f41196fbbf8d4c5f3ba7b3d06b1.700x700x1.jpg",
+          "id": 3374954,
+          "language": "en",
+          "lyrics_owner_id": 5265591,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Palehound-pet-carrot-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Palehound-pet-carrot-sample",
+          "release_date": "2013-10-22",
+          "release_date_for_display": "October 22, 2013",
+          "release_date_with_abbreviated_month_for_display": "Oct. 22, 2013",
+          "song_art_image_thumbnail_url": "https://images.genius.com/af684f41196fbbf8d4c5f3ba7b3d06b1.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/af684f41196fbbf8d4c5f3ba7b3d06b1.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Pet Carrot",
+          "title_with_featured": "Pet Carrot",
+          "url": "https://genius.com/Palehound-pet-carrot-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/387767",
+            "cover_art_url": "https://images.genius.com/af684f41196fbbf8d4c5f3ba7b3d06b1.700x700x1.jpg",
+            "full_title": "Bent Nail EP by Palehound",
+            "id": 387767,
+            "name": "Bent Nail EP",
+            "release_date_for_display": "October 22, 2013",
+            "url": "https://genius.com/albums/Palehound/Bent-nail-ep",
+            "artist": {
+              "api_path": "/artists/554950",
+              "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "id": 554950,
+              "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Palehound",
+              "url": "https://genius.com/artists/Palehound",
+              "iq": 100
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 5265591,
+            "annotator_login": "bergamotperfume",
+            "api_path": "/referents/13285740",
+            "classification": "needs_exegesis",
+            "fragment": "Pet Carrot",
+            "id": 13285740,
+            "is_description": true,
+            "path": "/13285740/Palehound-pet-carrot/Pet-carrot",
+            "range": {
+              "content": "Pet Carrot"
+            },
+            "song_id": 3374954,
+            "url": "https://genius.com/13285740/Palehound-pet-carrot/Pet-carrot",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3374954",
+              "client_timestamps": {
+                "updated_by_human_at": 1513461138,
+                "lyrics_updated_at": 1513461138
+              },
+              "context": "Palehound",
+              "id": 3374954,
+              "image_url": "https://images.genius.com/af684f41196fbbf8d4c5f3ba7b3d06b1.700x700x1.jpg",
+              "link_title": "Pet Carrot by\u00a0Palehound",
+              "title": "Pet Carrot",
+              "type": "Song",
+              "url": "https://genius.com/Palehound-pet-carrot-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/13285740",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 13285740,
+                "pinned": false,
+                "share_url": "https://genius.com/13285740",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/13285740/Palehound-pet-carrot/Pet-carrot",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/5265591",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 5265591,
+                      "iq": 26326,
+                      "login": "bergamotperfume",
+                      "name": "bergamotperfume",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/bergamotperfume",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/554950",
+            "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+            "id": 554950,
+            "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Palehound",
+            "url": "https://genius.com/artists/Palehound",
+            "iq": 100
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "0q6CCPPfOVrpXlhd92wnGh",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6446785",
+        "artist_names": "Palehound",
+        "full_title": "How Long by\u00a0Palehound",
+        "header_image_thumbnail_url": "https://images.genius.com/ad3d24ea4079d5567abe9069734e70e6.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/ad3d24ea4079d5567abe9069734e70e6.1000x1000x1.jpg",
+        "id": 6446785,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 2990287,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1614294120,
+        "path": "/Palehound-how-long-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Palehound-how-long-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 2,
+          "day": 2
+        },
+        "release_date_for_display": "February 2, 2021",
+        "release_date_with_abbreviated_month_for_display": "Feb. 2, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/ad3d24ea4079d5567abe9069734e70e6.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/ad3d24ea4079d5567abe9069734e70e6.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "How Long",
+        "title_with_featured": "How Long",
+        "updated_by_human_at": 1614294120,
+        "url": "https://genius.com/Palehound-how-long-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/554950",
+          "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+          "id": 554950,
+          "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+          "index_character": "p",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Palehound",
+          "slug": "Palehound",
+          "url": "https://genius.com/artists/Palehound",
+          "iq": 100
+        },
+        "artist": "Palehound",
+        "lyrics": "How Long LyricsMelissa floats on her back\nExhales into that marble sky\nThree months of cops and blacktops\nTurn to air with every sigh\n\nWe're spitting pits into the grass now\nHow long can a sweetness last now\nHow long 'til this is the past we can't believe we're looking back on?\n\nSomeone screams, \"A water snake!\"\nIt's slicing the skin of the lake\nWith many others in its wake\nHow many were there?\nI can't say\nWe strip our suits off for the day\nHow long can a sweetness stay?\nHow long 'til we look back and say\nWe can't believe we lived that way?\n\nThe storm corrals us to our cars\nLik\u0435 a wet jaw snapping herding dog\nWith a crack, the lightning starts\nAnd bits of hail bounc\u0435 off the tar\n\nWe're driving cringing with every pelt\nHow long 'til a sweetness melts?\nHow long 'til there rings a bell?\nHow long 'til there rings a bell?\nHow long 'til there rings a bell\nThat signals us?\nReturn from hellYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6446785",
+          "apple_music_id": "1549129358",
+          "apple_music_player_url": "https://genius.com/songs/6446785/apple_music_player",
+          "artist_names": "Palehound",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6446785' class='rg_embed_link' data-song-id='6446785'>Read <a href='https://genius.com/Palehound-how-long-lyrics'>\u201cHow Long\u201d by Palehound</a> on Genius</div> <script crossorigin src='//genius.com/songs/6446785/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "How Long by\u00a0Palehound",
+          "header_image_thumbnail_url": "https://images.genius.com/ad3d24ea4079d5567abe9069734e70e6.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/ad3d24ea4079d5567abe9069734e70e6.1000x1000x1.jpg",
+          "id": 6446785,
+          "language": "en",
+          "lyrics_owner_id": 2990287,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Palehound-how-long-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Palehound-how-long-sample",
+          "release_date": "2021-02-02",
+          "release_date_for_display": "February 2, 2021",
+          "release_date_with_abbreviated_month_for_display": "Feb. 2, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/ad3d24ea4079d5567abe9069734e70e6.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/ad3d24ea4079d5567abe9069734e70e6.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "How Long",
+          "title_with_featured": "How Long",
+          "url": "https://genius.com/Palehound-how-long-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 2990287,
+            "annotator_login": "joblez",
+            "api_path": "/referents/22068079",
+            "classification": "needs_exegesis",
+            "fragment": "How Long",
+            "id": 22068079,
+            "is_description": true,
+            "path": "/22068079/Palehound-how-long/How-long",
+            "range": {
+              "content": "How Long"
+            },
+            "song_id": 6446785,
+            "url": "https://genius.com/22068079/Palehound-how-long/How-long",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6446785",
+              "client_timestamps": {
+                "updated_by_human_at": 1614294120,
+                "lyrics_updated_at": 1614294120
+              },
+              "context": "Palehound",
+              "id": 6446785,
+              "image_url": "https://images.genius.com/ad3d24ea4079d5567abe9069734e70e6.1000x1000x1.jpg",
+              "link_title": "How Long by\u00a0Palehound",
+              "title": "How Long",
+              "type": "Song",
+              "url": "https://genius.com/Palehound-how-long-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22068079",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22068079,
+                "pinned": false,
+                "share_url": "https://genius.com/22068079",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22068079/Palehound-how-long/How-long",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/2990287",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/80f4417f978d183e2fee2e2cf200165a",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/80f4417f978d183e2fee2e2cf200165a",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/80f4417f978d183e2fee2e2cf200165a",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/80f4417f978d183e2fee2e2cf200165a",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/80f4417f978d183e2fee2e2cf200165a",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 2990287,
+                      "iq": 25367,
+                      "login": "joblez",
+                      "name": "joblez",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/joblez",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=qqw04bE4_lY"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/554950",
+            "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+            "id": 554950,
+            "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Palehound",
+            "url": "https://genius.com/artists/Palehound",
+            "iq": 100
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "0tmN80qulLdyHOZDBS2gzV",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/3011275",
+        "artist_names": "Palehound",
+        "full_title": "Dry Food by\u00a0Palehound",
+        "header_image_thumbnail_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.1000x1000x1.jpg",
+        "id": 3011275,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 930466,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1488665061,
+        "path": "/Palehound-dry-food-lyrics",
+        "pyongs_count": 2,
+        "relationships_index_url": "https://genius.com/Palehound-dry-food-sample",
+        "release_date_components": {
+          "year": 2015,
+          "month": 8,
+          "day": 14
+        },
+        "release_date_for_display": "August 14, 2015",
+        "release_date_with_abbreviated_month_for_display": "Aug. 14, 2015",
+        "song_art_image_thumbnail_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false,
+          "pageviews": 5144
+        },
+        "title": "Dry Food",
+        "title_with_featured": "Dry Food",
+        "updated_by_human_at": 1660161938,
+        "url": "https://genius.com/Palehound-dry-food-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/554950",
+          "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+          "id": 554950,
+          "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+          "index_character": "p",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Palehound",
+          "slug": "Palehound",
+          "url": "https://genius.com/artists/Palehound",
+          "iq": 100
+        },
+        "artist": "Palehound",
+        "lyrics": "Dry Food LyricsPlopped on a hinge, screwed in tight\nRusted and bony, for you, at night\nBut I'm over it, over it\nOh I'm over it\n\nBought me a pet, to compromise\nTo fatten with dry food, beans and rice\nAnd he's a-okay say okay\nOh he's a-okay\n\nOh\n'Cause you made beauty a monster to me\nYou made beauty a monster to me\nYou made beauty a monster to me\nSo I'm kissing all the ugly things I see\n\nNever a day, to spend on me\nTo bathe in the sun and, read magazines\nBut I'm over it, over it\nOh I'm over it\n\n'Cause you made beauty a monster to me\nYou made beauty a monster to me\nYou made beauty a monster to me\nSo I'm kissing all the ugly things I see\nOh oh\nOh I'm kissing all the ugly things I see\nOh oh\nOh I'm kissing all the ugly things I see\nOh oh\nOh I'm nursing all the ugly babiesYou might also like2Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/3011275",
+          "apple_music_id": "1438771729",
+          "apple_music_player_url": "https://genius.com/songs/3011275/apple_music_player",
+          "artist_names": "Palehound",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_3011275' class='rg_embed_link' data-song-id='3011275'>Read <a href='https://genius.com/Palehound-dry-food-lyrics'>\u201cDry Food\u201d by Palehound</a> on Genius</div> <script crossorigin src='//genius.com/songs/3011275/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Dry Food by\u00a0Palehound",
+          "header_image_thumbnail_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.1000x1000x1.jpg",
+          "id": 3011275,
+          "language": "en",
+          "lyrics_owner_id": 930466,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Palehound-dry-food-lyrics",
+          "pyongs_count": 2,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Palehound-dry-food-sample",
+          "release_date": "2015-08-14",
+          "release_date_for_display": "August 14, 2015",
+          "release_date_with_abbreviated_month_for_display": "Aug. 14, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 5,
+            "iq_earners": 5,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false,
+            "pageviews": 5144
+          },
+          "title": "Dry Food",
+          "title_with_featured": "Dry Food",
+          "url": "https://genius.com/Palehound-dry-food-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "see_pageviews",
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/260717",
+            "cover_art_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.1000x1000x1.jpg",
+            "full_title": "Dry Food by Palehound",
+            "id": 260717,
+            "name": "Dry Food",
+            "release_date_for_display": "August 14, 2015",
+            "url": "https://genius.com/albums/Palehound/Dry-food",
+            "artist": {
+              "api_path": "/artists/554950",
+              "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "id": 554950,
+              "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Palehound",
+              "url": "https://genius.com/artists/Palehound",
+              "iq": 100
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Label",
+              "artists": [
+                {
+                  "api_path": "/artists/1819640",
+                  "header_image_url": "https://images.genius.com/ce07f83d80cc171fc09974d8c128838e.975x180x1.png",
+                  "id": 1819640,
+                  "image_url": "https://images.genius.com/b7b9969babfc7d8c8eb022f4981651b3.800x800x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Exploding in Sound Records",
+                  "url": "https://genius.com/artists/Exploding-in-sound-records"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 930466,
+            "annotator_login": "MCSMeister",
+            "api_path": "/referents/11453115",
+            "classification": "needs_exegesis",
+            "fragment": "Dry Food",
+            "id": 11453115,
+            "is_description": true,
+            "path": "/11453115/Palehound-dry-food/Dry-food",
+            "range": {
+              "content": "Dry Food"
+            },
+            "song_id": 3011275,
+            "url": "https://genius.com/11453115/Palehound-dry-food/Dry-food",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3011275",
+              "client_timestamps": {
+                "updated_by_human_at": 1660161938,
+                "lyrics_updated_at": 1488665061
+              },
+              "context": "Palehound",
+              "id": 3011275,
+              "image_url": "https://images.genius.com/bbaaa88660dfd3330d92ad4414cd3930.1000x1000x1.jpg",
+              "link_title": "Dry Food by\u00a0Palehound",
+              "title": "Dry Food",
+              "type": "Song",
+              "url": "https://genius.com/Palehound-dry-food-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/11453115",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 11453115,
+                "pinned": false,
+                "share_url": "https://genius.com/11453115",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/11453115/Palehound-dry-food/Dry-food",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/930466",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/9fa6c2fb22fbd3b2e74ab0633abb9730",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/9fa6c2fb22fbd3b2e74ab0633abb9730",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/9fa6c2fb22fbd3b2e74ab0633abb9730",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/9fa6c2fb22fbd3b2e74ab0633abb9730",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/9fa6c2fb22fbd3b2e74ab0633abb9730",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 930466,
+                      "iq": 1168251,
+                      "login": "MCSMeister",
+                      "name": "MCSMeister",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/MCSMeister",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=PCcTID43_pw"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/554950",
+            "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+            "id": 554950,
+            "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Palehound",
+            "url": "https://genius.com/artists/Palehound",
+            "iq": 100
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/674624",
+              "header_image_url": "https://images.genius.com/597726a3878ac793a3c04dca478198fe.761x761x1.jpg",
+              "id": 674624,
+              "image_url": "https://images.genius.com/597726a3878ac793a3c04dca478198fe.761x761x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gabe Wax",
+              "url": "https://genius.com/artists/Gabe-wax"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1166007",
+              "header_image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "id": 1166007,
+              "image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ellen Kempner",
+              "url": "https://genius.com/artists/Ellen-kempner"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "3vht64p1on5539K7GA2NHs",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 6,
+        "api_path": "/songs/3139212",
+        "artist_names": "Palehound",
+        "full_title": "Feeling Fruit by\u00a0Palehound",
+        "header_image_thumbnail_url": "https://images.genius.com/dbe06d225b0db6de962b9a5dca3f5574.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/dbe06d225b0db6de962b9a5dca3f5574.1000x1000x1.jpg",
+        "id": 3139212,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 3152005,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1674393938,
+        "path": "/Palehound-feeling-fruit-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Palehound-feeling-fruit-sample",
+        "release_date_components": {
+          "year": 2017,
+          "month": 6,
+          "day": 16
+        },
+        "release_date_for_display": "June 16, 2017",
+        "release_date_with_abbreviated_month_for_display": "Jun. 16, 2017",
+        "song_art_image_thumbnail_url": "https://images.genius.com/dbe06d225b0db6de962b9a5dca3f5574.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/dbe06d225b0db6de962b9a5dca3f5574.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 6,
+          "hot": false
+        },
+        "title": "Feeling Fruit",
+        "title_with_featured": "Feeling Fruit",
+        "updated_by_human_at": 1674393938,
+        "url": "https://genius.com/Palehound-feeling-fruit-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/554950",
+          "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+          "id": 554950,
+          "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+          "index_character": "p",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Palehound",
+          "slug": "Palehound",
+          "url": "https://genius.com/artists/Palehound",
+          "iq": 100
+        },
+        "artist": "Palehound",
+        "lyrics": "Feeling Fruit LyricsWednesday's almost closing\nAnd I'm at the grocery store\nI am at the grocery store\nAfter weeks of frozen meals\nI am in the produce aisle\nAnd I'm feeling all the fruits\nI am feeling all the fruits\nEvery wormhole, every bruise\n\n[Chorus]\n'Cause I'm stuck with the weight you gave up\nWhen the night is crowded\nI can only see your face\nI can only see your face\nOn a stranger's healthy frame\nI can't bear your fingers drumming\nAnd I'm feeling all the words\nI am feeling all your words\nAnd the monster in your bones\n\n[Chorus]\n'Cause I'm stuck with the weight you gave up\nI am stuck with the weight you gave up\nI am stuck with the weight you gave upYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 6,
+          "api_path": "/songs/3139212",
+          "apple_music_id": "1220883599",
+          "apple_music_player_url": "https://genius.com/songs/3139212/apple_music_player",
+          "artist_names": "Palehound",
+          "description": {
+            "plain": "The song is about reflecting on the loss of somebody close, and how that weight can manifest at any time. In this song, the produce aisle of a grocery store."
+          },
+          "embed_content": "<div id='rg_embed_link_3139212' class='rg_embed_link' data-song-id='3139212'>Read <a href='https://genius.com/Palehound-feeling-fruit-lyrics'>\u201cFeeling Fruit\u201d by Palehound</a> on Genius</div> <script crossorigin src='//genius.com/songs/3139212/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Feeling Fruit by\u00a0Palehound",
+          "header_image_thumbnail_url": "https://images.genius.com/dbe06d225b0db6de962b9a5dca3f5574.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/dbe06d225b0db6de962b9a5dca3f5574.1000x1000x1.jpg",
+          "id": 3139212,
+          "language": "en",
+          "lyrics_owner_id": 3152005,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Palehound-feeling-fruit-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Palehound-feeling-fruit-sample",
+          "release_date": "2017-06-16",
+          "release_date_for_display": "June 16, 2017",
+          "release_date_with_abbreviated_month_for_display": "Jun. 16, 2017",
+          "song_art_image_thumbnail_url": "https://images.genius.com/dbe06d225b0db6de962b9a5dca3f5574.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/dbe06d225b0db6de962b9a5dca3f5574.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 1,
+            "unreviewed_annotations": 6,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Feeling Fruit",
+          "title_with_featured": "Feeling Fruit",
+          "url": "https://genius.com/Palehound-feeling-fruit-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/345398",
+            "cover_art_url": "https://images.genius.com/dbe06d225b0db6de962b9a5dca3f5574.1000x1000x1.jpg",
+            "full_title": "A Place I'll Always Go by Palehound",
+            "id": 345398,
+            "name": "A Place I\u2019ll Always Go",
+            "release_date_for_display": "May 16, 2017",
+            "url": "https://genius.com/albums/Palehound/A-place-i-ll-always-go",
+            "artist": {
+              "api_path": "/artists/554950",
+              "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "id": 554950,
+              "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Palehound",
+              "url": "https://genius.com/artists/Palehound",
+              "iq": 100
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 1701583,
+            "annotator_login": "TheMusicLiker",
+            "api_path": "/referents/12253054",
+            "classification": "unreviewed",
+            "fragment": "Feeling Fruit",
+            "id": 12253054,
+            "is_description": true,
+            "path": "/12253054/Palehound-feeling-fruit/Feeling-fruit",
+            "range": {
+              "content": "Feeling Fruit"
+            },
+            "song_id": 3139212,
+            "url": "https://genius.com/12253054/Palehound-feeling-fruit/Feeling-fruit",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3139212",
+              "client_timestamps": {
+                "updated_by_human_at": 1674393938,
+                "lyrics_updated_at": 1674393938
+              },
+              "context": "Palehound",
+              "id": 3139212,
+              "image_url": "https://images.genius.com/dbe06d225b0db6de962b9a5dca3f5574.1000x1000x1.jpg",
+              "link_title": "Feeling Fruit by\u00a0Palehound",
+              "title": "Feeling Fruit",
+              "type": "Song",
+              "url": "https://genius.com/Palehound-feeling-fruit-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/12253054",
+                "body": {
+                  "plain": "The song is about reflecting on the loss of somebody close, and how that weight can manifest at any time. In this song, the produce aisle of a grocery store."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 12253054,
+                "pinned": false,
+                "share_url": "https://genius.com/12253054",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/12253054/Palehound-feeling-fruit/Feeling-fruit",
+                "verified": false,
+                "votes_total": 3,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/1701583",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://assets.genius.com/images/default_avatar_16.png?1680031929",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://assets.genius.com/images/default_avatar_32.png?1680031929",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://assets.genius.com/images/default_avatar_100.png?1680031929",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 1701583,
+                      "iq": 449,
+                      "login": "TheMusicLiker",
+                      "name": "TheMusicLiker",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/TheMusicLiker",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/554950",
+            "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+            "id": 554950,
+            "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Palehound",
+            "url": "https://genius.com/artists/Palehound",
+            "iq": 100
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1166007",
+              "header_image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "id": 1166007,
+              "image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ellen Kempner",
+              "url": "https://genius.com/artists/Ellen-kempner"
+            }
+          ]
+        }
+      },
+      "annotations": [
+        [
+          "I can\u2019t bear your fingers drumming\n And I\u2019m feeling all the words\n I am feeling all your words\n And the monster in your bones",
+          [
+            [
+              "Palehound feels berated by their mother, with each word, each movement, being something that they need to defend themselves against. The drumming, the words\u2026 they all act as weapons of the eating disorder, the \u201cmonster.\u201d\n\n\n\nPalehound uses \u201cbones\u201d to connect again to the subject of \u201cFeeling Fruit\u201d: thinness as it relates to the psychological damage perpetrated by eating disorders and diet culture altogether. Additionally, how this disease is perpetuated by parents onto their children (with a potential focus on mother-daughter dynamics/expectations of girlhood)."
+            ]
+          ]
+        ],
+        [
+          "I am in the produce aisle\n And I\u2019m feeling all the fruits\n I am feeling all the fruits\n Every wormhole, every bruise",
+          [
+            [
+              "People can become permanently scarred and damaged \u2013 much like the fruits."
+            ]
+          ]
+        ],
+        [
+          "When the night is crowded\n I can only see your face\n I can only see your face\n On a stranger\u2019s healthy frame",
+          [
+            [
+              "The loss of this person is consuming her mind \u2013 she is longing for them to be alive and healthy again."
+            ]
+          ]
+        ],
+        [
+          "\u2019Cause I\u2019m stuck with the weight you gave up",
+          [
+            [
+              "The loved one had likely died from an illness \u2013 and lost a lot of weight in the process. She compares this physical weight with the emotional weight of dealing with the loss."
+            ]
+          ]
+        ],
+        [
+          "I am at the grocery store\n After weeks of frozen meals",
+          [
+            [
+              "She has been depressed after losing this person and has not been eating healthy or taking care of herself."
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "spotify_id": "28Dky5iUVzlW7ME2uA8j6t",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6736338",
+        "artist_names": "Bachelor, Jay Som & Palehound",
+        "full_title": "Sick of Spiraling by\u00a0Bachelor,\u00a0Jay Som & Palehound",
+        "header_image_thumbnail_url": "https://images.genius.com/962d0ef4161b3142ec4297471ac21306.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/962d0ef4161b3142ec4297471ac21306.1000x1000x1.jpg",
+        "id": 6736338,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 4921876,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1619366237,
+        "path": "/Bachelor-jay-som-and-palehound-sick-of-spiraling-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Bachelor-jay-som-and-palehound-sick-of-spiraling-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 4,
+          "day": 23
+        },
+        "release_date_for_display": "April 23, 2021",
+        "release_date_with_abbreviated_month_for_display": "Apr. 23, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/962d0ef4161b3142ec4297471ac21306.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/962d0ef4161b3142ec4297471ac21306.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Sick of Spiraling",
+        "title_with_featured": "Sick of Spiraling",
+        "updated_by_human_at": 1661630951,
+        "url": "https://genius.com/Bachelor-jay-som-and-palehound-sick-of-spiraling-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2702097",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+          "id": 2702097,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+          "index_character": "b",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Bachelor, Jay Som & Palehound",
+          "slug": "Bachelor-jay-som-and-palehound",
+          "url": "https://genius.com/artists/Bachelor-jay-som-and-palehound"
+        },
+        "artist": "Bachelor, Jay Som & Palehound",
+        "lyrics": "Sick of Spiraling Lyrics[Verse 1]\nWalking alone at night\nClutching a cheap gas station knife\nLove, the danger is in the car\nWho couldn't see me? It was too dark\nAs the brakes slam to the floor\nMissing me just inches\u205fshort\nI\u205fthought,\u205f\"If I can't\u205fhave my own\u205fback\nHow the fuck can I have yours?\"\n\n[Chorus]\nYou are a braving light in a world so dark\nAnd I'm sick of spiraling out and I need your touch to stop\nYou are a braving light in a world so dark\nAnd I'm scared out of my mind and I need your love\nOh, I need your love\n[Verse 2]\nDriving on to the next town\nKeeping the rubber side down\nBut the danger is in my phone\nIn the drug of an endless scroll\nCall you back at the roadside\nYou say you're staying in tonight, you're crying\nIf you can't have your own back\nHow the fuck can you have mine?\n\n[Chorus]\nYou are a braving light in a world so dark\nAnd I'm sick of spiraling out and I need your touch to stop\nYou are a braving light in a world so dark\nAnd I'm scared out of my mind and I need your love\nOh, I need your love\n\n[Instrumental Break]\n\n[Chorus]\nYou are a braving light in a world so dark\nAnd I'm sick of spiraling out and I need your touch to stop\nYou are a braving light in a world so dark\nAnd I'm scared out of my mind and I need your love\nOh, I need your love\nYou might also like[Outro]\nYour love\nYour love\nYour loveEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6736338",
+          "apple_music_id": "1556124454",
+          "apple_music_player_url": "https://genius.com/songs/6736338/apple_music_player",
+          "artist_names": "Bachelor, Jay Som & Palehound",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6736338' class='rg_embed_link' data-song-id='6736338'>Read <a href='https://genius.com/Bachelor-jay-som-and-palehound-sick-of-spiraling-lyrics'>\u201cSick of Spiraling\u201d by Bachelor,\u00a0Jay Som & Palehound</a> on Genius</div> <script crossorigin src='//genius.com/songs/6736338/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Sick of Spiraling by\u00a0Bachelor,\u00a0Jay Som & Palehound",
+          "header_image_thumbnail_url": "https://images.genius.com/962d0ef4161b3142ec4297471ac21306.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/962d0ef4161b3142ec4297471ac21306.1000x1000x1.jpg",
+          "id": 6736338,
+          "language": "en",
+          "lyrics_owner_id": 4921876,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Bachelor-jay-som-and-palehound-sick-of-spiraling-lyrics",
+          "pyongs_count": null,
+          "recording_location": "Topanga, California",
+          "relationships_index_url": "https://genius.com/Bachelor-jay-som-and-palehound-sick-of-spiraling-sample",
+          "release_date": "2021-04-23",
+          "release_date_for_display": "April 23, 2021",
+          "release_date_with_abbreviated_month_for_display": "Apr. 23, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/962d0ef4161b3142ec4297471ac21306.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/962d0ef4161b3142ec4297471ac21306.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 4,
+            "iq_earners": 4,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Sick of Spiraling",
+          "title_with_featured": "Sick of Spiraling",
+          "url": "https://genius.com/Bachelor-jay-som-and-palehound-sick-of-spiraling-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/751360",
+            "cover_art_url": "https://images.genius.com/00849b722a660a7b6fdb31c1b9845aa6.1000x1000x1.jpg",
+            "full_title": "Doomin\u2019 Sun by Bachelor",
+            "id": 751360,
+            "name": "Doomin\u2019 Sun",
+            "release_date_for_display": "May 28, 2021",
+            "url": "https://genius.com/albums/Bachelor/Doomin-sun",
+            "artist": {
+              "api_path": "/artists/990857",
+              "header_image_url": "https://images.genius.com/70773cefd7e5351846fe009227f7f9f1.1000x1000x1.jpg",
+              "id": 990857,
+              "image_url": "https://images.genius.com/70773cefd7e5351846fe009227f7f9f1.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Bachelor",
+              "url": "https://genius.com/artists/Bachelor"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Mastering Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1007498",
+                  "header_image_url": "https://images.genius.com/36525c3e624996f3542a812a29cf86ce.1000x185x1.png",
+                  "id": 1007498,
+                  "image_url": "https://images.genius.com/845715caf2987833f3b63a48b7c5e051.234x234x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Heba Kadry",
+                  "url": "https://genius.com/artists/Heba-kadry"
+                }
+              ]
+            },
+            {
+              "label": "Mixing Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1166007",
+                  "header_image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+                  "id": 1166007,
+                  "image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Ellen Kempner",
+                  "url": "https://genius.com/artists/Ellen-kempner"
+                },
+                {
+                  "api_path": "/artists/1024035",
+                  "header_image_url": "https://images.genius.com/81e6785ba86d29871bc0a039cca8f925.1000x667x1.jpg",
+                  "id": 1024035,
+                  "image_url": "https://images.genius.com/f26993d8289267edd99fc264728416e9.492x492x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Melina Duterte",
+                  "url": "https://genius.com/artists/Melina-duterte"
+                }
+              ]
+            },
+            {
+              "label": "Recording Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1166007",
+                  "header_image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+                  "id": 1166007,
+                  "image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Ellen Kempner",
+                  "url": "https://genius.com/artists/Ellen-kempner"
+                },
+                {
+                  "api_path": "/artists/1024035",
+                  "header_image_url": "https://images.genius.com/81e6785ba86d29871bc0a039cca8f925.1000x667x1.jpg",
+                  "id": 1024035,
+                  "image_url": "https://images.genius.com/f26993d8289267edd99fc264728416e9.492x492x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Melina Duterte",
+                  "url": "https://genius.com/artists/Melina-duterte"
+                }
+              ]
+            },
+            {
+              "label": "Guitar",
+              "artists": [
+                {
+                  "api_path": "/artists/1166007",
+                  "header_image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+                  "id": 1166007,
+                  "image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Ellen Kempner",
+                  "url": "https://genius.com/artists/Ellen-kempner"
+                }
+              ]
+            },
+            {
+              "label": "Bass",
+              "artists": [
+                {
+                  "api_path": "/artists/1024035",
+                  "header_image_url": "https://images.genius.com/81e6785ba86d29871bc0a039cca8f925.1000x667x1.jpg",
+                  "id": 1024035,
+                  "image_url": "https://images.genius.com/f26993d8289267edd99fc264728416e9.492x492x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Melina Duterte",
+                  "url": "https://genius.com/artists/Melina-duterte"
+                }
+              ]
+            },
+            {
+              "label": "Vocals",
+              "artists": [
+                {
+                  "api_path": "/artists/1166007",
+                  "header_image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+                  "id": 1166007,
+                  "image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Ellen Kempner",
+                  "url": "https://genius.com/artists/Ellen-kempner"
+                },
+                {
+                  "api_path": "/artists/1024035",
+                  "header_image_url": "https://images.genius.com/81e6785ba86d29871bc0a039cca8f925.1000x667x1.jpg",
+                  "id": 1024035,
+                  "image_url": "https://images.genius.com/f26993d8289267edd99fc264728416e9.492x492x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Melina Duterte",
+                  "url": "https://genius.com/artists/Melina-duterte"
+                }
+              ]
+            },
+            {
+              "label": "Drums",
+              "artists": [
+                {
+                  "api_path": "/artists/1180321",
+                  "header_image_url": "https://images.genius.com/f11a042799086ea9318c7b9dd9af7be2.1000x1000x1.jpg",
+                  "id": 1180321,
+                  "image_url": "https://images.genius.com/f11a042799086ea9318c7b9dd9af7be2.1000x1000x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "James Krivchenia",
+                  "url": "https://genius.com/artists/James-krivchenia"
+                }
+              ]
+            },
+            {
+              "label": "Label",
+              "artists": [
+                {
+                  "api_path": "/artists/1991178",
+                  "header_image_url": "https://images.genius.com/7fef22a15c9bd0673a43904383ad90d4.200x200x1.jpg",
+                  "id": 1991178,
+                  "image_url": "https://images.genius.com/7fef22a15c9bd0673a43904383ad90d4.200x200x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Lucky Number Music",
+                  "url": "https://genius.com/artists/Lucky-number-music"
+                },
+                {
+                  "api_path": "/artists/1164343",
+                  "header_image_url": "https://images.genius.com/2424043a495e7282a3bea9749932f304.700x400x1.jpg",
+                  "id": 1164343,
+                  "image_url": "https://images.genius.com/451efce53ddf2ee797da24e1b2231137.900x900x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Polyvinyl Record Co.",
+                  "url": "https://genius.com/artists/Polyvinyl-record-co"
+                },
+                {
+                  "api_path": "/artists/629736",
+                  "header_image_url": "https://images.genius.com/4a5e77797e50893633e348ee9e4f2b3f.750x497x1.jpg",
+                  "id": 629736,
+                  "image_url": "https://images.genius.com/4a5e77797e50893633e348ee9e4f2b3f.750x497x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Milk! Records",
+                  "url": "https://genius.com/artists/Milk-records"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 104344,
+            "annotator_login": "streetlights",
+            "api_path": "/referents/22818520",
+            "classification": "needs_exegesis",
+            "fragment": "Sick of Spiraling",
+            "id": 22818520,
+            "is_description": true,
+            "path": "/22818520/Bachelor-jay-som-and-palehound-sick-of-spiraling/Sick-of-spiraling",
+            "range": {
+              "content": "Sick of Spiraling"
+            },
+            "song_id": 6736338,
+            "url": "https://genius.com/22818520/Bachelor-jay-som-and-palehound-sick-of-spiraling/Sick-of-spiraling",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6736338",
+              "client_timestamps": {
+                "updated_by_human_at": 1661630951,
+                "lyrics_updated_at": 1619366237
+              },
+              "context": "Bachelor, Jay Som & Palehound",
+              "id": 6736338,
+              "image_url": "https://images.genius.com/962d0ef4161b3142ec4297471ac21306.1000x1000x1.jpg",
+              "link_title": "Sick of Spiraling by\u00a0Bachelor,\u00a0Jay Som & Palehound",
+              "title": "Sick of Spiraling",
+              "type": "Song",
+              "url": "https://genius.com/Bachelor-jay-som-and-palehound-sick-of-spiraling-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22818520",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22818520,
+                "pinned": false,
+                "share_url": "https://genius.com/22818520",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22818520/Bachelor-jay-som-and-palehound-sick-of-spiraling/Sick-of-spiraling",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/104344",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+                      "human_readable_role_for_display": "Staff",
+                      "id": 104344,
+                      "iq": 3060807,
+                      "login": "streetlights",
+                      "name": "\u200bstreetlights",
+                      "role_for_display": "staff",
+                      "url": "https://genius.com/streetlights",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": {
+            "api_path": "/users/4921876",
+            "avatar": {
+              "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                  "width": 16,
+                  "height": 16
+                }
+              },
+              "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                  "width": 32,
+                  "height": 32
+                }
+              },
+              "small": {
+                "url": "https://images.genius.com/avatars/small/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                  "width": 100,
+                  "height": 100
+                }
+              },
+              "medium": {
+                "url": "https://images.genius.com/avatars/medium/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                  "width": 300,
+                  "height": 400
+                }
+              }
+            },
+            "header_image_url": "https://images.genius.com/ca054bcf0c20b24d58536d9c231bc290.900x600x1.jpg",
+            "human_readable_role_for_display": "Moderator",
+            "id": 4921876,
+            "iq": 663168,
+            "login": "lonland",
+            "name": "\u200blonland",
+            "role_for_display": "moderator",
+            "url": "https://genius.com/lonland",
+            "current_user_metadata": {
+              "permissions": [],
+              "excluded_permissions": [
+                "follow"
+              ],
+              "interactions": {
+                "following": false
+              }
+            }
+          },
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=GQ0Ncj1FOfo"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2702097",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+            "id": 2702097,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Bachelor, Jay Som & Palehound",
+            "url": "https://genius.com/artists/Bachelor-jay-som-and-palehound"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1024021",
+              "header_image_url": "https://images.genius.com/e81c5d5fceaf715203223cbc9e2294b7.1000x341x1.jpg",
+              "id": 1024021,
+              "image_url": "https://images.genius.com/e733add7f8f0ed2e01f73f0272f8fbde.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Jay Som",
+              "url": "https://genius.com/artists/Jay-som"
+            },
+            {
+              "api_path": "/artists/990857",
+              "header_image_url": "https://images.genius.com/70773cefd7e5351846fe009227f7f9f1.1000x1000x1.jpg",
+              "id": 990857,
+              "image_url": "https://images.genius.com/70773cefd7e5351846fe009227f7f9f1.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Bachelor",
+              "url": "https://genius.com/artists/Bachelor"
+            },
+            {
+              "api_path": "/artists/554950",
+              "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "id": 554950,
+              "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Palehound",
+              "url": "https://genius.com/artists/Palehound",
+              "iq": 100
+            },
+            {
+              "api_path": "/artists/1024035",
+              "header_image_url": "https://images.genius.com/81e6785ba86d29871bc0a039cca8f925.1000x667x1.jpg",
+              "id": 1024035,
+              "image_url": "https://images.genius.com/f26993d8289267edd99fc264728416e9.492x492x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Melina Duterte",
+              "url": "https://genius.com/artists/Melina-duterte"
+            },
+            {
+              "api_path": "/artists/1166007",
+              "header_image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "id": 1166007,
+              "image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ellen Kempner",
+              "url": "https://genius.com/artists/Ellen-kempner"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1024021",
+              "header_image_url": "https://images.genius.com/e81c5d5fceaf715203223cbc9e2294b7.1000x341x1.jpg",
+              "id": 1024021,
+              "image_url": "https://images.genius.com/e733add7f8f0ed2e01f73f0272f8fbde.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Jay Som",
+              "url": "https://genius.com/artists/Jay-som"
+            },
+            {
+              "api_path": "/artists/990857",
+              "header_image_url": "https://images.genius.com/70773cefd7e5351846fe009227f7f9f1.1000x1000x1.jpg",
+              "id": 990857,
+              "image_url": "https://images.genius.com/70773cefd7e5351846fe009227f7f9f1.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Bachelor",
+              "url": "https://genius.com/artists/Bachelor"
+            },
+            {
+              "api_path": "/artists/554950",
+              "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "id": 554950,
+              "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Palehound",
+              "url": "https://genius.com/artists/Palehound",
+              "iq": 100
+            },
+            {
+              "api_path": "/artists/1024035",
+              "header_image_url": "https://images.genius.com/81e6785ba86d29871bc0a039cca8f925.1000x667x1.jpg",
+              "id": 1024035,
+              "image_url": "https://images.genius.com/f26993d8289267edd99fc264728416e9.492x492x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Melina Duterte",
+              "url": "https://genius.com/artists/Melina-duterte"
+            },
+            {
+              "api_path": "/artists/1166007",
+              "header_image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "id": 1166007,
+              "image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ellen Kempner",
+              "url": "https://genius.com/artists/Ellen-kempner"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "0mmtmkKpURAvtAiUxT3qfb",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/4327563",
+        "artist_names": "Palehound",
+        "full_title": "Killer by\u00a0Palehound",
+        "header_image_thumbnail_url": "https://images.genius.com/31487172d5816c40c6b1d50a33b16239.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/31487172d5816c40c6b1d50a33b16239.1000x1000x1.jpg",
+        "id": 4327563,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 1800657,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1551120120,
+        "path": "/Palehound-killer-lyrics",
+        "pyongs_count": 2,
+        "relationships_index_url": "https://genius.com/Palehound-killer-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 2,
+          "day": 19
+        },
+        "release_date_for_display": "February 19, 2019",
+        "release_date_with_abbreviated_month_for_display": "Feb. 19, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/31487172d5816c40c6b1d50a33b16239.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/31487172d5816c40c6b1d50a33b16239.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false,
+          "pageviews": 5362
+        },
+        "title": "Killer",
+        "title_with_featured": "Killer",
+        "updated_by_human_at": 1659890236,
+        "url": "https://genius.com/Palehound-killer-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/554950",
+          "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+          "id": 554950,
+          "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+          "index_character": "p",
+          "is_meme_verified": false,
+          "is_verified": true,
+          "name": "Palehound",
+          "slug": "Palehound",
+          "url": "https://genius.com/artists/Palehound",
+          "iq": 100
+        },
+        "artist": "Palehound",
+        "lyrics": "Killer Lyrics[Verse 1]\nWith every step he takes, an evil shakes in you\nHe's hauling ass, feet slapping down your avenue\nFingers tracing the spaces between the bricks lining your hall\nMy weapon's slick in my hands, my back's against your wall\n\n[Chorus]\nI wanna be the one who kills the man who hurt you, darling\nI wanna be the one who kills the man who hurt you, darling\n\n[Verse 2]\nJust because I feel the devil in your bed don't mean it's you\nWhen you winced and turned your head and wept, that's when I knew\nThat it's not enough to run that dog out of this town\nMy weapon's cold in the backseat, hunt that monster down\n[Chorus]\nI wanna be the one who kills the man who hurt you, darling\nI wanna be the one who kills the man who hurt you, darling\nI wanna be the one who kills the man who hurt you, darling\nI wanna be the one who kills the man\n\n[Outro]\nJust because I feel the devil in your bed don't mean it'sYou might also like2Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/4327563",
+          "apple_music_id": "1457103743",
+          "apple_music_player_url": "https://genius.com/songs/4327563/apple_music_player",
+          "artist_names": "Palehound",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_4327563' class='rg_embed_link' data-song-id='4327563'>Read <a href='https://genius.com/Palehound-killer-lyrics'>\u201cKiller\u201d by Palehound</a> on Genius</div> <script crossorigin src='//genius.com/songs/4327563/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Killer by\u00a0Palehound",
+          "header_image_thumbnail_url": "https://images.genius.com/31487172d5816c40c6b1d50a33b16239.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/31487172d5816c40c6b1d50a33b16239.1000x1000x1.jpg",
+          "id": 4327563,
+          "language": "en",
+          "lyrics_owner_id": 1800657,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Palehound-killer-lyrics",
+          "pyongs_count": 2,
+          "recording_location": "Panoramic House",
+          "relationships_index_url": "https://genius.com/Palehound-killer-sample",
+          "release_date": "2019-02-19",
+          "release_date_for_display": "February 19, 2019",
+          "release_date_with_abbreviated_month_for_display": "Feb. 19, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/31487172d5816c40c6b1d50a33b16239.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/31487172d5816c40c6b1d50a33b16239.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 6,
+            "iq_earners": 6,
+            "transcribers": 3,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false,
+            "pageviews": 5363
+          },
+          "title": "Killer",
+          "title_with_featured": "Killer",
+          "url": "https://genius.com/Palehound-killer-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "see_pageviews",
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/518332",
+            "cover_art_url": "https://images.genius.com/46e14e18e0b41f8439b1b5be219a0213.999x999x1.jpg",
+            "full_title": "Black Friday by Palehound",
+            "id": 518332,
+            "name": "Black Friday",
+            "release_date_for_display": "June 7, 2019",
+            "url": "https://genius.com/albums/Palehound/Black-friday",
+            "artist": {
+              "api_path": "/artists/554950",
+              "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "id": 554950,
+              "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Palehound",
+              "url": "https://genius.com/artists/Palehound",
+              "iq": 100
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Label",
+              "artists": [
+                {
+                  "api_path": "/artists/1164343",
+                  "header_image_url": "https://images.genius.com/2424043a495e7282a3bea9749932f304.700x400x1.jpg",
+                  "id": 1164343,
+                  "image_url": "https://images.genius.com/451efce53ddf2ee797da24e1b2231137.900x900x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Polyvinyl Record Co.",
+                  "url": "https://genius.com/artists/Polyvinyl-record-co"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 930466,
+            "annotator_login": "MCSMeister",
+            "api_path": "/referents/22293109",
+            "classification": "needs_exegesis",
+            "fragment": "Killer",
+            "id": 22293109,
+            "is_description": true,
+            "path": "/22293109/Palehound-killer/Killer",
+            "range": {
+              "content": "Killer"
+            },
+            "song_id": 4327563,
+            "url": "https://genius.com/22293109/Palehound-killer/Killer",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/4327563",
+              "client_timestamps": {
+                "updated_by_human_at": 1659890236,
+                "lyrics_updated_at": 1551120120
+              },
+              "context": "Palehound",
+              "id": 4327563,
+              "image_url": "https://images.genius.com/31487172d5816c40c6b1d50a33b16239.1000x1000x1.jpg",
+              "link_title": "Killer by\u00a0Palehound",
+              "title": "Killer",
+              "type": "Song",
+              "url": "https://genius.com/Palehound-killer-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22293109",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22293109,
+                "pinned": false,
+                "share_url": "https://genius.com/22293109",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22293109/Palehound-killer/Killer",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/930466",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/9fa6c2fb22fbd3b2e74ab0633abb9730",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/9fa6c2fb22fbd3b2e74ab0633abb9730",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/9fa6c2fb22fbd3b2e74ab0633abb9730",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/9fa6c2fb22fbd3b2e74ab0633abb9730",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/9fa6c2fb22fbd3b2e74ab0633abb9730",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 930466,
+                      "iq": 1168251,
+                      "login": "MCSMeister",
+                      "name": "MCSMeister",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/MCSMeister",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": {
+            "api_path": "/users/93685",
+            "avatar": {
+              "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                  "width": 16,
+                  "height": 16
+                }
+              },
+              "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                  "width": 32,
+                  "height": 32
+                }
+              },
+              "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                  "width": 100,
+                  "height": 100
+                }
+              },
+              "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                  "width": 300,
+                  "height": 400
+                }
+              }
+            },
+            "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+            "human_readable_role_for_display": "Staff",
+            "id": 93685,
+            "iq": 1219318,
+            "login": "killersnowtiger",
+            "name": "\u200bKST",
+            "role_for_display": "staff",
+            "url": "https://genius.com/killersnowtiger",
+            "current_user_metadata": {
+              "permissions": [],
+              "excluded_permissions": [
+                "follow"
+              ],
+              "interactions": {
+                "following": false
+              }
+            }
+          },
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=ETieafzSFeM"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/554950",
+            "header_image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+            "id": 554950,
+            "image_url": "https://images.genius.com/307008d6d9c27f85c34a0ff2920fd88a.668x668x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Palehound",
+            "url": "https://genius.com/artists/Palehound",
+            "iq": 100
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/674624",
+              "header_image_url": "https://images.genius.com/597726a3878ac793a3c04dca478198fe.761x761x1.jpg",
+              "id": 674624,
+              "image_url": "https://images.genius.com/597726a3878ac793a3c04dca478198fe.761x761x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gabe Wax",
+              "url": "https://genius.com/artists/Gabe-wax"
+            },
+            {
+              "api_path": "/artists/1166007",
+              "header_image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "id": 1166007,
+              "image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ellen Kempner",
+              "url": "https://genius.com/artists/Ellen-kempner"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1166007",
+              "header_image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "id": 1166007,
+              "image_url": "https://images.genius.com/ec6270218042b448de8025a33f860072.960x960x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ellen Kempner",
+              "url": "https://genius.com/artists/Ellen-kempner"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    }
+  ]
+}

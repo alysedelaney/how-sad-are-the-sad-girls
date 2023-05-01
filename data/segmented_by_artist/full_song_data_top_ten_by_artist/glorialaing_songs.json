@@ -1,0 +1,842 @@
+{
+  "artist_name": "Gloria Laing",
+  "spotify_id": "3aO4DL5c2uBGD8EUuP7sxi",
+  "songs": [
+    {
+      "spotify_id": "2FpzO4dqbCUPtZUQDjcLL3",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 2,
+        "api_path": "/songs/4623177",
+        "artist_names": "Gloria Laing",
+        "full_title": "Why Can't I Have You by\u00a0Gloria\u00a0Laing",
+        "header_image_thumbnail_url": "https://images.genius.com/57bb61b8fbfb5d6f7b71065617af20fd.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/57bb61b8fbfb5d6f7b71065617af20fd.640x640x1.jpg",
+        "id": 4623177,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 2522650,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1657840553,
+        "path": "/Gloria-laing-why-cant-i-have-you-lyrics",
+        "pyongs_count": 5,
+        "relationships_index_url": "https://genius.com/Gloria-laing-why-cant-i-have-you-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 5,
+          "day": 21
+        },
+        "release_date_for_display": "May 21, 2019",
+        "release_date_with_abbreviated_month_for_display": "May. 21, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/57bb61b8fbfb5d6f7b71065617af20fd.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/57bb61b8fbfb5d6f7b71065617af20fd.640x640x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 2,
+          "hot": false,
+          "pageviews": 20820
+        },
+        "title": "Why Can\u2019t I Have You",
+        "title_with_featured": "Why Can't I Have You",
+        "updated_by_human_at": 1657831113,
+        "url": "https://genius.com/Gloria-laing-why-cant-i-have-you-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1852625",
+          "header_image_url": "https://images.genius.com/39f9576fc9b58cd1c3509bee6bdd7300.620x620x1.jpg",
+          "id": 1852625,
+          "image_url": "https://images.genius.com/39f9576fc9b58cd1c3509bee6bdd7300.620x620x1.jpg",
+          "index_character": "g",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Gloria Laing",
+          "slug": "Gloria-laing",
+          "url": "https://genius.com/artists/Gloria-laing"
+        },
+        "artist": "Gloria Laing",
+        "lyrics": "Why Can\u2019t I Have You Lyrics[Verse 1]\nOh, I can't see your face now\nIf I let you go, will you come back another time?\nSo I can look forward\nOh we're never done, are we babe?\nSo, you say that I'm never fooled by\nThe depth of your eyes, I don't agree but I see\nI'm not what you want babe\n\n[Chorus]\nWell we waste our time on things we want\nWhy can't I have you baby?\nWhy can't I get you baby?\nWaste our love on things that will never give it back\nWhy can't I have you baby?\nWhy can't I get you baby?\n[Verse 2]\nSo you need help? Well, I've got you covered\nI'm here when you need a sunny day\nSomething good, 'cause I never had that\nDon't bend your rules if you don't want to\nBut I think you do\nSo I sit back and let things go how you play them\n\n[Chorus]\nWell we waste our time on things we want\nWhy can't I have you baby?\nWhy can't I get you baby?\nWaste our love on things that won't ever give it back\nWhy can't I have you baby? (Oh)\nWhy can't I get you baby? (Oh)\n(Oh, oh, oh, oh)You might also like5Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 2,
+          "api_path": "/songs/4623177",
+          "apple_music_id": "1467755558",
+          "apple_music_player_url": "https://genius.com/songs/4623177/apple_music_player",
+          "artist_names": "Gloria Laing",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_4623177' class='rg_embed_link' data-song-id='4623177'>Read <a href='https://genius.com/Gloria-laing-why-cant-i-have-you-lyrics'>\u201cWhy Can't I Have You\u201d by Gloria\u00a0Laing</a> on Genius</div> <script crossorigin src='//genius.com/songs/4623177/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Why Can't I Have You by\u00a0Gloria\u00a0Laing",
+          "header_image_thumbnail_url": "https://images.genius.com/57bb61b8fbfb5d6f7b71065617af20fd.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/57bb61b8fbfb5d6f7b71065617af20fd.640x640x1.jpg",
+          "id": 4623177,
+          "language": "en",
+          "lyrics_owner_id": 2522650,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Gloria-laing-why-cant-i-have-you-lyrics",
+          "pyongs_count": 5,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Gloria-laing-why-cant-i-have-you-sample",
+          "release_date": "2019-05-21",
+          "release_date_for_display": "May 21, 2019",
+          "release_date_with_abbreviated_month_for_display": "May. 21, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/57bb61b8fbfb5d6f7b71065617af20fd.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/57bb61b8fbfb5d6f7b71065617af20fd.640x640x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 6,
+            "iq_earners": 6,
+            "transcribers": 2,
+            "unreviewed_annotations": 2,
+            "verified_annotations": 0,
+            "hot": false,
+            "pageviews": 20820
+          },
+          "title": "Why Can\u2019t I Have You",
+          "title_with_featured": "Why Can't I Have You",
+          "url": "https://genius.com/Gloria-laing-why-cant-i-have-you-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "see_pageviews",
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 2522650,
+            "annotator_login": "Illusio",
+            "api_path": "/referents/17371386",
+            "classification": "needs_exegesis",
+            "fragment": "Why Can\u2019t I Have You",
+            "id": 17371386,
+            "is_description": true,
+            "path": "/17371386/Gloria-laing-why-cant-i-have-you/Why-cant-i-have-you",
+            "range": {
+              "content": "Why Can't I Have You"
+            },
+            "song_id": 4623177,
+            "url": "https://genius.com/17371386/Gloria-laing-why-cant-i-have-you/Why-cant-i-have-you",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/4623177",
+              "client_timestamps": {
+                "updated_by_human_at": 1657831113,
+                "lyrics_updated_at": 1657840553
+              },
+              "context": "Gloria Laing",
+              "id": 4623177,
+              "image_url": "https://images.genius.com/57bb61b8fbfb5d6f7b71065617af20fd.640x640x1.jpg",
+              "link_title": "Why Can\u2019t I Have You by\u00a0Gloria\u00a0Laing",
+              "title": "Why Can't I Have You",
+              "type": "Song",
+              "url": "https://genius.com/Gloria-laing-why-cant-i-have-you-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/17371386",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 17371386,
+                "pinned": false,
+                "share_url": "https://genius.com/17371386",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/17371386/Gloria-laing-why-cant-i-have-you/Why-cant-i-have-you",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/2522650",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/1910ed84e174617dd36efb4a86d1da26",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/1910ed84e174617dd36efb4a86d1da26",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/1910ed84e174617dd36efb4a86d1da26",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/1910ed84e174617dd36efb4a86d1da26",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/1910ed84e174617dd36efb4a86d1da26",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 2522650,
+                      "iq": 26835,
+                      "login": "Illusio",
+                      "name": "Illusio",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/Illusio",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "attribution": "user 218464808",
+              "provider": "soundcloud",
+              "type": "audio",
+              "url": "https://soundcloud.com/user-218464808/why-cant-i-have-you"
+            },
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=p4S2EUPsAdE"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1852625",
+            "header_image_url": "https://images.genius.com/39f9576fc9b58cd1c3509bee6bdd7300.620x620x1.jpg",
+            "id": 1852625,
+            "image_url": "https://images.genius.com/39f9576fc9b58cd1c3509bee6bdd7300.620x620x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Gloria Laing",
+            "url": "https://genius.com/artists/Gloria-laing"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1852625",
+              "header_image_url": "https://images.genius.com/39f9576fc9b58cd1c3509bee6bdd7300.620x620x1.jpg",
+              "id": 1852625,
+              "image_url": "https://images.genius.com/39f9576fc9b58cd1c3509bee6bdd7300.620x620x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gloria Laing",
+              "url": "https://genius.com/artists/Gloria-laing"
+            }
+          ]
+        }
+      },
+      "annotations": [
+        [
+          "Why can\u2019t I have you baby?\n Why can\u2019t I get you baby?",
+          [
+            [
+              "longing for this person again emphasised by the repetition."
+            ]
+          ]
+        ],
+        [
+          "Why can\u2019t I have you baby?\n Why can\u2019t I get you baby?",
+          [
+            [
+              "longing for this person"
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "spotify_id": "1H8Vfzcq6nT0hlQSCOtdtF",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/4882590",
+        "artist_names": "Gloria Laing",
+        "full_title": "Pack My Bags by\u00a0Gloria\u00a0Laing",
+        "header_image_thumbnail_url": "https://images.genius.com/04a688403d6385b71b962ee57fd57e09.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/04a688403d6385b71b962ee57fd57e09.500x500x1.jpg",
+        "id": 4882590,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 8873862,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1628658728,
+        "path": "/Gloria-laing-pack-my-bags-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Gloria-laing-pack-my-bags-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 9,
+          "day": 19
+        },
+        "release_date_for_display": "September 19, 2019",
+        "release_date_with_abbreviated_month_for_display": "Sep. 19, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/04a688403d6385b71b962ee57fd57e09.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/04a688403d6385b71b962ee57fd57e09.500x500x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Pack My Bags",
+        "title_with_featured": "Pack My Bags",
+        "updated_by_human_at": 1667025455,
+        "url": "https://genius.com/Gloria-laing-pack-my-bags-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1852625",
+          "header_image_url": "https://images.genius.com/39f9576fc9b58cd1c3509bee6bdd7300.620x620x1.jpg",
+          "id": 1852625,
+          "image_url": "https://images.genius.com/39f9576fc9b58cd1c3509bee6bdd7300.620x620x1.jpg",
+          "index_character": "g",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Gloria Laing",
+          "slug": "Gloria-laing",
+          "url": "https://genius.com/artists/Gloria-laing"
+        },
+        "artist": "Gloria Laing",
+        "lyrics": "Pack My Bags Lyrics[Verse 1]\nPack my bags and count my money\nGotta go boy, start running\n[?] trips and eyes are\u2005crying\nIt\u2005looks so pretty,\u2005I'll tell you all that I\u2005know\nAnd count myself lucky to fall\n\n[Verse 2]\nWell is it something I should fight\nCloudy day-ee-ay, you make your own light\nStick beside you, ask me questions\nWanna know you but now they're taking control\nYour wrist I'm not letting go\n[Pre-Chorus]\nI'm gonna go somewhere that no one can find us\nTell me everything you're scared to say outloud\nNow go to sleep and dream till the morning\nSo you and me got the whole night to ourselves\n\n[Chorus]\nAnd I keep going till I crash\nBaby I hope you're cool with that\nNow it's to late to turn back\nSo I hope we're on the right track\n\n[Verse 3]\n[?] you, stay in touch\n[?], I won't mind much\nWith your friends all drinking [?]\nSmile to greet you just take my hand we'll go\nYeah baby you feel like a ghost\n\n[Pre-Chorus]\nI'm gonna go somewhere that no one can hurt us\nWait till so thoughts come and seconds feel long\nDon't have to [?] till the morning\nJust you and me there's nothing that we can do wrong\n\n[Chorus]\nAnd I keep going till I crash\nBaby I hope you're cool with that\nNow it's to late to turn back\nSo I hope we're on the right track\nYou might also like[Outro]\nHope we're on the right track\n(mmm-mm)\nHope we're on the right track\n(right track)Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/4882590",
+          "apple_music_id": "1477001678",
+          "apple_music_player_url": "https://genius.com/songs/4882590/apple_music_player",
+          "artist_names": "Gloria Laing",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_4882590' class='rg_embed_link' data-song-id='4882590'>Read <a href='https://genius.com/Gloria-laing-pack-my-bags-lyrics'>\u201cPack My Bags\u201d by Gloria\u00a0Laing</a> on Genius</div> <script crossorigin src='//genius.com/songs/4882590/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Pack My Bags by\u00a0Gloria\u00a0Laing",
+          "header_image_thumbnail_url": "https://images.genius.com/04a688403d6385b71b962ee57fd57e09.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/04a688403d6385b71b962ee57fd57e09.500x500x1.jpg",
+          "id": 4882590,
+          "language": "en",
+          "lyrics_owner_id": 8873862,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Gloria-laing-pack-my-bags-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Gloria-laing-pack-my-bags-sample",
+          "release_date": "2019-09-19",
+          "release_date_for_display": "September 19, 2019",
+          "release_date_with_abbreviated_month_for_display": "Sep. 19, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/04a688403d6385b71b962ee57fd57e09.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/04a688403d6385b71b962ee57fd57e09.500x500x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 2,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Pack My Bags",
+          "title_with_featured": "Pack My Bags",
+          "url": "https://genius.com/Gloria-laing-pack-my-bags-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 8873862,
+            "annotator_login": "hsfauashg",
+            "api_path": "/referents/18072856",
+            "classification": "needs_exegesis",
+            "fragment": "Pack My Bags",
+            "id": 18072856,
+            "is_description": true,
+            "path": "/18072856/Gloria-laing-pack-my-bags/Pack-my-bags",
+            "range": {
+              "content": "Pack My Bags"
+            },
+            "song_id": 4882590,
+            "url": "https://genius.com/18072856/Gloria-laing-pack-my-bags/Pack-my-bags",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/4882590",
+              "client_timestamps": {
+                "updated_by_human_at": 1667025455,
+                "lyrics_updated_at": 1628658728
+              },
+              "context": "Gloria Laing",
+              "id": 4882590,
+              "image_url": "https://images.genius.com/04a688403d6385b71b962ee57fd57e09.500x500x1.jpg",
+              "link_title": "Pack My Bags by\u00a0Gloria\u00a0Laing",
+              "title": "Pack My Bags",
+              "type": "Song",
+              "url": "https://genius.com/Gloria-laing-pack-my-bags-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/18072856",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 18072856,
+                "pinned": false,
+                "share_url": "https://genius.com/18072856",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/18072856/Gloria-laing-pack-my-bags/Pack-my-bags",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/8873862",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/b7b83215ed8745b503c1bfa3c006becc",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/b7b83215ed8745b503c1bfa3c006becc",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/b7b83215ed8745b503c1bfa3c006becc",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/b7b83215ed8745b503c1bfa3c006becc",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/b7b83215ed8745b503c1bfa3c006becc",
+                      "human_readable_role_for_display": null,
+                      "id": 8873862,
+                      "iq": 196,
+                      "login": "hsfauashg",
+                      "name": "hsfauashg",
+                      "role_for_display": null,
+                      "url": "https://genius.com/hsfauashg",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "attribution": "gloria_laing",
+              "provider": "soundcloud",
+              "type": "audio",
+              "url": "https://soundcloud.com/gloria_laing/pack-my-bags-2"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1852625",
+            "header_image_url": "https://images.genius.com/39f9576fc9b58cd1c3509bee6bdd7300.620x620x1.jpg",
+            "id": 1852625,
+            "image_url": "https://images.genius.com/39f9576fc9b58cd1c3509bee6bdd7300.620x620x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Gloria Laing",
+            "url": "https://genius.com/artists/Gloria-laing"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    }
+  ]
+}

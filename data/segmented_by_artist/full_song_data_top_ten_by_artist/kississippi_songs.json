@@ -1,0 +1,4382 @@
+{
+  "artist_name": "Kississippi",
+  "spotify_id": "6t0a2t1BXxTQvAkxReClPm",
+  "songs": [
+    {
+      "spotify_id": "5TWhKIovwde21zGGjjyRTo",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/3603981",
+        "artist_names": "Kississippi",
+        "full_title": "Dogmas by\u00a0Kississippi",
+        "header_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+        "id": 3603981,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 2689369,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1521949277,
+        "path": "/Kississippi-dogmas-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Kississippi-dogmas-sample",
+        "release_date_components": {
+          "year": 2015,
+          "month": 11,
+          "day": 20
+        },
+        "release_date_for_display": "November 20, 2015",
+        "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+        "song_art_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Dogmas",
+        "title_with_featured": "Dogmas",
+        "updated_by_human_at": 1521949277,
+        "url": "https://genius.com/Kississippi-dogmas-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1062898",
+          "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "id": 1062898,
+          "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "index_character": "k",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kississippi",
+          "slug": "Kississippi",
+          "url": "https://genius.com/artists/Kississippi"
+        },
+        "artist": "Kississippi",
+        "lyrics": "Dogmas LyricsYou were swallowing god damning dogmas\nRough palmistry your hands could not align\nUnsexed you borrowed callow spit, not lost\nNo, looking for a space, just not mine\n\nRedolent with skin of unknown\nUnwary hands, nomadic ghost\nLevied words from my spiteful throat\nUnderstanding where my thoughts go\nYou\u2019d build a boat out of my bones\nI thought I\u2019d reclaim you for the ocean\nBut i could not cradle you with dirty hands\nNo star death casketed in palms like these\nWhite knuckles cracking, playing simple maths\n\nWe were squealing\nDogs with bad dreams\nEyes that smile, gaze so dimly\nIsolated, nursing skinned knees\nI\u2019m weaker than I thought I\u2019d beYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/3603981",
+          "apple_music_id": null,
+          "apple_music_player_url": "https://genius.com/songs/3603981/apple_music_player",
+          "artist_names": "Kississippi",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_3603981' class='rg_embed_link' data-song-id='3603981'>Read <a href='https://genius.com/Kississippi-dogmas-lyrics'>\u201cDogmas\u201d by Kississippi</a> on Genius</div> <script crossorigin src='//genius.com/songs/3603981/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Dogmas by\u00a0Kississippi",
+          "header_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+          "id": 3603981,
+          "language": "en",
+          "lyrics_owner_id": 2689369,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Kississippi-dogmas-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Kississippi-dogmas-sample",
+          "release_date": "2015-11-20",
+          "release_date_for_display": "November 20, 2015",
+          "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Dogmas",
+          "title_with_featured": "Dogmas",
+          "url": "https://genius.com/Kississippi-dogmas-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/413516",
+            "cover_art_url": "https://images.genius.com/2f85e453e8a2bf18f748d39b37fa10fb.700x700x1.jpg",
+            "full_title": "I Can Feel You in My Hair Still by Kississippi",
+            "id": 413516,
+            "name": "I Can Feel You in My Hair Still",
+            "release_date_for_display": "August 8, 2014",
+            "url": "https://genius.com/albums/Kississippi/I-can-feel-you-in-my-hair-still",
+            "artist": {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 2689369,
+            "annotator_login": "AaronDSimpson",
+            "api_path": "/referents/14163054",
+            "classification": "needs_exegesis",
+            "fragment": "Dogmas",
+            "id": 14163054,
+            "is_description": true,
+            "path": "/14163054/Kississippi-dogmas/Dogmas",
+            "range": {
+              "content": "Dogmas"
+            },
+            "song_id": 3603981,
+            "url": "https://genius.com/14163054/Kississippi-dogmas/Dogmas",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3603981",
+              "client_timestamps": {
+                "updated_by_human_at": 1521949277,
+                "lyrics_updated_at": 1521949277
+              },
+              "context": "Kississippi",
+              "id": 3603981,
+              "image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+              "link_title": "Dogmas by\u00a0Kississippi",
+              "title": "Dogmas",
+              "type": "Song",
+              "url": "https://genius.com/Kississippi-dogmas-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/14163054",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 14163054,
+                "pinned": false,
+                "share_url": "https://genius.com/14163054",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/14163054/Kississippi-dogmas/Dogmas",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/2689369",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z4yhu57sdjf",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 2689369,
+                      "iq": 64639,
+                      "login": "AaronDSimpson",
+                      "name": "AaronDSimpson",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/AaronDSimpson",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1062898",
+            "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "id": 1062898,
+            "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kississippi",
+            "url": "https://genius.com/artists/Kississippi"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "0gcVJ2G7f7mD64ouqgKKfx",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/2963603",
+        "artist_names": "Kississippi",
+        "full_title": "Indigo by\u00a0Kississippi",
+        "header_image_thumbnail_url": "https://images.genius.com/a3a0459c32212c991620c8a62ef73bb1.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/a3a0459c32212c991620c8a62ef73bb1.700x700x1.jpg",
+        "id": 2963603,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 3956915,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1647013146,
+        "path": "/Kississippi-indigo-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Kississippi-indigo-sample",
+        "release_date_components": {
+          "year": 2015,
+          "month": 11,
+          "day": 20
+        },
+        "release_date_for_display": "November 20, 2015",
+        "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+        "song_art_image_thumbnail_url": "https://images.genius.com/a3a0459c32212c991620c8a62ef73bb1.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/a3a0459c32212c991620c8a62ef73bb1.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false,
+          "pageviews": 7435
+        },
+        "title": "Indigo",
+        "title_with_featured": "Indigo",
+        "updated_by_human_at": 1647013146,
+        "url": "https://genius.com/Kississippi-indigo-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1062898",
+          "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "id": 1062898,
+          "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "index_character": "k",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kississippi",
+          "slug": "Kississippi",
+          "url": "https://genius.com/artists/Kississippi"
+        },
+        "artist": "Kississippi",
+        "lyrics": "Indigo LyricsI can't stop thinking about how nice it would be\nTo be bothered by your breath reclaiming mine\nTo wake up in the morning half dead to you\nUnable to find a place to rest your arms\n\nI can't move 'cause he's comfortable there\nHis legs tangled in mine, hands tangled in hair\nI can't move 'cause he's comfortable there\n\nI can't stop thinking about how nice it would be\nTo be bothered by your breath reclaiming mine\nTo wake up in the morning half dead to you\nUnable to find a place to rest your arms\nI can't move 'cause he's comfortable there\nHis legs tangled in mine, hands tangled in hair\nI can't move 'cos he's comfortable there\n\nI can't move 'cause he's comfortable there\nHis legs tangled in mine, hands tangled in hair\nI can't move 'cos he's comfortable thereYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/2963603",
+          "apple_music_id": null,
+          "apple_music_player_url": "https://genius.com/songs/2963603/apple_music_player",
+          "artist_names": "Kississippi",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_2963603' class='rg_embed_link' data-song-id='2963603'>Read <a href='https://genius.com/Kississippi-indigo-lyrics'>\u201cIndigo\u201d by Kississippi</a> on Genius</div> <script crossorigin src='//genius.com/songs/2963603/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Indigo by\u00a0Kississippi",
+          "header_image_thumbnail_url": "https://images.genius.com/a3a0459c32212c991620c8a62ef73bb1.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/a3a0459c32212c991620c8a62ef73bb1.700x700x1.jpg",
+          "id": 2963603,
+          "language": "en",
+          "lyrics_owner_id": 3956915,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Kississippi-indigo-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Kississippi-indigo-sample",
+          "release_date": "2015-11-20",
+          "release_date_for_display": "November 20, 2015",
+          "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/a3a0459c32212c991620c8a62ef73bb1.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/a3a0459c32212c991620c8a62ef73bb1.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 2,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false,
+            "pageviews": 7435
+          },
+          "title": "Indigo",
+          "title_with_featured": "Indigo",
+          "url": "https://genius.com/Kississippi-indigo-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "see_pageviews",
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/326746",
+            "cover_art_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+            "full_title": "We Have No Future, We're All Doomed by Kississippi",
+            "id": 326746,
+            "name": "We Have No Future, We\u2019re All Doomed",
+            "release_date_for_display": "November 20, 2015",
+            "url": "https://genius.com/albums/Kississippi/We-have-no-future-we-re-all-doomed",
+            "artist": {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 3956915,
+            "annotator_login": "oknaomi",
+            "api_path": "/referents/11215539",
+            "classification": "needs_exegesis",
+            "fragment": "Indigo",
+            "id": 11215539,
+            "is_description": true,
+            "path": "/11215539/Kississippi-indigo/Indigo",
+            "range": {
+              "content": "Indigo"
+            },
+            "song_id": 2963603,
+            "url": "https://genius.com/11215539/Kississippi-indigo/Indigo",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/2963603",
+              "client_timestamps": {
+                "updated_by_human_at": 1647013146,
+                "lyrics_updated_at": 1647013146
+              },
+              "context": "Kississippi",
+              "id": 2963603,
+              "image_url": "https://images.genius.com/a3a0459c32212c991620c8a62ef73bb1.700x700x1.jpg",
+              "link_title": "Indigo by\u00a0Kississippi",
+              "title": "Indigo",
+              "type": "Song",
+              "url": "https://genius.com/Kississippi-indigo-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/11215539",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 11215539,
+                "pinned": false,
+                "share_url": "https://genius.com/11215539",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/11215539/Kississippi-indigo/Indigo",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/3956915",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/11751f52d3d752b68d0aada57433c839",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/11751f52d3d752b68d0aada57433c839",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/11751f52d3d752b68d0aada57433c839",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/11751f52d3d752b68d0aada57433c839",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/11751f52d3d752b68d0aada57433c839",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 3956915,
+                      "iq": 439,
+                      "login": "oknaomi",
+                      "name": "oknaomi",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/oknaomi",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1062898",
+            "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "id": 1062898,
+            "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kississippi",
+            "url": "https://genius.com/artists/Kississippi"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "4cjWJeo5bIJC2Hp9aBulJ5",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 2,
+        "api_path": "/songs/3364053",
+        "artist_names": "Kississippi",
+        "full_title": "Cut Yr Teeth by\u00a0Kississippi",
+        "header_image_thumbnail_url": "https://images.genius.com/b9d98dacee3389141c542c3fae907b71.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/b9d98dacee3389141c542c3fae907b71.1000x1000x1.jpg",
+        "id": 3364053,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 1143313,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1552054688,
+        "path": "/Kississippi-cut-yr-teeth-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Kississippi-cut-yr-teeth-sample",
+        "release_date_components": {
+          "year": 2017,
+          "month": 12,
+          "day": 11
+        },
+        "release_date_for_display": "December 11, 2017",
+        "release_date_with_abbreviated_month_for_display": "Dec. 11, 2017",
+        "song_art_image_thumbnail_url": "https://images.genius.com/b9d98dacee3389141c542c3fae907b71.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/b9d98dacee3389141c542c3fae907b71.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 2,
+          "hot": false,
+          "pageviews": 6435
+        },
+        "title": "Cut Yr Teeth",
+        "title_with_featured": "Cut Yr Teeth",
+        "updated_by_human_at": 1552054688,
+        "url": "https://genius.com/Kississippi-cut-yr-teeth-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1062898",
+          "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "id": 1062898,
+          "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "index_character": "k",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kississippi",
+          "slug": "Kississippi",
+          "url": "https://genius.com/artists/Kississippi"
+        },
+        "artist": "Kississippi",
+        "lyrics": "Cut Yr Teeth LyricsCheekbones\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200bshine\u200b\u200b \u200b\u200blike\u200b\u200b \u200b\u200bdiamonds\u200b\nOh\u200b\u200b \u200b\u200bdarkness,\u200b\u200b \u200b\u200bI \u200b\u200bam\u200b\u200b \u200b\u200bnerveless\nEyes\u200b\u200b \u200b\u200bclosed\u200b\u200b \u200b\u200bfor\u200b\u200b \u200b\u200black\u200b\u200b \u200b\u200bof\u200b\u200b purpose or lack\u200b\u200b \u200b\u200bof\u200b\u200b \u200b\u200blight\u200b\u200b\nOr\u200b\u200b \u200b\u200bfear\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200bI\u2019ll\u200b\u200b \u200b\u200blose\u200b\u200b \u200b\u200bit\nI\u2019m\u200b\u200b \u200b\u200bstill\u200b\u200b \u200b\u200bafraid\u200b\u200b \u200b\u200bof\u200b\u200b \u200b\u200bthe\u200b\u200b \u200b\u200bdark\nYou\u200b\u200b \u200b\u200bwere\u200b\u200b \u200b\u200bmy\u200b\u200b \u200b\u200blight\u200b\u200b \u200b\u200bfor\u200b\u200b \u200b\u200bso\u200b\u200b \u200b\u200blong\u200b\nOceans\u200b\u200b \u200b\u200bdeep\u200b\u200b \u200b\u200band \u200b\u200bmountains\u200b\u200b \u200b\u200btall\u200b\nOur\u200b\u200b \u200b\u200bfuture\u200b\u200b \u200b\u200bplays\u200b\u200b \u200b\u200btricks\u200b\u200b \u200b\u200bon\u200b\u200b \u200b\u200bus,\u200b\u200b \u200b\u200bhuh?\n\nStories\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200bwreak\u200b\u200b \u200b\u200bof\u200b\u200b \u200b\u200bfiction\nAdorned,\u200b\u200b \u200b\u200bwritten\u200b\u200b \u200b\u200bin\u200b\u200b \u200b\u200bcursive\nYou\u200b\u200b \u200b\u200bwere\u200b\u200b \u200b\u200ba\u200b\u200b \u200b\u200bcatholic\u200b\u200b \u200b\u200bschool\u200b\u200b \u200b\u200bkid\nYou\u200b\u200b \u200b\u200bkept\u200b\u200b \u200b\u200bquiet\u200b\u200b \u200b\u200bfor\u200b\u200b \u200b\u200bfear\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200byou\u2019d\u200b\u200b \u200b\u200bchoose\u200b\u200b \u200b\u200bthis\u200b\nDimples\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200bcut\u200b\u200b \u200b\u200bthrough\u200b\u200b \u200b\u200beyelids\nOh,\u200b\u200b \u200b\u200bheartlessness\u200b\u200b \u200b\u200bis\u200b\u200b \u200b\u200bburden\nHigh\u200b\u200b \u200b\u200blows,\u200b\u200b \u200b\u200bfor\u200b\u200b \u200b\u200byou\u2019re\u200b\u200b \u200b\u200buncertain\nOf\u200b\u200b \u200b\u200beagerness\u200b\u200b \u200b\u200bor\u200b\u200b \u200b\u200bfear\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200byou\u2019ll\u200b\u200b \u200b\u200blose\u200b\u200b \u200b\u200bit\u200b\nOr\u200b\u200b \u200b\u200bfear\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200byou\u2019ll\u200b\u200b \u200b\u200blose\u200b\u200b \u200b\u200bit\u200b\u200b\nOr\u200b\u200b \u200b\u200bfear\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200byou\u2019ll\u200b\u200b \u200b\u200blose\u200b\u200b \u200b\u200bit\u200b\u200b\nOr\u200b\u200b \u200b\u200bfear\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200byou\u2019ll\u200b\u200b \u200b\u200blose\u200b\u200b \u200b\u200bit\u200b\u200b\nOr\u200b\u200b \u200b\u200bfear\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200byou\u2019ll\u200b\u200b \u200b\u200blose\u200b\u200b \u200b\u200bit\u200b\u200b\nThe\u200b\u200b \u200b\u200bperson\u200b\u200b \u200b\u200byou\u200b\u200b \u200b\u200bmade\u200b\u200b \u200b\u200byourself\u200b\u200b \u200b\u200bout\u200b\u200b \u200b\u200bto\u200b\u200b \u200b\u200bbe\u200b\nWould\u200b\u200b \u200b\u200bfeel\u200b\u200b \u200b\u200bsorry\u200b\u200b \u200b\u200bfor\u200b\u200b \u200b\u200bwhat\u200b\u200b \u200b\u200byou have\u200b\u200b \u200b\u200bdone\u200b\u200b \u200b\u200bto\u200b\u200b \u200b\u200bme\u200b\nLike\u200b\u200b \u200b\u200bscrapped\u200b\u200b \u200b\u200bsheet\u200b\u200b \u200b\u200bmetal\u200b\u200b \u200b\u200bshaves\u200b \u200bivories\u200b\nYou\u200b\u200b \u200b\u200bstarted\u200b\u200b \u200b\u200bout\u200b\u200b \u200b\u200bslow\u200b\u200b \u200b\u200bbut\u200b\u200b \u200b\u200byou\u200b\u200b \u200b\u200bcut\u200b\u200b \u200b\u200byour\u200b\u200b \u200b\u200bteeth\u200b\nYou\u200b\u200b \u200b\u200bcut\u200b\u200b \u200b\u200byour\u200b\u200b \u200b\u200bteeth\n\nCheekbones\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200bshine\u200b\u200b \u200b\u200blike\u200b\u200b \u200b\u200bdiamonds\u200b\nOh\u200b\u200b \u200b\u200bdarkness,\u200b\u200b I\u200b\u200b \u200b\u200bam\u200b\u200b \u200b\u200bnerveless\nEyes\u200b\u200b \u200b\u200bclosed\u200b\u200b \u200b\u200bfor\u200b\u200b \u200b\u200black\u200b\u200b \u200b\u200bof\u200b\u200b \u200b\u200bpurpose or lack\u200b\u200b \u200b\u200bof\u200b\u200b \u200b\u200blight\u200b\u200b\nOr\u200b\u200b \u200b\u200bfear\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200bI\u2019ll\u200b\u200b \u200b\u200blose\u200b\u200b \u200b\u200bit\nOr\u200b\u200b \u200b\u200bfear\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200bI\u2019ll\u200b\u200b \u200b\u200blose\u200b\u200b \u200b\u200bit\nOr\u200b\u200b \u200b\u200bfear\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200bI\u2019ll\u200b\u200b \u200b\u200blose\u200b\u200b \u200b\u200bit\nOr\u200b\u200b \u200b\u200bfear\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200bI\u2019ll\u200b\u200b \u200b\u200blose\u200b\u200b \u200b\u200bit\nOr\u200b\u200b \u200b\u200bfear\u200b\u200b \u200b\u200bthat\u200b\u200b \u200b\u200bI\u2019ll\u200b\u200b \u200b\u200blose\u200b\u200b \u200b\u200bit\n\nYou\u2019ve\u200b\u200b \u200b\u200bnever\u200b\u200b \u200b\u200bfelt\u200b\u200b \u200b\u200bsorry\u200b\u200b \u200b\u200bat\u200b\u200b \u200b\u200ball\nYou\u2019ve\u200b\u200b \u200b\u200bnever\u200b\u200b \u200b\u200bfelt\u200b\u200b \u200b\u200bsorry\u200b\u200b \u200b\u200bat\u200b\u200b \u200b\u200ball\nYou\u2019ve\u200b\u200b \u200b\u200bnever\u200b\u200b \u200b\u200bfelt\u200b\u200b \u200b\u200bsorry\u200b\u200b \u200b\u200bat\u200b\u200b \u200b\u200ball\nYou\u2019ve\u200b\u200b \u200b\u200bnever\u200b\u200b \u200b\u200bfelt\u200b\u200b \u200b\u200bsorry\u200b\u200b \u200b\u200bat\u200b\u200b \u200b\u200ball\nThe\u200b\u200b \u200b\u200bperson\u200b\u200b \u200b\u200byou\u200b\u200b \u200b\u200bmade\u200b\u200b \u200b\u200byourself\u200b\u200b \u200b\u200bout\u200b\u200b \u200b\u200bto\u200b\u200b \u200b\u200bbe\u200b\nWould\u200b\u200b \u200b\u200bfeel\u200b\u200b \u200b\u200bsorry\u200b\u200b \u200b\u200bfor\u200b\u200b \u200b\u200bwhat\u200b\u200b \u200b\u200byou have\u200b\u200b \u200b\u200bdone\u200b\u200b \u200b\u200bto\u200b\u200b \u200b\u200bme\u200b\nLike\u200b\u200b \u200b\u200bscrapped\u200b\u200b \u200b\u200bsheet\u200b\u200b \u200b\u200bmetal\u200b\u200b \u200b\u200bshaves\u200b \u200bivories\u200b\nYou\u200b\u200b \u200b\u200bstarted\u200b\u200b \u200b\u200bout\u200b\u200b \u200b\u200bslow\u200b\u200b \u200b\u200bbut\u200b\u200b \u200b\u200byou\u200b\u200b \u200b\u200bcut\u200b\u200b \u200b\u200byour\u200b\u200b \u200b\u200bteeth\u200b\nYou\u200b\u200b \u200b\u200bcut\u200b\u200b \u200b\u200byour\u200b\u200b \u200b\u200bteethYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 2,
+          "api_path": "/songs/3364053",
+          "apple_music_id": "1360683400",
+          "apple_music_player_url": "https://genius.com/songs/3364053/apple_music_player",
+          "artist_names": "Kississippi",
+          "description": {
+            "plain": "The leading single and second track off of Kississippi\u2019s Sunset Blush."
+          },
+          "embed_content": "<div id='rg_embed_link_3364053' class='rg_embed_link' data-song-id='3364053'>Read <a href='https://genius.com/Kississippi-cut-yr-teeth-lyrics'>\u201cCut Yr Teeth\u201d by Kississippi</a> on Genius</div> <script crossorigin src='//genius.com/songs/3364053/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Cut Yr Teeth by\u00a0Kississippi",
+          "header_image_thumbnail_url": "https://images.genius.com/b9d98dacee3389141c542c3fae907b71.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/b9d98dacee3389141c542c3fae907b71.1000x1000x1.jpg",
+          "id": 3364053,
+          "language": "en",
+          "lyrics_owner_id": 1143313,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Kississippi-cut-yr-teeth-lyrics",
+          "pyongs_count": null,
+          "recording_location": "The Headroom",
+          "relationships_index_url": "https://genius.com/Kississippi-cut-yr-teeth-sample",
+          "release_date": "2017-12-11",
+          "release_date_for_display": "December 11, 2017",
+          "release_date_with_abbreviated_month_for_display": "Dec. 11, 2017",
+          "song_art_image_thumbnail_url": "https://images.genius.com/b9d98dacee3389141c542c3fae907b71.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/b9d98dacee3389141c542c3fae907b71.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 4,
+            "iq_earners": 4,
+            "transcribers": 2,
+            "unreviewed_annotations": 2,
+            "verified_annotations": 0,
+            "hot": false,
+            "pageviews": 6435
+          },
+          "title": "Cut Yr Teeth",
+          "title_with_featured": "Cut Yr Teeth",
+          "url": "https://genius.com/Kississippi-cut-yr-teeth-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "see_pageviews",
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/458848",
+            "cover_art_url": "https://images.genius.com/85e004c53200f6905d15d6d274851c31.1000x1000x1.jpg",
+            "full_title": "Sunset Blush by Kississippi",
+            "id": 458848,
+            "name": "Sunset Blush",
+            "release_date_for_display": "April 6, 2018",
+            "url": "https://genius.com/albums/Kississippi/Sunset-blush",
+            "artist": {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 6694190,
+            "annotator_login": "Kenziepuff",
+            "api_path": "/referents/13243811",
+            "classification": "unreviewed",
+            "fragment": "Cut Yr Teeth",
+            "id": 13243811,
+            "is_description": true,
+            "path": "/13243811/Kississippi-cut-yr-teeth/Cut-yr-teeth",
+            "range": {
+              "content": "Cut Yr Teeth"
+            },
+            "song_id": 3364053,
+            "url": "https://genius.com/13243811/Kississippi-cut-yr-teeth/Cut-yr-teeth",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3364053",
+              "client_timestamps": {
+                "updated_by_human_at": 1552054688,
+                "lyrics_updated_at": 1552054688
+              },
+              "context": "Kississippi",
+              "id": 3364053,
+              "image_url": "https://images.genius.com/b9d98dacee3389141c542c3fae907b71.1000x1000x1.jpg",
+              "link_title": "Cut Yr Teeth by\u00a0Kississippi",
+              "title": "Cut Yr Teeth",
+              "type": "Song",
+              "url": "https://genius.com/Kississippi-cut-yr-teeth-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/13243811",
+                "body": {
+                  "plain": "The leading single and second track off of Kississippi\u2019s Sunset Blush."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 13243811,
+                "pinned": false,
+                "share_url": "https://genius.com/13243811",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/13243811/Kississippi-cut-yr-teeth/Cut-yr-teeth",
+                "verified": false,
+                "votes_total": 3,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/6694190",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l48vqbjimg8",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l48vqbjimg8",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l48vqbjimg8",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l48vqbjimg8",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3stnrgy2hi2",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 6694190,
+                      "iq": 849,
+                      "login": "Kenziepuff",
+                      "name": "Kenziepuff",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/Kenziepuff",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "native_uri": "spotify:track:33DNR39bb9soGLAinoI7pi",
+              "provider": "spotify",
+              "type": "audio",
+              "url": "https://open.spotify.com/track/33DNR39bb9soGLAinoI7pi"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1062898",
+            "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "id": 1062898,
+            "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kississippi",
+            "url": "https://genius.com/artists/Kississippi"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1487299",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 1487299,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Zoe Allaire Reynolds",
+              "url": "https://genius.com/artists/Zoe-allaire-reynolds"
+            },
+            {
+              "api_path": "/artists/1197213",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 1197213,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kyle Pulley",
+              "url": "https://genius.com/artists/Kyle-pulley"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": [
+        [
+          "You\u200b\u200b \u200b\u200bstarted\u200b\u200b \u200b\u200bout\u200b\u200b \u200b\u200bslow\u200b\u200b \u200b\u200bbut\u200b\u200b \u200b\u200byou\u200b\u200b \u200b\u200bcut\u200b\u200b \u200b\u200byour\u200b\u200b \u200b\u200bteeth\u200b\n You\u200b\u200b \u200b\u200bcut\u200b\u200b \u200b\u200byour\u200b\u200b \u200b\u200bteeth",
+          [
+            [
+              "To say that someone has cut their teeth doing a particular thing, at a particular time or place, you mean that that is how or where they began their career and learned some of their skills."
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "spotify_id": "7ASKGa97MMvntebub4RBnr",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 1,
+        "api_path": "/songs/6040168",
+        "artist_names": "Kississippi",
+        "full_title": "Around Your Room by\u00a0Kississippi",
+        "header_image_thumbnail_url": "https://images.genius.com/34524c72598e5c92fc22c7076e120518.300x300x1.png",
+        "header_image_url": "https://images.genius.com/34524c72598e5c92fc22c7076e120518.640x640x1.png",
+        "id": 6040168,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 321054,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1603408287,
+        "path": "/Kississippi-around-your-room-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Kississippi-around-your-room-sample",
+        "release_date_components": null,
+        "release_date_for_display": null,
+        "release_date_with_abbreviated_month_for_display": null,
+        "song_art_image_thumbnail_url": "https://images.genius.com/34524c72598e5c92fc22c7076e120518.300x300x1.png",
+        "song_art_image_url": "https://images.genius.com/34524c72598e5c92fc22c7076e120518.640x640x1.png",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Around Your Room",
+        "title_with_featured": "Around Your Room",
+        "updated_by_human_at": 1603408446,
+        "url": "https://genius.com/Kississippi-around-your-room-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1062898",
+          "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "id": 1062898,
+          "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "index_character": "k",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kississippi",
+          "slug": "Kississippi",
+          "url": "https://genius.com/artists/Kississippi"
+        },
+        "artist": "Kississippi",
+        "lyrics": "Around Your Room LyricsThrow your heart at me\nI\u2019m a sucker for you\nThat\u2019s something that you might say\nAnd confidentially\nI\u2019m a sucker for you too 'cause my heart's stuck that way\nNothing\u2019s gonna change, gotta love that belly ache\n\nAre you feeling me?\n'Cause I\u2019m feeling tip-top with you keeping me wide awake\nWe\u2019ve been skipping sleep\nGirls just wanna have fun like the Cyndi remake\nShow me I\u2019m the one with the way you\u2019re...\nKeeping your hands to yourself in the backseat\nCarefree, windows down like we\u2019re sixteen\nSteady when you are around me\nA babe in th\u0435 woods for legitimate longing\n\nAnything to be n\u0435ar you\nDancing around your room\n\nTell me everything\nAm I wasting my time?\nSending you mixed messages\nSpelling them out in tears on my dress again\n\nAnything to be near you\nDancing around your room\nLate night, and I\u2019m brand new\nWhen we\u2019re dancing around your room\n\nDoes spiraling steady when you are around me?\nSteady when you are around me\n\nI\u2019m spellbound in reverie\nCan you take it away from me?\nI\u2019m feeling just like a child\nStarstruck, wallowing\nSpellbound in reverie\nCan you take it away from me?\nI\u2019m feeling just like a child\nI\u2019m spellbound in reverie\nCan you take it away from me?\nI\u2019m feeling just like a child\nStarstruck, wallowing\nSpellbound in reverie can you take it away from me?\nI\u2019m feeling just like a childYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 1,
+          "api_path": "/songs/6040168",
+          "apple_music_id": "1532271544",
+          "apple_music_player_url": "https://genius.com/songs/6040168/apple_music_player",
+          "artist_names": "Kississippi",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6040168' class='rg_embed_link' data-song-id='6040168'>Read <a href='https://genius.com/Kississippi-around-your-room-lyrics'>\u201cAround Your Room\u201d by Kississippi</a> on Genius</div> <script crossorigin src='//genius.com/songs/6040168/embed.js'></script>",
+          "featured_video": true,
+          "full_title": "Around Your Room by\u00a0Kississippi",
+          "header_image_thumbnail_url": "https://images.genius.com/34524c72598e5c92fc22c7076e120518.300x300x1.png",
+          "header_image_url": "https://images.genius.com/34524c72598e5c92fc22c7076e120518.640x640x1.png",
+          "id": 6040168,
+          "language": "en",
+          "lyrics_owner_id": 321054,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Kississippi-around-your-room-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Kississippi-around-your-room-sample",
+          "release_date": null,
+          "release_date_for_display": null,
+          "release_date_with_abbreviated_month_for_display": null,
+          "song_art_image_thumbnail_url": "https://images.genius.com/34524c72598e5c92fc22c7076e120518.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/34524c72598e5c92fc22c7076e120518.640x640x1.png",
+          "stats": {
+            "accepted_annotations": 1,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Around Your Room",
+          "title_with_featured": "Around Your Room",
+          "url": "https://genius.com/Kississippi-around-your-room-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/771144",
+            "cover_art_url": "https://images.genius.com/0935b558f5aef5ac748689e27836bd9c.796x796x1.jpg",
+            "full_title": "Mood Ring by Kississippi",
+            "id": 771144,
+            "name": "Mood Ring",
+            "release_date_for_display": "August 6, 2021",
+            "url": "https://genius.com/albums/Kississippi/Mood-ring",
+            "artist": {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Label",
+              "artists": [
+                {
+                  "api_path": "/artists/986505",
+                  "header_image_url": "https://images.genius.com/1d0d6b3d8014db2737f4c719b5352500.500x500x1.jpg",
+                  "id": 986505,
+                  "image_url": "https://images.genius.com/1d0d6b3d8014db2737f4c719b5352500.500x500x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Triple Crown Records",
+                  "url": "https://genius.com/artists/Triple-crown-records"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 321054,
+            "annotator_login": "yungdirty",
+            "api_path": "/referents/21014520",
+            "classification": "needs_exegesis",
+            "fragment": "Around Your Room",
+            "id": 21014520,
+            "is_description": true,
+            "path": "/21014520/Kississippi-around-your-room/Around-your-room",
+            "range": {
+              "content": "Around Your Room"
+            },
+            "song_id": 6040168,
+            "url": "https://genius.com/21014520/Kississippi-around-your-room/Around-your-room",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6040168",
+              "client_timestamps": {
+                "updated_by_human_at": 1603408446,
+                "lyrics_updated_at": 1603408287
+              },
+              "context": "Kississippi",
+              "id": 6040168,
+              "image_url": "https://images.genius.com/34524c72598e5c92fc22c7076e120518.640x640x1.png",
+              "link_title": "Around Your Room by\u00a0Kississippi",
+              "title": "Around Your Room",
+              "type": "Song",
+              "url": "https://genius.com/Kississippi-around-your-room-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/21014520",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 21014520,
+                "pinned": false,
+                "share_url": "https://genius.com/21014520",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/21014520/Kississippi-around-your-room/Around-your-room",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/321054",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cjjv7kis7l",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cjjv7kis7l",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cjjv7kis7l",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cjjv7kis7l",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/n99k29f713",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 321054,
+                      "iq": 1881493,
+                      "login": "yungdirty",
+                      "name": "yungdirty",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/yungdirty",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=5eD1yiwZF6k"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1062898",
+            "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "id": 1062898,
+            "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kississippi",
+            "url": "https://genius.com/artists/Kississippi"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": [
+        [
+          "Girls just wanna have fun like the Cyndi remake",
+          [
+            [
+              "This is a reference to Cyndi Lauper\u2019s \u201cGirls Just Want To Have Have\u201d cover, which was originally written & recorded by Robert Hazard in 1979. Lyrically, Hazard\u2019s original version is from a male point of view while Lauper\u2019s is from a female point of view."
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "spotify_id": "7wjusjmjeqGJmuoGFYnMeM",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6805413",
+        "artist_names": "Kississippi",
+        "full_title": "We\u2019re So In Tune by\u00a0Kississippi",
+        "header_image_thumbnail_url": "https://images.genius.com/0935b558f5aef5ac748689e27836bd9c.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/0935b558f5aef5ac748689e27836bd9c.796x796x1.jpg",
+        "id": 6805413,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 6521002,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1628202351,
+        "path": "/Kississippi-were-so-in-tune-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Kississippi-were-so-in-tune-sample",
+        "release_date_components": null,
+        "release_date_for_display": null,
+        "release_date_with_abbreviated_month_for_display": null,
+        "song_art_image_thumbnail_url": "https://images.genius.com/0935b558f5aef5ac748689e27836bd9c.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/0935b558f5aef5ac748689e27836bd9c.796x796x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "We\u2019re So In Tune",
+        "title_with_featured": "We\u2019re So In Tune",
+        "updated_by_human_at": 1659748757,
+        "url": "https://genius.com/Kississippi-were-so-in-tune-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1062898",
+          "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "id": 1062898,
+          "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "index_character": "k",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kississippi",
+          "slug": "Kississippi",
+          "url": "https://genius.com/artists/Kississippi"
+        },
+        "artist": "Kississippi",
+        "lyrics": "We\u2019re So In Tune Lyrics[Verse]\nI'm punch drunk and you shake me\nI surrender for you\nI want to do the things we're not supposed to\nI got an inclination\nI got a bad desire\nI know you see right through it\nYou do it all the time\n\n[Chorus]\nPlaying the same song\nLike I'm playing it cool\nHard not to fall in love\nWhen we're so in tune\nWe're so in tune\nWe're so in tune\nWe're so in tune\nCan you hear it too?\n[Verse]\nI'm feeling kind of dizzy\nGetting tender for you\nDon't drown me\nYou bring my heart so close to\nPassing it's limitations\nIt's such a bad design\nIt's not a limitation\nI got to catch my ride\n\n[Chorus]\nPlaying the same song\nLike I'm playing it cool\nHard not to fall in love\nWh\u0435n we're so in tune\nW\u0435're so in tune\nWe're so in tune\nWe're so in tune\nCan you hear it too?\n\n[Bridge]\nEverything is surreal\nDirectionless behind the wheel\n(?) into a field\nDo you hear something?\nIt's echoing, that sounds like\nYou might also like[Chorus]\nPlaying the same song\nLike I'm playing it cool\nHard not to fall in love\nWhen we're so in tune\nWe're so in tune\nWe're so in tune\nWe're so in tune\nCan you hear it too?Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6805413",
+          "apple_music_id": "1563872257",
+          "apple_music_player_url": "https://genius.com/songs/6805413/apple_music_player",
+          "artist_names": "Kississippi",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6805413' class='rg_embed_link' data-song-id='6805413'>Read <a href='https://genius.com/Kississippi-were-so-in-tune-lyrics'>\u201cWe\u2019re So In Tune\u201d by Kississippi</a> on Genius</div> <script crossorigin src='//genius.com/songs/6805413/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "We\u2019re So In Tune by\u00a0Kississippi",
+          "header_image_thumbnail_url": "https://images.genius.com/0935b558f5aef5ac748689e27836bd9c.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/0935b558f5aef5ac748689e27836bd9c.796x796x1.jpg",
+          "id": 6805413,
+          "language": "en",
+          "lyrics_owner_id": 6521002,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Kississippi-were-so-in-tune-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Kississippi-were-so-in-tune-sample",
+          "release_date": null,
+          "release_date_for_display": null,
+          "release_date_with_abbreviated_month_for_display": null,
+          "song_art_image_thumbnail_url": "https://images.genius.com/0935b558f5aef5ac748689e27836bd9c.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/0935b558f5aef5ac748689e27836bd9c.796x796x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 2,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "We\u2019re So In Tune",
+          "title_with_featured": "We\u2019re So In Tune",
+          "url": "https://genius.com/Kississippi-were-so-in-tune-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/771144",
+            "cover_art_url": "https://images.genius.com/0935b558f5aef5ac748689e27836bd9c.796x796x1.jpg",
+            "full_title": "Mood Ring by Kississippi",
+            "id": 771144,
+            "name": "Mood Ring",
+            "release_date_for_display": "August 6, 2021",
+            "url": "https://genius.com/albums/Kississippi/Mood-ring",
+            "artist": {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Label",
+              "artists": [
+                {
+                  "api_path": "/artists/986505",
+                  "header_image_url": "https://images.genius.com/1d0d6b3d8014db2737f4c719b5352500.500x500x1.jpg",
+                  "id": 986505,
+                  "image_url": "https://images.genius.com/1d0d6b3d8014db2737f4c719b5352500.500x500x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Triple Crown Records",
+                  "url": "https://genius.com/artists/Triple-crown-records"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 321054,
+            "annotator_login": "yungdirty",
+            "api_path": "/referents/22997076",
+            "classification": "needs_exegesis",
+            "fragment": "We\u2019re So In Tune",
+            "id": 22997076,
+            "is_description": true,
+            "path": "/22997076/Kississippi-were-so-in-tune/Were-so-in-tune",
+            "range": {
+              "content": "We\u2019re So In Tune"
+            },
+            "song_id": 6805413,
+            "url": "https://genius.com/22997076/Kississippi-were-so-in-tune/Were-so-in-tune",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6805413",
+              "client_timestamps": {
+                "updated_by_human_at": 1659748757,
+                "lyrics_updated_at": 1628202351
+              },
+              "context": "Kississippi",
+              "id": 6805413,
+              "image_url": "https://images.genius.com/0935b558f5aef5ac748689e27836bd9c.796x796x1.jpg",
+              "link_title": "We\u2019re So In Tune by\u00a0Kississippi",
+              "title": "We\u2019re So In Tune",
+              "type": "Song",
+              "url": "https://genius.com/Kississippi-were-so-in-tune-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22997076",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22997076,
+                "pinned": false,
+                "share_url": "https://genius.com/22997076",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22997076/Kississippi-were-so-in-tune/Were-so-in-tune",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/321054",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cjjv7kis7l",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cjjv7kis7l",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cjjv7kis7l",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cjjv7kis7l",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/n99k29f713",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 321054,
+                      "iq": 1881493,
+                      "login": "yungdirty",
+                      "name": "yungdirty",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/yungdirty",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1062898",
+            "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "id": 1062898,
+            "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kississippi",
+            "url": "https://genius.com/artists/Kississippi"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "3WX8yih2kuwioWdZkKdpXT",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/3603982",
+        "artist_names": "Kississippi",
+        "full_title": "Greyhound by\u00a0Kississippi",
+        "header_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+        "id": 3603982,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 2689369,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1576125360,
+        "path": "/Kississippi-greyhound-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Kississippi-greyhound-sample",
+        "release_date_components": {
+          "year": 2015,
+          "month": 11,
+          "day": 20
+        },
+        "release_date_for_display": "November 20, 2015",
+        "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+        "song_art_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Greyhound",
+        "title_with_featured": "Greyhound",
+        "updated_by_human_at": 1576125360,
+        "url": "https://genius.com/Kississippi-greyhound-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1062898",
+          "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "id": 1062898,
+          "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "index_character": "k",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kississippi",
+          "slug": "Kississippi",
+          "url": "https://genius.com/artists/Kississippi"
+        },
+        "artist": "Kississippi",
+        "lyrics": "Greyhound LyricsI don't know who you think\nI thought I was\nOn the kitchen tiles picking glass\nOut of your dust\nYou know I'm not ever up to much\nYou know I'm not ever up to much\n\nI don't know who I think\nI thought I was\nTrying to fix my bike tires\nDisregard the rust\nYou know if I'm up late I'm not up to much\nYou know if I'm up late I'm not up to much\nI'm not sure where I fucked up\nI'm not sure if I don't talk enough\nShould have known that you\nDon't like to be touched\nShould have known that you\nDon't like to be touched\n\nYou know I'm not ever up to much\nYou know if I'm up late\nI'm not up to much\nShould have known that you\nDon't like to be touched\nShould have known that you\nDon't like to be touchedYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/3603982",
+          "apple_music_id": null,
+          "apple_music_player_url": "https://genius.com/songs/3603982/apple_music_player",
+          "artist_names": "Kississippi",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_3603982' class='rg_embed_link' data-song-id='3603982'>Read <a href='https://genius.com/Kississippi-greyhound-lyrics'>\u201cGreyhound\u201d by Kississippi</a> on Genius</div> <script crossorigin src='//genius.com/songs/3603982/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Greyhound by\u00a0Kississippi",
+          "header_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+          "id": 3603982,
+          "language": "en",
+          "lyrics_owner_id": 2689369,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Kississippi-greyhound-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Kississippi-greyhound-sample",
+          "release_date": "2015-11-20",
+          "release_date_for_display": "November 20, 2015",
+          "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Greyhound",
+          "title_with_featured": "Greyhound",
+          "url": "https://genius.com/Kississippi-greyhound-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/326746",
+            "cover_art_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+            "full_title": "We Have No Future, We're All Doomed by Kississippi",
+            "id": 326746,
+            "name": "We Have No Future, We\u2019re All Doomed",
+            "release_date_for_display": "November 20, 2015",
+            "url": "https://genius.com/albums/Kississippi/We-have-no-future-we-re-all-doomed",
+            "artist": {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 2689369,
+            "annotator_login": "AaronDSimpson",
+            "api_path": "/referents/14163055",
+            "classification": "needs_exegesis",
+            "fragment": "Greyhound",
+            "id": 14163055,
+            "is_description": true,
+            "path": "/14163055/Kississippi-greyhound/Greyhound",
+            "range": {
+              "content": "Greyhound"
+            },
+            "song_id": 3603982,
+            "url": "https://genius.com/14163055/Kississippi-greyhound/Greyhound",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3603982",
+              "client_timestamps": {
+                "updated_by_human_at": 1576125360,
+                "lyrics_updated_at": 1576125360
+              },
+              "context": "Kississippi",
+              "id": 3603982,
+              "image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+              "link_title": "Greyhound by\u00a0Kississippi",
+              "title": "Greyhound",
+              "type": "Song",
+              "url": "https://genius.com/Kississippi-greyhound-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/14163055",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 14163055,
+                "pinned": false,
+                "share_url": "https://genius.com/14163055",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/14163055/Kississippi-greyhound/Greyhound",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/2689369",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z4yhu57sdjf",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 2689369,
+                      "iq": 64639,
+                      "login": "AaronDSimpson",
+                      "name": "AaronDSimpson",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/AaronDSimpson",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1062898",
+            "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "id": 1062898,
+            "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kississippi",
+            "url": "https://genius.com/artists/Kississippi"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "5if55g116OIV0zTnhYvSmg",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/3603979",
+        "artist_names": "Kississippi",
+        "full_title": "This Song Used to be About You by\u00a0Kississippi",
+        "header_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+        "id": 3603979,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 2689369,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1554574124,
+        "path": "/Kississippi-this-song-used-to-be-about-you-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Kississippi-this-song-used-to-be-about-you-sample",
+        "release_date_components": {
+          "year": 2015,
+          "month": 11,
+          "day": 20
+        },
+        "release_date_for_display": "November 20, 2015",
+        "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+        "song_art_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "This Song Used to be About You",
+        "title_with_featured": "This Song Used to be About You",
+        "updated_by_human_at": 1554574124,
+        "url": "https://genius.com/Kississippi-this-song-used-to-be-about-you-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1062898",
+          "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "id": 1062898,
+          "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "index_character": "k",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kississippi",
+          "slug": "Kississippi",
+          "url": "https://genius.com/artists/Kississippi"
+        },
+        "artist": "Kississippi",
+        "lyrics": "This Song Used to be About You LyricsWhat makes you so sure that\nI am not as lucky as you are?\n\nSometimes I get so nauseous when\nI'm looking at your face\nNot 'cause I'm sick\nBut 'cause it fits perfectly in its frameYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/3603979",
+          "apple_music_id": null,
+          "apple_music_player_url": "https://genius.com/songs/3603979/apple_music_player",
+          "artist_names": "Kississippi",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_3603979' class='rg_embed_link' data-song-id='3603979'>Read <a href='https://genius.com/Kississippi-this-song-used-to-be-about-you-lyrics'>\u201cThis Song Used to be About You\u201d by Kississippi</a> on Genius</div> <script crossorigin src='//genius.com/songs/3603979/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "This Song Used to be About You by\u00a0Kississippi",
+          "header_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+          "id": 3603979,
+          "language": "en",
+          "lyrics_owner_id": 2689369,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Kississippi-this-song-used-to-be-about-you-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Kississippi-this-song-used-to-be-about-you-sample",
+          "release_date": "2015-11-20",
+          "release_date_for_display": "November 20, 2015",
+          "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 1,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "This Song Used to be About You",
+          "title_with_featured": "This Song Used to be About You",
+          "url": "https://genius.com/Kississippi-this-song-used-to-be-about-you-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/326746",
+            "cover_art_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+            "full_title": "We Have No Future, We're All Doomed by Kississippi",
+            "id": 326746,
+            "name": "We Have No Future, We\u2019re All Doomed",
+            "release_date_for_display": "November 20, 2015",
+            "url": "https://genius.com/albums/Kississippi/We-have-no-future-we-re-all-doomed",
+            "artist": {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 2689369,
+            "annotator_login": "AaronDSimpson",
+            "api_path": "/referents/14163052",
+            "classification": "needs_exegesis",
+            "fragment": "This Song Used to be About You",
+            "id": 14163052,
+            "is_description": true,
+            "path": "/14163052/Kississippi-this-song-used-to-be-about-you/This-song-used-to-be-about-you",
+            "range": {
+              "content": "This Song Used to be About You"
+            },
+            "song_id": 3603979,
+            "url": "https://genius.com/14163052/Kississippi-this-song-used-to-be-about-you/This-song-used-to-be-about-you",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3603979",
+              "client_timestamps": {
+                "updated_by_human_at": 1554574124,
+                "lyrics_updated_at": 1554574124
+              },
+              "context": "Kississippi",
+              "id": 3603979,
+              "image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+              "link_title": "This Song Used to be About You by\u00a0Kississippi",
+              "title": "This Song Used to be About You",
+              "type": "Song",
+              "url": "https://genius.com/Kississippi-this-song-used-to-be-about-you-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/14163052",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 14163052,
+                "pinned": false,
+                "share_url": "https://genius.com/14163052",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/14163052/Kississippi-this-song-used-to-be-about-you/This-song-used-to-be-about-you",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/2689369",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z4yhu57sdjf",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 2689369,
+                      "iq": 64639,
+                      "login": "AaronDSimpson",
+                      "name": "AaronDSimpson",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/AaronDSimpson",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1062898",
+            "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "id": 1062898,
+            "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kississippi",
+            "url": "https://genius.com/artists/Kississippi"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "1MFTzV9vmSAcqogUZjctkn",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/3603978",
+        "artist_names": "Kississippi",
+        "full_title": "Unkempt Leather by\u00a0Kississippi",
+        "header_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+        "id": 3603978,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 2689369,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1638649635,
+        "path": "/Kississippi-unkempt-leather-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Kississippi-unkempt-leather-sample",
+        "release_date_components": {
+          "year": 2015,
+          "month": 11,
+          "day": 20
+        },
+        "release_date_for_display": "November 20, 2015",
+        "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+        "song_art_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Unkempt Leather",
+        "title_with_featured": "Unkempt Leather",
+        "updated_by_human_at": 1638649635,
+        "url": "https://genius.com/Kississippi-unkempt-leather-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1062898",
+          "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "id": 1062898,
+          "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "index_character": "k",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kississippi",
+          "slug": "Kississippi",
+          "url": "https://genius.com/artists/Kississippi"
+        },
+        "artist": "Kississippi",
+        "lyrics": "Unkempt Leather LyricsThere are only so many books relating\nBack to black and white photos and architecture\n\nThere are only so many ways I can build it up before I can't hold it together\n\nI've been thinking about the holes in those woven loafers and unkempt leatherYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/3603978",
+          "apple_music_id": null,
+          "apple_music_player_url": "https://genius.com/songs/3603978/apple_music_player",
+          "artist_names": "Kississippi",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_3603978' class='rg_embed_link' data-song-id='3603978'>Read <a href='https://genius.com/Kississippi-unkempt-leather-lyrics'>\u201cUnkempt Leather\u201d by Kississippi</a> on Genius</div> <script crossorigin src='//genius.com/songs/3603978/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Unkempt Leather by\u00a0Kississippi",
+          "header_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+          "id": 3603978,
+          "language": "en",
+          "lyrics_owner_id": 2689369,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Kississippi-unkempt-leather-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Kississippi-unkempt-leather-sample",
+          "release_date": "2015-11-20",
+          "release_date_for_display": "November 20, 2015",
+          "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Unkempt Leather",
+          "title_with_featured": "Unkempt Leather",
+          "url": "https://genius.com/Kississippi-unkempt-leather-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/326746",
+            "cover_art_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+            "full_title": "We Have No Future, We're All Doomed by Kississippi",
+            "id": 326746,
+            "name": "We Have No Future, We\u2019re All Doomed",
+            "release_date_for_display": "November 20, 2015",
+            "url": "https://genius.com/albums/Kississippi/We-have-no-future-we-re-all-doomed",
+            "artist": {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 2689369,
+            "annotator_login": "AaronDSimpson",
+            "api_path": "/referents/14163051",
+            "classification": "needs_exegesis",
+            "fragment": "Unkempt Leather",
+            "id": 14163051,
+            "is_description": true,
+            "path": "/14163051/Kississippi-unkempt-leather/Unkempt-leather",
+            "range": {
+              "content": "Unkempt Leather"
+            },
+            "song_id": 3603978,
+            "url": "https://genius.com/14163051/Kississippi-unkempt-leather/Unkempt-leather",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3603978",
+              "client_timestamps": {
+                "updated_by_human_at": 1638649635,
+                "lyrics_updated_at": 1638649635
+              },
+              "context": "Kississippi",
+              "id": 3603978,
+              "image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+              "link_title": "Unkempt Leather by\u00a0Kississippi",
+              "title": "Unkempt Leather",
+              "type": "Song",
+              "url": "https://genius.com/Kississippi-unkempt-leather-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/14163051",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 14163051,
+                "pinned": false,
+                "share_url": "https://genius.com/14163051",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/14163051/Kississippi-unkempt-leather/Unkempt-leather",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/2689369",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z4yhu57sdjf",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 2689369,
+                      "iq": 64639,
+                      "login": "AaronDSimpson",
+                      "name": "AaronDSimpson",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/AaronDSimpson",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1062898",
+            "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "id": 1062898,
+            "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kississippi",
+            "url": "https://genius.com/artists/Kississippi"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "30MmYfuY149SRnjcBBbGmE",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 3,
+        "api_path": "/songs/3939058",
+        "artist_names": "Kississippi",
+        "full_title": "Lash to Lash by\u00a0Kississippi",
+        "header_image_thumbnail_url": "https://images.genius.com/85e004c53200f6905d15d6d274851c31.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/85e004c53200f6905d15d6d274851c31.1000x1000x1.jpg",
+        "id": 3939058,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 4367605,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1595354264,
+        "path": "/Kississippi-lash-to-lash-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Kississippi-lash-to-lash-sample",
+        "release_date_components": {
+          "year": 2018,
+          "month": 4,
+          "day": 6
+        },
+        "release_date_for_display": "April 6, 2018",
+        "release_date_with_abbreviated_month_for_display": "Apr. 6, 2018",
+        "song_art_image_thumbnail_url": "https://images.genius.com/85e004c53200f6905d15d6d274851c31.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/85e004c53200f6905d15d6d274851c31.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 3,
+          "hot": false
+        },
+        "title": "Lash to Lash",
+        "title_with_featured": "Lash to Lash",
+        "updated_by_human_at": 1595354264,
+        "url": "https://genius.com/Kississippi-lash-to-lash-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1062898",
+          "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "id": 1062898,
+          "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "index_character": "k",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kississippi",
+          "slug": "Kississippi",
+          "url": "https://genius.com/artists/Kississippi"
+        },
+        "artist": "Kississippi",
+        "lyrics": "Lash to Lash Lyrics[Verse 1]\nYou told me that you would miss me\nThen and there I felt it, too\nI sensed I was disassembling\nThe tone in your voice said, \"I hope you do.\"\n\n[Refrain]\nI hope you do\nI hope you do\n\n[Verse 2]\nYou put the bag on your back\nWithout saying goodbye to me\nI set to see you, all my things packed\n[Chorus 1]\nSat vigil for troubles mourning greens clean\nStill feels damp on the ends of my sleeves\nYou drew lines, you liked to watch the page bleed\nSpiritless, you say the prettiest things\nYour lulling means the world to me\nIs it too late to fall asleep?\n\n[Verse 3]\nAlways stifling, strong on good days\nHow peculiar to see\nYou salvaged winning words to say\nGoes to show you hoped I'd leave\n\n[Refrain]\nYou hoped I'd leave\nYou hoped I'd leave\nYou hoped I'd leave\n(Ooo)\nYou hoped I'd leave\n(Ooo)\n\n[Chorus 2]\nSat vigil for troubles mourning greens clean\nStill feels damp on the ends of my sleeves\nYou drew lines, you liked to watch the page bleed\nPoor judgment says you felt your shadow leave\nWhen passing hits, you're supposed to feel something more than longing\nYour lulling means the world to me\nIs it too late to fall asleep?\nYour lulling means the world to me\nIs it too late to fall asleep?You might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 3,
+          "api_path": "/songs/3939058",
+          "apple_music_id": "1360683948",
+          "apple_music_player_url": "https://genius.com/songs/3939058/apple_music_player",
+          "artist_names": "Kississippi",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_3939058' class='rg_embed_link' data-song-id='3939058'>Read <a href='https://genius.com/Kississippi-lash-to-lash-lyrics'>\u201cLash to Lash\u201d by Kississippi</a> on Genius</div> <script crossorigin src='//genius.com/songs/3939058/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Lash to Lash by\u00a0Kississippi",
+          "header_image_thumbnail_url": "https://images.genius.com/85e004c53200f6905d15d6d274851c31.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/85e004c53200f6905d15d6d274851c31.1000x1000x1.jpg",
+          "id": 3939058,
+          "language": "en",
+          "lyrics_owner_id": 4367605,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Kississippi-lash-to-lash-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Kississippi-lash-to-lash-sample",
+          "release_date": "2018-04-06",
+          "release_date_for_display": "April 6, 2018",
+          "release_date_with_abbreviated_month_for_display": "Apr. 6, 2018",
+          "song_art_image_thumbnail_url": "https://images.genius.com/85e004c53200f6905d15d6d274851c31.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/85e004c53200f6905d15d6d274851c31.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 1,
+            "unreviewed_annotations": 3,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Lash to Lash",
+          "title_with_featured": "Lash to Lash",
+          "url": "https://genius.com/Kississippi-lash-to-lash-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/458848",
+            "cover_art_url": "https://images.genius.com/85e004c53200f6905d15d6d274851c31.1000x1000x1.jpg",
+            "full_title": "Sunset Blush by Kississippi",
+            "id": 458848,
+            "name": "Sunset Blush",
+            "release_date_for_display": "April 6, 2018",
+            "url": "https://genius.com/albums/Kississippi/Sunset-blush",
+            "artist": {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 4367605,
+            "annotator_login": "apercu",
+            "api_path": "/referents/15314049",
+            "classification": "needs_exegesis",
+            "fragment": "Lash to Lash",
+            "id": 15314049,
+            "is_description": true,
+            "path": "/15314049/Kississippi-lash-to-lash/Lash-to-lash",
+            "range": {
+              "content": "Lash to Lash"
+            },
+            "song_id": 3939058,
+            "url": "https://genius.com/15314049/Kississippi-lash-to-lash/Lash-to-lash",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3939058",
+              "client_timestamps": {
+                "updated_by_human_at": 1595354264,
+                "lyrics_updated_at": 1595354264
+              },
+              "context": "Kississippi",
+              "id": 3939058,
+              "image_url": "https://images.genius.com/85e004c53200f6905d15d6d274851c31.1000x1000x1.jpg",
+              "link_title": "Lash to Lash by\u00a0Kississippi",
+              "title": "Lash to Lash",
+              "type": "Song",
+              "url": "https://genius.com/Kississippi-lash-to-lash-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/15314049",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 15314049,
+                "pinned": false,
+                "share_url": "https://genius.com/15314049",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/15314049/Kississippi-lash-to-lash/Lash-to-lash",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/4367605",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/bd085839d82f6bd31cde4923f6f52ed1",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/bd085839d82f6bd31cde4923f6f52ed1",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/bd085839d82f6bd31cde4923f6f52ed1",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/bd085839d82f6bd31cde4923f6f52ed1",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/bd085839d82f6bd31cde4923f6f52ed1",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 4367605,
+                      "iq": 1058,
+                      "login": "apercu",
+                      "name": "apercu",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/apercu",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=t6S64mCMHDg"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1062898",
+            "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "id": 1062898,
+            "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kississippi",
+            "url": "https://genius.com/artists/Kississippi"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1197213",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 1197213,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kyle Pulley",
+              "url": "https://genius.com/artists/Kyle-pulley"
+            },
+            {
+              "api_path": "/artists/1487299",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 1487299,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Zoe Allaire Reynolds",
+              "url": "https://genius.com/artists/Zoe-allaire-reynolds"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": [
+        [
+          "You liked to watch the page bleed",
+          [
+            [
+              "Some inks (India ink especially) bleeds through thin papers easily. \u201cPage bleed\u201d is also a printing and design term used to describe the blank margins surround the edge of a printed page"
+            ]
+          ]
+        ],
+        [
+          "Sat vigil for troubles mourning greens clean\n Still feels damp on the ends of my sleeves",
+          [
+            [
+              "Unfolded, we might read this couplet as depicting her crying for so long that she can wash her vegetables with her tears, soaking her shirt\u2019s cuffs in the process"
+            ]
+          ]
+        ],
+        [
+          "Disassembling",
+          [
+            [
+              "While \u201cdisassembling\u201d means \u201cto take apart,\u201d it\u2019s spelled (and pronounced) similarly to \u201cdissembling,\u201d meaning to lie or deceive. Like many of Zoe\u2019s lyrics, it\u2019s a sort of pun."
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "spotify_id": "4aEvCLli6Gf6Ri51gi1JUu",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/3603980",
+        "artist_names": "Kississippi",
+        "full_title": "Googly Eyes by\u00a0Kississippi",
+        "header_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+        "id": 3603980,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 2689369,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1521949242,
+        "path": "/Kississippi-googly-eyes-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Kississippi-googly-eyes-sample",
+        "release_date_components": {
+          "year": 2015,
+          "month": 11,
+          "day": 20
+        },
+        "release_date_for_display": "November 20, 2015",
+        "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+        "song_art_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Googly Eyes",
+        "title_with_featured": "Googly Eyes",
+        "updated_by_human_at": 1521949242,
+        "url": "https://genius.com/Kississippi-googly-eyes-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1062898",
+          "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "id": 1062898,
+          "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+          "index_character": "k",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kississippi",
+          "slug": "Kississippi",
+          "url": "https://genius.com/artists/Kississippi"
+        },
+        "artist": "Kississippi",
+        "lyrics": "Googly Eyes LyricsDon't you listen about the moon\nWhen they tell you she doesn't move\nYou know, I know that that's not true\nBecause I know she follows you\n\nAnd I think that she's the only thing\nI share with you\n\nIn the backseat of max's car\nPhiladelphia gobbles up the stars\nA thousand miles from where you are\nIf my arms were long enough I\u2019d reach that far\nAnd I think longings another thing\nI share with you\nBut not for me like I for youYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/3603980",
+          "apple_music_id": null,
+          "apple_music_player_url": "https://genius.com/songs/3603980/apple_music_player",
+          "artist_names": "Kississippi",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_3603980' class='rg_embed_link' data-song-id='3603980'>Read <a href='https://genius.com/Kississippi-googly-eyes-lyrics'>\u201cGoogly Eyes\u201d by Kississippi</a> on Genius</div> <script crossorigin src='//genius.com/songs/3603980/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Googly Eyes by\u00a0Kississippi",
+          "header_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+          "id": 3603980,
+          "language": "en",
+          "lyrics_owner_id": 2689369,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Kississippi-googly-eyes-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Kississippi-googly-eyes-sample",
+          "release_date": "2015-11-20",
+          "release_date_for_display": "November 20, 2015",
+          "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+          "song_art_image_thumbnail_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Googly Eyes",
+          "title_with_featured": "Googly Eyes",
+          "url": "https://genius.com/Kississippi-googly-eyes-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/326746",
+            "cover_art_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+            "full_title": "We Have No Future, We're All Doomed by Kississippi",
+            "id": 326746,
+            "name": "We Have No Future, We\u2019re All Doomed",
+            "release_date_for_display": "November 20, 2015",
+            "url": "https://genius.com/albums/Kississippi/We-have-no-future-we-re-all-doomed",
+            "artist": {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 2689369,
+            "annotator_login": "AaronDSimpson",
+            "api_path": "/referents/14163053",
+            "classification": "needs_exegesis",
+            "fragment": "Googly Eyes",
+            "id": 14163053,
+            "is_description": true,
+            "path": "/14163053/Kississippi-googly-eyes/Googly-eyes",
+            "range": {
+              "content": "Googly Eyes"
+            },
+            "song_id": 3603980,
+            "url": "https://genius.com/14163053/Kississippi-googly-eyes/Googly-eyes",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3603980",
+              "client_timestamps": {
+                "updated_by_human_at": 1521949242,
+                "lyrics_updated_at": 1521949242
+              },
+              "context": "Kississippi",
+              "id": 3603980,
+              "image_url": "https://images.genius.com/89b4fc275be544c541a745b04673025c.700x700x1.jpg",
+              "link_title": "Googly Eyes by\u00a0Kississippi",
+              "title": "Googly Eyes",
+              "type": "Song",
+              "url": "https://genius.com/Kississippi-googly-eyes-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/14163053",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 14163053,
+                "pinned": false,
+                "share_url": "https://genius.com/14163053",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/14163053/Kississippi-googly-eyes/Googly-eyes",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/2689369",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/7a72b5e08546ab8197fbd5aba22e589c",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z4yhu57sdjf",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 2689369,
+                      "iq": 64639,
+                      "login": "AaronDSimpson",
+                      "name": "AaronDSimpson",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/AaronDSimpson",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1062898",
+            "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "id": 1062898,
+            "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kississippi",
+            "url": "https://genius.com/artists/Kississippi"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1062898",
+              "header_image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "id": 1062898,
+              "image_url": "https://images.genius.com/da7cfbc07c84f5632e48c05711a92b90.800x800x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kississippi",
+              "url": "https://genius.com/artists/Kississippi"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    }
+  ]
+}

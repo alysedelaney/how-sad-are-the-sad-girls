@@ -1,0 +1,3590 @@
+{
+  "artist_name": "Gia Margaret",
+  "spotify_id": "7fnMav7xXJwwjbyWbSjF4C",
+  "songs": [
+    {
+      "spotify_id": "19jTCAxeVnkwKnWHSsdg0i",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 3,
+        "api_path": "/songs/4354670",
+        "artist_names": "Novo Amor & Gia Margaret",
+        "full_title": "Lucky for You by\u00a0Novo\u00a0Amor & Gia Margaret",
+        "header_image_thumbnail_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.500x500x1.jpg",
+        "id": 4354670,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 7955996,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1610140858,
+        "path": "/Novo-amor-and-gia-margaret-lucky-for-you-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Novo-amor-and-gia-margaret-lucky-for-you-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 3,
+          "day": 1
+        },
+        "release_date_for_display": "March 1, 2019",
+        "release_date_with_abbreviated_month_for_display": "Mar. 1, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.500x500x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 3,
+          "hot": false,
+          "pageviews": 9824
+        },
+        "title": "Lucky for You",
+        "title_with_featured": "Lucky for You",
+        "updated_by_human_at": 1574454543,
+        "url": "https://genius.com/Novo-amor-and-gia-margaret-lucky-for-you-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1745714",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+          "id": 1745714,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+          "index_character": "n",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Novo Amor & Gia Margaret",
+          "slug": "Novo-amor-and-gia-margaret",
+          "url": "https://genius.com/artists/Novo-amor-and-gia-margaret"
+        },
+        "artist": "Novo Amor & Gia Margaret",
+        "lyrics": "Lucky for You Lyrics[Intro : Guitar]\n\n[Verse 1]\nWhat can I say\nI\u2019m nothing to myself\nAnd tired of starting up my day\nBut in the morning I could meet you\n\n[Chorus]\nI\u2019m not what I thought\nI would be without you\nI\u2019m not really sure why\nI slept in my shoes\nI\u2019m nothing at all\nI\u2019m nothing at all\n[Pre-Chorus]\nLucky for you\nI\u2019m nothing without\nThe thought of starting all my days\nWith the mornings when I see you\nI\u2019m bored of staring at my face\nEvery morning when I need you\nEvery morning when I need you\n\n[Outro]\nI\u2019m not what I thought\nI would be without you\nI\u2019m not really sure why I do what I do\nI\u2019m nothing at all\nI\u2019m nothing at allYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 3,
+          "api_path": "/songs/4354670",
+          "apple_music_id": "1451911483",
+          "apple_music_player_url": "https://genius.com/songs/4354670/apple_music_player",
+          "artist_names": "Novo Amor & Gia Margaret",
+          "description": {
+            "plain": "The title \u201cLucky for You\u201d is alluding to how her significant other is lucky that she is so infatuated with them."
+          },
+          "embed_content": "<div id='rg_embed_link_4354670' class='rg_embed_link' data-song-id='4354670'>Read <a href='https://genius.com/Novo-amor-and-gia-margaret-lucky-for-you-lyrics'>\u201cLucky for You\u201d by Novo\u00a0Amor & Gia Margaret</a> on Genius</div> <script crossorigin src='//genius.com/songs/4354670/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Lucky for You by\u00a0Novo\u00a0Amor & Gia Margaret",
+          "header_image_thumbnail_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.500x500x1.jpg",
+          "id": 4354670,
+          "language": "en",
+          "lyrics_owner_id": 7955996,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Novo-amor-and-gia-margaret-lucky-for-you-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Novo-amor-and-gia-margaret-lucky-for-you-sample",
+          "release_date": "2019-03-01",
+          "release_date_for_display": "March 1, 2019",
+          "release_date_with_abbreviated_month_for_display": "Mar. 1, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.500x500x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 5,
+            "iq_earners": 5,
+            "transcribers": 1,
+            "unreviewed_annotations": 3,
+            "verified_annotations": 0,
+            "hot": false,
+            "pageviews": 9824
+          },
+          "title": "Lucky for You",
+          "title_with_featured": "Lucky for You",
+          "url": "https://genius.com/Novo-amor-and-gia-margaret-lucky-for-you-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "see_pageviews",
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/508816",
+            "cover_art_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.500x500x1.jpg",
+            "full_title": "No Fun / Lucky for You by Novo Amor",
+            "id": 508816,
+            "name": "No Fun / Lucky for You",
+            "release_date_for_display": "March 1, 2019",
+            "url": "https://genius.com/albums/Novo-amor/No-fun-lucky-for-you",
+            "artist": {
+              "api_path": "/artists/454194",
+              "header_image_url": "https://images.genius.com/1f4b3a55e34b6d1eea3c6e77f2abee72.1000x341x1.jpg",
+              "id": 454194,
+              "image_url": "https://images.genius.com/226ef5a4f3db4ae0851d204b22dab333.828x828x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Novo Amor",
+              "url": "https://genius.com/artists/Novo-amor"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 9800971,
+            "annotator_login": "DrewDozer",
+            "api_path": "/referents/16615186",
+            "classification": "unreviewed",
+            "fragment": "Lucky for You",
+            "id": 16615186,
+            "is_description": true,
+            "path": "/16615186/Novo-amor-and-gia-margaret-lucky-for-you/Lucky-for-you",
+            "range": {
+              "content": "Lucky for You"
+            },
+            "song_id": 4354670,
+            "url": "https://genius.com/16615186/Novo-amor-and-gia-margaret-lucky-for-you/Lucky-for-you",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/4354670",
+              "client_timestamps": {
+                "updated_by_human_at": 1574454543,
+                "lyrics_updated_at": 1610140858
+              },
+              "context": "Novo Amor & Gia Margaret",
+              "id": 4354670,
+              "image_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.500x500x1.jpg",
+              "link_title": "Lucky for You by\u00a0Novo\u00a0Amor & Gia Margaret",
+              "title": "Lucky for You",
+              "type": "Song",
+              "url": "https://genius.com/Novo-amor-and-gia-margaret-lucky-for-you-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/16615186",
+                "body": {
+                  "plain": "The title \u201cLucky for You\u201d is alluding to how her significant other is lucky that she is so infatuated with them."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 16615186,
+                "pinned": false,
+                "share_url": "https://genius.com/16615186",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/16615186/Novo-amor-and-gia-margaret-lucky-for-you/Lucky-for-you",
+                "verified": false,
+                "votes_total": 3,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/9800971",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/6c152cfc9a8a2a3aa82b20122ed91c6d",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/6c152cfc9a8a2a3aa82b20122ed91c6d",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/6c152cfc9a8a2a3aa82b20122ed91c6d",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/6c152cfc9a8a2a3aa82b20122ed91c6d",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/6c152cfc9a8a2a3aa82b20122ed91c6d",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 9800971,
+                      "iq": 361,
+                      "login": "DrewDozer",
+                      "name": "DrewDozer",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/DrewDozer",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1745714",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+            "id": 1745714,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Novo Amor & Gia Margaret",
+            "url": "https://genius.com/artists/Novo-amor-and-gia-margaret"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/454194",
+              "header_image_url": "https://images.genius.com/1f4b3a55e34b6d1eea3c6e77f2abee72.1000x341x1.jpg",
+              "id": 454194,
+              "image_url": "https://images.genius.com/226ef5a4f3db4ae0851d204b22dab333.828x828x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Novo Amor",
+              "url": "https://genius.com/artists/Novo-amor"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            },
+            {
+              "api_path": "/artists/454194",
+              "header_image_url": "https://images.genius.com/1f4b3a55e34b6d1eea3c6e77f2abee72.1000x341x1.jpg",
+              "id": 454194,
+              "image_url": "https://images.genius.com/226ef5a4f3db4ae0851d204b22dab333.828x828x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Novo Amor",
+              "url": "https://genius.com/artists/Novo-amor"
+            }
+          ]
+        }
+      },
+      "annotations": [
+        [
+          "I\u2019m not what I thought\n I would be without you",
+          [
+            [
+              "She is surprised at how different her emotions are when she\u2019s with vs without her significant other."
+            ]
+          ]
+        ],
+        [
+          "What can I say\n I\u2019m nothing to myself\n And tired of starting up my day\n But in the morning I could meet you",
+          [
+            [
+              "This song talks about infatuation. Not having self worth (\u201cI\u2019m nothing to myself\u201d), and feeling shitty whenever you\u2019re without your significant other."
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "spotify_id": "6IGq3RtjQ7o25MvImbKzRQ",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/4354038",
+        "artist_names": "Novo Amor & Gia Margaret",
+        "full_title": "No Fun by\u00a0Novo\u00a0Amor & Gia Margaret",
+        "header_image_thumbnail_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.500x500x1.jpg",
+        "id": 4354038,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 7955996,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1555105813,
+        "path": "/Novo-amor-and-gia-margaret-no-fun-lyrics",
+        "pyongs_count": 2,
+        "relationships_index_url": "https://genius.com/Novo-amor-and-gia-margaret-no-fun-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 3,
+          "day": 1
+        },
+        "release_date_for_display": "March 1, 2019",
+        "release_date_with_abbreviated_month_for_display": "Mar. 1, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.500x500x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false,
+          "pageviews": 6673
+        },
+        "title": "No Fun",
+        "title_with_featured": "No Fun",
+        "updated_by_human_at": 1646242616,
+        "url": "https://genius.com/Novo-amor-and-gia-margaret-no-fun-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1745714",
+          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+          "id": 1745714,
+          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+          "index_character": "n",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Novo Amor & Gia Margaret",
+          "slug": "Novo-amor-and-gia-margaret",
+          "url": "https://genius.com/artists/Novo-amor-and-gia-margaret"
+        },
+        "artist": "Novo Amor & Gia Margaret",
+        "lyrics": "No Fun Lyrics[Verse 1]\nI don't know what happened\nTo the old town\nLike the shadow of my mother\nIn the background\n\n[Chorus]\nIt's not enough to know\nIt's not enough anymore\n\n[Verse 2]\nEvery step that I took\nWas a bad one\nWith the shadow of my father\nHaving no fun\n[Chorus]\nIt's not enough to know\nIt's not enough anymore\nIt's not enough to know\nWhat that caused\n\n[Verse 3]\nI don't know how I'll change\nWhat I can't say\nWith the shadow my brother\nI was a mistake\n\n[Chorus]\nIt's not enough to know\nIt's not enough anymore\nIt's not enough to know\nWhat that caused\nWhat that caused\nWhat that causedYou might also like2Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/4354038",
+          "apple_music_id": "1451911065",
+          "apple_music_player_url": "https://genius.com/songs/4354038/apple_music_player",
+          "artist_names": "Novo Amor & Gia Margaret",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_4354038' class='rg_embed_link' data-song-id='4354038'>Read <a href='https://genius.com/Novo-amor-and-gia-margaret-no-fun-lyrics'>\u201cNo Fun\u201d by Novo\u00a0Amor & Gia Margaret</a> on Genius</div> <script crossorigin src='//genius.com/songs/4354038/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "No Fun by\u00a0Novo\u00a0Amor & Gia Margaret",
+          "header_image_thumbnail_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.500x500x1.jpg",
+          "id": 4354038,
+          "language": "en",
+          "lyrics_owner_id": 7955996,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Novo-amor-and-gia-margaret-no-fun-lyrics",
+          "pyongs_count": 2,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Novo-amor-and-gia-margaret-no-fun-sample",
+          "release_date": "2019-03-01",
+          "release_date_for_display": "March 1, 2019",
+          "release_date_with_abbreviated_month_for_display": "Mar. 1, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.500x500x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 6,
+            "iq_earners": 6,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false,
+            "pageviews": 6673
+          },
+          "title": "No Fun",
+          "title_with_featured": "No Fun",
+          "url": "https://genius.com/Novo-amor-and-gia-margaret-no-fun-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "see_pageviews",
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/508816",
+            "cover_art_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.500x500x1.jpg",
+            "full_title": "No Fun / Lucky for You by Novo Amor",
+            "id": 508816,
+            "name": "No Fun / Lucky for You",
+            "release_date_for_display": "March 1, 2019",
+            "url": "https://genius.com/albums/Novo-amor/No-fun-lucky-for-you",
+            "artist": {
+              "api_path": "/artists/454194",
+              "header_image_url": "https://images.genius.com/1f4b3a55e34b6d1eea3c6e77f2abee72.1000x341x1.jpg",
+              "id": 454194,
+              "image_url": "https://images.genius.com/226ef5a4f3db4ae0851d204b22dab333.828x828x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Novo Amor",
+              "url": "https://genius.com/artists/Novo-amor"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 7955996,
+            "annotator_login": "Hromyqibed",
+            "api_path": "/referents/16613398",
+            "classification": "needs_exegesis",
+            "fragment": "No Fun",
+            "id": 16613398,
+            "is_description": true,
+            "path": "/16613398/Novo-amor-and-gia-margaret-no-fun/No-fun",
+            "range": {
+              "content": "No Fun"
+            },
+            "song_id": 4354038,
+            "url": "https://genius.com/16613398/Novo-amor-and-gia-margaret-no-fun/No-fun",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/4354038",
+              "client_timestamps": {
+                "updated_by_human_at": 1646242616,
+                "lyrics_updated_at": 1555105813
+              },
+              "context": "Novo Amor & Gia Margaret",
+              "id": 4354038,
+              "image_url": "https://images.genius.com/da368f3bc01794cab1fbde82052ca6f9.500x500x1.jpg",
+              "link_title": "No Fun by\u00a0Novo\u00a0Amor & Gia Margaret",
+              "title": "No Fun",
+              "type": "Song",
+              "url": "https://genius.com/Novo-amor-and-gia-margaret-no-fun-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/16613398",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 16613398,
+                "pinned": false,
+                "share_url": "https://genius.com/16613398",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/16613398/Novo-amor-and-gia-margaret-no-fun/No-fun",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/7955996",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/80091c94cb5e9e9ba7cb416720c63410",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/80091c94cb5e9e9ba7cb416720c63410",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/80091c94cb5e9e9ba7cb416720c63410",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/80091c94cb5e9e9ba7cb416720c63410",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cvbeyh5ptx7",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 7955996,
+                      "iq": 8872,
+                      "login": "Hromyqibed",
+                      "name": "Hromyqibed",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/Hromyqibed",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1745714",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+            "id": 1745714,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Novo Amor & Gia Margaret",
+            "url": "https://genius.com/artists/Novo-amor-and-gia-margaret"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/454194",
+              "header_image_url": "https://images.genius.com/1f4b3a55e34b6d1eea3c6e77f2abee72.1000x341x1.jpg",
+              "id": 454194,
+              "image_url": "https://images.genius.com/226ef5a4f3db4ae0851d204b22dab333.828x828x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Novo Amor",
+              "url": "https://genius.com/artists/Novo-amor"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            },
+            {
+              "api_path": "/artists/454194",
+              "header_image_url": "https://images.genius.com/1f4b3a55e34b6d1eea3c6e77f2abee72.1000x341x1.jpg",
+              "id": 454194,
+              "image_url": "https://images.genius.com/226ef5a4f3db4ae0851d204b22dab333.828x828x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Novo Amor",
+              "url": "https://genius.com/artists/Novo-amor"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "2KDXCctJkNx43Z4b8pE6pS",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/5524469",
+        "artist_names": "Gia Margaret",
+        "full_title": "\u200bapathy by\u00a0Gia\u00a0Margaret",
+        "header_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+        "id": 5524469,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 15176689,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1646479249,
+        "path": "/Gia-margaret-apathy-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Gia-margaret-apathy-sample",
+        "release_date_components": {
+          "year": 2020,
+          "month": 4,
+          "day": 27
+        },
+        "release_date_for_display": "April 27, 2020",
+        "release_date_with_abbreviated_month_for_display": "Apr. 27, 2020",
+        "song_art_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "\u200bapathy",
+        "title_with_featured": "\u200bapathy",
+        "updated_by_human_at": 1667023725,
+        "url": "https://genius.com/Gia-margaret-apathy-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1535322",
+          "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+          "id": 1535322,
+          "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+          "index_character": "g",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Gia Margaret",
+          "slug": "Gia-margaret",
+          "url": "https://genius.com/artists/Gia-margaret"
+        },
+        "artist": "Gia Margaret",
+        "lyrics": "\u200bapathy Lyrics[Instrumental]\n\n[Outro: Speaker 1 & Speaker 2]\n[?]\u2014stick with [?]\nDo some of those controls\nDo some of the strong levels, um\nAnd do it on a\u2005song\nOkay\nYour\u2005favourite song, and\u2005[?]\nAnd as you're sitting there know\u2005that you can predominantly play for the piano, and just sitting at the piano, and even if it's just...doing that to get out of the body, rolling your shoulders as you're doing it, just something\u2014\nYeah\n\u2014to get out of it. To feel\u2014just free in your body, and let things...come out the way they want\nBut you're sounding great\nThank you\nYeah, and your\u2014your...range was even a lot more than I've heardYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/5524469",
+          "apple_music_id": "1507362471",
+          "apple_music_player_url": "https://genius.com/songs/5524469/apple_music_player",
+          "artist_names": "Gia Margaret",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_5524469' class='rg_embed_link' data-song-id='5524469'>Read <a href='https://genius.com/Gia-margaret-apathy-lyrics'>\u201c\u200bapathy\u201d by Gia\u00a0Margaret</a> on Genius</div> <script crossorigin src='//genius.com/songs/5524469/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200bapathy by\u00a0Gia\u00a0Margaret",
+          "header_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+          "id": 5524469,
+          "language": "en",
+          "lyrics_owner_id": 15176689,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Gia-margaret-apathy-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Gia-margaret-apathy-sample",
+          "release_date": "2020-04-27",
+          "release_date_for_display": "April 27, 2020",
+          "release_date_with_abbreviated_month_for_display": "Apr. 27, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 4,
+            "iq_earners": 4,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "\u200bapathy",
+          "title_with_featured": "\u200bapathy",
+          "url": "https://genius.com/Gia-margaret-apathy-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/630949",
+            "cover_art_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+            "full_title": "Mia Gargaret by Gia Margaret",
+            "id": 630949,
+            "name": "Mia Gargaret",
+            "release_date_for_display": "June 12, 2020",
+            "url": "https://genius.com/albums/Gia-margaret/Mia-gargaret",
+            "artist": {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Performer",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                }
+              ]
+            },
+            {
+              "label": "Recording Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                }
+              ]
+            },
+            {
+              "label": "Mastering Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1134546",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "id": 1134546,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Brian Zieske",
+                  "url": "https://genius.com/artists/Brian-zieske"
+                }
+              ]
+            },
+            {
+              "label": "Mixing Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                },
+                {
+                  "api_path": "/artists/2309789",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "id": 2309789,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Nicholas Papaleo",
+                  "url": "https://genius.com/artists/Nicholas-papaleo"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 1427756,
+            "annotator_login": "sereinik",
+            "api_path": "/referents/19723279",
+            "classification": "needs_exegesis",
+            "fragment": "\u200bapathy",
+            "id": 19723279,
+            "is_description": true,
+            "path": "/19723279/Gia-margaret-apathy/Apathy",
+            "range": {
+              "content": "\u200bapathy"
+            },
+            "song_id": 5524469,
+            "url": "https://genius.com/19723279/Gia-margaret-apathy/Apathy",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/5524469",
+              "client_timestamps": {
+                "updated_by_human_at": 1667023725,
+                "lyrics_updated_at": 1646479249
+              },
+              "context": "Gia Margaret",
+              "id": 5524469,
+              "image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+              "link_title": "\u200bapathy by\u00a0Gia\u00a0Margaret",
+              "title": "\u200bapathy",
+              "type": "Song",
+              "url": "https://genius.com/Gia-margaret-apathy-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/19723279",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 19723279,
+                "pinned": false,
+                "share_url": "https://genius.com/19723279",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/19723279/Gia-margaret-apathy/Apathy",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/1427756",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/bec31b97689c5ff40d18f52f22e40143.900x900x1.png",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/bec31b97689c5ff40d18f52f22e40143.900x900x1.png",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/bec31b97689c5ff40d18f52f22e40143.900x900x1.png",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/bec31b97689c5ff40d18f52f22e40143.900x900x1.png",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/b03c8c344744d3a77b9737da55e64af1.1000x669x1.jpg",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 1427756,
+                      "iq": 116413,
+                      "login": "sereinik",
+                      "name": "\u200bsereinik",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/sereinik",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1535322",
+            "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+            "id": 1535322,
+            "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Gia Margaret",
+            "url": "https://genius.com/artists/Gia-margaret"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "3AoBaqVjy2TuyEasY6Uzta",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/5534214",
+        "artist_names": "Gia Margaret",
+        "full_title": "\u200blesson by\u00a0Gia\u00a0Margaret",
+        "header_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+        "id": 5534214,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 1168310,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1595528918,
+        "path": "/Gia-margaret-lesson-lyrics",
+        "pyongs_count": 1,
+        "relationships_index_url": "https://genius.com/Gia-margaret-lesson-sample",
+        "release_date_components": {
+          "year": 2020,
+          "month": 6,
+          "day": 12
+        },
+        "release_date_for_display": "June 12, 2020",
+        "release_date_with_abbreviated_month_for_display": "Jun. 12, 2020",
+        "song_art_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "\u200blesson",
+        "title_with_featured": "\u200blesson",
+        "updated_by_human_at": 1667023761,
+        "url": "https://genius.com/Gia-margaret-lesson-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1535322",
+          "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+          "id": 1535322,
+          "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+          "index_character": "g",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Gia Margaret",
+          "slug": "Gia-margaret",
+          "url": "https://genius.com/artists/Gia-margaret"
+        },
+        "artist": "Gia Margaret",
+        "lyrics": "\u200blesson LyricsIs it all in my head\nDear one, dear one?\nI'll find a reason instead\nAnd I'm avoiding\u2005your\u2005love\nWhen I told\u2005you a lie to get you\u2005off\nThe phone\nI thought it was to save you\nAnd when I'm alone\nI think it is to save you\n\nDid I miss a lesson\nWhen I\nWas younger\nWhen I should've learned\nHow to be a person and how\nTo believe in what I deserve?You might also like1Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/5534214",
+          "apple_music_id": "1507363458",
+          "apple_music_player_url": "https://genius.com/songs/5534214/apple_music_player",
+          "artist_names": "Gia Margaret",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_5534214' class='rg_embed_link' data-song-id='5534214'>Read <a href='https://genius.com/Gia-margaret-lesson-lyrics'>\u201c\u200blesson\u201d by Gia\u00a0Margaret</a> on Genius</div> <script crossorigin src='//genius.com/songs/5534214/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200blesson by\u00a0Gia\u00a0Margaret",
+          "header_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+          "id": 5534214,
+          "language": "en",
+          "lyrics_owner_id": 1168310,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Gia-margaret-lesson-lyrics",
+          "pyongs_count": 1,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Gia-margaret-lesson-sample",
+          "release_date": "2020-06-12",
+          "release_date_for_display": "June 12, 2020",
+          "release_date_with_abbreviated_month_for_display": "Jun. 12, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 4,
+            "iq_earners": 3,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "\u200blesson",
+          "title_with_featured": "\u200blesson",
+          "url": "https://genius.com/Gia-margaret-lesson-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/630949",
+            "cover_art_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+            "full_title": "Mia Gargaret by Gia Margaret",
+            "id": 630949,
+            "name": "Mia Gargaret",
+            "release_date_for_display": "June 12, 2020",
+            "url": "https://genius.com/albums/Gia-margaret/Mia-gargaret",
+            "artist": {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Vocals",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                }
+              ]
+            },
+            {
+              "label": "Performer",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                }
+              ]
+            },
+            {
+              "label": "Drum Production",
+              "artists": [
+                {
+                  "api_path": "/artists/1048427",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "id": 1048427,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Doug Saltzman",
+                  "url": "https://genius.com/artists/Doug-saltzman"
+                }
+              ]
+            },
+            {
+              "label": "Guitar",
+              "artists": [
+                {
+                  "api_path": "/artists/1035315",
+                  "header_image_url": "https://images.genius.com/9edc1cf7c9b714944ef2c71f87bcf4a5.297x297x1.png",
+                  "id": 1035315,
+                  "image_url": "https://images.genius.com/9edc1cf7c9b714944ef2c71f87bcf4a5.297x297x1.png",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Stephen Steinbrink",
+                  "url": "https://genius.com/artists/Stephen-steinbrink"
+                }
+              ]
+            },
+            {
+              "label": "Organ",
+              "artists": [
+                {
+                  "api_path": "/artists/1035315",
+                  "header_image_url": "https://images.genius.com/9edc1cf7c9b714944ef2c71f87bcf4a5.297x297x1.png",
+                  "id": 1035315,
+                  "image_url": "https://images.genius.com/9edc1cf7c9b714944ef2c71f87bcf4a5.297x297x1.png",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Stephen Steinbrink",
+                  "url": "https://genius.com/artists/Stephen-steinbrink"
+                }
+              ]
+            },
+            {
+              "label": "Recording Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                }
+              ]
+            },
+            {
+              "label": "Mixing Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                },
+                {
+                  "api_path": "/artists/2309789",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "id": 2309789,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Nicholas Papaleo",
+                  "url": "https://genius.com/artists/Nicholas-papaleo"
+                },
+                {
+                  "api_path": "/artists/1048427",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "id": 1048427,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Doug Saltzman",
+                  "url": "https://genius.com/artists/Doug-saltzman"
+                }
+              ]
+            },
+            {
+              "label": "Mastering Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1134546",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "id": 1134546,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Brian Zieske",
+                  "url": "https://genius.com/artists/Brian-zieske"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 9122700,
+            "annotator_login": "letmekeepthalastpieceofmyheart",
+            "api_path": "/referents/19749048",
+            "classification": "needs_exegesis",
+            "fragment": "\u200blesson",
+            "id": 19749048,
+            "is_description": true,
+            "path": "/19749048/Gia-margaret-lesson/Lesson",
+            "range": {
+              "content": "\u200blesson"
+            },
+            "song_id": 5534214,
+            "url": "https://genius.com/19749048/Gia-margaret-lesson/Lesson",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/5534214",
+              "client_timestamps": {
+                "updated_by_human_at": 1667023761,
+                "lyrics_updated_at": 1595528918
+              },
+              "context": "Gia Margaret",
+              "id": 5534214,
+              "image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+              "link_title": "\u200blesson by\u00a0Gia\u00a0Margaret",
+              "title": "\u200blesson",
+              "type": "Song",
+              "url": "https://genius.com/Gia-margaret-lesson-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/19749048",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 19749048,
+                "pinned": false,
+                "share_url": "https://genius.com/19749048",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/19749048/Gia-margaret-lesson/Lesson",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/9122700",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/15a05e9525ee4fa9049dc2d2e2eb4c1a",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/15a05e9525ee4fa9049dc2d2e2eb4c1a",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/15a05e9525ee4fa9049dc2d2e2eb4c1a",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/15a05e9525ee4fa9049dc2d2e2eb4c1a",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/15a05e9525ee4fa9049dc2d2e2eb4c1a",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 9122700,
+                      "iq": 831,
+                      "login": "letmekeepthalastpieceofmyheart",
+                      "name": "letmekeepthalastpieceofmyheart",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/letmekeepthalastpieceofmyheart",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "native_uri": "spotify:track:3AoBaqVjy2TuyEasY6Uzta",
+              "provider": "spotify",
+              "type": "audio",
+              "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1535322",
+            "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+            "id": 1535322,
+            "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Gia Margaret",
+            "url": "https://genius.com/artists/Gia-margaret"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1035315",
+              "header_image_url": "https://images.genius.com/9edc1cf7c9b714944ef2c71f87bcf4a5.297x297x1.png",
+              "id": 1035315,
+              "image_url": "https://images.genius.com/9edc1cf7c9b714944ef2c71f87bcf4a5.297x297x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Stephen Steinbrink",
+              "url": "https://genius.com/artists/Stephen-steinbrink"
+            },
+            {
+              "api_path": "/artists/1048427",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 1048427,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Doug Saltzman",
+              "url": "https://genius.com/artists/Doug-saltzman"
+            },
+            {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "7ioA3dpnUBGyoWapMSxWnv",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 1,
+        "api_path": "/songs/5524453",
+        "artist_names": "Gia Margaret",
+        "full_title": "\u200bbody by\u00a0Gia\u00a0Margaret",
+        "header_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+        "id": 5524453,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 1427756,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1646477885,
+        "path": "/Gia-margaret-body-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Gia-margaret-body-sample",
+        "release_date_components": {
+          "year": 2020,
+          "month": 4,
+          "day": 27
+        },
+        "release_date_for_display": "April 27, 2020",
+        "release_date_with_abbreviated_month_for_display": "Apr. 27, 2020",
+        "song_art_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 1,
+          "hot": false,
+          "pageviews": 9719
+        },
+        "title": "\u200bbody",
+        "title_with_featured": "\u200bbody",
+        "updated_by_human_at": 1646479338,
+        "url": "https://genius.com/Gia-margaret-body-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1535322",
+          "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+          "id": 1535322,
+          "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+          "index_character": "g",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Gia Margaret",
+          "slug": "Gia-margaret",
+          "url": "https://genius.com/artists/Gia-margaret"
+        },
+        "artist": "Gia Margaret",
+        "lyrics": "\u200bbody Lyrics[Narration: Alan Watts]\nHow does your head look to your eyes?\nWell, I'll tell you\nIt looks like what you\u2005see\u2005out in front\u2005of you\nBecause all that you see\u2005out in front of you is how you feel inside\u205fyour\u205fhead\n\nIt\u205fis easy enough\u205fto stand still\nThe\u205fdifficulty is to walk without touching the ground\nWhy do you feel so heavy?\nIt isn't just a matter of gravitation and weight\nIt is that you feel that you are carrying your body around\nCommon speech expresses this all the time; \"life is a drag\"!\n\"I feel I am just dragging myself around.\"\n\"My body is a burden to me.\"\nTo whom? To whom, that's the question. You see?\nAnd when there is nobody left for whom the body can be a burden, the body isn't a burden\nBut so long as you fight it, it is\n\nIt's like saying...you know, \"to feel the feelings\"\nIt is a redundant expressionYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 1,
+          "api_path": "/songs/5524453",
+          "apple_music_id": "1507362475",
+          "apple_music_player_url": "https://genius.com/songs/5524453/apple_music_player",
+          "artist_names": "Gia Margaret",
+          "description": {
+            "plain": "\u201cBody\u201d samples a lecture titled \u201cOvercome Social Anxiety\u201d by the British philosopher Alan Watts, a \u201ccontinuous source of comfort & perspective for Gia in times of confusion.\u201d"
+          },
+          "embed_content": "<div id='rg_embed_link_5524453' class='rg_embed_link' data-song-id='5524453'>Read <a href='https://genius.com/Gia-margaret-body-lyrics'>\u201c\u200bbody\u201d by Gia\u00a0Margaret</a> on Genius</div> <script crossorigin src='//genius.com/songs/5524453/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200bbody by\u00a0Gia\u00a0Margaret",
+          "header_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+          "id": 5524453,
+          "language": "en",
+          "lyrics_owner_id": 1427756,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Gia-margaret-body-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Gia-margaret-body-sample",
+          "release_date": "2020-04-27",
+          "release_date_for_display": "April 27, 2020",
+          "release_date_with_abbreviated_month_for_display": "Apr. 27, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 6,
+            "iq_earners": 6,
+            "transcribers": 2,
+            "unreviewed_annotations": 1,
+            "verified_annotations": 0,
+            "hot": false,
+            "pageviews": 9719
+          },
+          "title": "\u200bbody",
+          "title_with_featured": "\u200bbody",
+          "url": "https://genius.com/Gia-margaret-body-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "see_pageviews",
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_relationships_page",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/630949",
+            "cover_art_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+            "full_title": "Mia Gargaret by Gia Margaret",
+            "id": 630949,
+            "name": "Mia Gargaret",
+            "release_date_for_display": "June 12, 2020",
+            "url": "https://genius.com/albums/Gia-margaret/Mia-gargaret",
+            "artist": {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Performer",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                }
+              ]
+            },
+            {
+              "label": "Recording Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                }
+              ]
+            },
+            {
+              "label": "Mastering Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1134546",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "id": 1134546,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Brian Zieske",
+                  "url": "https://genius.com/artists/Brian-zieske"
+                }
+              ]
+            },
+            {
+              "label": "Mixing Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                },
+                {
+                  "api_path": "/artists/2309789",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "id": 2309789,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Nicholas Papaleo",
+                  "url": "https://genius.com/artists/Nicholas-papaleo"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 8165695,
+            "annotator_login": "StevieDenae",
+            "api_path": "/referents/19723247",
+            "classification": "unreviewed",
+            "fragment": "\u200bbody",
+            "id": 19723247,
+            "is_description": true,
+            "path": "/19723247/Gia-margaret-body/Body",
+            "range": {
+              "content": "\u200bbody"
+            },
+            "song_id": 5524453,
+            "url": "https://genius.com/19723247/Gia-margaret-body/Body",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/5524453",
+              "client_timestamps": {
+                "updated_by_human_at": 1646479338,
+                "lyrics_updated_at": 1646477885
+              },
+              "context": "Gia Margaret",
+              "id": 5524453,
+              "image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+              "link_title": "\u200bbody by\u00a0Gia\u00a0Margaret",
+              "title": "\u200bbody",
+              "type": "Song",
+              "url": "https://genius.com/Gia-margaret-body-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/19723247",
+                "body": {
+                  "plain": "\u201cBody\u201d samples a lecture titled \u201cOvercome Social Anxiety\u201d by the British philosopher Alan Watts, a \u201ccontinuous source of comfort & perspective for Gia in times of confusion.\u201d"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 19723247,
+                "pinned": false,
+                "share_url": "https://genius.com/19723247",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/19723247/Gia-margaret-body/Body",
+                "verified": false,
+                "votes_total": 3,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/8165695",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8e71b99f95ab4b0da0697e8144c94525",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8e71b99f95ab4b0da0697e8144c94525",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8e71b99f95ab4b0da0697e8144c94525",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8e71b99f95ab4b0da0697e8144c94525",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/fg1xrfb18z4",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 8165695,
+                      "iq": 1161,
+                      "login": "StevieDenae",
+                      "name": "StevieDenae",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/StevieDenae",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=5z2zKPW5BxI"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1535322",
+            "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+            "id": 1535322,
+            "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Gia Margaret",
+            "url": "https://genius.com/artists/Gia-margaret"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "url": null,
+              "songs": [
+                {
+                  "annotation_count": 0,
+                  "api_path": "/songs/3909728",
+                  "artist_names": "Alan Watts",
+                  "full_title": "The World as Emptiness II, Part 6: Consider Death Now by\u00a0Alan\u00a0Watts",
+                  "header_image_thumbnail_url": "https://images.genius.com/4d05f503f5fac4c4c738895806dd7f76.294x294x1.jpg",
+                  "header_image_url": "https://images.genius.com/4d05f503f5fac4c4c738895806dd7f76.294x294x1.jpg",
+                  "id": 3909728,
+                  "language": "en",
+                  "lyrics_owner_id": 271026,
+                  "lyrics_state": "complete",
+                  "path": "/Alan-watts-the-world-as-emptiness-ii-part-6-consider-death-now-annotated",
+                  "pyongs_count": null,
+                  "relationships_index_url": "https://genius.com/Alan-watts-the-world-as-emptiness-ii-part-6-consider-death-now-sample",
+                  "release_date_components": null,
+                  "release_date_for_display": null,
+                  "release_date_with_abbreviated_month_for_display": null,
+                  "song_art_image_thumbnail_url": "https://images.genius.com/4d05f503f5fac4c4c738895806dd7f76.294x294x1.jpg",
+                  "song_art_image_url": "https://images.genius.com/4d05f503f5fac4c4c738895806dd7f76.294x294x1.jpg",
+                  "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                  },
+                  "title": "The World as Emptiness II, Part 6: Consider Death Now",
+                  "title_with_featured": "The World as Emptiness II, Part 6: Consider Death Now",
+                  "url": "https://genius.com/Alan-watts-the-world-as-emptiness-ii-part-6-consider-death-now-annotated",
+                  "featured_artists": [],
+                  "primary_artist": {
+                    "api_path": "/artists/32125",
+                    "header_image_url": "https://images.genius.com/cba7c853d1825554d086e93d31a5750c.324x378x1.jpg",
+                    "id": 32125,
+                    "image_url": "https://images.genius.com/cba7c853d1825554d086e93d31a5750c.324x378x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alan Watts",
+                    "url": "https://genius.com/artists/Alan-watts"
+                  }
+                }
+              ]
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "url": null,
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "url": null,
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "url": "https://genius.com/The-game-the-black-slim-shady-sample/interpolations",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "url": null,
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "url": null,
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "url": null,
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "url": null,
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "url": null,
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "url": null,
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "url": "https://genius.com/The-game-the-black-slim-shady-sample/translations",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "url": null,
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          ]
+        }
+      },
+      "annotations": []
+    },
+    {
+      "spotify_id": "5ND2EmYyhWRJq6iCdENkgZ",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/4591700",
+        "artist_names": "Gia Margaret",
+        "full_title": "Smoke (Acoustic) by\u00a0Gia\u00a0Margaret",
+        "header_image_thumbnail_url": "https://images.genius.com/5e5ce887dbf029043871209e052f25f9.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/5e5ce887dbf029043871209e052f25f9.640x640x1.jpg",
+        "id": 4591700,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 2305787,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1562649610,
+        "path": "/Gia-margaret-smoke-acoustic-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Gia-margaret-smoke-acoustic-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 5,
+          "day": 8
+        },
+        "release_date_for_display": "May 8, 2019",
+        "release_date_with_abbreviated_month_for_display": "May. 8, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/5e5ce887dbf029043871209e052f25f9.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/5e5ce887dbf029043871209e052f25f9.640x640x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Smoke (Acoustic)",
+        "title_with_featured": "Smoke (Acoustic)",
+        "updated_by_human_at": 1646476466,
+        "url": "https://genius.com/Gia-margaret-smoke-acoustic-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1535322",
+          "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+          "id": 1535322,
+          "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+          "index_character": "g",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Gia Margaret",
+          "slug": "Gia-margaret",
+          "url": "https://genius.com/artists/Gia-margaret"
+        },
+        "artist": "Gia Margaret",
+        "lyrics": "Smoke (Acoustic) Lyrics[Verse 1]\nMisty moon spills through old windows\nOf our earthly room with you on the right side\nSpill into you on the right side\nOf our bed\nOf our bed\nOf our bed\n\n[Verse 2]\nI\u2019ll never tell you I cried in the bathroom\nThe first night we moved in\nAnd you went out to smoke\nReminded now when you just spoke\nIn our bed\nIn our bed\nIn our bedYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/4591700",
+          "apple_music_id": "1462266425",
+          "apple_music_player_url": "https://genius.com/songs/4591700/apple_music_player",
+          "artist_names": "Gia Margaret",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_4591700' class='rg_embed_link' data-song-id='4591700'>Read <a href='https://genius.com/Gia-margaret-smoke-acoustic-lyrics'>\u201cSmoke (Acoustic)\u201d by Gia\u00a0Margaret</a> on Genius</div> <script crossorigin src='//genius.com/songs/4591700/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Smoke (Acoustic) by\u00a0Gia\u00a0Margaret",
+          "header_image_thumbnail_url": "https://images.genius.com/5e5ce887dbf029043871209e052f25f9.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/5e5ce887dbf029043871209e052f25f9.640x640x1.jpg",
+          "id": 4591700,
+          "language": "en",
+          "lyrics_owner_id": 2305787,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Gia-margaret-smoke-acoustic-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Gia-margaret-smoke-acoustic-sample",
+          "release_date": "2019-05-08",
+          "release_date_for_display": "May 8, 2019",
+          "release_date_with_abbreviated_month_for_display": "May. 8, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/5e5ce887dbf029043871209e052f25f9.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/5e5ce887dbf029043871209e052f25f9.640x640x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Smoke (Acoustic)",
+          "title_with_featured": "Smoke (Acoustic)",
+          "url": "https://genius.com/Gia-margaret-smoke-acoustic-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/533074",
+            "cover_art_url": "https://images.genius.com/36f335a723149ff80dbab36a854d7d61.1000x1000x1.jpg",
+            "full_title": "There's Always Glimmer (Deluxe Version) by Gia Margaret",
+            "id": 533074,
+            "name": "There\u2019s Always Glimmer (Deluxe Version)",
+            "release_date_for_display": "May 24, 2019",
+            "url": "https://genius.com/albums/Gia-margaret/There-s-always-glimmer-deluxe-version",
+            "artist": {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 54639,
+            "annotator_login": "WriteNProppa",
+            "api_path": "/referents/17280062",
+            "classification": "needs_exegesis",
+            "fragment": "Smoke (Acoustic)",
+            "id": 17280062,
+            "is_description": true,
+            "path": "/17280062/Gia-margaret-smoke-acoustic/Smoke-acoustic",
+            "range": {
+              "content": "Smoke (Acoustic)"
+            },
+            "song_id": 4591700,
+            "url": "https://genius.com/17280062/Gia-margaret-smoke-acoustic/Smoke-acoustic",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/4591700",
+              "client_timestamps": {
+                "updated_by_human_at": 1646476466,
+                "lyrics_updated_at": 1562649610
+              },
+              "context": "Gia Margaret",
+              "id": 4591700,
+              "image_url": "https://images.genius.com/5e5ce887dbf029043871209e052f25f9.640x640x1.jpg",
+              "link_title": "Smoke (Acoustic) by\u00a0Gia\u00a0Margaret",
+              "title": "Smoke (Acoustic)",
+              "type": "Song",
+              "url": "https://genius.com/Gia-margaret-smoke-acoustic-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/17280062",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 17280062,
+                "pinned": false,
+                "share_url": "https://genius.com/17280062",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/17280062/Gia-margaret-smoke-acoustic/Smoke-acoustic",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/54639",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                      "human_readable_role_for_display": "Staff",
+                      "id": 54639,
+                      "iq": 2674329,
+                      "login": "WriteNProppa",
+                      "name": "WriteNProppa",
+                      "role_for_display": "staff",
+                      "url": "https://genius.com/WriteNProppa",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=LLbLumrElD8"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1535322",
+            "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+            "id": 1535322,
+            "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Gia Margaret",
+            "url": "https://genius.com/artists/Gia-margaret"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": [
+                {
+                  "annotation_count": 0,
+                  "api_path": "/songs/3866324",
+                  "artist_names": "Gia Margaret",
+                  "full_title": "Smoke by\u00a0Gia\u00a0Margaret",
+                  "header_image_thumbnail_url": "https://images.genius.com/beafa4624abc9a173e3cf9d6bd263acb.300x300x1.jpg",
+                  "header_image_url": "https://images.genius.com/beafa4624abc9a173e3cf9d6bd263acb.600x600x1.jpg",
+                  "id": 3866324,
+                  "language": "en",
+                  "lyrics_owner_id": 1999621,
+                  "lyrics_state": "complete",
+                  "path": "/Gia-margaret-smoke-lyrics",
+                  "pyongs_count": null,
+                  "relationships_index_url": "https://genius.com/Gia-margaret-smoke-sample",
+                  "release_date_components": {
+                    "year": 2016,
+                    "month": 5,
+                    "day": 6
+                  },
+                  "release_date_for_display": "May 6, 2016",
+                  "release_date_with_abbreviated_month_for_display": "May. 6, 2016",
+                  "song_art_image_thumbnail_url": "https://images.genius.com/beafa4624abc9a173e3cf9d6bd263acb.300x300x1.jpg",
+                  "song_art_image_url": "https://images.genius.com/beafa4624abc9a173e3cf9d6bd263acb.600x600x1.jpg",
+                  "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                  },
+                  "title": "Smoke",
+                  "title_with_featured": "Smoke",
+                  "url": "https://genius.com/Gia-margaret-smoke-lyrics",
+                  "featured_artists": [],
+                  "primary_artist": {
+                    "api_path": "/artists/1535322",
+                    "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                    "id": 1535322,
+                    "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gia Margaret",
+                    "url": "https://genius.com/artists/Gia-margaret"
+                  }
+                }
+              ]
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "0E9MaPT1Qawq8iXEwxzCKf",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/5534207",
+        "artist_names": "Gia Margaret",
+        "full_title": "\u200bbarely there by\u00a0Gia\u00a0Margaret",
+        "header_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+        "id": 5534207,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 1427756,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1646477101,
+        "path": "/Gia-margaret-barely-there-lyrics",
+        "pyongs_count": 1,
+        "relationships_index_url": "https://genius.com/Gia-margaret-barely-there-sample",
+        "release_date_components": {
+          "year": 2020,
+          "month": 5,
+          "day": 22
+        },
+        "release_date_for_display": "May 22, 2020",
+        "release_date_with_abbreviated_month_for_display": "May. 22, 2020",
+        "song_art_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "\u200bbarely there",
+        "title_with_featured": "\u200bbarely there",
+        "updated_by_human_at": 1646477101,
+        "url": "https://genius.com/Gia-margaret-barely-there-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1535322",
+          "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+          "id": 1535322,
+          "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+          "index_character": "g",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Gia Margaret",
+          "slug": "Gia-margaret",
+          "url": "https://genius.com/artists/Gia-margaret"
+        },
+        "artist": "Gia Margaret",
+        "lyrics": "\u200bbarely there LyricsDo you ever feel\nDo you ever feel like you're living your life\nBut you're also barely\u2005there?\n(You're\u2005also barely there?)\n\nConversations\u2005you can't remember, because...when you had\u2005them, your mind was just trying to make it to the next sentence\nJust trying to make it to the next sentence without anyone noticing\nThe vacancy in your eyes, or your body and face trying to pull off \"fine\"\nAnd it may be believable to those who don't care, because...it's more fun that way\nAnd I guess you're more enjoyable when you laugh a lot\n(You're there.\u200b)You might also like1Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/5534207",
+          "apple_music_id": "1507362906",
+          "apple_music_player_url": "https://genius.com/songs/5534207/apple_music_player",
+          "artist_names": "Gia Margaret",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_5534207' class='rg_embed_link' data-song-id='5534207'>Read <a href='https://genius.com/Gia-margaret-barely-there-lyrics'>\u201c\u200bbarely there\u201d by Gia\u00a0Margaret</a> on Genius</div> <script crossorigin src='//genius.com/songs/5534207/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200bbarely there by\u00a0Gia\u00a0Margaret",
+          "header_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+          "id": 5534207,
+          "language": "en",
+          "lyrics_owner_id": 1427756,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Gia-margaret-barely-there-lyrics",
+          "pyongs_count": 1,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Gia-margaret-barely-there-sample",
+          "release_date": "2020-05-22",
+          "release_date_for_display": "May 22, 2020",
+          "release_date_with_abbreviated_month_for_display": "May. 22, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 4,
+            "iq_earners": 4,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "\u200bbarely there",
+          "title_with_featured": "\u200bbarely there",
+          "url": "https://genius.com/Gia-margaret-barely-there-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/630949",
+            "cover_art_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+            "full_title": "Mia Gargaret by Gia Margaret",
+            "id": 630949,
+            "name": "Mia Gargaret",
+            "release_date_for_display": "June 12, 2020",
+            "url": "https://genius.com/albums/Gia-margaret/Mia-gargaret",
+            "artist": {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Performer",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                }
+              ]
+            },
+            {
+              "label": "Recording Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                }
+              ]
+            },
+            {
+              "label": "Mixing Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1535322",
+                  "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+                  "id": 1535322,
+                  "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Gia Margaret",
+                  "url": "https://genius.com/artists/Gia-margaret"
+                },
+                {
+                  "api_path": "/artists/2309789",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "id": 2309789,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Nicholas Papaleo",
+                  "url": "https://genius.com/artists/Nicholas-papaleo"
+                }
+              ]
+            },
+            {
+              "label": "Mastering Engineer",
+              "artists": [
+                {
+                  "api_path": "/artists/1134546",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "id": 1134546,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Brian Zieske",
+                  "url": "https://genius.com/artists/Brian-zieske"
+                }
+              ]
+            },
+            {
+              "label": "Drum Production",
+              "artists": [
+                {
+                  "api_path": "/artists/1048427",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "id": 1048427,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Doug Saltzman",
+                  "url": "https://genius.com/artists/Doug-saltzman"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 9122700,
+            "annotator_login": "letmekeepthalastpieceofmyheart",
+            "api_path": "/referents/19749041",
+            "classification": "needs_exegesis",
+            "fragment": "\u200bbarely there",
+            "id": 19749041,
+            "is_description": true,
+            "path": "/19749041/Gia-margaret-barely-there/Barely-there",
+            "range": {
+              "content": "\u200bbarely there"
+            },
+            "song_id": 5534207,
+            "url": "https://genius.com/19749041/Gia-margaret-barely-there/Barely-there",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/5534207",
+              "client_timestamps": {
+                "updated_by_human_at": 1646477101,
+                "lyrics_updated_at": 1646477101
+              },
+              "context": "Gia Margaret",
+              "id": 5534207,
+              "image_url": "https://images.genius.com/edf26fb107c4d31128696449423bb088.640x640x1.jpg",
+              "link_title": "\u200bbarely there by\u00a0Gia\u00a0Margaret",
+              "title": "\u200bbarely there",
+              "type": "Song",
+              "url": "https://genius.com/Gia-margaret-barely-there-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/19749041",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 19749041,
+                "pinned": false,
+                "share_url": "https://genius.com/19749041",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/19749041/Gia-margaret-barely-there/Barely-there",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/9122700",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/15a05e9525ee4fa9049dc2d2e2eb4c1a",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/15a05e9525ee4fa9049dc2d2e2eb4c1a",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/15a05e9525ee4fa9049dc2d2e2eb4c1a",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/15a05e9525ee4fa9049dc2d2e2eb4c1a",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/15a05e9525ee4fa9049dc2d2e2eb4c1a",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 9122700,
+                      "iq": 831,
+                      "login": "letmekeepthalastpieceofmyheart",
+                      "name": "letmekeepthalastpieceofmyheart",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/letmekeepthalastpieceofmyheart",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=ltjpRGSjem4"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1535322",
+            "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+            "id": 1535322,
+            "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Gia Margaret",
+            "url": "https://genius.com/artists/Gia-margaret"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1048427",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 1048427,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Doug Saltzman",
+              "url": "https://genius.com/artists/Doug-saltzman"
+            },
+            {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1535322",
+              "header_image_url": "https://images.genius.com/620a49d54fc10ee805a437fbc212ab63.474x266x1.jpg",
+              "id": 1535322,
+              "image_url": "https://images.genius.com/8a862bc3cdaeb16778a39dfb1ee74028.913x913x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Gia Margaret",
+              "url": "https://genius.com/artists/Gia-margaret"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    }
+  ]
+}

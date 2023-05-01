@@ -1,0 +1,3233 @@
+{
+  "artist_name": "Mia Joy",
+  "spotify_id": "5a3lFI5IJGQbpMTdjrehHl",
+  "songs": [
+    {
+      "spotify_id": "7L6DW04d2MzlVwmROCAQUh",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6773381",
+        "artist_names": "Mia Joy",
+        "full_title": "Ye Old Man by\u00a0Mia\u00a0Joy",
+        "header_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+        "id": 6773381,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 10185602,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1620068527,
+        "path": "/Mia-joy-ye-old-man-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Mia-joy-ye-old-man-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 5,
+          "day": 7
+        },
+        "release_date_for_display": "May 7, 2021",
+        "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Ye Old Man",
+        "title_with_featured": "Ye Old Man",
+        "updated_by_human_at": 1620068527,
+        "url": "https://genius.com/Mia-joy-ye-old-man-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2577093",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 2577093,
+          "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mia Joy",
+          "slug": "Mia-joy",
+          "url": "https://genius.com/artists/Mia-joy"
+        },
+        "artist": "Mia Joy",
+        "lyrics": "Ye Old Man LyricsYou didn\u2019t call me on my birthday\nYou weren't around\nYou didn't call me on my birthday\nIt didn't get me down\nSometimes you're the baby and Im the old man\nSometimes you're the baby and I\u2019m the old man\nSometimes you're the baby\nIt doesn't get me down, get me down get me down\nIt doesn't get me down , get me down get me downYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6773381",
+          "apple_music_id": "1548305499",
+          "apple_music_player_url": "https://genius.com/songs/6773381/apple_music_player",
+          "artist_names": "Mia Joy",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6773381' class='rg_embed_link' data-song-id='6773381'>Read <a href='https://genius.com/Mia-joy-ye-old-man-lyrics'>\u201cYe Old Man\u201d by Mia\u00a0Joy</a> on Genius</div> <script crossorigin src='//genius.com/songs/6773381/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Ye Old Man by\u00a0Mia\u00a0Joy",
+          "header_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 6773381,
+          "language": "en",
+          "lyrics_owner_id": 10185602,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Mia-joy-ye-old-man-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Mia-joy-ye-old-man-sample",
+          "release_date": "2021-05-07",
+          "release_date_for_display": "May 7, 2021",
+          "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Ye Old Man",
+          "title_with_featured": "Ye Old Man",
+          "url": "https://genius.com/Mia-joy-ye-old-man-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 10185602,
+            "annotator_login": "FireTalk",
+            "api_path": "/referents/22912221",
+            "classification": "needs_exegesis",
+            "fragment": "Ye Old Man",
+            "id": 22912221,
+            "is_description": true,
+            "path": "/22912221/Mia-joy-ye-old-man/Ye-old-man",
+            "range": {
+              "content": "Ye Old Man"
+            },
+            "song_id": 6773381,
+            "url": "https://genius.com/22912221/Mia-joy-ye-old-man/Ye-old-man",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6773381",
+              "client_timestamps": {
+                "updated_by_human_at": 1620068527,
+                "lyrics_updated_at": 1620068527
+              },
+              "context": "Mia Joy",
+              "id": 6773381,
+              "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+              "link_title": "Ye Old Man by\u00a0Mia\u00a0Joy",
+              "title": "Ye Old Man",
+              "type": "Song",
+              "url": "https://genius.com/Mia-joy-ye-old-man-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22912221",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22912221,
+                "pinned": false,
+                "share_url": "https://genius.com/22912221",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22912221/Mia-joy-ye-old-man/Ye-old-man",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/10185602",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 10185602,
+                      "iq": 2823,
+                      "login": "FireTalk",
+                      "name": "FireTalk",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/FireTalk",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/2577093",
+            "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "id": 2577093,
+            "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mia Joy",
+            "url": "https://genius.com/artists/Mia-joy"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "511ZVowkwlpjo47NLcELzt",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6521331",
+        "artist_names": "Mia Joy",
+        "full_title": "See Us by\u00a0Mia\u00a0Joy",
+        "header_image_thumbnail_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.700x700x1.jpg",
+        "id": 6521331,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 10185602,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1614101142,
+        "path": "/Mia-joy-see-us-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Mia-joy-see-us-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 2,
+          "day": 23
+        },
+        "release_date_for_display": "February 23, 2021",
+        "release_date_with_abbreviated_month_for_display": "Feb. 23, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "See Us",
+        "title_with_featured": "See Us",
+        "updated_by_human_at": 1614101165,
+        "url": "https://genius.com/Mia-joy-see-us-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2577093",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 2577093,
+          "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mia Joy",
+          "slug": "Mia-joy",
+          "url": "https://genius.com/artists/Mia-joy"
+        },
+        "artist": "Mia Joy",
+        "lyrics": "See Us LyricsI can see us , I can see us\nFlying away\nI can see us leaving town\nI know I know I know I know\n\nI\u2019m not my father ,you're not your mother\nI know we can make it different for us\nI know I know I know I know I know\n\nI can see us making a name for ourselves\nI know I know I know i know I know\nI know I knowYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6521331",
+          "apple_music_id": "1548305503",
+          "apple_music_player_url": "https://genius.com/songs/6521331/apple_music_player",
+          "artist_names": "Mia Joy",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6521331' class='rg_embed_link' data-song-id='6521331'>Read <a href='https://genius.com/Mia-joy-see-us-lyrics'>\u201cSee Us\u201d by Mia\u00a0Joy</a> on Genius</div> <script crossorigin src='//genius.com/songs/6521331/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "See Us by\u00a0Mia\u00a0Joy",
+          "header_image_thumbnail_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.700x700x1.jpg",
+          "id": 6521331,
+          "language": "en",
+          "lyrics_owner_id": 10185602,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Mia-joy-see-us-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Mia-joy-see-us-sample",
+          "release_date": "2021-02-23",
+          "release_date_for_display": "February 23, 2021",
+          "release_date_with_abbreviated_month_for_display": "Feb. 23, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "See Us",
+          "title_with_featured": "See Us",
+          "url": "https://genius.com/Mia-joy-see-us-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 10185602,
+            "annotator_login": "FireTalk",
+            "api_path": "/referents/22270245",
+            "classification": "needs_exegesis",
+            "fragment": "See Us",
+            "id": 22270245,
+            "is_description": true,
+            "path": "/22270245/Mia-joy-see-us/See-us",
+            "range": {
+              "content": "See Us"
+            },
+            "song_id": 6521331,
+            "url": "https://genius.com/22270245/Mia-joy-see-us/See-us",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6521331",
+              "client_timestamps": {
+                "updated_by_human_at": 1614101165,
+                "lyrics_updated_at": 1614101142
+              },
+              "context": "Mia Joy",
+              "id": 6521331,
+              "image_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.700x700x1.jpg",
+              "link_title": "See Us by\u00a0Mia\u00a0Joy",
+              "title": "See Us",
+              "type": "Song",
+              "url": "https://genius.com/Mia-joy-see-us-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22270245",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22270245,
+                "pinned": false,
+                "share_url": "https://genius.com/22270245",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22270245/Mia-joy-see-us/See-us",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/10185602",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 10185602,
+                      "iq": 2823,
+                      "login": "FireTalk",
+                      "name": "FireTalk",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/FireTalk",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "attribution": "firetalk",
+              "provider": "soundcloud",
+              "type": "audio",
+              "url": "https://soundcloud.com/firetalk/mia-joy-see-us"
+            },
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=2thhTn_D1-4"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2577093",
+            "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "id": 2577093,
+            "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mia Joy",
+            "url": "https://genius.com/artists/Mia-joy"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "2xkFs5HUe0xnkiDm6eq9l2",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6419034",
+        "artist_names": "Mia Joy",
+        "full_title": "Haha by\u00a0Mia\u00a0Joy",
+        "header_image_thumbnail_url": "https://images.genius.com/825271dd51a66dc7b5d7d411bbe9a8a0.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/825271dd51a66dc7b5d7d411bbe9a8a0.1000x1000x1.jpg",
+        "id": 6419034,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 10185602,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1611585584,
+        "path": "/Mia-joy-haha-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Mia-joy-haha-sample",
+        "release_date_components": null,
+        "release_date_for_display": null,
+        "release_date_with_abbreviated_month_for_display": null,
+        "song_art_image_thumbnail_url": "https://images.genius.com/825271dd51a66dc7b5d7d411bbe9a8a0.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/825271dd51a66dc7b5d7d411bbe9a8a0.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Haha",
+        "title_with_featured": "Haha",
+        "updated_by_human_at": 1611585655,
+        "url": "https://genius.com/Mia-joy-haha-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2577093",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 2577093,
+          "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mia Joy",
+          "slug": "Mia-joy",
+          "url": "https://genius.com/artists/Mia-joy"
+        },
+        "artist": "Mia Joy",
+        "lyrics": "Haha LyricsI tired to keep my body in one piece\nMy skin, its sheds in my sleep\nTurns out the joke is on me\nHa ha ha ha ha ha ha ha\n\nWe\u2019re changing against our will\nI knew that one day we would\nChange for good\nHa ha ha ha ha ha ha ha\nHa ha ha ha ha ha ha haYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6419034",
+          "apple_music_id": "1548308845",
+          "apple_music_player_url": "https://genius.com/songs/6419034/apple_music_player",
+          "artist_names": "Mia Joy",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6419034' class='rg_embed_link' data-song-id='6419034'>Read <a href='https://genius.com/Mia-joy-haha-lyrics'>\u201cHaha\u201d by Mia\u00a0Joy</a> on Genius</div> <script crossorigin src='//genius.com/songs/6419034/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Haha by\u00a0Mia\u00a0Joy",
+          "header_image_thumbnail_url": "https://images.genius.com/825271dd51a66dc7b5d7d411bbe9a8a0.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/825271dd51a66dc7b5d7d411bbe9a8a0.1000x1000x1.jpg",
+          "id": 6419034,
+          "language": "en",
+          "lyrics_owner_id": 10185602,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Mia-joy-haha-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Mia-joy-haha-sample",
+          "release_date": null,
+          "release_date_for_display": null,
+          "release_date_with_abbreviated_month_for_display": null,
+          "song_art_image_thumbnail_url": "https://images.genius.com/825271dd51a66dc7b5d7d411bbe9a8a0.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/825271dd51a66dc7b5d7d411bbe9a8a0.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Haha",
+          "title_with_featured": "Haha",
+          "url": "https://genius.com/Mia-joy-haha-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 10185602,
+            "annotator_login": "FireTalk",
+            "api_path": "/referents/21989060",
+            "classification": "needs_exegesis",
+            "fragment": "Haha",
+            "id": 21989060,
+            "is_description": true,
+            "path": "/21989060/Mia-joy-haha/Haha",
+            "range": {
+              "content": "Haha"
+            },
+            "song_id": 6419034,
+            "url": "https://genius.com/21989060/Mia-joy-haha/Haha",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6419034",
+              "client_timestamps": {
+                "updated_by_human_at": 1611585655,
+                "lyrics_updated_at": 1611585584
+              },
+              "context": "Mia Joy",
+              "id": 6419034,
+              "image_url": "https://images.genius.com/825271dd51a66dc7b5d7d411bbe9a8a0.1000x1000x1.jpg",
+              "link_title": "Haha by\u00a0Mia\u00a0Joy",
+              "title": "Haha",
+              "type": "Song",
+              "url": "https://genius.com/Mia-joy-haha-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/21989060",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 21989060,
+                "pinned": false,
+                "share_url": "https://genius.com/21989060",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/21989060/Mia-joy-haha/Haha",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/10185602",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 10185602,
+                      "iq": 2823,
+                      "login": "FireTalk",
+                      "name": "FireTalk",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/FireTalk",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=3_qWQ8m-RDI"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2577093",
+            "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "id": 2577093,
+            "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mia Joy",
+            "url": "https://genius.com/artists/Mia-joy"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2577092",
+              "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+              "id": 2577092,
+              "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Mia Rocha",
+              "url": "https://genius.com/artists/Mia-rocha"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "4Wnt1KdnsPKMPyKe3jI4bw",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6773406",
+        "artist_names": "Mia Joy",
+        "full_title": "Phone Home by\u00a0Mia\u00a0Joy",
+        "header_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+        "id": 6773406,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 10185602,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1620069022,
+        "path": "/Mia-joy-phone-home-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Mia-joy-phone-home-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 5,
+          "day": 7
+        },
+        "release_date_for_display": "May 7, 2021",
+        "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Phone Home",
+        "title_with_featured": "Phone Home",
+        "updated_by_human_at": 1620069022,
+        "url": "https://genius.com/Mia-joy-phone-home-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2577093",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 2577093,
+          "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mia Joy",
+          "slug": "Mia-joy",
+          "url": "https://genius.com/artists/Mia-joy"
+        },
+        "artist": "Mia Joy",
+        "lyrics": "Phone Home LyricsI am calling late so you know I got home\nYou don\u2019t need to worry about me anymoreYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6773406",
+          "apple_music_id": "1548305507",
+          "apple_music_player_url": "https://genius.com/songs/6773406/apple_music_player",
+          "artist_names": "Mia Joy",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6773406' class='rg_embed_link' data-song-id='6773406'>Read <a href='https://genius.com/Mia-joy-phone-home-lyrics'>\u201cPhone Home\u201d by Mia\u00a0Joy</a> on Genius</div> <script crossorigin src='//genius.com/songs/6773406/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Phone Home by\u00a0Mia\u00a0Joy",
+          "header_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 6773406,
+          "language": "en",
+          "lyrics_owner_id": 10185602,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Mia-joy-phone-home-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Mia-joy-phone-home-sample",
+          "release_date": "2021-05-07",
+          "release_date_for_display": "May 7, 2021",
+          "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Phone Home",
+          "title_with_featured": "Phone Home",
+          "url": "https://genius.com/Mia-joy-phone-home-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 10185602,
+            "annotator_login": "FireTalk",
+            "api_path": "/referents/22912278",
+            "classification": "needs_exegesis",
+            "fragment": "Phone Home",
+            "id": 22912278,
+            "is_description": true,
+            "path": "/22912278/Mia-joy-phone-home/Phone-home",
+            "range": {
+              "content": "Phone Home"
+            },
+            "song_id": 6773406,
+            "url": "https://genius.com/22912278/Mia-joy-phone-home/Phone-home",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6773406",
+              "client_timestamps": {
+                "updated_by_human_at": 1620069022,
+                "lyrics_updated_at": 1620069022
+              },
+              "context": "Mia Joy",
+              "id": 6773406,
+              "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+              "link_title": "Phone Home by\u00a0Mia\u00a0Joy",
+              "title": "Phone Home",
+              "type": "Song",
+              "url": "https://genius.com/Mia-joy-phone-home-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22912278",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22912278,
+                "pinned": false,
+                "share_url": "https://genius.com/22912278",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22912278/Mia-joy-phone-home/Phone-home",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/10185602",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 10185602,
+                      "iq": 2823,
+                      "login": "FireTalk",
+                      "name": "FireTalk",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/FireTalk",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/2577093",
+            "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "id": 2577093,
+            "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mia Joy",
+            "url": "https://genius.com/artists/Mia-joy"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "0cQZfTyc7CKX4onKECNSMc",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6621532",
+        "artist_names": "Mia Joy",
+        "full_title": "Freak by\u00a0Mia\u00a0Joy",
+        "header_image_thumbnail_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.700x700x1.jpg",
+        "id": 6621532,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 10185602,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1617344149,
+        "path": "/Mia-joy-freak-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Mia-joy-freak-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 3,
+          "day": 22
+        },
+        "release_date_for_display": "March 22, 2021",
+        "release_date_with_abbreviated_month_for_display": "Mar. 22, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Freak",
+        "title_with_featured": "Freak",
+        "updated_by_human_at": 1617344149,
+        "url": "https://genius.com/Mia-joy-freak-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2577093",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 2577093,
+          "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mia Joy",
+          "slug": "Mia-joy",
+          "url": "https://genius.com/artists/Mia-joy"
+        },
+        "artist": "Mia Joy",
+        "lyrics": "Freak LyricsI'm not a freak on a leash\n'Cause you burned me to set me free\nIt's not about will but I'm finding my own, finding my own path\n\nYou growled louder than me\nYou were set in your ways\nI don't have to go to your parties\n\nI'm not a freak on a leash\n'Cause you burned me to set me free\nIt's not by ill will, but I'm finally setting my own path\nAnd I've never seen a future like this\nAnd I've never seen a future like thisYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6621532",
+          "apple_music_id": "1548305501",
+          "apple_music_player_url": "https://genius.com/songs/6621532/apple_music_player",
+          "artist_names": "Mia Joy",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6621532' class='rg_embed_link' data-song-id='6621532'>Read <a href='https://genius.com/Mia-joy-freak-lyrics'>\u201cFreak\u201d by Mia\u00a0Joy</a> on Genius</div> <script crossorigin src='//genius.com/songs/6621532/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Freak by\u00a0Mia\u00a0Joy",
+          "header_image_thumbnail_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.700x700x1.jpg",
+          "id": 6621532,
+          "language": "en",
+          "lyrics_owner_id": 10185602,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Mia-joy-freak-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Mia-joy-freak-sample",
+          "release_date": "2021-03-22",
+          "release_date_for_display": "March 22, 2021",
+          "release_date_with_abbreviated_month_for_display": "Mar. 22, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 1,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Freak",
+          "title_with_featured": "Freak",
+          "url": "https://genius.com/Mia-joy-freak-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 10185602,
+            "annotator_login": "FireTalk",
+            "api_path": "/referents/22523298",
+            "classification": "needs_exegesis",
+            "fragment": "Freak",
+            "id": 22523298,
+            "is_description": true,
+            "path": "/22523298/Mia-joy-freak/Freak",
+            "range": {
+              "content": "Freak"
+            },
+            "song_id": 6621532,
+            "url": "https://genius.com/22523298/Mia-joy-freak/Freak",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6621532",
+              "client_timestamps": {
+                "updated_by_human_at": 1617344149,
+                "lyrics_updated_at": 1617344149
+              },
+              "context": "Mia Joy",
+              "id": 6621532,
+              "image_url": "https://images.genius.com/06dd743343b1718739d1d5c734c312f9.700x700x1.jpg",
+              "link_title": "Freak by\u00a0Mia\u00a0Joy",
+              "title": "Freak",
+              "type": "Song",
+              "url": "https://genius.com/Mia-joy-freak-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22523298",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22523298,
+                "pinned": false,
+                "share_url": "https://genius.com/22523298",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22523298/Mia-joy-freak/Freak",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/10185602",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 10185602,
+                      "iq": 2823,
+                      "login": "FireTalk",
+                      "name": "FireTalk",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/FireTalk",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": {
+            "api_path": "/users/7650027",
+            "avatar": {
+              "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 16,
+                  "height": 16
+                }
+              },
+              "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 32,
+                  "height": 32
+                }
+              },
+              "small": {
+                "url": "https://images.genius.com/avatars/small/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 100,
+                  "height": 100
+                }
+              },
+              "medium": {
+                "url": "https://images.genius.com/avatars/medium/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 300,
+                  "height": 400
+                }
+              }
+            },
+            "header_image_url": "https://images.genius.com/94d13e1979801cdeb4d0cc7a103eb5eb.1000x664x1.jpg",
+            "human_readable_role_for_display": "Staff",
+            "id": 7650027,
+            "iq": 333552,
+            "login": "worstofalltime",
+            "name": "\u200bworstofalltime",
+            "role_for_display": "staff",
+            "url": "https://genius.com/worstofalltime",
+            "current_user_metadata": {
+              "permissions": [],
+              "excluded_permissions": [
+                "follow"
+              ],
+              "interactions": {
+                "following": false
+              }
+            }
+          },
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=uNMPPn5wC6Y"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/2577093",
+            "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "id": 2577093,
+            "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mia Joy",
+            "url": "https://genius.com/artists/Mia-joy"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "0WkpP3xC0utCghMX7DJxxK",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6773385",
+        "artist_names": "Mia Joy",
+        "full_title": "Heaven Forbid by\u00a0Mia\u00a0Joy",
+        "header_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+        "id": 6773385,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 10185602,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1620068606,
+        "path": "/Mia-joy-heaven-forbid-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Mia-joy-heaven-forbid-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 5,
+          "day": 7
+        },
+        "release_date_for_display": "May 7, 2021",
+        "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Heaven Forbid",
+        "title_with_featured": "Heaven Forbid",
+        "updated_by_human_at": 1667027961,
+        "url": "https://genius.com/Mia-joy-heaven-forbid-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2577093",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 2577093,
+          "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mia Joy",
+          "slug": "Mia-joy",
+          "url": "https://genius.com/artists/Mia-joy"
+        },
+        "artist": "Mia Joy",
+        "lyrics": "Heaven Forbid LyricsTime moves past me without my consent\nWhat if I forget?  Heaven forbid\nI can't hold my breathe\nFor when we make it\nDon't let me forget, Heaven Forbid\nDon't let me forget Heaven Forbid\nThey was a time when we were both filled light\nDon't let me forget, Heaven Forbid\n\nI was bleeding in the snow, on christmas day\nDon't let me forget , Heaven Forbid\nDon't let me forget , Heaven ForbidYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6773385",
+          "apple_music_id": "1548305500",
+          "apple_music_player_url": "https://genius.com/songs/6773385/apple_music_player",
+          "artist_names": "Mia Joy",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6773385' class='rg_embed_link' data-song-id='6773385'>Read <a href='https://genius.com/Mia-joy-heaven-forbid-lyrics'>\u201cHeaven Forbid\u201d by Mia\u00a0Joy</a> on Genius</div> <script crossorigin src='//genius.com/songs/6773385/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Heaven Forbid by\u00a0Mia\u00a0Joy",
+          "header_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 6773385,
+          "language": "en",
+          "lyrics_owner_id": 10185602,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Mia-joy-heaven-forbid-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Mia-joy-heaven-forbid-sample",
+          "release_date": "2021-05-07",
+          "release_date_for_display": "May 7, 2021",
+          "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Heaven Forbid",
+          "title_with_featured": "Heaven Forbid",
+          "url": "https://genius.com/Mia-joy-heaven-forbid-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 10185602,
+            "annotator_login": "FireTalk",
+            "api_path": "/referents/22912228",
+            "classification": "needs_exegesis",
+            "fragment": "Heaven Forbid",
+            "id": 22912228,
+            "is_description": true,
+            "path": "/22912228/Mia-joy-heaven-forbid/Heaven-forbid",
+            "range": {
+              "content": "Heaven Forbid"
+            },
+            "song_id": 6773385,
+            "url": "https://genius.com/22912228/Mia-joy-heaven-forbid/Heaven-forbid",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6773385",
+              "client_timestamps": {
+                "updated_by_human_at": 1667027961,
+                "lyrics_updated_at": 1620068606
+              },
+              "context": "Mia Joy",
+              "id": 6773385,
+              "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+              "link_title": "Heaven Forbid by\u00a0Mia\u00a0Joy",
+              "title": "Heaven Forbid",
+              "type": "Song",
+              "url": "https://genius.com/Mia-joy-heaven-forbid-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22912228",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22912228,
+                "pinned": false,
+                "share_url": "https://genius.com/22912228",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22912228/Mia-joy-heaven-forbid/Heaven-forbid",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/10185602",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 10185602,
+                      "iq": 2823,
+                      "login": "FireTalk",
+                      "name": "FireTalk",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/FireTalk",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/2577093",
+            "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "id": 2577093,
+            "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mia Joy",
+            "url": "https://genius.com/artists/Mia-joy"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "4WzfyltDXDbhMDUXv01P43",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6773391",
+        "artist_names": "Mia Joy",
+        "full_title": "Sword (I Carry) by\u00a0Mia\u00a0Joy",
+        "header_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+        "id": 6773391,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 10185602,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1620068885,
+        "path": "/Mia-joy-sword-i-carry-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Mia-joy-sword-i-carry-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 5,
+          "day": 7
+        },
+        "release_date_for_display": "May 7, 2021",
+        "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Sword (I Carry)",
+        "title_with_featured": "Sword (I Carry)",
+        "updated_by_human_at": 1667027961,
+        "url": "https://genius.com/Mia-joy-sword-i-carry-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2577093",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 2577093,
+          "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mia Joy",
+          "slug": "Mia-joy",
+          "url": "https://genius.com/artists/Mia-joy"
+        },
+        "artist": "Mia Joy",
+        "lyrics": "Sword (I Carry) LyricsDo you still see the good in me?\nDo you still see the good in me?\nDo you still think of\nThe good in me?You might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6773391",
+          "apple_music_id": "1548305506",
+          "apple_music_player_url": "https://genius.com/songs/6773391/apple_music_player",
+          "artist_names": "Mia Joy",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6773391' class='rg_embed_link' data-song-id='6773391'>Read <a href='https://genius.com/Mia-joy-sword-i-carry-lyrics'>\u201cSword (I Carry)\u201d by Mia\u00a0Joy</a> on Genius</div> <script crossorigin src='//genius.com/songs/6773391/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Sword (I Carry) by\u00a0Mia\u00a0Joy",
+          "header_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 6773391,
+          "language": "en",
+          "lyrics_owner_id": 10185602,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Mia-joy-sword-i-carry-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Mia-joy-sword-i-carry-sample",
+          "release_date": "2021-05-07",
+          "release_date_for_display": "May 7, 2021",
+          "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Sword (I Carry)",
+          "title_with_featured": "Sword (I Carry)",
+          "url": "https://genius.com/Mia-joy-sword-i-carry-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 10185602,
+            "annotator_login": "FireTalk",
+            "api_path": "/referents/22912251",
+            "classification": "needs_exegesis",
+            "fragment": "Sword (I Carry)",
+            "id": 22912251,
+            "is_description": true,
+            "path": "/22912251/Mia-joy-sword-i-carry/Sword-i-carry",
+            "range": {
+              "content": "Sword (I Carry)"
+            },
+            "song_id": 6773391,
+            "url": "https://genius.com/22912251/Mia-joy-sword-i-carry/Sword-i-carry",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6773391",
+              "client_timestamps": {
+                "updated_by_human_at": 1667027961,
+                "lyrics_updated_at": 1620068885
+              },
+              "context": "Mia Joy",
+              "id": 6773391,
+              "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+              "link_title": "Sword (I Carry) by\u00a0Mia\u00a0Joy",
+              "title": "Sword (I Carry)",
+              "type": "Song",
+              "url": "https://genius.com/Mia-joy-sword-i-carry-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22912251",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22912251,
+                "pinned": false,
+                "share_url": "https://genius.com/22912251",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22912251/Mia-joy-sword-i-carry/Sword-i-carry",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/10185602",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 10185602,
+                      "iq": 2823,
+                      "login": "FireTalk",
+                      "name": "FireTalk",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/FireTalk",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/2577093",
+            "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "id": 2577093,
+            "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mia Joy",
+            "url": "https://genius.com/artists/Mia-joy"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "5OTER0btPlqrrwmthg1VeQ",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6773389",
+        "artist_names": "Mia Joy",
+        "full_title": "Across the Water by\u00a0Mia\u00a0Joy",
+        "header_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+        "id": 6773389,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 10185602,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1620068752,
+        "path": "/Mia-joy-across-the-water-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Mia-joy-across-the-water-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 5,
+          "day": 7
+        },
+        "release_date_for_display": "May 7, 2021",
+        "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Across the Water",
+        "title_with_featured": "Across the Water",
+        "updated_by_human_at": 1667027961,
+        "url": "https://genius.com/Mia-joy-across-the-water-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/2577093",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 2577093,
+          "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Mia Joy",
+          "slug": "Mia-joy",
+          "url": "https://genius.com/artists/Mia-joy"
+        },
+        "artist": "Mia Joy",
+        "lyrics": "Across the Water LyricsI walked across the water at night\nTo know you\u2019re alright\nI walk across the water at night\nTo know you're alive\nI\u2019m alright\nI'm doing fine\nI\u2019m alright\nI'm doing fine\nI'm doing fineYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6773389",
+          "apple_music_id": "1548305502",
+          "apple_music_player_url": "https://genius.com/songs/6773389/apple_music_player",
+          "artist_names": "Mia Joy",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6773389' class='rg_embed_link' data-song-id='6773389'>Read <a href='https://genius.com/Mia-joy-across-the-water-lyrics'>\u201cAcross the Water\u201d by Mia\u00a0Joy</a> on Genius</div> <script crossorigin src='//genius.com/songs/6773389/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Across the Water by\u00a0Mia\u00a0Joy",
+          "header_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "id": 6773389,
+          "language": "en",
+          "lyrics_owner_id": 10185602,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Mia-joy-across-the-water-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Mia-joy-across-the-water-sample",
+          "release_date": "2021-05-07",
+          "release_date_for_display": "May 7, 2021",
+          "release_date_with_abbreviated_month_for_display": "May. 7, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Across the Water",
+          "title_with_featured": "Across the Water",
+          "url": "https://genius.com/Mia-joy-across-the-water-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 10185602,
+            "annotator_login": "FireTalk",
+            "api_path": "/referents/22912243",
+            "classification": "needs_exegesis",
+            "fragment": "Across the Water",
+            "id": 22912243,
+            "is_description": true,
+            "path": "/22912243/Mia-joy-across-the-water/Across-the-water",
+            "range": {
+              "content": "Across the Water"
+            },
+            "song_id": 6773389,
+            "url": "https://genius.com/22912243/Mia-joy-across-the-water/Across-the-water",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6773389",
+              "client_timestamps": {
+                "updated_by_human_at": 1667027961,
+                "lyrics_updated_at": 1620068752
+              },
+              "context": "Mia Joy",
+              "id": 6773389,
+              "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+              "link_title": "Across the Water by\u00a0Mia\u00a0Joy",
+              "title": "Across the Water",
+              "type": "Song",
+              "url": "https://genius.com/Mia-joy-across-the-water-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22912243",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22912243,
+                "pinned": false,
+                "share_url": "https://genius.com/22912243",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22912243/Mia-joy-across-the-water/Across-the-water",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/10185602",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/12f1375e14755c201c09a886846b231f",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 10185602,
+                      "iq": 2823,
+                      "login": "FireTalk",
+                      "name": "FireTalk",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/FireTalk",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/2577093",
+            "header_image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "id": 2577093,
+            "image_url": "https://images.genius.com/d34ea480ad4244f366022cd6f9a42c9d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mia Joy",
+            "url": "https://genius.com/artists/Mia-joy"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    }
+  ]
+}

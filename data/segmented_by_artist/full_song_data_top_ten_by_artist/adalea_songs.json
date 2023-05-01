@@ -1,0 +1,4359 @@
+{
+  "artist_name": "Ada Lea",
+  "spotify_id": "3sE8O47mEFWR6pL0rwnAHy",
+  "songs": [
+    {
+      "spotify_id": "5mgWktGBliaIdAaBtZ8ff3",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/7059070",
+        "artist_names": "Ada Lea",
+        "full_title": "\u200bdamn by\u00a0Ada\u00a0Lea",
+        "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "id": 7059070,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 5265591,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1630375626,
+        "path": "/Ada-lea-damn-lyrics",
+        "pyongs_count": 1,
+        "relationships_index_url": "https://genius.com/Ada-lea-damn-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 7,
+          "day": 27
+        },
+        "release_date_for_display": "July 27, 2021",
+        "release_date_with_abbreviated_month_for_display": "Jul. 27, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "\u200bdamn",
+        "title_with_featured": "\u200bdamn",
+        "updated_by_human_at": 1630376603,
+        "url": "https://genius.com/Ada-lea-damn-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1817947",
+          "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+          "id": 1817947,
+          "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+          "index_character": "a",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ada Lea",
+          "slug": "Ada-lea",
+          "url": "https://genius.com/artists/Ada-lea"
+        },
+        "artist": "Ada Lea",
+        "lyrics": "\u200bdamn Lyrics[Verse 1]\nThe year started at the back of a train of thought\nFacing the elevator in an awkward way\nEveryone drunk off of their faces, just singing our praises\nWanting in on the magic, say midnight on the second floor counting\nWhile you were in the corner joking about\nHow it would be your last\nHow it would be your last\n\n[Verse 2]\nWhen we were outside having a smoke\nI heard you asking around, \"Hey, could you find me some coke?\"\nEvery year is just a little bit darker\nThen the darker gets darker\nTh\u0435n it's dark as hell\nBy now you don't need a good reason\nYou climb up to the high\u0435st of the trees and\nYou laughed yourself clean\nYeah, you laughed yourself clean\n[Verse 3]\nBack inside where the party had started\nEyes shut, feet quick, really feeling ecstatic\nFeelings come then they go someplace\nLittle high, big lows, in any case\nA good friend is a good friend, no doubt\nBut sometimes a good friend ain't enough to grab ya and pull you out\n\n[Chorus]\nDamn the work, damn the music\nDamn the fun that's missing\nDamn the drugs, damn the friends\nDamn the phone that's ringing\nDamn the night, damn the party\nDamn the song that's spinning and trying to lift us up\nBut it only drags us down\n\n[Verse 4]\nThe year started at the back of a train of thought\nFacing the elevator in an awkward way\nMade a call from the side room, \"Hey ma, can I come home soon?\"\nI'm lying on the floor in the bathroom\nI've had it with this place, we're all going insane\nI've had it with this place, well, you've been feeling lost now\nLiving in the background\nHanging with a rough crowd\nThinking of the times you had it all figured out\nNow everyone is passed out\nBlurry on the edge now\nEmpty as an effigy waiting to come down\nI've had it with this place\nWe're all going insane\nI've had it with this place\nWe've all gone insane\nYou might also like[Chorus]\nDamn the work, damn the music\nDamn the fun that's missing\nDamn the drugs, damn the friends\nDamn the phone that's ringing\nDamn the night, damn the party\nDamn the song that's spinning\nDamn the room, damn the street, damn the scene listening\nDamn the home, damn the dog\nDamn the planet watching\nDamn the mood, damn the people\nDamn the door that's closing\nDamn the time, damn the ride\nDamn the drive that's missing\nDamn the home, damn the dog\nDamn the life that's winning1Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/7059070",
+          "apple_music_id": "1574537837",
+          "apple_music_player_url": "https://genius.com/songs/7059070/apple_music_player",
+          "artist_names": "Ada Lea",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_7059070' class='rg_embed_link' data-song-id='7059070'>Read <a href='https://genius.com/Ada-lea-damn-lyrics'>\u201c\u200bdamn\u201d by Ada\u00a0Lea</a> on Genius</div> <script crossorigin src='//genius.com/songs/7059070/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200bdamn by\u00a0Ada\u00a0Lea",
+          "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "id": 7059070,
+          "language": "en",
+          "lyrics_owner_id": 5265591,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Ada-lea-damn-lyrics",
+          "pyongs_count": 1,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Ada-lea-damn-sample",
+          "release_date": "2021-07-27",
+          "release_date_for_display": "July 27, 2021",
+          "release_date_with_abbreviated_month_for_display": "Jul. 27, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 2,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "\u200bdamn",
+          "title_with_featured": "\u200bdamn",
+          "url": "https://genius.com/Ada-lea-damn-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/799974",
+            "cover_art_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+            "full_title": " one hand on the steering wheel the other sewing a garden by Ada Lea",
+            "id": 799974,
+            "name": " one hand on the steering wheel the other sewing a garden",
+            "release_date_for_display": "September 24, 2021",
+            "url": "https://genius.com/albums/Ada-lea/One-hand-on-the-steering-wheel-the-other-sewing-a-garden",
+            "artist": {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Mastered by",
+              "artists": [
+                {
+                  "api_path": "/artists/1007498",
+                  "header_image_url": "https://images.genius.com/36525c3e624996f3542a812a29cf86ce.1000x185x1.png",
+                  "id": 1007498,
+                  "image_url": "https://images.genius.com/845715caf2987833f3b63a48b7c5e051.234x234x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Heba Kadry",
+                  "url": "https://genius.com/artists/Heba-kadry"
+                }
+              ]
+            },
+            {
+              "label": "Mixed By",
+              "artists": [
+                {
+                  "api_path": "/artists/468594",
+                  "header_image_url": "https://images.genius.com/14f02cedcf640c4e0a49e76f3b231d7b.500x500x1.jpg",
+                  "id": 468594,
+                  "image_url": "https://images.genius.com/14f02cedcf640c4e0a49e76f3b231d7b.500x500x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Burke Reid",
+                  "url": "https://genius.com/artists/Burke-reid"
+                }
+              ]
+            },
+            {
+              "label": "Engineered By",
+              "artists": [
+                {
+                  "api_path": "/artists/977556",
+                  "header_image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+                  "id": 977556,
+                  "image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Marshall Vore",
+                  "url": "https://genius.com/artists/Marshall-vore"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 5265591,
+            "annotator_login": "bergamotperfume",
+            "api_path": "/referents/23625895",
+            "classification": "needs_exegesis",
+            "fragment": "\u200bdamn",
+            "id": 23625895,
+            "is_description": true,
+            "path": "/23625895/Ada-lea-damn/Damn",
+            "range": {
+              "content": "\u200bdamn"
+            },
+            "song_id": 7059070,
+            "url": "https://genius.com/23625895/Ada-lea-damn/Damn",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7059070",
+              "client_timestamps": {
+                "updated_by_human_at": 1630376603,
+                "lyrics_updated_at": 1630375626
+              },
+              "context": "Ada Lea",
+              "id": 7059070,
+              "image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+              "link_title": "\u200bdamn by\u00a0Ada\u00a0Lea",
+              "title": "\u200bdamn",
+              "type": "Song",
+              "url": "https://genius.com/Ada-lea-damn-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/23625895",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 23625895,
+                "pinned": false,
+                "share_url": "https://genius.com/23625895",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/23625895/Ada-lea-damn/Damn",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/5265591",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 5265591,
+                      "iq": 26326,
+                      "login": "bergamotperfume",
+                      "name": "bergamotperfume",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/bergamotperfume",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=nHR4ly4THdI"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1817947",
+            "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+            "id": 1817947,
+            "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ada Lea",
+            "url": "https://genius.com/artists/Ada-lea"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/977556",
+              "header_image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "id": 977556,
+              "image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Marshall Vore",
+              "url": "https://genius.com/artists/Marshall-vore"
+            },
+            {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "3SAezXTp45ZlD8XdfKvwAD",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 2,
+        "api_path": "/songs/7059105",
+        "artist_names": "Ada Lea",
+        "full_title": "\u200bcan\u2019t stop me from dying by\u00a0Ada\u00a0Lea",
+        "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "id": 7059105,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 7018789,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1646494895,
+        "path": "/Ada-lea-cant-stop-me-from-dying-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Ada-lea-cant-stop-me-from-dying-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 9,
+          "day": 21
+        },
+        "release_date_for_display": "September 21, 2021",
+        "release_date_with_abbreviated_month_for_display": "Sep. 21, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 2,
+          "hot": false
+        },
+        "title": "\u200bcan\u2019t stop me from dying",
+        "title_with_featured": "\u200bcan\u2019t stop me from dying",
+        "updated_by_human_at": 1646494895,
+        "url": "https://genius.com/Ada-lea-cant-stop-me-from-dying-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1817947",
+          "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+          "id": 1817947,
+          "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+          "index_character": "a",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ada Lea",
+          "slug": "Ada-lea",
+          "url": "https://genius.com/artists/Ada-lea"
+        },
+        "artist": "Ada Lea",
+        "lyrics": "\u200bcan\u2019t stop me from dying Lyrics[Verse 1]\nI wake up in the morning\nI go out, come back in\nI have died a thousand times\nI will die once again\n\n[Verse 2]\nI wake up in the morning\nI go out with my friends to a bar\nIt's the weekend and it just doesn't end\nI stay out till five AM\nAnd it's light when I leave\nI go out and pack my stuff\n'Cause I'm dying once again\n[Chorus]\nNothing in the world will stop me from dying I swear\nNothing in the world will stop me from dying I swear\n\n[Verse 3]\nI wake up, i get dressed\nFind someone in my bed\nShe is naked as a jaybird\nI'm in love with my neighborhood\nOverslept my life away\nGot a tune in my head\nIt repeats the chorus again and again\n\n[Chorus]\nNothing in the world can stop me from dying again\nNothing in the world can stop me from dying again\nNothing in the world could stop me from dying, I swear\nNothing in the world can stop me from dying againYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 2,
+          "api_path": "/songs/7059105",
+          "apple_music_id": "1574537839",
+          "apple_music_player_url": "https://genius.com/songs/7059105/apple_music_player",
+          "artist_names": "Ada Lea",
+          "description": {
+            "plain": "I had this idea of a character that keeps dying in like a video game and can kind of keep going with the foresight that was initially lacking, and then has the opportunity to make different decisions, and each time avoiding death. I\u2019ve kind of realised that for me, this song shows that we do mess up, we do hurt people unintentionally and act in ways sometimes that we wish we hadn\u2019t. And \u2018can\u2019t stop me from dying\u2019 in my mind now really just means, I\u2019m going to mess up, we\u2019re all going to mess up, but it shouldn\u2019t be a reason to build this mountain of shame to be suffocated by. And in a way, it\u2019s just saying, \u201cWell, I messed up this time, and for next time, I know what to do differently.\u201d And each time, these parts of you die out from not, like, using them \u2013 you eventually change over time.\n\n\nAda Lea to Ourculture on can\u2019t stop me from dying"
+          },
+          "embed_content": "<div id='rg_embed_link_7059105' class='rg_embed_link' data-song-id='7059105'>Read <a href='https://genius.com/Ada-lea-cant-stop-me-from-dying-lyrics'>\u201c\u200bcan\u2019t stop me from dying\u201d by Ada\u00a0Lea</a> on Genius</div> <script crossorigin src='//genius.com/songs/7059105/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200bcan\u2019t stop me from dying by\u00a0Ada\u00a0Lea",
+          "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "id": 7059105,
+          "language": "en",
+          "lyrics_owner_id": 7018789,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Ada-lea-cant-stop-me-from-dying-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Ada-lea-cant-stop-me-from-dying-sample",
+          "release_date": "2021-09-21",
+          "release_date_for_display": "September 21, 2021",
+          "release_date_with_abbreviated_month_for_display": "Sep. 21, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 1,
+            "unreviewed_annotations": 2,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "\u200bcan\u2019t stop me from dying",
+          "title_with_featured": "\u200bcan\u2019t stop me from dying",
+          "url": "https://genius.com/Ada-lea-cant-stop-me-from-dying-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/799974",
+            "cover_art_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+            "full_title": " one hand on the steering wheel the other sewing a garden by Ada Lea",
+            "id": 799974,
+            "name": " one hand on the steering wheel the other sewing a garden",
+            "release_date_for_display": "September 24, 2021",
+            "url": "https://genius.com/albums/Ada-lea/One-hand-on-the-steering-wheel-the-other-sewing-a-garden",
+            "artist": {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Drum Machine by",
+              "artists": [
+                {
+                  "api_path": "/artists/977556",
+                  "header_image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+                  "id": 977556,
+                  "image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Marshall Vore",
+                  "url": "https://genius.com/artists/Marshall-vore"
+                }
+              ]
+            },
+            {
+              "label": "Saxophone By",
+              "artists": [
+                {
+                  "api_path": "/artists/1864177",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+                  "id": 1864177,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Syl DuBenion",
+                  "url": "https://genius.com/artists/Syl-dubenion"
+                }
+              ]
+            },
+            {
+              "label": "Guitar By",
+              "artists": [
+                {
+                  "api_path": "/artists/1235488",
+                  "header_image_url": "https://images.genius.com/a679dafd274c948d9688e9d5afc6c6a2.1000x563x1.jpg",
+                  "id": 1235488,
+                  "image_url": "https://images.genius.com/24679ea9da9536a84e4a9b78b52e98c8.913x913x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Harrison Whitford",
+                  "url": "https://genius.com/artists/Harrison-whitford"
+                }
+              ]
+            },
+            {
+              "label": "Percussion, Keyboards",
+              "artists": [
+                {
+                  "api_path": "/artists/2080052",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+                  "id": 2080052,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Alexandra Levy",
+                  "url": "https://genius.com/artists/Alexandra-levy"
+                }
+              ]
+            },
+            {
+              "label": "Vocals, Guitar, Synth, Bass",
+              "artists": [
+                {
+                  "api_path": "/artists/2080052",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+                  "id": 2080052,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Alexandra Levy",
+                  "url": "https://genius.com/artists/Alexandra-levy"
+                }
+              ]
+            },
+            {
+              "label": "Mastered by",
+              "artists": [
+                {
+                  "api_path": "/artists/1007498",
+                  "header_image_url": "https://images.genius.com/36525c3e624996f3542a812a29cf86ce.1000x185x1.png",
+                  "id": 1007498,
+                  "image_url": "https://images.genius.com/845715caf2987833f3b63a48b7c5e051.234x234x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Heba Kadry",
+                  "url": "https://genius.com/artists/Heba-kadry"
+                }
+              ]
+            },
+            {
+              "label": "Mixed By",
+              "artists": [
+                {
+                  "api_path": "/artists/468594",
+                  "header_image_url": "https://images.genius.com/14f02cedcf640c4e0a49e76f3b231d7b.500x500x1.jpg",
+                  "id": 468594,
+                  "image_url": "https://images.genius.com/14f02cedcf640c4e0a49e76f3b231d7b.500x500x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Burke Reid",
+                  "url": "https://genius.com/artists/Burke-reid"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 16070484,
+            "annotator_login": "Zugerujk",
+            "api_path": "/referents/23625973",
+            "classification": "unreviewed",
+            "fragment": "\u200bcan\u2019t stop me from dying",
+            "id": 23625973,
+            "is_description": true,
+            "path": "/23625973/Ada-lea-cant-stop-me-from-dying/Cant-stop-me-from-dying",
+            "range": {
+              "content": "\u200bcan\u2019t stop me from dying"
+            },
+            "song_id": 7059105,
+            "url": "https://genius.com/23625973/Ada-lea-cant-stop-me-from-dying/Cant-stop-me-from-dying",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7059105",
+              "client_timestamps": {
+                "updated_by_human_at": 1646494895,
+                "lyrics_updated_at": 1646494895
+              },
+              "context": "Ada Lea",
+              "id": 7059105,
+              "image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+              "link_title": "\u200bcan\u2019t stop me from dying by\u00a0Ada\u00a0Lea",
+              "title": "\u200bcan\u2019t stop me from dying",
+              "type": "Song",
+              "url": "https://genius.com/Ada-lea-cant-stop-me-from-dying-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/23625973",
+                "body": {
+                  "plain": "I had this idea of a character that keeps dying in like a video game and can kind of keep going with the foresight that was initially lacking, and then has the opportunity to make different decisions, and each time avoiding death. I\u2019ve kind of realised that for me, this song shows that we do mess up, we do hurt people unintentionally and act in ways sometimes that we wish we hadn\u2019t. And \u2018can\u2019t stop me from dying\u2019 in my mind now really just means, I\u2019m going to mess up, we\u2019re all going to mess up, but it shouldn\u2019t be a reason to build this mountain of shame to be suffocated by. And in a way, it\u2019s just saying, \u201cWell, I messed up this time, and for next time, I know what to do differently.\u201d And each time, these parts of you die out from not, like, using them \u2013 you eventually change over time.\n\n\nAda Lea to Ourculture on can\u2019t stop me from dying"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 23625973,
+                "pinned": false,
+                "share_url": "https://genius.com/23625973",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/23625973/Ada-lea-cant-stop-me-from-dying/Cant-stop-me-from-dying",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/16070484",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/7a7ccab7cf3265d2ccb5973fe5d9b8c2",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/7a7ccab7cf3265d2ccb5973fe5d9b8c2",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/7a7ccab7cf3265d2ccb5973fe5d9b8c2",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/7a7ccab7cf3265d2ccb5973fe5d9b8c2",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/7a7ccab7cf3265d2ccb5973fe5d9b8c2",
+                      "human_readable_role_for_display": null,
+                      "id": 16070484,
+                      "iq": 182,
+                      "login": "Zugerujk",
+                      "name": "Zugerujk",
+                      "role_for_display": null,
+                      "url": "https://genius.com/Zugerujk",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=jc2hIrAkHCE"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1817947",
+            "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+            "id": 1817947,
+            "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ada Lea",
+            "url": "https://genius.com/artists/Ada-lea"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/977556",
+              "header_image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "id": 977556,
+              "image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Marshall Vore",
+              "url": "https://genius.com/artists/Marshall-vore"
+            },
+            {
+              "api_path": "/artists/2080052",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 2080052,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Alexandra Levy",
+              "url": "https://genius.com/artists/Alexandra-levy"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2080052",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 2080052,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Alexandra Levy",
+              "url": "https://genius.com/artists/Alexandra-levy"
+            }
+          ]
+        }
+      },
+      "annotations": [
+        [
+          "She is naked as a jaybird\n I\u2019m in love with my neighborhood",
+          [
+            [
+              "[I\u2019m in love with my neighborhood] \u2013 what comes before is \u201cnaked as a jaybird,\u201d and initially, the natural rhyme would be \u201cneighbour\u201d. But then I thought it\u2019d be interesting to just have \u201cneighbourhood\u201d. And mentally you\u2019re making the association with neighbour, but then there\u2019s this kind of quick detour that your brain has to make all of a sudden and it can\u2019t help but, like, put a bunch of neighbours together. So I think it was a way to try and trick my brain trick people\u2019s brain. [laughs] To just see it as people, and a neighbourhood is nothing without, like, the neighbours. And essentially, we\u2019re all neighbours \u2013 we\u2019re not as disconnected as we\u2019d like to think we are. People like to create this big separateness between people that have different viewpoints, and especially different politics, and in the end we\u2019re all kind of the same.\n\n\nAda Lea to Ourculture"
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "spotify_id": "1azOKiKwwOVwmapgPgPTJy",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 1,
+        "api_path": "/songs/6978507",
+        "artist_names": "Ada Lea",
+        "full_title": "\u200bhurt by\u00a0Ada\u00a0Lea",
+        "header_image_thumbnail_url": "https://images.genius.com/16910ac143a624373e7e471fe2bc821d.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/16910ac143a624373e7e471fe2bc821d.700x700x1.jpg",
+        "id": 6978507,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 239247,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1633299289,
+        "path": "/Ada-lea-hurt-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Ada-lea-hurt-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 6,
+          "day": 22
+        },
+        "release_date_for_display": "June 22, 2021",
+        "release_date_with_abbreviated_month_for_display": "Jun. 22, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/16910ac143a624373e7e471fe2bc821d.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/16910ac143a624373e7e471fe2bc821d.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 1,
+          "hot": false
+        },
+        "title": "\u200bhurt",
+        "title_with_featured": "\u200bhurt",
+        "updated_by_human_at": 1633299289,
+        "url": "https://genius.com/Ada-lea-hurt-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1817947",
+          "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+          "id": 1817947,
+          "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+          "index_character": "a",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ada Lea",
+          "slug": "Ada-lea",
+          "url": "https://genius.com/artists/Ada-lea"
+        },
+        "artist": "Ada Lea",
+        "lyrics": "\u200bhurt Lyrics[Verse]\nI could say it or say nothing at all\nTake a walk or take none at all\nGet on a bus back to montreal\nMake a plan or plan nothing all\nI could make it there fast\nI could make it there slow\nBut silence is a shadow\nWhen it is swallowed whole\n\nNow I\u2019m on the 97 going west\nHome, to my parents\nThinking of moving back in the fall\nCause I\u2019m going mad in the apartment\nI could make it there fast\nI could make it there slow\nI'm not being dramatic\nOr dark in tone when I say\n[Chorus]\nSomebody hurt me badly\nNow I\u2019m stuck in a rut\nNow I\u2019m going crazy\nSomebody hurt me badly\nNow I\u2019m stuck in a rut\nNow I don\u2019t know my body\n\n[Verse]\nI could say it or say nothing at all\nTake a walk or take none at all\nGet on a bus back to montreal\nTell my friends or say nothing at all\nI could make it there fast\nI could make it there slow\nI could take my time\nAnd I\u2019m not lying\nWhen I say\n\n[Chorus]\nSomebody hurt me badly\nNow I\u2019m stuck in a rut\nNow I\u2019m going crazy\nSomebody hurt me badly\nNow I\u2019m stuck in a rut\nNow I don\u2019t know my body\nSomebody hurt me badly\nNow I\u2019m stuck in a rut\nNow I\u2019m going crazyYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 1,
+          "api_path": "/songs/6978507",
+          "apple_music_id": "1570906099",
+          "apple_music_player_url": "https://genius.com/songs/6978507/apple_music_player",
+          "artist_names": "Ada Lea",
+          "description": {
+            "plain": "\u2018'hurt\u2019\u2018 is the first single since her 2020\u2019s EP \u2019\u2018Woman, here\u2019'"
+          },
+          "embed_content": "<div id='rg_embed_link_6978507' class='rg_embed_link' data-song-id='6978507'>Read <a href='https://genius.com/Ada-lea-hurt-lyrics'>\u201c\u200bhurt\u201d by Ada\u00a0Lea</a> on Genius</div> <script crossorigin src='//genius.com/songs/6978507/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200bhurt by\u00a0Ada\u00a0Lea",
+          "header_image_thumbnail_url": "https://images.genius.com/16910ac143a624373e7e471fe2bc821d.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/16910ac143a624373e7e471fe2bc821d.700x700x1.jpg",
+          "id": 6978507,
+          "language": "en",
+          "lyrics_owner_id": 239247,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Ada-lea-hurt-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Ada-lea-hurt-sample",
+          "release_date": "2021-06-22",
+          "release_date_for_display": "June 22, 2021",
+          "release_date_with_abbreviated_month_for_display": "Jun. 22, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/16910ac143a624373e7e471fe2bc821d.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/16910ac143a624373e7e471fe2bc821d.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 1,
+            "unreviewed_annotations": 1,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "\u200bhurt",
+          "title_with_featured": "\u200bhurt",
+          "url": "https://genius.com/Ada-lea-hurt-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/799974",
+            "cover_art_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+            "full_title": " one hand on the steering wheel the other sewing a garden by Ada Lea",
+            "id": 799974,
+            "name": " one hand on the steering wheel the other sewing a garden",
+            "release_date_for_display": "September 24, 2021",
+            "url": "https://genius.com/albums/Ada-lea/One-hand-on-the-steering-wheel-the-other-sewing-a-garden",
+            "artist": {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Mastered by",
+              "artists": [
+                {
+                  "api_path": "/artists/1007498",
+                  "header_image_url": "https://images.genius.com/36525c3e624996f3542a812a29cf86ce.1000x185x1.png",
+                  "id": 1007498,
+                  "image_url": "https://images.genius.com/845715caf2987833f3b63a48b7c5e051.234x234x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Heba Kadry",
+                  "url": "https://genius.com/artists/Heba-kadry"
+                }
+              ]
+            },
+            {
+              "label": "Mixed By",
+              "artists": [
+                {
+                  "api_path": "/artists/468594",
+                  "header_image_url": "https://images.genius.com/14f02cedcf640c4e0a49e76f3b231d7b.500x500x1.jpg",
+                  "id": 468594,
+                  "image_url": "https://images.genius.com/14f02cedcf640c4e0a49e76f3b231d7b.500x500x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Burke Reid",
+                  "url": "https://genius.com/artists/Burke-reid"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 239247,
+            "annotator_login": "Kool-Aid-Bwoy",
+            "api_path": "/referents/23437131",
+            "classification": "unreviewed",
+            "fragment": "\u200bhurt",
+            "id": 23437131,
+            "is_description": true,
+            "path": "/23437131/Ada-lea-hurt/Hurt",
+            "range": {
+              "content": "\u200bhurt"
+            },
+            "song_id": 6978507,
+            "url": "https://genius.com/23437131/Ada-lea-hurt/Hurt",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6978507",
+              "client_timestamps": {
+                "updated_by_human_at": 1633299289,
+                "lyrics_updated_at": 1633299289
+              },
+              "context": "Ada Lea",
+              "id": 6978507,
+              "image_url": "https://images.genius.com/16910ac143a624373e7e471fe2bc821d.700x700x1.jpg",
+              "link_title": "\u200bhurt by\u00a0Ada\u00a0Lea",
+              "title": "\u200bhurt",
+              "type": "Song",
+              "url": "https://genius.com/Ada-lea-hurt-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/23437131",
+                "body": {
+                  "plain": "\u2018'hurt\u2019\u2018 is the first single since her 2020\u2019s EP \u2019\u2018Woman, here\u2019'"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 23437131,
+                "pinned": false,
+                "share_url": "https://genius.com/23437131",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/23437131/Ada-lea-hurt/Hurt",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/239247",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/7c6b3e8d4027fbb70901c6c6d28054a0",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/7c6b3e8d4027fbb70901c6c6d28054a0",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/7c6b3e8d4027fbb70901c6c6d28054a0",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/7c6b3e8d4027fbb70901c6c6d28054a0",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a1iho51tivs",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 239247,
+                      "iq": 57310,
+                      "login": "Kool-Aid-Bwoy",
+                      "name": "Kool-Aid-Bwoy",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/Kool-Aid-Bwoy",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=uXcmZLLDt1c"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1817947",
+            "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+            "id": 1817947,
+            "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ada Lea",
+            "url": "https://genius.com/artists/Ada-lea"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/977556",
+              "header_image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "id": 977556,
+              "image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Marshall Vore",
+              "url": "https://genius.com/artists/Marshall-vore"
+            },
+            {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          ]
+        }
+      },
+      "annotations": []
+    },
+    {
+      "spotify_id": "3kRulETW98DGqUo49jYHX4",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/4539115",
+        "artist_names": "Ada Lea",
+        "full_title": "\u200bthe party\u200b by\u00a0Ada\u00a0Lea",
+        "header_image_thumbnail_url": "https://images.genius.com/3a0f13bd14f549900e1f53c96c49ee37.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/3a0f13bd14f549900e1f53c96c49ee37.633x633x1.jpg",
+        "id": 4539115,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 5265591,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1563576530,
+        "path": "/Ada-lea-the-party-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Ada-lea-the-party-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 5,
+          "day": 8
+        },
+        "release_date_for_display": "May 8, 2019",
+        "release_date_with_abbreviated_month_for_display": "May. 8, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/3a0f13bd14f549900e1f53c96c49ee37.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/3a0f13bd14f549900e1f53c96c49ee37.633x633x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "\u200bthe party\u200b",
+        "title_with_featured": "\u200bthe party\u200b",
+        "updated_by_human_at": 1630375980,
+        "url": "https://genius.com/Ada-lea-the-party-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1817947",
+          "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+          "id": 1817947,
+          "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+          "index_character": "a",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ada Lea",
+          "slug": "Ada-lea",
+          "url": "https://genius.com/artists/Ada-lea"
+        },
+        "artist": "Ada Lea",
+        "lyrics": "\u200bthe party\u200b Lyrics[Verse 1]\nDitch the party in your beat-up truck\nYou're always leaving when the night starts\nAnd the moon was a strange shade of green, orange\nWas I wrong? 'Cause I couldn't tell the difference\nAt all, at all, at all, at all\n\n[Verse 2]\nMade a right turn for the freeway\nStood on the porch watching you get away\nAnd that night was a pure shade of honest, or something\nWas I wrong? 'Cause I couldn't tell the difference\n[Refrain]\nAt all, at all, at all, at all\nAt all, at all, at all, at all\nAt all, at all, at all, at all\nAt all, at all, at all, at allYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/4539115",
+          "apple_music_id": "1461439309",
+          "apple_music_player_url": "https://genius.com/songs/4539115/apple_music_player",
+          "artist_names": "Ada Lea",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_4539115' class='rg_embed_link' data-song-id='4539115'>Read <a href='https://genius.com/Ada-lea-the-party-lyrics'>\u201c\u200bthe party\u200b\u201d by Ada\u00a0Lea</a> on Genius</div> <script crossorigin src='//genius.com/songs/4539115/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200bthe party\u200b by\u00a0Ada\u00a0Lea",
+          "header_image_thumbnail_url": "https://images.genius.com/3a0f13bd14f549900e1f53c96c49ee37.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/3a0f13bd14f549900e1f53c96c49ee37.633x633x1.jpg",
+          "id": 4539115,
+          "language": "en",
+          "lyrics_owner_id": 5265591,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Ada-lea-the-party-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Ada-lea-the-party-sample",
+          "release_date": "2019-05-08",
+          "release_date_for_display": "May 8, 2019",
+          "release_date_with_abbreviated_month_for_display": "May. 8, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/3a0f13bd14f549900e1f53c96c49ee37.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/3a0f13bd14f549900e1f53c96c49ee37.633x633x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 5,
+            "iq_earners": 4,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "\u200bthe party\u200b",
+          "title_with_featured": "\u200bthe party\u200b",
+          "url": "https://genius.com/Ada-lea-the-party-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/528017",
+            "cover_art_url": "https://images.genius.com/3a0f13bd14f549900e1f53c96c49ee37.633x633x1.jpg",
+            "full_title": "what we say in private by Ada Lea",
+            "id": 528017,
+            "name": "what we say in private",
+            "release_date_for_display": "July 19, 2019",
+            "url": "https://genius.com/albums/Ada-lea/What-we-say-in-private",
+            "artist": {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 5265591,
+            "annotator_login": "bergamotperfume",
+            "api_path": "/referents/17131081",
+            "classification": "needs_exegesis",
+            "fragment": "\u200bthe party\u200b",
+            "id": 17131081,
+            "is_description": true,
+            "path": "/17131081/Ada-lea-the-party/The-party",
+            "range": {
+              "content": "\u200bthe party\u200b"
+            },
+            "song_id": 4539115,
+            "url": "https://genius.com/17131081/Ada-lea-the-party/The-party",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/4539115",
+              "client_timestamps": {
+                "updated_by_human_at": 1630375980,
+                "lyrics_updated_at": 1563576530
+              },
+              "context": "Ada Lea",
+              "id": 4539115,
+              "image_url": "https://images.genius.com/3a0f13bd14f549900e1f53c96c49ee37.633x633x1.jpg",
+              "link_title": "\u200bthe party\u200b by\u00a0Ada\u00a0Lea",
+              "title": "\u200bthe party\u200b",
+              "type": "Song",
+              "url": "https://genius.com/Ada-lea-the-party-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/17131081",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 17131081,
+                "pinned": false,
+                "share_url": "https://genius.com/17131081",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/17131081/Ada-lea-the-party/The-party",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/5265591",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 5265591,
+                      "iq": 26326,
+                      "login": "bergamotperfume",
+                      "name": "bergamotperfume",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/bergamotperfume",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": {
+            "api_path": "/users/7650027",
+            "avatar": {
+              "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 16,
+                  "height": 16
+                }
+              },
+              "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 32,
+                  "height": 32
+                }
+              },
+              "small": {
+                "url": "https://images.genius.com/avatars/small/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 100,
+                  "height": 100
+                }
+              },
+              "medium": {
+                "url": "https://images.genius.com/avatars/medium/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 300,
+                  "height": 400
+                }
+              }
+            },
+            "header_image_url": "https://images.genius.com/94d13e1979801cdeb4d0cc7a103eb5eb.1000x664x1.jpg",
+            "human_readable_role_for_display": "Staff",
+            "id": 7650027,
+            "iq": 333552,
+            "login": "worstofalltime",
+            "name": "\u200bworstofalltime",
+            "role_for_display": "staff",
+            "url": "https://genius.com/worstofalltime",
+            "current_user_metadata": {
+              "permissions": [],
+              "excluded_permissions": [
+                "follow"
+              ],
+              "interactions": {
+                "following": false
+              }
+            }
+          },
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=seHN7FqG2uk"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1817947",
+            "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+            "id": 1817947,
+            "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ada Lea",
+            "url": "https://genius.com/artists/Ada-lea"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/2080052",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 2080052,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Alexandra Levy",
+              "url": "https://genius.com/artists/Alexandra-levy"
+            },
+            {
+              "api_path": "/artists/1644573",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 1644573,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Tim Gowdy",
+              "url": "https://genius.com/artists/Tim-gowdy"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2080052",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 2080052,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Alexandra Levy",
+              "url": "https://genius.com/artists/Alexandra-levy"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "5EIEzisvJrHWYaBTXtQ8zd",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/7059112",
+        "artist_names": "Ada Lea",
+        "full_title": "\u200bwriter in ny by\u00a0Ada\u00a0Lea",
+        "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "id": 7059112,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 7018789,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1632459859,
+        "path": "/Ada-lea-writer-in-ny-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Ada-lea-writer-in-ny-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 9,
+          "day": 24
+        },
+        "release_date_for_display": "September 24, 2021",
+        "release_date_with_abbreviated_month_for_display": "Sep. 24, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "\u200bwriter in ny",
+        "title_with_featured": "\u200bwriter in ny",
+        "updated_by_human_at": 1632459859,
+        "url": "https://genius.com/Ada-lea-writer-in-ny-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1817947",
+          "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+          "id": 1817947,
+          "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+          "index_character": "a",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ada Lea",
+          "slug": "Ada-lea",
+          "url": "https://genius.com/artists/Ada-lea"
+        },
+        "artist": "Ada Lea",
+        "lyrics": "\u200bwriter in ny Lyrics[Verse 1]\nNowhere I've been have I seen such a beautiful face\nLong and hardened, with an aquiline nose\nShaped like a mermaid on a rock\nJust waiting\nWaiting\nWaiting\nWaiting for the shoe to drop\n\n[Bridge]\nNowhere I've been have I seen such a beautiful face\nSoft and plump, just like a baby\n[Chorus]\n'Cause nothing's gonna bring me down\nIf I never had it anyway\nI'll be a writer in New York\nWinter in LA\n\n[Chorus]\n'Cause nothing's gonna bring me down\nIf I never had it anyway\nI'll be a writer in New York\nWinter in LA\n\n[Bridge]\nNowhere I've been have I seen such a difficult scene\nYet we jumped in headfirst, nosediving\n\n[Chorus]\n'Cause nothing's gonna bring me down\nIf I never had it anyway\nI'll be a writer in New York\nWinter in LA\n\n[Verse 2]\nMeet me in the park when it\u2019s dark outside\nWith a book in hand and a bottle of white\nWe\u2019ll talk about it all night\nMeet me in the park when it's dark outside\nWith a book in hand and a bottle of white\nWe'll talk about it all night\nYou might also like[Chorus]\n'Cause nothing's gonna bring me down\nIf I never had it anyway\nI'll be a writer in New York\nWinter in LAEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/7059112",
+          "apple_music_id": "1574537846",
+          "apple_music_player_url": "https://genius.com/songs/7059112/apple_music_player",
+          "artist_names": "Ada Lea",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_7059112' class='rg_embed_link' data-song-id='7059112'>Read <a href='https://genius.com/Ada-lea-writer-in-ny-lyrics'>\u201c\u200bwriter in ny\u201d by Ada\u00a0Lea</a> on Genius</div> <script crossorigin src='//genius.com/songs/7059112/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200bwriter in ny by\u00a0Ada\u00a0Lea",
+          "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "id": 7059112,
+          "language": "en",
+          "lyrics_owner_id": 7018789,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Ada-lea-writer-in-ny-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Ada-lea-writer-in-ny-sample",
+          "release_date": "2021-09-24",
+          "release_date_for_display": "September 24, 2021",
+          "release_date_with_abbreviated_month_for_display": "Sep. 24, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 2,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "\u200bwriter in ny",
+          "title_with_featured": "\u200bwriter in ny",
+          "url": "https://genius.com/Ada-lea-writer-in-ny-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/799974",
+            "cover_art_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+            "full_title": " one hand on the steering wheel the other sewing a garden by Ada Lea",
+            "id": 799974,
+            "name": " one hand on the steering wheel the other sewing a garden",
+            "release_date_for_display": "September 24, 2021",
+            "url": "https://genius.com/albums/Ada-lea/One-hand-on-the-steering-wheel-the-other-sewing-a-garden",
+            "artist": {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 5265591,
+            "annotator_login": "bergamotperfume",
+            "api_path": "/referents/23625980",
+            "classification": "needs_exegesis",
+            "fragment": "\u200bwriter in ny",
+            "id": 23625980,
+            "is_description": true,
+            "path": "/23625980/Ada-lea-writer-in-ny/Writer-in-ny",
+            "range": {
+              "content": "\u200bwriter in ny"
+            },
+            "song_id": 7059112,
+            "url": "https://genius.com/23625980/Ada-lea-writer-in-ny/Writer-in-ny",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7059112",
+              "client_timestamps": {
+                "updated_by_human_at": 1632459859,
+                "lyrics_updated_at": 1632459859
+              },
+              "context": "Ada Lea",
+              "id": 7059112,
+              "image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+              "link_title": "\u200bwriter in ny by\u00a0Ada\u00a0Lea",
+              "title": "\u200bwriter in ny",
+              "type": "Song",
+              "url": "https://genius.com/Ada-lea-writer-in-ny-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/23625980",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 23625980,
+                "pinned": false,
+                "share_url": "https://genius.com/23625980",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/23625980/Ada-lea-writer-in-ny/Writer-in-ny",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/5265591",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 5265591,
+                      "iq": 26326,
+                      "login": "bergamotperfume",
+                      "name": "bergamotperfume",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/bergamotperfume",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1817947",
+            "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+            "id": 1817947,
+            "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ada Lea",
+            "url": "https://genius.com/artists/Ada-lea"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/977556",
+              "header_image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "id": 977556,
+              "image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Marshall Vore",
+              "url": "https://genius.com/artists/Marshall-vore"
+            },
+            {
+              "api_path": "/artists/2080052",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 2080052,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Alexandra Levy",
+              "url": "https://genius.com/artists/Alexandra-levy"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2080052",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 2080052,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Alexandra Levy",
+              "url": "https://genius.com/artists/Alexandra-levy"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "61v4u9hRnKe8KVQEKNMTWr",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 2,
+        "api_path": "/songs/7059106",
+        "artist_names": "Ada Lea",
+        "full_title": "\u200boranges by\u00a0Ada\u00a0Lea",
+        "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "id": 7059106,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 7018789,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1646495189,
+        "path": "/Ada-lea-oranges-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Ada-lea-oranges-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 9,
+          "day": 24
+        },
+        "release_date_for_display": "September 24, 2021",
+        "release_date_with_abbreviated_month_for_display": "Sep. 24, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 2,
+          "hot": false
+        },
+        "title": "\u200boranges",
+        "title_with_featured": "\u200boranges",
+        "updated_by_human_at": 1646495189,
+        "url": "https://genius.com/Ada-lea-oranges-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1817947",
+          "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+          "id": 1817947,
+          "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+          "index_character": "a",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ada Lea",
+          "slug": "Ada-lea",
+          "url": "https://genius.com/artists/Ada-lea"
+        },
+        "artist": "Ada Lea",
+        "lyrics": "\u200boranges Lyrics[Verse 1]\nIf you see Mary would you tell her not to worry\nIt does get easier with every passing day\nThe humming of the ash trees\nStains of fallen leaves on the concrete\nAin't nothing here that don't remind me\nYou'll likely see Mary still reeling from some kind of scary disease\nWill you remind her that she can always remember the sweeter days of\n\n[Chorus]\nWild oranges every night\nCigarettes and red wine\nHanging on the landing\nLeaning on the door frame\nDreaming of you in every room\n[Verse 2]\nIf you see Mary hanging on the corner in her raspberry coat\nWith the wind brushing past as if on a boat\nWith motes gleaming along the shore\nThe dogs in heat\nCity parks in the daytime\nThe revving of the motor bikes in the night\nYour bed positioned so the sun rises to your left\nAnd a bible of sorts lies to your right\n\nSongs of inexperience\nAnd anything that ever is and was\nI didn't know much\nLike I know now\nBut I still can't seem to tell her myself\n\n[Chorus]\nWild oranges every night\nCigarettes and red wine\nKitty on the bed\nWork at your desk\nHanging on the landing\nLeaning on the door frame\nTalking in circles 'till it's light\nOut of our minds\nYou might also like[Chorus]\nWild oranges every night\nCigarettes and red wine\nKitty on the bed\nWork at your desk\nHanging on the landing\nLeaning on the door frame\n\n[Chorus]\nWild oranges every night\nCigarettes and red wine\nIt's not what we didn't do\nAs much as we did\nYou were wearing it around your neck\nWhen you entered the room\n\n[Outro]\nAnd I kept it when you left\nAnd I kept it when you left\nAnd I kept it when you leftEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 2,
+          "api_path": "/songs/7059106",
+          "apple_music_id": "1574537840",
+          "apple_music_player_url": "https://genius.com/songs/7059106/apple_music_player",
+          "artist_names": "Ada Lea",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_7059106' class='rg_embed_link' data-song-id='7059106'>Read <a href='https://genius.com/Ada-lea-oranges-lyrics'>\u201c\u200boranges\u201d by Ada\u00a0Lea</a> on Genius</div> <script crossorigin src='//genius.com/songs/7059106/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200boranges by\u00a0Ada\u00a0Lea",
+          "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "id": 7059106,
+          "language": "en",
+          "lyrics_owner_id": 7018789,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Ada-lea-oranges-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Ada-lea-oranges-sample",
+          "release_date": "2021-09-24",
+          "release_date_for_display": "September 24, 2021",
+          "release_date_with_abbreviated_month_for_display": "Sep. 24, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 1,
+            "unreviewed_annotations": 2,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "\u200boranges",
+          "title_with_featured": "\u200boranges",
+          "url": "https://genius.com/Ada-lea-oranges-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/799974",
+            "cover_art_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+            "full_title": " one hand on the steering wheel the other sewing a garden by Ada Lea",
+            "id": 799974,
+            "name": " one hand on the steering wheel the other sewing a garden",
+            "release_date_for_display": "September 24, 2021",
+            "url": "https://genius.com/albums/Ada-lea/One-hand-on-the-steering-wheel-the-other-sewing-a-garden",
+            "artist": {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Mastered by",
+              "artists": [
+                {
+                  "api_path": "/artists/1007498",
+                  "header_image_url": "https://images.genius.com/36525c3e624996f3542a812a29cf86ce.1000x185x1.png",
+                  "id": 1007498,
+                  "image_url": "https://images.genius.com/845715caf2987833f3b63a48b7c5e051.234x234x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Heba Kadry",
+                  "url": "https://genius.com/artists/Heba-kadry"
+                }
+              ]
+            },
+            {
+              "label": "Mixed By",
+              "artists": [
+                {
+                  "api_path": "/artists/468594",
+                  "header_image_url": "https://images.genius.com/14f02cedcf640c4e0a49e76f3b231d7b.500x500x1.jpg",
+                  "id": 468594,
+                  "image_url": "https://images.genius.com/14f02cedcf640c4e0a49e76f3b231d7b.500x500x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Burke Reid",
+                  "url": "https://genius.com/artists/Burke-reid"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 5265591,
+            "annotator_login": "bergamotperfume",
+            "api_path": "/referents/23625974",
+            "classification": "needs_exegesis",
+            "fragment": "\u200boranges",
+            "id": 23625974,
+            "is_description": true,
+            "path": "/23625974/Ada-lea-oranges/Oranges",
+            "range": {
+              "content": "\u200boranges"
+            },
+            "song_id": 7059106,
+            "url": "https://genius.com/23625974/Ada-lea-oranges/Oranges",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7059106",
+              "client_timestamps": {
+                "updated_by_human_at": 1646495189,
+                "lyrics_updated_at": 1646495189
+              },
+              "context": "Ada Lea",
+              "id": 7059106,
+              "image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+              "link_title": "\u200boranges by\u00a0Ada\u00a0Lea",
+              "title": "\u200boranges",
+              "type": "Song",
+              "url": "https://genius.com/Ada-lea-oranges-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/23625974",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 23625974,
+                "pinned": false,
+                "share_url": "https://genius.com/23625974",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/23625974/Ada-lea-oranges/Oranges",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/5265591",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 5265591,
+                      "iq": 26326,
+                      "login": "bergamotperfume",
+                      "name": "bergamotperfume",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/bergamotperfume",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=7g-VTVtOP0c"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1817947",
+            "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+            "id": 1817947,
+            "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ada Lea",
+            "url": "https://genius.com/artists/Ada-lea"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/977556",
+              "header_image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "id": 977556,
+              "image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Marshall Vore",
+              "url": "https://genius.com/artists/Marshall-vore"
+            },
+            {
+              "api_path": "/artists/2080052",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 2080052,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Alexandra Levy",
+              "url": "https://genius.com/artists/Alexandra-levy"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2080052",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 2080052,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Alexandra Levy",
+              "url": "https://genius.com/artists/Alexandra-levy"
+            }
+          ]
+        }
+      },
+      "annotations": [
+        [
+          "Songs of inexperience",
+          [
+            [
+              "With the \u201csongs of inexperience\u201d, it\u2019s kind of a play on William Blake\u2019s Songs of Innocence and Experience.\n\u2026\nI remember reading Patti Smith\u2019s Just Kids ages and ages ago, and how she was reading Les Fleurs du mal (The Flowers of Evil), and I remember her also mentioning William Blake, those two books in particular really inspiring her. I love hearing and reading about specific works that have inspired other people. Obviously it\u2019s fun to make your own discoveries, but I can\u2019t even think of one thing that I found myself \u2013 maybe Maggie Nelson\u2019s Bluets. But it\u2019s so rare that we find things by ourselves and we rely on word of mouth and our friends suggesting things to us. And you know, Patti Smith isn\u2019t my friend [laughs], but reading her books, reading anyone\u2019s book, you feel like you get to know them a little bit, and it is fun to go down that path.\n\n\nAda Lea to Our Culture"
+            ]
+          ]
+        ],
+        [
+          "Wild oranges every night",
+          [
+            [
+              "So, wild oranges is actually just a tea. It was the name of a tea that I often drank, and I didn\u2019t like very much myself, but I thought that it was a nice kind of centre for the for the song.\n\n\nAda Lea to Our Culture"
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "spotify_id": "2Jsquwbe60YMYf7ovbDNlB",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/7059107",
+        "artist_names": "Ada Lea",
+        "full_title": "\u200bpartner by\u00a0Ada\u00a0Lea",
+        "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "id": 7059107,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 239247,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1629979521,
+        "path": "/Ada-lea-partner-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Ada-lea-partner-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 8,
+          "day": 10
+        },
+        "release_date_for_display": "August 10, 2021",
+        "release_date_with_abbreviated_month_for_display": "Aug. 10, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "\u200bpartner",
+        "title_with_featured": "\u200bpartner",
+        "updated_by_human_at": 1630376770,
+        "url": "https://genius.com/Ada-lea-partner-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1817947",
+          "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+          "id": 1817947,
+          "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+          "index_character": "a",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ada Lea",
+          "slug": "Ada-lea",
+          "url": "https://genius.com/artists/Ada-lea"
+        },
+        "artist": "Ada Lea",
+        "lyrics": "\u200bpartner Lyrics[Verse 1]\nStill reeling from last night's activities\nToo many friends, too much wine\nAnd this cab is moving too slowly down parc avenue\nIt\u2019s 3 pm, Paris time\nStill feeling some kind of magic\nDidn't sleep at all last night\nStayed up and watched her move\nIn her green dress and ivory shoes\n\n[Chorus]\nNow you see it coming now you see it now\nYou cannot even imagine what it feels like\nBetter now than never to know the back of your head\nWas I only a friend\nThat\u2019s who I am that\u2019s who I am\nEvery road we walk leads to a dead-end\nFull of lovers just loving you until the end\nFull of lovers just loving you until you\u2019re dead\n[Verse 2]\nYou\u2019re the last person I thought I\u2019d see at this party, here tonight\nBut you spoke it in such a way\nThere was no knowing what you really meant to say\nThe cab lets me off at the diner just for memory\u2019s sake\nAnd I sit at the same booth with tears in my eyes begging\nWon't you admit you\u2019re giving up on me too quick\nLast year you were sitting in the diner with neon lights shining and back at our place a breakdown that was happening\nBaby got the blues so bad that she\u2019s crying and making a show to her friends on the phone\nCrawling in the kitchen\nPup and cat watching\nDragging my face on the tiles that were matching\nThe blue of her dress\nThe makeup that is running\nYou know it\u2019s just my way of saying i regret things\nDriving through the city, speeding over 50\nCalling just to hear you say that you still love me\nThe music on the radio\nPlaying our favourite song to show you everything\u2019s connected\n\nAnd she is a dancer with no partner\nThat\u2019s what they call her\n\n[Chorus]\nNow you see it coming now you see it now\nYou cannot even imagine what it feels like\nBetter now than never to know the back of your head\nWas I only a friend\nThat\u2019s who I am that\u2019s who I am\nEvery road we walk leads to a dead-end\nFull of lovers just loving you until the end\nFull of lovers just loving you until you\u2019re dead\nYou might also likeShe\u2019s a dancer with no partner\nThat\u2019s what they call herEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/7059107",
+          "apple_music_id": "1574537841",
+          "apple_music_player_url": "https://genius.com/songs/7059107/apple_music_player",
+          "artist_names": "Ada Lea",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_7059107' class='rg_embed_link' data-song-id='7059107'>Read <a href='https://genius.com/Ada-lea-partner-lyrics'>\u201c\u200bpartner\u201d by Ada\u00a0Lea</a> on Genius</div> <script crossorigin src='//genius.com/songs/7059107/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200bpartner by\u00a0Ada\u00a0Lea",
+          "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "id": 7059107,
+          "language": "en",
+          "lyrics_owner_id": 239247,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Ada-lea-partner-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Ada-lea-partner-sample",
+          "release_date": "2021-08-10",
+          "release_date_for_display": "August 10, 2021",
+          "release_date_with_abbreviated_month_for_display": "Aug. 10, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "\u200bpartner",
+          "title_with_featured": "\u200bpartner",
+          "url": "https://genius.com/Ada-lea-partner-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/799974",
+            "cover_art_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+            "full_title": " one hand on the steering wheel the other sewing a garden by Ada Lea",
+            "id": 799974,
+            "name": " one hand on the steering wheel the other sewing a garden",
+            "release_date_for_display": "September 24, 2021",
+            "url": "https://genius.com/albums/Ada-lea/One-hand-on-the-steering-wheel-the-other-sewing-a-garden",
+            "artist": {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Mastered by",
+              "artists": [
+                {
+                  "api_path": "/artists/1007498",
+                  "header_image_url": "https://images.genius.com/36525c3e624996f3542a812a29cf86ce.1000x185x1.png",
+                  "id": 1007498,
+                  "image_url": "https://images.genius.com/845715caf2987833f3b63a48b7c5e051.234x234x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Heba Kadry",
+                  "url": "https://genius.com/artists/Heba-kadry"
+                }
+              ]
+            },
+            {
+              "label": "Mixed By",
+              "artists": [
+                {
+                  "api_path": "/artists/468594",
+                  "header_image_url": "https://images.genius.com/14f02cedcf640c4e0a49e76f3b231d7b.500x500x1.jpg",
+                  "id": 468594,
+                  "image_url": "https://images.genius.com/14f02cedcf640c4e0a49e76f3b231d7b.500x500x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Burke Reid",
+                  "url": "https://genius.com/artists/Burke-reid"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 5265591,
+            "annotator_login": "bergamotperfume",
+            "api_path": "/referents/23625975",
+            "classification": "needs_exegesis",
+            "fragment": "\u200bpartner",
+            "id": 23625975,
+            "is_description": true,
+            "path": "/23625975/Ada-lea-partner/Partner",
+            "range": {
+              "content": "\u200bpartner"
+            },
+            "song_id": 7059107,
+            "url": "https://genius.com/23625975/Ada-lea-partner/Partner",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7059107",
+              "client_timestamps": {
+                "updated_by_human_at": 1630376770,
+                "lyrics_updated_at": 1629979521
+              },
+              "context": "Ada Lea",
+              "id": 7059107,
+              "image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+              "link_title": "\u200bpartner by\u00a0Ada\u00a0Lea",
+              "title": "\u200bpartner",
+              "type": "Song",
+              "url": "https://genius.com/Ada-lea-partner-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/23625975",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 23625975,
+                "pinned": false,
+                "share_url": "https://genius.com/23625975",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/23625975/Ada-lea-partner/Partner",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/5265591",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 5265591,
+                      "iq": 26326,
+                      "login": "bergamotperfume",
+                      "name": "bergamotperfume",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/bergamotperfume",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=KCZ97Q0mOC0"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1817947",
+            "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+            "id": 1817947,
+            "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ada Lea",
+            "url": "https://genius.com/artists/Ada-lea"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/977556",
+              "header_image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "id": 977556,
+              "image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Marshall Vore",
+              "url": "https://genius.com/artists/Marshall-vore"
+            },
+            {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "5gzJA6WZO42FMU174tvJzl",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/7059110",
+        "artist_names": "Ada Lea",
+        "full_title": "\u200bmy love 4 u is real by\u00a0Ada\u00a0Lea",
+        "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "id": 7059110,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 7018789,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1633057133,
+        "path": "/Ada-lea-my-love-4-u-is-real-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Ada-lea-my-love-4-u-is-real-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 9,
+          "day": 24
+        },
+        "release_date_for_display": "September 24, 2021",
+        "release_date_with_abbreviated_month_for_display": "Sep. 24, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "\u200bmy love 4 u is real",
+        "title_with_featured": "\u200bmy love 4 u is real",
+        "updated_by_human_at": 1633057133,
+        "url": "https://genius.com/Ada-lea-my-love-4-u-is-real-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1817947",
+          "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+          "id": 1817947,
+          "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+          "index_character": "a",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ada Lea",
+          "slug": "Ada-lea",
+          "url": "https://genius.com/artists/Ada-lea"
+        },
+        "artist": "Ada Lea",
+        "lyrics": "\u200bmy love 4 u is real Lyrics[Verse 1]\nCome to me as you did then\nMy innocuous and redeemable friend\nAnd I know this much is true\nThat the nights would always cut us through and through\nIn the mornings when I'd waltz into the room with my arms out wide\nCome to me, yes, come to me\nCome as a bride\n\n[Chorus]\nMy love for you is real\nNot like other love\nThat hangs there half dead\nAlways taking something from behind your back\nYa my love for you is real\nNot like other love\nAnd I wanted so badly for you to feel it like I did\nLike I did\nLike I did\n[Verse 2]\nCome to me as you did then\nHand in hand up the cath\u0435dral steps\nWhere w\u0435 heard the wedding band\nForeshadowing something tragic something mad\nThe room went spinning\nBells were ringing\nBride and groom and ornate gowns\nAll is forgiven in time\nAll is forgotten in time\nAnd when the music did stop\nI heard an answer\n\n[Chorus]\nMy love for you is real\nNot like other love\nThat hangs there half-dead\nAlways taking something from behind your back\nAnd my love for you is real\nNot like other love\nAnd I wanted so badly for you to feel it\n\n[Chorus]\nMy love for you is real\nNot like other love\nThat hangs there half-dead\nAlways taking something from behind your back\nYou might also like[Chorus]\nMy love for you is real\nNot like any other love\nAnd I wanted so badly for you to feel it like I did\n\n[Outro]\nLike I did\nLike I did\nLike I didEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/7059110",
+          "apple_music_id": "1574537844",
+          "apple_music_player_url": "https://genius.com/songs/7059110/apple_music_player",
+          "artist_names": "Ada Lea",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_7059110' class='rg_embed_link' data-song-id='7059110'>Read <a href='https://genius.com/Ada-lea-my-love-4-u-is-real-lyrics'>\u201c\u200bmy love 4 u is real\u201d by Ada\u00a0Lea</a> on Genius</div> <script crossorigin src='//genius.com/songs/7059110/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200bmy love 4 u is real by\u00a0Ada\u00a0Lea",
+          "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "id": 7059110,
+          "language": "en",
+          "lyrics_owner_id": 7018789,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Ada-lea-my-love-4-u-is-real-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Ada-lea-my-love-4-u-is-real-sample",
+          "release_date": "2021-09-24",
+          "release_date_for_display": "September 24, 2021",
+          "release_date_with_abbreviated_month_for_display": "Sep. 24, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 2,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "\u200bmy love 4 u is real",
+          "title_with_featured": "\u200bmy love 4 u is real",
+          "url": "https://genius.com/Ada-lea-my-love-4-u-is-real-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/799974",
+            "cover_art_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+            "full_title": " one hand on the steering wheel the other sewing a garden by Ada Lea",
+            "id": 799974,
+            "name": " one hand on the steering wheel the other sewing a garden",
+            "release_date_for_display": "September 24, 2021",
+            "url": "https://genius.com/albums/Ada-lea/One-hand-on-the-steering-wheel-the-other-sewing-a-garden",
+            "artist": {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 5265591,
+            "annotator_login": "bergamotperfume",
+            "api_path": "/referents/23625978",
+            "classification": "needs_exegesis",
+            "fragment": "\u200bmy love 4 u is real",
+            "id": 23625978,
+            "is_description": true,
+            "path": "/23625978/Ada-lea-my-love-4-u-is-real/My-love-4-u-is-real",
+            "range": {
+              "content": "\u200bmy love 4 u is real"
+            },
+            "song_id": 7059110,
+            "url": "https://genius.com/23625978/Ada-lea-my-love-4-u-is-real/My-love-4-u-is-real",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7059110",
+              "client_timestamps": {
+                "updated_by_human_at": 1633057133,
+                "lyrics_updated_at": 1633057133
+              },
+              "context": "Ada Lea",
+              "id": 7059110,
+              "image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+              "link_title": "\u200bmy love 4 u is real by\u00a0Ada\u00a0Lea",
+              "title": "\u200bmy love 4 u is real",
+              "type": "Song",
+              "url": "https://genius.com/Ada-lea-my-love-4-u-is-real-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/23625978",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 23625978,
+                "pinned": false,
+                "share_url": "https://genius.com/23625978",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/23625978/Ada-lea-my-love-4-u-is-real/My-love-4-u-is-real",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/5265591",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 5265591,
+                      "iq": 26326,
+                      "login": "bergamotperfume",
+                      "name": "bergamotperfume",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/bergamotperfume",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=kLEGrZUqq1g"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1817947",
+            "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+            "id": 1817947,
+            "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ada Lea",
+            "url": "https://genius.com/artists/Ada-lea"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/977556",
+              "header_image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "id": 977556,
+              "image_url": "https://images.genius.com/11bc7f0a21936e30b7689cbddd01531d.400x400x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Marshall Vore",
+              "url": "https://genius.com/artists/Marshall-vore"
+            },
+            {
+              "api_path": "/artists/2080052",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 2080052,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Alexandra Levy",
+              "url": "https://genius.com/artists/Alexandra-levy"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2080052",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 2080052,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Alexandra Levy",
+              "url": "https://genius.com/artists/Alexandra-levy"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "2a9nYnvv8mHu1dPhcell1M",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/7059108",
+        "artist_names": "Ada Lea",
+        "full_title": "\u200bsaltspring by\u00a0Ada\u00a0Lea",
+        "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "id": 7059108,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 7018789,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1632459052,
+        "path": "/Ada-lea-saltspring-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Ada-lea-saltspring-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 9,
+          "day": 24
+        },
+        "release_date_for_display": "September 24, 2021",
+        "release_date_with_abbreviated_month_for_display": "Sep. 24, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "\u200bsaltspring",
+        "title_with_featured": "\u200bsaltspring",
+        "updated_by_human_at": 1632459052,
+        "url": "https://genius.com/Ada-lea-saltspring-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1817947",
+          "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+          "id": 1817947,
+          "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+          "index_character": "a",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Ada Lea",
+          "slug": "Ada-lea",
+          "url": "https://genius.com/artists/Ada-lea"
+        },
+        "artist": "Ada Lea",
+        "lyrics": "\u200bsaltspring Lyrics[Verse 1]\nYou called me to tell me that you missed the last ferry\nHeading to Saltspring but that i needn't worry\nYou'd be on the first one come the morning\nSlept on the beach, in the cold, missing me\nThe dark was getting louder\nYou tried to start a fire\nRubbed two sticks together for hours\n\n[Pre-Chorus]\nYears gone by\nVery Proustian, this passage of time\n[Chorus]\nWell I just found the letter dated august 2nd\nThe one you sent that summer saying this is how you see it\nWere \u0435ither growing apart or growing together\nEith\u0435r growing apart or growing together\n\n[Verse 2]\nYou set out in the morning and went deep into the country\n.22 slung over your back and then you shot a bunny\nAnd where the hell\u2019d you get a .22\nBefore I moved you called me\nSaid you\u2019d be out west and likely wouldn't be returning\nThat things were getting busy\nBut you\u2019d come and visit once I'd settled into the city\n\n[Pre-Chorus]\nYears gone by\nVery Proustian, this passage of time\n\n[Chorus]\nWell I just found the letter dated august 2nd\nThe one you sent that summer saying this is how you see it\nWe're either growing apart or growing together\nEither growing apart or growing together\n\n[Bridge]\nOf all the days I remember with fondness\nThere is one that I am eager to forget\nThat's why I'm here on this very same island\nTo see if our names are still written in the sand\nYou might also like[Chorus]\nI just found the letter dated august 2nd\nThe one you sent that summer saying this is how you see it\nWe're either growing apart or growing together\nEither growing apart or growing togetherEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/7059108",
+          "apple_music_id": "1574537842",
+          "apple_music_player_url": "https://genius.com/songs/7059108/apple_music_player",
+          "artist_names": "Ada Lea",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_7059108' class='rg_embed_link' data-song-id='7059108'>Read <a href='https://genius.com/Ada-lea-saltspring-lyrics'>\u201c\u200bsaltspring\u201d by Ada\u00a0Lea</a> on Genius</div> <script crossorigin src='//genius.com/songs/7059108/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "\u200bsaltspring by\u00a0Ada\u00a0Lea",
+          "header_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "id": 7059108,
+          "language": "en",
+          "lyrics_owner_id": 7018789,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Ada-lea-saltspring-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Ada-lea-saltspring-sample",
+          "release_date": "2021-09-24",
+          "release_date_for_display": "September 24, 2021",
+          "release_date_with_abbreviated_month_for_display": "Sep. 24, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 2,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "\u200bsaltspring",
+          "title_with_featured": "\u200bsaltspring",
+          "url": "https://genius.com/Ada-lea-saltspring-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/799974",
+            "cover_art_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+            "full_title": " one hand on the steering wheel the other sewing a garden by Ada Lea",
+            "id": 799974,
+            "name": " one hand on the steering wheel the other sewing a garden",
+            "release_date_for_display": "September 24, 2021",
+            "url": "https://genius.com/albums/Ada-lea/One-hand-on-the-steering-wheel-the-other-sewing-a-garden",
+            "artist": {
+              "api_path": "/artists/1817947",
+              "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+              "id": 1817947,
+              "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Ada Lea",
+              "url": "https://genius.com/artists/Ada-lea"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 5265591,
+            "annotator_login": "bergamotperfume",
+            "api_path": "/referents/23625976",
+            "classification": "needs_exegesis",
+            "fragment": "\u200bsaltspring",
+            "id": 23625976,
+            "is_description": true,
+            "path": "/23625976/Ada-lea-saltspring/Saltspring",
+            "range": {
+              "content": "\u200bsaltspring"
+            },
+            "song_id": 7059108,
+            "url": "https://genius.com/23625976/Ada-lea-saltspring/Saltspring",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7059108",
+              "client_timestamps": {
+                "updated_by_human_at": 1632459052,
+                "lyrics_updated_at": 1632459052
+              },
+              "context": "Ada Lea",
+              "id": 7059108,
+              "image_url": "https://images.genius.com/134a4dfc1266f996c127dc77b5e4f364.700x700x1.jpg",
+              "link_title": "\u200bsaltspring by\u00a0Ada\u00a0Lea",
+              "title": "\u200bsaltspring",
+              "type": "Song",
+              "url": "https://genius.com/Ada-lea-saltspring-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/23625976",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 23625976,
+                "pinned": false,
+                "share_url": "https://genius.com/23625976",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/23625976/Ada-lea-saltspring/Saltspring",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/5265591",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/8dbb830d682796c7e296c535b469599b",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 5265591,
+                      "iq": 26326,
+                      "login": "bergamotperfume",
+                      "name": "bergamotperfume",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/bergamotperfume",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=OyMHsvFME6E"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1817947",
+            "header_image_url": "https://images.genius.com/1ea185adb763fb50071bcf28cb898318.1000x429x1.jpg",
+            "id": 1817947,
+            "image_url": "https://images.genius.com/d05968946cebb3abd538ce1476bb49df.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ada Lea",
+            "url": "https://genius.com/artists/Ada-lea"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/2080052",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 2080052,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Alexandra Levy",
+              "url": "https://genius.com/artists/Alexandra-levy"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/2080052",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "id": 2080052,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680017231",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Alexandra Levy",
+              "url": "https://genius.com/artists/Alexandra-levy"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    }
+  ]
+}

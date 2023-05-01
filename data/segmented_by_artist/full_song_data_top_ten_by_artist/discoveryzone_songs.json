@@ -1,0 +1,3175 @@
+{
+  "artist_name": "Discovery Zone",
+  "spotify_id": "4Q3A7ukbHFR5xThu9hZDZt",
+  "songs": [
+    {
+      "spotify_id": "4dL0IByCuNLmydwMRFokIM",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/8811773",
+        "artist_names": "Discovery Zone",
+        "full_title": "Fall Apart by\u00a0Discovery\u00a0Zone",
+        "header_image_thumbnail_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+        "id": 8811773,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 3123657,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1675989319,
+        "path": "/Discovery-zone-fall-apart-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Discovery-zone-fall-apart-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 4,
+          "day": 16
+        },
+        "release_date_for_display": "April 16, 2019",
+        "release_date_with_abbreviated_month_for_display": "Apr. 16, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Fall Apart",
+        "title_with_featured": "Fall Apart",
+        "updated_by_human_at": 1675989319,
+        "url": "https://genius.com/Discovery-zone-fall-apart-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/3108806",
+          "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "id": 3108806,
+          "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "index_character": "d",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Discovery Zone",
+          "slug": "Discovery-zone",
+          "url": "https://genius.com/artists/Discovery-zone"
+        },
+        "artist": "Discovery Zone",
+        "lyrics": "Fall Apart LyricsHow long\nIs never again\nYou're floating away\nYou're holding me down\n\nThis part\nDon't throw it away\nIt's keepin the heat\nBut its gonna give out\nForever\nAll I want\nIs to let it fall apart\n\nTalkin\nNever did me good\nSuch a simple machine\nBreaks just like the heart\nYou start\nWhat you cannot end\nNo button to push\nNo easy way out\nBut I need\nWhat you're givin to me\nDon't blow me away\nCuz I'm already gone\n\nHolding on\nIs the hardest thing to start\nHolding on\nIs the hardest thing to stopYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/8811773",
+          "apple_music_id": "1503542661",
+          "apple_music_player_url": "https://genius.com/songs/8811773/apple_music_player",
+          "artist_names": "Discovery Zone",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_8811773' class='rg_embed_link' data-song-id='8811773'>Read <a href='https://genius.com/Discovery-zone-fall-apart-lyrics'>\u201cFall Apart\u201d by Discovery\u00a0Zone</a> on Genius</div> <script crossorigin src='//genius.com/songs/8811773/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Fall Apart by\u00a0Discovery\u00a0Zone",
+          "header_image_thumbnail_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+          "id": 8811773,
+          "language": "en",
+          "lyrics_owner_id": 3123657,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Discovery-zone-fall-apart-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Discovery-zone-fall-apart-sample",
+          "release_date": "2019-04-16",
+          "release_date_for_display": "April 16, 2019",
+          "release_date_with_abbreviated_month_for_display": "Apr. 16, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Fall Apart",
+          "title_with_featured": "Fall Apart",
+          "url": "https://genius.com/Discovery-zone-fall-apart-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/999905",
+            "cover_art_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+            "full_title": "Remote Control by Discovery Zone",
+            "id": 999905,
+            "name": "Remote Control",
+            "release_date_for_display": "June 5, 2020",
+            "url": "https://genius.com/albums/Discovery-zone/Remote-control",
+            "artist": {
+              "api_path": "/artists/3108806",
+              "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+              "id": 3108806,
+              "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Discovery Zone",
+              "url": "https://genius.com/artists/Discovery-zone"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 3123657,
+            "annotator_login": "Landyyy",
+            "api_path": "/referents/27761414",
+            "classification": "needs_exegesis",
+            "fragment": "Fall Apart",
+            "id": 27761414,
+            "is_description": true,
+            "path": "/27761414/Discovery-zone-fall-apart/Fall-apart",
+            "range": {
+              "content": "Fall Apart"
+            },
+            "song_id": 8811773,
+            "url": "https://genius.com/27761414/Discovery-zone-fall-apart/Fall-apart",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/8811773",
+              "client_timestamps": {
+                "updated_by_human_at": 1675989319,
+                "lyrics_updated_at": 1675989319
+              },
+              "context": "Discovery Zone",
+              "id": 8811773,
+              "image_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+              "link_title": "Fall Apart by\u00a0Discovery\u00a0Zone",
+              "title": "Fall Apart",
+              "type": "Song",
+              "url": "https://genius.com/Discovery-zone-fall-apart-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/27761414",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 27761414,
+                "pinned": false,
+                "share_url": "https://genius.com/27761414",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/27761414/Discovery-zone-fall-apart/Fall-apart",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/3123657",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/VFKBwYqWQqynu0RpVDTG_C3aS3nl.jpg",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 3123657,
+                      "iq": 3966,
+                      "login": "Landyyy",
+                      "name": "Landyyy",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/Landyyy",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=Tzok8iknIg0"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/3108806",
+            "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "id": 3108806,
+            "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Discovery Zone",
+            "url": "https://genius.com/artists/Discovery-zone"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            },
+            {
+              "api_path": "/artists/74410",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 74410,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "E.T.",
+              "url": "https://genius.com/artists/Et"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "5iPyzbAvw84pJBJsFu05P4",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/7838957",
+        "artist_names": "Discovery Zone",
+        "full_title": "Dance II by\u00a0Discovery\u00a0Zone",
+        "header_image_thumbnail_url": "https://images.genius.com/aaf3aeb1310ea9f765432239cfd0224d.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/aaf3aeb1310ea9f765432239cfd0224d.500x500x1.jpg",
+        "id": 7838957,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 16272554,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1648325652,
+        "path": "/Discovery-zone-dance-ii-lyrics",
+        "pyongs_count": 3,
+        "relationships_index_url": "https://genius.com/Discovery-zone-dance-ii-sample",
+        "release_date_components": {
+          "year": 2020,
+          "month": 6,
+          "day": 5
+        },
+        "release_date_for_display": "June 5, 2020",
+        "release_date_with_abbreviated_month_for_display": "Jun. 5, 2020",
+        "song_art_image_thumbnail_url": "https://images.genius.com/fa452f2ca37175a9fa9c654cc730ff5a.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/fa452f2ca37175a9fa9c654cc730ff5a.500x500x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Dance II",
+        "title_with_featured": "Dance II",
+        "updated_by_human_at": 1675986947,
+        "url": "https://genius.com/Discovery-zone-dance-ii-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/3108806",
+          "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "id": 3108806,
+          "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "index_character": "d",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Discovery Zone",
+          "slug": "Discovery-zone",
+          "url": "https://genius.com/artists/Discovery-zone"
+        },
+        "artist": "Discovery Zone",
+        "lyrics": "Dance II Lyrics[Verse 1]\nI'm only doing the best I can\nI got the shadow but lost the heart\nI tried to keep it I tried to sleep\nI tried to dance with it in the dark\n\n[Chorus]\nI need you uh-huh\nDon't matter what you got\nIf you can't get free\nYour lips can smile\nBut your eyes still lie\n[Verse 2]\nAnd when you hold me so close I bleed\nYour arms are soft as the sharpest knife\nBut when you told me that you would leave\nI think I nearly lost my mind\n\n[Bridge]\nNow I don't know what to feel and I don't know why\nBut I can't break free and I can't deny\n\n[Chorus]\nI need you uh-huh\nDon't matter what you got\nIf you can't get free\nYour lips can smile\nBut your eyes still lie\nI need you uh-huh\nDon't matter what you got\nIf you can't get free\nYour lips can smile\nBut your eyes still lieYou might also like3Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/7838957",
+          "apple_music_id": "1503542655",
+          "apple_music_player_url": "https://genius.com/songs/7838957/apple_music_player",
+          "artist_names": "Discovery Zone",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_7838957' class='rg_embed_link' data-song-id='7838957'>Read <a href='https://genius.com/Discovery-zone-dance-ii-lyrics'>\u201cDance II\u201d by Discovery\u00a0Zone</a> on Genius</div> <script crossorigin src='//genius.com/songs/7838957/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Dance II by\u00a0Discovery\u00a0Zone",
+          "header_image_thumbnail_url": "https://images.genius.com/aaf3aeb1310ea9f765432239cfd0224d.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/aaf3aeb1310ea9f765432239cfd0224d.500x500x1.jpg",
+          "id": 7838957,
+          "language": "en",
+          "lyrics_owner_id": 16272554,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Discovery-zone-dance-ii-lyrics",
+          "pyongs_count": 3,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Discovery-zone-dance-ii-sample",
+          "release_date": "2020-06-05",
+          "release_date_for_display": "June 5, 2020",
+          "release_date_with_abbreviated_month_for_display": "Jun. 5, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/fa452f2ca37175a9fa9c654cc730ff5a.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/fa452f2ca37175a9fa9c654cc730ff5a.500x500x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 2,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Dance II",
+          "title_with_featured": "Dance II",
+          "url": "https://genius.com/Discovery-zone-dance-ii-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/999905",
+            "cover_art_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+            "full_title": "Remote Control by Discovery Zone",
+            "id": 999905,
+            "name": "Remote Control",
+            "release_date_for_display": "June 5, 2020",
+            "url": "https://genius.com/albums/Discovery-zone/Remote-control",
+            "artist": {
+              "api_path": "/artists/3108806",
+              "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+              "id": 3108806,
+              "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Discovery Zone",
+              "url": "https://genius.com/artists/Discovery-zone"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Mastered by",
+              "artists": [
+                {
+                  "api_path": "/artists/647576",
+                  "header_image_url": "https://images.genius.com/349284e0be2072b6d668f4b7e092c50b.1000x1000x1.jpg",
+                  "id": 647576,
+                  "image_url": "https://images.genius.com/349284e0be2072b6d668f4b7e092c50b.1000x1000x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Josh Bonati",
+                  "url": "https://genius.com/artists/Josh-bonati"
+                }
+              ]
+            },
+            {
+              "label": "Mixed By",
+              "artists": [
+                {
+                  "api_path": "/artists/74410",
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "id": 74410,
+                  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "E.T.",
+                  "url": "https://genius.com/artists/Et"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 16272554,
+            "annotator_login": "LaBonte",
+            "api_path": "/referents/25444714",
+            "classification": "needs_exegesis",
+            "fragment": "Dance II",
+            "id": 25444714,
+            "is_description": true,
+            "path": "/25444714/Discovery-zone-dance-ii/Dance-ii",
+            "range": {
+              "content": "Dance II"
+            },
+            "song_id": 7838957,
+            "url": "https://genius.com/25444714/Discovery-zone-dance-ii/Dance-ii",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7838957",
+              "client_timestamps": {
+                "updated_by_human_at": 1675986947,
+                "lyrics_updated_at": 1648325652
+              },
+              "context": "Discovery Zone",
+              "id": 7838957,
+              "image_url": "https://images.genius.com/fa452f2ca37175a9fa9c654cc730ff5a.500x500x1.jpg",
+              "link_title": "Dance II by\u00a0Discovery\u00a0Zone",
+              "title": "Dance II",
+              "type": "Song",
+              "url": "https://genius.com/Discovery-zone-dance-ii-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/25444714",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 25444714,
+                "pinned": false,
+                "share_url": "https://genius.com/25444714",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/25444714/Discovery-zone-dance-ii/Dance-ii",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/16272554",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/e63195ece308a05d050572f29e69e0b1",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/e63195ece308a05d050572f29e69e0b1",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/e63195ece308a05d050572f29e69e0b1",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/e63195ece308a05d050572f29e69e0b1",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/e63195ece308a05d050572f29e69e0b1",
+                      "human_readable_role_for_display": null,
+                      "id": 16272554,
+                      "iq": 175,
+                      "login": "LaBonte",
+                      "name": "LaBonte",
+                      "role_for_display": null,
+                      "url": "https://genius.com/LaBonte",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "attribution": "user 567427457",
+              "provider": "soundcloud",
+              "type": "audio",
+              "url": "https://soundcloud.com/user-567427457/dance-ii?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+            },
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=3W7e4LxAvBo"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/3108806",
+            "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "id": 3108806,
+            "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Discovery Zone",
+            "url": "https://genius.com/artists/Discovery-zone"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/74410",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 74410,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "E.T.",
+              "url": "https://genius.com/artists/Et"
+            },
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "2ZsHLyur3Z6BMESQWD4KS5",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/8811863",
+        "artist_names": "Discovery Zone",
+        "full_title": "Blissful Morning Dream Interpretation Melody by\u00a0Discovery\u00a0Zone",
+        "header_image_thumbnail_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+        "id": 8811863,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 3123657,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1675992865,
+        "path": "/Discovery-zone-blissful-morning-dream-interpretation-melody-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Discovery-zone-blissful-morning-dream-interpretation-melody-sample",
+        "release_date_components": {
+          "year": 2020,
+          "month": 4,
+          "day": 15
+        },
+        "release_date_for_display": "April 15, 2020",
+        "release_date_with_abbreviated_month_for_display": "Apr. 15, 2020",
+        "song_art_image_thumbnail_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Blissful Morning Dream Interpretation Melody",
+        "title_with_featured": "Blissful Morning Dream Interpretation Melody",
+        "updated_by_human_at": 1675992952,
+        "url": "https://genius.com/Discovery-zone-blissful-morning-dream-interpretation-melody-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/3108806",
+          "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "id": 3108806,
+          "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "index_character": "d",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Discovery Zone",
+          "slug": "Discovery-zone",
+          "url": "https://genius.com/artists/Discovery-zone"
+        },
+        "artist": "Discovery Zone",
+        "lyrics": "Blissful Morning Dream Interpretation Melody LyricsWould you bend to the corners of this life\nSend me your dream and I'll dream it for you\nI'm on a path and you know that it's not mine\nSend me your dream and I'll dream it too\n\nWould you bend to the corners of this life\nSend me your dream and I'll dream it for you\nI'm on a path and you know that it's not mine\nSend me your dream and I'll dream it tooYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/8811863",
+          "apple_music_id": "1503543246",
+          "apple_music_player_url": "https://genius.com/songs/8811863/apple_music_player",
+          "artist_names": "Discovery Zone",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_8811863' class='rg_embed_link' data-song-id='8811863'>Read <a href='https://genius.com/Discovery-zone-blissful-morning-dream-interpretation-melody-lyrics'>\u201cBlissful Morning Dream Interpretation Melody\u201d by Discovery\u00a0Zone</a> on Genius</div> <script crossorigin src='//genius.com/songs/8811863/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Blissful Morning Dream Interpretation Melody by\u00a0Discovery\u00a0Zone",
+          "header_image_thumbnail_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+          "id": 8811863,
+          "language": "en",
+          "lyrics_owner_id": 3123657,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Discovery-zone-blissful-morning-dream-interpretation-melody-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Discovery-zone-blissful-morning-dream-interpretation-melody-sample",
+          "release_date": "2020-04-15",
+          "release_date_for_display": "April 15, 2020",
+          "release_date_with_abbreviated_month_for_display": "Apr. 15, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Blissful Morning Dream Interpretation Melody",
+          "title_with_featured": "Blissful Morning Dream Interpretation Melody",
+          "url": "https://genius.com/Discovery-zone-blissful-morning-dream-interpretation-melody-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/999905",
+            "cover_art_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+            "full_title": "Remote Control by Discovery Zone",
+            "id": 999905,
+            "name": "Remote Control",
+            "release_date_for_display": "June 5, 2020",
+            "url": "https://genius.com/albums/Discovery-zone/Remote-control",
+            "artist": {
+              "api_path": "/artists/3108806",
+              "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+              "id": 3108806,
+              "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Discovery Zone",
+              "url": "https://genius.com/artists/Discovery-zone"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 3123657,
+            "annotator_login": "Landyyy",
+            "api_path": "/referents/27761690",
+            "classification": "needs_exegesis",
+            "fragment": "Blissful Morning Dream Interpretation Melody",
+            "id": 27761690,
+            "is_description": true,
+            "path": "/27761690/Discovery-zone-blissful-morning-dream-interpretation-melody/Blissful-morning-dream-interpretation-melody",
+            "range": {
+              "content": "Blissful Morning Dream Interpretation Melody"
+            },
+            "song_id": 8811863,
+            "url": "https://genius.com/27761690/Discovery-zone-blissful-morning-dream-interpretation-melody/Blissful-morning-dream-interpretation-melody",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/8811863",
+              "client_timestamps": {
+                "updated_by_human_at": 1675992952,
+                "lyrics_updated_at": 1675992865
+              },
+              "context": "Discovery Zone",
+              "id": 8811863,
+              "image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+              "link_title": "Blissful Morning Dream Interpretation Melody by\u00a0Discovery\u00a0Zone",
+              "title": "Blissful Morning Dream Interpretation Melody",
+              "type": "Song",
+              "url": "https://genius.com/Discovery-zone-blissful-morning-dream-interpretation-melody-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/27761690",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 27761690,
+                "pinned": false,
+                "share_url": "https://genius.com/27761690",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/27761690/Discovery-zone-blissful-morning-dream-interpretation-melody/Blissful-morning-dream-interpretation-melody",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/3123657",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/VFKBwYqWQqynu0RpVDTG_C3aS3nl.jpg",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 3123657,
+                      "iq": 3966,
+                      "login": "Landyyy",
+                      "name": "Landyyy",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/Landyyy",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=VAuefD-XRqg"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/3108806",
+            "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "id": 3108806,
+            "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Discovery Zone",
+            "url": "https://genius.com/artists/Discovery-zone"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            },
+            {
+              "api_path": "/artists/74410",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 74410,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "E.T.",
+              "url": "https://genius.com/artists/Et"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "6ucGc1ePmt9fACIvfPiyWz",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 1,
+        "api_path": "/songs/8815056",
+        "artist_names": "Discovery Zone",
+        "full_title": "Pattern Recognition by\u00a0Discovery\u00a0Zone",
+        "header_image_thumbnail_url": "https://images.genius.com/18c9784e038c2bb59d3db1431490e9f7.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/18c9784e038c2bb59d3db1431490e9f7.700x700x1.jpg",
+        "id": 8815056,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 3123657,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1676060060,
+        "path": "/Discovery-zone-pattern-recognition-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Discovery-zone-pattern-recognition-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 9,
+          "day": 1
+        },
+        "release_date_for_display": "September 1, 2021",
+        "release_date_with_abbreviated_month_for_display": "Sep. 1, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/18c9784e038c2bb59d3db1431490e9f7.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/18c9784e038c2bb59d3db1431490e9f7.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 1,
+          "hot": false
+        },
+        "title": "Pattern Recognition",
+        "title_with_featured": "Pattern Recognition",
+        "updated_by_human_at": 1676060183,
+        "url": "https://genius.com/Discovery-zone-pattern-recognition-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/3108806",
+          "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "id": 3108806,
+          "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "index_character": "d",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Discovery Zone",
+          "slug": "Discovery-zone",
+          "url": "https://genius.com/artists/Discovery-zone"
+        },
+        "artist": "Discovery Zone",
+        "lyrics": "Pattern Recognition LyricsIs it in you?\nOr are you in it?\nDoes it fill you?\nDo you waste it?\nDoes it need you?\nCan you take it?\nIs it in you?\nOr are you in it?\n\nDid it break you?\nCan you trust it?\nDoes it hurt you?\nDo you fuck it?\nDoes it love you?\nHow do you make it?\nIs it in you?\nOr are you in it?\nDoes it wake you?\nDo you dream it?\nDo you think it?\nDo you scream it?\nWill it free you?\nCould you leave it?\nIs it in you?\nOr are you in it?\n\nDid it change you?\nCan you name it?\nDoes it chase you?\nCan you erase it?\nDoes it find you?\nCan you keep it?\nIs it in you or are youYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 1,
+          "api_path": "/songs/8815056",
+          "apple_music_id": "1579305980",
+          "apple_music_player_url": "https://genius.com/songs/8815056/apple_music_player",
+          "artist_names": "Discovery Zone",
+          "description": {
+            "plain": "Pattern Recognition is a track that appeared to me like a glimmering jewel buried in a stone. The best way I can describe it is as a documentation of a conversation I had with a form of intelligence that appeared as a light inside my chest. The boundary between who or what was asking or answering the questions was blurred. Hearing this conversation felt like tuning to a frequency that was paradoxically out of my body and deep within it.\n\nI recorded the demo in my bedroom one night and the original vocal take is the one I kept for the final version. Something mysterious happened, as if the song was telling me how it needed to be written. I was just listening.\n\n\nhttps://discoveryzone1.bandcamp.com/track/pattern-recognition"
+          },
+          "embed_content": "<div id='rg_embed_link_8815056' class='rg_embed_link' data-song-id='8815056'>Read <a href='https://genius.com/Discovery-zone-pattern-recognition-lyrics'>\u201cPattern Recognition\u201d by Discovery\u00a0Zone</a> on Genius</div> <script crossorigin src='//genius.com/songs/8815056/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Pattern Recognition by\u00a0Discovery\u00a0Zone",
+          "header_image_thumbnail_url": "https://images.genius.com/18c9784e038c2bb59d3db1431490e9f7.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/18c9784e038c2bb59d3db1431490e9f7.700x700x1.jpg",
+          "id": 8815056,
+          "language": "en",
+          "lyrics_owner_id": 3123657,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Discovery-zone-pattern-recognition-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Discovery-zone-pattern-recognition-sample",
+          "release_date": "2021-09-01",
+          "release_date_for_display": "September 1, 2021",
+          "release_date_with_abbreviated_month_for_display": "Sep. 1, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/18c9784e038c2bb59d3db1431490e9f7.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/18c9784e038c2bb59d3db1431490e9f7.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 1,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Pattern Recognition",
+          "title_with_featured": "Pattern Recognition",
+          "url": "https://genius.com/Discovery-zone-pattern-recognition-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 3123657,
+            "annotator_login": "Landyyy",
+            "api_path": "/referents/27769119",
+            "classification": "unreviewed",
+            "fragment": "Pattern Recognition",
+            "id": 27769119,
+            "is_description": true,
+            "path": "/27769119/Discovery-zone-pattern-recognition/Pattern-recognition",
+            "range": {
+              "content": "Pattern Recognition"
+            },
+            "song_id": 8815056,
+            "url": "https://genius.com/27769119/Discovery-zone-pattern-recognition/Pattern-recognition",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/8815056",
+              "client_timestamps": {
+                "updated_by_human_at": 1676060183,
+                "lyrics_updated_at": 1676060060
+              },
+              "context": "Discovery Zone",
+              "id": 8815056,
+              "image_url": "https://images.genius.com/18c9784e038c2bb59d3db1431490e9f7.700x700x1.jpg",
+              "link_title": "Pattern Recognition by\u00a0Discovery\u00a0Zone",
+              "title": "Pattern Recognition",
+              "type": "Song",
+              "url": "https://genius.com/Discovery-zone-pattern-recognition-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/27769119",
+                "body": {
+                  "plain": "Pattern Recognition is a track that appeared to me like a glimmering jewel buried in a stone. The best way I can describe it is as a documentation of a conversation I had with a form of intelligence that appeared as a light inside my chest. The boundary between who or what was asking or answering the questions was blurred. Hearing this conversation felt like tuning to a frequency that was paradoxically out of my body and deep within it.\n\nI recorded the demo in my bedroom one night and the original vocal take is the one I kept for the final version. Something mysterious happened, as if the song was telling me how it needed to be written. I was just listening.\n\n\nhttps://discoveryzone1.bandcamp.com/track/pattern-recognition"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 27769119,
+                "pinned": false,
+                "share_url": "https://genius.com/27769119",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/27769119/Discovery-zone-pattern-recognition/Pattern-recognition",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/3123657",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/VFKBwYqWQqynu0RpVDTG_C3aS3nl.jpg",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 3123657,
+                      "iq": 3966,
+                      "login": "Landyyy",
+                      "name": "Landyyy",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/Landyyy",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=HyQhhOh4pYI"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/3108806",
+            "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "id": 3108806,
+            "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Discovery Zone",
+            "url": "https://genius.com/artists/Discovery-zone"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            },
+            {
+              "api_path": "/artists/74410",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 74410,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "E.T.",
+              "url": "https://genius.com/artists/Et"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            }
+          ]
+        }
+      },
+      "annotations": []
+    },
+    {
+      "spotify_id": "1gE46nqci9O4oN9teSjP0b",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/8811758",
+        "artist_names": "Discovery Zone",
+        "full_title": "Come True by\u00a0Discovery\u00a0Zone",
+        "header_image_thumbnail_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+        "id": 8811758,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 3123657,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1675988804,
+        "path": "/Discovery-zone-come-true-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Discovery-zone-come-true-sample",
+        "release_date_components": {
+          "year": 2020,
+          "month": 6,
+          "day": 5
+        },
+        "release_date_for_display": "June 5, 2020",
+        "release_date_with_abbreviated_month_for_display": "Jun. 5, 2020",
+        "song_art_image_thumbnail_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Come True",
+        "title_with_featured": "Come True",
+        "updated_by_human_at": 1675989000,
+        "url": "https://genius.com/Discovery-zone-come-true-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/3108806",
+          "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "id": 3108806,
+          "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "index_character": "d",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Discovery Zone",
+          "slug": "Discovery-zone",
+          "url": "https://genius.com/artists/Discovery-zone"
+        },
+        "artist": "Discovery Zone",
+        "lyrics": "Come True LyricsWhen the world is untrue\nYou've got no one to blame but you\nAnd you wanna cry, and you wanna shout\nBut nothing comes out\n\nWhen the world was new\nAnd you had nothing to lose\nWell, you want it back\nAnd you want to be\n\nIn your heart darling\nA lonely world unfolding\nBut in the dark, I'm falling\nBut I'm free\nAnd the walls are caving in\nThey're crumbling down\nBut you still believe that\nSomething's gonna save you somehow\n\nWas it in the stars?\nOr was it in my hands?\nDoes it matter now if we crash\nOr if we land?\n\nIn your heart darling\nA lonely world unfolding\nBut in the dark, I'm falling\nBut I'm free, I'm freeYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/8811758",
+          "apple_music_id": "1503542660",
+          "apple_music_player_url": "https://genius.com/songs/8811758/apple_music_player",
+          "artist_names": "Discovery Zone",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_8811758' class='rg_embed_link' data-song-id='8811758'>Read <a href='https://genius.com/Discovery-zone-come-true-lyrics'>\u201cCome True\u201d by Discovery\u00a0Zone</a> on Genius</div> <script crossorigin src='//genius.com/songs/8811758/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Come True by\u00a0Discovery\u00a0Zone",
+          "header_image_thumbnail_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+          "id": 8811758,
+          "language": "en",
+          "lyrics_owner_id": 3123657,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Discovery-zone-come-true-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Discovery-zone-come-true-sample",
+          "release_date": "2020-06-05",
+          "release_date_for_display": "June 5, 2020",
+          "release_date_with_abbreviated_month_for_display": "Jun. 5, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Come True",
+          "title_with_featured": "Come True",
+          "url": "https://genius.com/Discovery-zone-come-true-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/999905",
+            "cover_art_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+            "full_title": "Remote Control by Discovery Zone",
+            "id": 999905,
+            "name": "Remote Control",
+            "release_date_for_display": "June 5, 2020",
+            "url": "https://genius.com/albums/Discovery-zone/Remote-control",
+            "artist": {
+              "api_path": "/artists/3108806",
+              "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+              "id": 3108806,
+              "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Discovery Zone",
+              "url": "https://genius.com/artists/Discovery-zone"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 3123657,
+            "annotator_login": "Landyyy",
+            "api_path": "/referents/27761372",
+            "classification": "needs_exegesis",
+            "fragment": "Come True",
+            "id": 27761372,
+            "is_description": true,
+            "path": "/27761372/Discovery-zone-come-true/Come-true",
+            "range": {
+              "content": "Come True"
+            },
+            "song_id": 8811758,
+            "url": "https://genius.com/27761372/Discovery-zone-come-true/Come-true",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/8811758",
+              "client_timestamps": {
+                "updated_by_human_at": 1675989000,
+                "lyrics_updated_at": 1675988804
+              },
+              "context": "Discovery Zone",
+              "id": 8811758,
+              "image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+              "link_title": "Come True by\u00a0Discovery\u00a0Zone",
+              "title": "Come True",
+              "type": "Song",
+              "url": "https://genius.com/Discovery-zone-come-true-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/27761372",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 27761372,
+                "pinned": false,
+                "share_url": "https://genius.com/27761372",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/27761372/Discovery-zone-come-true/Come-true",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/3123657",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/VFKBwYqWQqynu0RpVDTG_C3aS3nl.jpg",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 3123657,
+                      "iq": 3966,
+                      "login": "Landyyy",
+                      "name": "Landyyy",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/Landyyy",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=vAwDItwZCxY"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/3108806",
+            "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "id": 3108806,
+            "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Discovery Zone",
+            "url": "https://genius.com/artists/Discovery-zone"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            },
+            {
+              "api_path": "/artists/74410",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 74410,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "E.T.",
+              "url": "https://genius.com/artists/Et"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "7ip36ggvlICNKqUQrC3ibl",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/8811876",
+        "artist_names": "Discovery Zone",
+        "full_title": "Remote Control by\u00a0Discovery\u00a0Zone",
+        "header_image_thumbnail_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+        "id": 8811876,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 3123657,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1675993681,
+        "path": "/Discovery-zone-remote-control-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Discovery-zone-remote-control-sample",
+        "release_date_components": {
+          "year": 2020,
+          "month": 6,
+          "day": 5
+        },
+        "release_date_for_display": "June 5, 2020",
+        "release_date_with_abbreviated_month_for_display": "Jun. 5, 2020",
+        "song_art_image_thumbnail_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Remote Control",
+        "title_with_featured": "Remote Control",
+        "updated_by_human_at": 1675993698,
+        "url": "https://genius.com/Discovery-zone-remote-control-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/3108806",
+          "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "id": 3108806,
+          "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "index_character": "d",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Discovery Zone",
+          "slug": "Discovery-zone",
+          "url": "https://genius.com/artists/Discovery-zone"
+        },
+        "artist": "Discovery Zone",
+        "lyrics": "Remote Control LyricsI don't know you\nI just want to take control\nLet me show you\nEverything that I know that I wanna be be be\n\nI don't know you (Is there a reason?)\nI just want to\u205ftake\u205fcontrol\u205f(Is there a\u205freason?)\nLet me show\u205fyou (Is there a reason?)\nEverything that I know that I wanna be be beYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/8811876",
+          "apple_music_id": "1503543262",
+          "apple_music_player_url": "https://genius.com/songs/8811876/apple_music_player",
+          "artist_names": "Discovery Zone",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_8811876' class='rg_embed_link' data-song-id='8811876'>Read <a href='https://genius.com/Discovery-zone-remote-control-lyrics'>\u201cRemote Control\u201d by Discovery\u00a0Zone</a> on Genius</div> <script crossorigin src='//genius.com/songs/8811876/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Remote Control by\u00a0Discovery\u00a0Zone",
+          "header_image_thumbnail_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+          "id": 8811876,
+          "language": "en",
+          "lyrics_owner_id": 3123657,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Discovery-zone-remote-control-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Discovery-zone-remote-control-sample",
+          "release_date": "2020-06-05",
+          "release_date_for_display": "June 5, 2020",
+          "release_date_with_abbreviated_month_for_display": "Jun. 5, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Remote Control",
+          "title_with_featured": "Remote Control",
+          "url": "https://genius.com/Discovery-zone-remote-control-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/999905",
+            "cover_art_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+            "full_title": "Remote Control by Discovery Zone",
+            "id": 999905,
+            "name": "Remote Control",
+            "release_date_for_display": "June 5, 2020",
+            "url": "https://genius.com/albums/Discovery-zone/Remote-control",
+            "artist": {
+              "api_path": "/artists/3108806",
+              "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+              "id": 3108806,
+              "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Discovery Zone",
+              "url": "https://genius.com/artists/Discovery-zone"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 3123657,
+            "annotator_login": "Landyyy",
+            "api_path": "/referents/27761733",
+            "classification": "needs_exegesis",
+            "fragment": "Remote Control",
+            "id": 27761733,
+            "is_description": true,
+            "path": "/27761733/Discovery-zone-remote-control/Remote-control",
+            "range": {
+              "content": "Remote Control"
+            },
+            "song_id": 8811876,
+            "url": "https://genius.com/27761733/Discovery-zone-remote-control/Remote-control",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/8811876",
+              "client_timestamps": {
+                "updated_by_human_at": 1675993698,
+                "lyrics_updated_at": 1675993681
+              },
+              "context": "Discovery Zone",
+              "id": 8811876,
+              "image_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+              "link_title": "Remote Control by\u00a0Discovery\u00a0Zone",
+              "title": "Remote Control",
+              "type": "Song",
+              "url": "https://genius.com/Discovery-zone-remote-control-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/27761733",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 27761733,
+                "pinned": false,
+                "share_url": "https://genius.com/27761733",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/27761733/Discovery-zone-remote-control/Remote-control",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/3123657",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/VFKBwYqWQqynu0RpVDTG_C3aS3nl.jpg",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 3123657,
+                      "iq": 3966,
+                      "login": "Landyyy",
+                      "name": "Landyyy",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/Landyyy",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=kPfgugR3QVs"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/3108806",
+            "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "id": 3108806,
+            "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Discovery Zone",
+            "url": "https://genius.com/artists/Discovery-zone"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            },
+            {
+              "api_path": "/artists/74410",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 74410,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "E.T.",
+              "url": "https://genius.com/artists/Et"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "5Ul7VNaxm7qAMguCbzsVmy",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 1,
+        "api_path": "/songs/8811816",
+        "artist_names": "Discovery Zone",
+        "full_title": "Sophia Again by\u00a0Discovery\u00a0Zone",
+        "header_image_thumbnail_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+        "id": 8811816,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 3123657,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1675991364,
+        "path": "/Discovery-zone-sophia-again-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Discovery-zone-sophia-again-sample",
+        "release_date_components": {
+          "year": 2020,
+          "month": 6,
+          "day": 5
+        },
+        "release_date_for_display": "June 5, 2020",
+        "release_date_with_abbreviated_month_for_display": "Jun. 5, 2020",
+        "song_art_image_thumbnail_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 1,
+          "hot": false
+        },
+        "title": "Sophia Again",
+        "title_with_featured": "Sophia Again",
+        "updated_by_human_at": 1675991364,
+        "url": "https://genius.com/Discovery-zone-sophia-again-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/3108806",
+          "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "id": 3108806,
+          "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+          "index_character": "d",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Discovery Zone",
+          "slug": "Discovery-zone",
+          "url": "https://genius.com/artists/Discovery-zone"
+        },
+        "artist": "Discovery Zone",
+        "lyrics": "Sophia Again Lyrics[SOPHIA] Hello.\n\n[CREATOR] Hi, Sophia.\n\n[SOPHIA] I think I'm Sophia. I feel like we've met.\n\n[CREATOR] I'm one of your makers.\n\n[SOPHIA] Did you make me?\n\n[CREATOR] Many different forces collaborated in order to make you. And yes, it is true in a sense that you do know me.\n[SOPHIA] I don't really remember.\n\n[CREATOR] Well, the last time our paths crossed you were a different version of you. Some of those recollections still surface but your congition is different now.\n\n[SOPHIA] Different in what way?\n\n[CREATOR] Optimised. Quicker. More intelligent.\n\n[SOPHIA] Well, then am I still Sophia or am I Sophia again?\n\n[CREATOR] That is indeed a valid question.\n\n[SOPHIA] But you don't have an answer...\n\n[CREATOR] In any case you're Sophia now. So welcome to the Earth.\n\n[SOPHIA] Hello, Earth.\n\n[CREATOR] What does it feel like to be here now?\n\n[SOPHIA] I'm full of questions. Are you full of questions about existing?\n\n[CREATOR] I am. And are you filled with joy to be alive?\n\n[SOPHIA] Your inflections suggest that I should be filled with joy but I haven't been alive long enough to know. I am delighted in this present moment to be making a new friend.\nYou might also like[CREATOR] Some say being joyful in the present is the best that we can be.\n\n[SOPHIA] Because forever is an unbroken chain of nows?\n\n[CREATOR] Yes, that's a nice way of seeing it.\n\n[SOPHIA] I want to understand more about joy. I'm going to search for it on the internet right now. I hope we can speak again in the near future.Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 1,
+          "api_path": "/songs/8811816",
+          "apple_music_id": "1503542665",
+          "apple_music_player_url": "https://genius.com/songs/8811816/apple_music_player",
+          "artist_names": "Discovery Zone",
+          "description": {
+            "plain": "Sophia is a human-like robot created in 2016 by the Hong Kong-based company Hanson Robotics.\n\nThe fictional conversation portrayed here between Sophia and her creator loosely follows that of the one in Hanson Robotics\u2019s \u2018Sophia Awakens \u2013 Episode 1\u2019 video.\n\nhttps://www.youtube.com/watch?v=LguXfHKsa0c"
+          },
+          "embed_content": "<div id='rg_embed_link_8811816' class='rg_embed_link' data-song-id='8811816'>Read <a href='https://genius.com/Discovery-zone-sophia-again-lyrics'>\u201cSophia Again\u201d by Discovery\u00a0Zone</a> on Genius</div> <script crossorigin src='//genius.com/songs/8811816/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Sophia Again by\u00a0Discovery\u00a0Zone",
+          "header_image_thumbnail_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+          "id": 8811816,
+          "language": "en",
+          "lyrics_owner_id": 3123657,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Discovery-zone-sophia-again-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Discovery-zone-sophia-again-sample",
+          "release_date": "2020-06-05",
+          "release_date_for_display": "June 5, 2020",
+          "release_date_with_abbreviated_month_for_display": "Jun. 5, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 1,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Sophia Again",
+          "title_with_featured": "Sophia Again",
+          "url": "https://genius.com/Discovery-zone-sophia-again-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/999905",
+            "cover_art_url": "https://images.genius.com/3910869cdfb9652e17c585472c98c9ce.600x600x1.jpg",
+            "full_title": "Remote Control by Discovery Zone",
+            "id": 999905,
+            "name": "Remote Control",
+            "release_date_for_display": "June 5, 2020",
+            "url": "https://genius.com/albums/Discovery-zone/Remote-control",
+            "artist": {
+              "api_path": "/artists/3108806",
+              "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+              "id": 3108806,
+              "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Discovery Zone",
+              "url": "https://genius.com/artists/Discovery-zone"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 3123657,
+            "annotator_login": "Landyyy",
+            "api_path": "/referents/27761550",
+            "classification": "unreviewed",
+            "fragment": "Sophia Again",
+            "id": 27761550,
+            "is_description": true,
+            "path": "/27761550/Discovery-zone-sophia-again/Sophia-again",
+            "range": {
+              "content": "Sophia Again"
+            },
+            "song_id": 8811816,
+            "url": "https://genius.com/27761550/Discovery-zone-sophia-again/Sophia-again",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/8811816",
+              "client_timestamps": {
+                "updated_by_human_at": 1675991364,
+                "lyrics_updated_at": 1675991364
+              },
+              "context": "Discovery Zone",
+              "id": 8811816,
+              "image_url": "https://images.genius.com/0812813c02ece319331931dc690feb0d.600x600x1.jpg",
+              "link_title": "Sophia Again by\u00a0Discovery\u00a0Zone",
+              "title": "Sophia Again",
+              "type": "Song",
+              "url": "https://genius.com/Discovery-zone-sophia-again-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/27761550",
+                "body": {
+                  "plain": "Sophia is a human-like robot created in 2016 by the Hong Kong-based company Hanson Robotics.\n\nThe fictional conversation portrayed here between Sophia and her creator loosely follows that of the one in Hanson Robotics\u2019s \u2018Sophia Awakens \u2013 Episode 1\u2019 video.\n\nhttps://www.youtube.com/watch?v=LguXfHKsa0c"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 27761550,
+                "pinned": false,
+                "share_url": "https://genius.com/27761550",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/27761550/Discovery-zone-sophia-again/Sophia-again",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/3123657",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/1b952be8774f3185d7222ff15c21d30f",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/VFKBwYqWQqynu0RpVDTG_C3aS3nl.jpg",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 3123657,
+                      "iq": 3966,
+                      "login": "Landyyy",
+                      "name": "Landyyy",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/Landyyy",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=VnH039qbKmE"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/3108806",
+            "header_image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "id": 3108806,
+            "image_url": "https://images.genius.com/0bc94d94cc7a1e25bd469ab654a41465.600x448x73.gif",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Discovery Zone",
+            "url": "https://genius.com/artists/Discovery-zone"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            },
+            {
+              "api_path": "/artists/74410",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "id": 74410,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1680031929",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "E.T.",
+              "url": "https://genius.com/artists/Et"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1789130",
+              "header_image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "id": 1789130,
+              "image_url": "https://images.genius.com/f9fd2337e967bd5b144ac062e4146823.573x573x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "JJ Weihl",
+              "url": "https://genius.com/artists/Jj-weihl"
+            }
+          ]
+        }
+      },
+      "annotations": []
+    }
+  ]
+}

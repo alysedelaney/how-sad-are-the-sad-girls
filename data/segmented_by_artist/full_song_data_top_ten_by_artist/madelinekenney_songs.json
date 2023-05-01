@@ -1,0 +1,4112 @@
+{
+  "artist_name": "Madeline Kenney",
+  "spotify_id": "2mirb9SKAm6IUHtPwreoqN",
+  "songs": [
+    {
+      "spotify_id": "1YwjbuXJi7nTwnw4wI4wbU",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/5588451",
+        "artist_names": "Madeline Kenney (Ft. Jenn Wasner & Kurt Wagner)",
+        "full_title": "Sucker by\u00a0Madeline\u00a0Kenney (Ft.\u00a0Jenn\u00a0Wasner & Kurt\u00a0Wagner)",
+        "header_image_thumbnail_url": "https://images.genius.com/1be0a853c613add1197c56c2472c4a55.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/1be0a853c613add1197c56c2472c4a55.1000x1000x1.jpg",
+        "id": 5588451,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 9988250,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1609226152,
+        "path": "/Madeline-kenney-sucker-lyrics",
+        "pyongs_count": 2,
+        "relationships_index_url": "https://genius.com/Madeline-kenney-sucker-sample",
+        "release_date_components": {
+          "year": 2020,
+          "month": 5,
+          "day": 19
+        },
+        "release_date_for_display": "May 19, 2020",
+        "release_date_with_abbreviated_month_for_display": "May. 19, 2020",
+        "song_art_image_thumbnail_url": "https://images.genius.com/1be0a853c613add1197c56c2472c4a55.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/1be0a853c613add1197c56c2472c4a55.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Sucker",
+        "title_with_featured": "Sucker (Ft.\u00a0Jenn\u00a0Wasner & Kurt\u00a0Wagner)",
+        "updated_by_human_at": 1660160790,
+        "url": "https://genius.com/Madeline-kenney-sucker-lyrics",
+        "featured_artists": [
+          {
+            "_type": "artist",
+            "api_path": "/artists/336014",
+            "header_image_url": "https://images.genius.com/894dccf70685aa8a4b071094f82e15ee.1000x315x1.jpg",
+            "id": 336014,
+            "image_url": "https://images.genius.com/6fcfc34601a7235e656bf6a11b02f365.454x454x1.jpg",
+            "index_character": "j",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jenn Wasner",
+            "slug": "Jenn-wasner",
+            "url": "https://genius.com/artists/Jenn-wasner"
+          },
+          {
+            "_type": "artist",
+            "api_path": "/artists/378696",
+            "header_image_url": "https://images.genius.com/a95a294ac2ee2ba0892ac201402e933a.584x584x1.png",
+            "id": 378696,
+            "image_url": "https://images.genius.com/a95a294ac2ee2ba0892ac201402e933a.584x584x1.png",
+            "index_character": "k",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kurt Wagner",
+            "slug": "Kurt-wagner",
+            "url": "https://genius.com/artists/Kurt-wagner"
+          }
+        ],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/667331",
+          "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+          "id": 667331,
+          "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Madeline Kenney",
+          "slug": "Madeline-kenney",
+          "url": "https://genius.com/artists/Madeline-kenney"
+        },
+        "artist": "Madeline Kenney",
+        "lyrics": "Sucker Lyrics[Verse 1]\nFrom the waggin' of the tongues\nThey're getting bitter\nAnd they say it's all for fun\nAnd then\u2005they\u2005point the finger\n\n[Verse 2]\nThey\u2005say the course is run\nThe game\u2005is over\nThat puts me out of work\nAnd they're just hungover\n[Chorus]\nBut when it's all said and done\nI want my supper\nPour the cream into my coffee\nI'm the sucker\n\n[Verse 3]\nBack when life was fun\nI talked to my brother\nNow he drives a pick-up truck\nAnd I just blow my cover\n\n[Chorus]\nBut when it's all said and done\nI'll make another\nPour my seventh cup of coffee\nI'm the sucker\n\n[Outro]\nGo on ahead without me\nGo on ahead without me\nGo on ahead without me\nGo on ahead without meYou might also like2Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/5588451",
+          "apple_music_id": "1510935660",
+          "apple_music_player_url": "https://genius.com/songs/5588451/apple_music_player",
+          "artist_names": "Madeline Kenney (Ft. Jenn Wasner & Kurt Wagner)",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_5588451' class='rg_embed_link' data-song-id='5588451'>Read <a href='https://genius.com/Madeline-kenney-sucker-lyrics'>\u201cSucker\u201d by Madeline\u00a0Kenney</a> on Genius</div> <script crossorigin src='//genius.com/songs/5588451/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Sucker by\u00a0Madeline\u00a0Kenney (Ft.\u00a0Jenn\u00a0Wasner & Kurt\u00a0Wagner)",
+          "header_image_thumbnail_url": "https://images.genius.com/1be0a853c613add1197c56c2472c4a55.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/1be0a853c613add1197c56c2472c4a55.1000x1000x1.jpg",
+          "id": 5588451,
+          "language": "en",
+          "lyrics_owner_id": 9988250,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Madeline-kenney-sucker-lyrics",
+          "pyongs_count": 2,
+          "recording_location": "Tiny Telephone",
+          "relationships_index_url": "https://genius.com/Madeline-kenney-sucker-sample",
+          "release_date": "2020-05-19",
+          "release_date_for_display": "May 19, 2020",
+          "release_date_with_abbreviated_month_for_display": "May. 19, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/1be0a853c613add1197c56c2472c4a55.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/1be0a853c613add1197c56c2472c4a55.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 8,
+            "iq_earners": 7,
+            "transcribers": 4,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Sucker",
+          "title_with_featured": "Sucker (Ft.\u00a0Jenn\u00a0Wasner & Kurt\u00a0Wagner)",
+          "url": "https://genius.com/Madeline-kenney-sucker-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/637748",
+            "cover_art_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+            "full_title": "Sucker\u2019s Lunch by Madeline Kenney",
+            "id": 637748,
+            "name": "Sucker\u2019s Lunch",
+            "release_date_for_display": "July 31, 2020",
+            "url": "https://genius.com/albums/Madeline-kenney/Suckers-lunch",
+            "artist": {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Label",
+              "artists": [
+                {
+                  "api_path": "/artists/1113670",
+                  "header_image_url": "https://images.genius.com/3acf3dac48748b0241c1d168757aefbd.274x184x1.jpg",
+                  "id": 1113670,
+                  "image_url": "https://images.genius.com/e39f6f7efd4fde4f1c3445ebab9f03ee.225x225x1.png",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Carpark Records",
+                  "url": "https://genius.com/artists/Carpark-records"
+                }
+              ]
+            },
+            {
+              "label": "Saxophone",
+              "artists": [
+                {
+                  "api_path": "/artists/1017091",
+                  "header_image_url": "https://images.genius.com/1c8674710480c9bdd9253d71df4c19ca.482x482x1.jpg",
+                  "id": 1017091,
+                  "image_url": "https://images.genius.com/1c8674710480c9bdd9253d71df4c19ca.482x482x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Andy Stack",
+                  "url": "https://genius.com/artists/Andy-stack"
+                }
+              ]
+            },
+            {
+              "label": "Drums, Percussion",
+              "artists": [
+                {
+                  "api_path": "/artists/1017091",
+                  "header_image_url": "https://images.genius.com/1c8674710480c9bdd9253d71df4c19ca.482x482x1.jpg",
+                  "id": 1017091,
+                  "image_url": "https://images.genius.com/1c8674710480c9bdd9253d71df4c19ca.482x482x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Andy Stack",
+                  "url": "https://genius.com/artists/Andy-stack"
+                }
+              ]
+            },
+            {
+              "label": "Mastered by",
+              "artists": [
+                {
+                  "api_path": "/artists/998205",
+                  "header_image_url": "https://images.genius.com/10606a7f252ba78f8c971ec6bee49b99.409x409x1.jpg",
+                  "id": 998205,
+                  "image_url": "https://images.genius.com/04b2b31e8469b24d98386991c0e10a71.409x409x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Sarah Register",
+                  "url": "https://genius.com/artists/Sarah-register"
+                }
+              ]
+            },
+            {
+              "label": "Mixed By",
+              "artists": [
+                {
+                  "api_path": "/artists/1081065",
+                  "header_image_url": "https://images.genius.com/c2ec2a27dde5e10edc3d9a3ce4952b85.249x249x1.png",
+                  "id": 1081065,
+                  "image_url": "https://images.genius.com/c2ec2a27dde5e10edc3d9a3ce4952b85.249x249x1.png",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Ari Picker",
+                  "url": "https://genius.com/artists/Ari-picker"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 1197226,
+            "annotator_login": "SethMishne",
+            "api_path": "/referents/19893365",
+            "classification": "needs_exegesis",
+            "fragment": "Sucker",
+            "id": 19893365,
+            "is_description": true,
+            "path": "/19893365/Madeline-kenney-sucker/Sucker",
+            "range": {
+              "content": "Sucker"
+            },
+            "song_id": 5588451,
+            "url": "https://genius.com/19893365/Madeline-kenney-sucker/Sucker",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/5588451",
+              "client_timestamps": {
+                "updated_by_human_at": 1660160790,
+                "lyrics_updated_at": 1609226152
+              },
+              "context": "Madeline Kenney",
+              "id": 5588451,
+              "image_url": "https://images.genius.com/1be0a853c613add1197c56c2472c4a55.1000x1000x1.jpg",
+              "link_title": "Sucker by\u00a0Madeline\u00a0Kenney (Ft.\u00a0Jenn\u00a0Wasner & Kurt\u00a0Wagner)",
+              "title": "Sucker",
+              "type": "Song",
+              "url": "https://genius.com/Madeline-kenney-sucker-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/19893365",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 19893365,
+                "pinned": false,
+                "share_url": "https://genius.com/19893365",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/19893365/Madeline-kenney-sucker/Sucker",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/1197226",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.rapgenius.com/avatars/tiny/f17a02cfb139548f1c6fe0647fd0dc87",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.rapgenius.com/avatars/thumb/f17a02cfb139548f1c6fe0647fd0dc87",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.rapgenius.com/avatars/small/f17a02cfb139548f1c6fe0647fd0dc87",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.rapgenius.com/avatars/medium/f17a02cfb139548f1c6fe0647fd0dc87",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.rapgenius.com/avatars/medium/f17a02cfb139548f1c6fe0647fd0dc87",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 1197226,
+                      "iq": 4012,
+                      "login": "SethMishne",
+                      "name": "SethMishne",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/SethMishne",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [
+            {
+              "api_path": "/artists/336014",
+              "header_image_url": "https://images.genius.com/894dccf70685aa8a4b071094f82e15ee.1000x315x1.jpg",
+              "id": 336014,
+              "image_url": "https://images.genius.com/6fcfc34601a7235e656bf6a11b02f365.454x454x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Jenn Wasner",
+              "url": "https://genius.com/artists/Jenn-wasner"
+            },
+            {
+              "api_path": "/artists/378696",
+              "header_image_url": "https://images.genius.com/a95a294ac2ee2ba0892ac201402e933a.584x584x1.png",
+              "id": 378696,
+              "image_url": "https://images.genius.com/a95a294ac2ee2ba0892ac201402e933a.584x584x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Kurt Wagner",
+              "url": "https://genius.com/artists/Kurt-wagner"
+            }
+          ],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=wdc_Ji8_Ats"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/667331",
+            "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+            "id": 667331,
+            "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Madeline Kenney",
+            "url": "https://genius.com/artists/Madeline-kenney"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/12419",
+              "header_image_url": "https://images.genius.com/9a6408a9afdecc26bca17148bddbd503.1000x714x1.jpg",
+              "id": 12419,
+              "image_url": "https://images.genius.com/9a6408a9afdecc26bca17148bddbd503.1000x714x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": true,
+              "name": "Wye Oak",
+              "url": "https://genius.com/artists/Wye-oak",
+              "iq": 236
+            },
+            {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "6Uh5WGMkd7lJexutLcxMwi",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/3839137",
+        "artist_names": "Madeline Kenney",
+        "full_title": "Cut Me Off by\u00a0Madeline\u00a0Kenney",
+        "header_image_thumbnail_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+        "id": 3839137,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 3779107,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1538868321,
+        "path": "/Madeline-kenney-cut-me-off-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Madeline-kenney-cut-me-off-sample",
+        "release_date_components": {
+          "year": 2018,
+          "month": 10,
+          "day": 5
+        },
+        "release_date_for_display": "October 5, 2018",
+        "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+        "song_art_image_thumbnail_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Cut Me Off",
+        "title_with_featured": "Cut Me Off",
+        "updated_by_human_at": 1646242524,
+        "url": "https://genius.com/Madeline-kenney-cut-me-off-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/667331",
+          "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+          "id": 667331,
+          "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Madeline Kenney",
+          "slug": "Madeline-kenney",
+          "url": "https://genius.com/artists/Madeline-kenney"
+        },
+        "artist": "Madeline Kenney",
+        "lyrics": "Cut Me Off Lyrics[Intro]\nWait\nTesting, fifteen, fourteen, thirteen, twelve\nEleven, ten, nine, eight, seven\nSix, five, four, three\n\n[Chorus]\nDon't cut me off\nDon't cut me off\nDon't cut me off\nDon't cut me off\n[Verse 1]\nIt's a big push to the side\nI know, 'cause I'm trying\nAnd I thought you lied\nI know, 'cause I'm lying\n\n[Chorus]\nSo don't cut me off\nI'm in my own time\nSo don't cut me off\nI'm in my own time\n\n[Verse 2]\nThere I go\nAnd I wanna get out, walk inside\nFill up my cup and drink it dry\n\n[Chorus]\nSo don't cut me off\nI'm in my own time\nSo don't cut me off\nI'm in my own time\n\n[Interlude]\nThirteen, thirteen, nine, twelve\nYou might also like[Verse 3]\nAnd I wanna get out, walk inside\nFill up my cup, you're still on my mind\nYou're still on my mind\n\n[Outro]\nI got a good thing going now (I got a good thing going now)\nI am where I wanna be (I got a good thing going now)\nI got a good thing going now (I got a good thing going now)\n(I got a good thing going now)\nSo don't cut me o-Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/3839137",
+          "apple_music_id": "1406478671",
+          "apple_music_player_url": "https://genius.com/songs/3839137/apple_music_player",
+          "artist_names": "Madeline Kenney",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_3839137' class='rg_embed_link' data-song-id='3839137'>Read <a href='https://genius.com/Madeline-kenney-cut-me-off-lyrics'>\u201cCut Me Off\u201d by Madeline\u00a0Kenney</a> on Genius</div> <script crossorigin src='//genius.com/songs/3839137/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Cut Me Off by\u00a0Madeline\u00a0Kenney",
+          "header_image_thumbnail_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+          "id": 3839137,
+          "language": "en",
+          "lyrics_owner_id": 3779107,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Madeline-kenney-cut-me-off-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Madeline-kenney-cut-me-off-sample",
+          "release_date": "2018-10-05",
+          "release_date_for_display": "October 5, 2018",
+          "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+          "song_art_image_thumbnail_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Cut Me Off",
+          "title_with_featured": "Cut Me Off",
+          "url": "https://genius.com/Madeline-kenney-cut-me-off-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/445516",
+            "cover_art_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+            "full_title": "Perfect Shapes by Madeline Kenney",
+            "id": 445516,
+            "name": "Perfect Shapes",
+            "release_date_for_display": "October 5, 2018",
+            "url": "https://genius.com/albums/Madeline-kenney/Perfect-shapes",
+            "artist": {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 498964,
+            "annotator_login": "HolUp",
+            "api_path": "/referents/14976473",
+            "classification": "needs_exegesis",
+            "fragment": "Cut Me Off",
+            "id": 14976473,
+            "is_description": true,
+            "path": "/14976473/Madeline-kenney-cut-me-off/Cut-me-off",
+            "range": {
+              "content": "Cut Me Off"
+            },
+            "song_id": 3839137,
+            "url": "https://genius.com/14976473/Madeline-kenney-cut-me-off/Cut-me-off",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3839137",
+              "client_timestamps": {
+                "updated_by_human_at": 1646242524,
+                "lyrics_updated_at": 1538868321
+              },
+              "context": "Madeline Kenney",
+              "id": 3839137,
+              "image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+              "link_title": "Cut Me Off by\u00a0Madeline\u00a0Kenney",
+              "title": "Cut Me Off",
+              "type": "Song",
+              "url": "https://genius.com/Madeline-kenney-cut-me-off-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/14976473",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 14976473,
+                "pinned": false,
+                "share_url": "https://genius.com/14976473",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/14976473/Madeline-kenney-cut-me-off/Cut-me-off",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/498964",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/04d9f897a040e0d109321c079123e87a",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/04d9f897a040e0d109321c079123e87a",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/04d9f897a040e0d109321c079123e87a",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/04d9f897a040e0d109321c079123e87a",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/04d9f897a040e0d109321c079123e87a",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 498964,
+                      "iq": 1869248,
+                      "login": "HolUp",
+                      "name": "HolUp",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/HolUp",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/667331",
+            "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+            "id": 667331,
+            "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Madeline Kenney",
+            "url": "https://genius.com/artists/Madeline-kenney"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": [
+                {
+                  "annotation_count": 0,
+                  "api_path": "/songs/6210988",
+                  "artist_names": "TEEN",
+                  "full_title": "Cut Me Off by\u00a0TEEN",
+                  "header_image_thumbnail_url": "https://images.genius.com/3708fbba7c88b8f30f3e44d65f83d93e.300x300x1.jpg",
+                  "header_image_url": "https://images.genius.com/3708fbba7c88b8f30f3e44d65f83d93e.700x700x1.jpg",
+                  "id": 6210988,
+                  "language": "en",
+                  "lyrics_owner_id": 3324857,
+                  "lyrics_state": "complete",
+                  "path": "/Teen-cut-me-off-lyrics",
+                  "pyongs_count": null,
+                  "relationships_index_url": "https://genius.com/Teen-cut-me-off-sample",
+                  "release_date_components": {
+                    "year": 2020,
+                    "month": 11,
+                    "day": 23
+                  },
+                  "release_date_for_display": "November 23, 2020",
+                  "release_date_with_abbreviated_month_for_display": "Nov. 23, 2020",
+                  "song_art_image_thumbnail_url": "https://images.genius.com/3708fbba7c88b8f30f3e44d65f83d93e.300x300x1.jpg",
+                  "song_art_image_url": "https://images.genius.com/3708fbba7c88b8f30f3e44d65f83d93e.700x700x1.jpg",
+                  "stats": {
+                    "unreviewed_annotations": 0,
+                    "hot": false
+                  },
+                  "title": "Cut Me Off",
+                  "title_with_featured": "Cut Me Off",
+                  "url": "https://genius.com/Teen-cut-me-off-lyrics",
+                  "featured_artists": [],
+                  "primary_artist": {
+                    "api_path": "/artists/373930",
+                    "header_image_url": "https://images.genius.com/d6270cfe74c9e5dc1b6e439ae73ff09d.755x755x1.png",
+                    "id": 373930,
+                    "image_url": "https://images.genius.com/d6270cfe74c9e5dc1b6e439ae73ff09d.755x755x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "TEEN",
+                    "url": "https://genius.com/artists/Teen",
+                    "iq": 100
+                  }
+                }
+              ]
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "7vRdLejs2pVx3pVBAJilip",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/3839142",
+        "artist_names": "Madeline Kenney",
+        "full_title": "Perfect Shapes by\u00a0Madeline\u00a0Kenney",
+        "header_image_thumbnail_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+        "id": 3839142,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 126836,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1655847139,
+        "path": "/Madeline-kenney-perfect-shapes-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Madeline-kenney-perfect-shapes-sample",
+        "release_date_components": {
+          "year": 2018,
+          "month": 10,
+          "day": 5
+        },
+        "release_date_for_display": "October 5, 2018",
+        "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+        "song_art_image_thumbnail_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Perfect Shapes",
+        "title_with_featured": "Perfect Shapes",
+        "updated_by_human_at": 1655847139,
+        "url": "https://genius.com/Madeline-kenney-perfect-shapes-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/667331",
+          "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+          "id": 667331,
+          "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Madeline Kenney",
+          "slug": "Madeline-kenney",
+          "url": "https://genius.com/artists/Madeline-kenney"
+        },
+        "artist": "Madeline Kenney",
+        "lyrics": "Perfect Shapes Lyrics[Verse 1]\nPerfect shapes over my eyes when I go outside\nAnd the evening bleeding sunlight\nWhen I see you, I'm so happy I cry\nI don't want to ever hear the goodbye\n\n[Chorus]\nHold me, I'm sinking in\n\n[Verse 2]\nSo another summer in my room\nPicking up the jasmine perfume\nWhen I woke up, I could hear the tern fly\nIf I said that I was leaving, I lied\n[Chorus]\nHold me, I'm sinking in\nJust beginning againYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/3839142",
+          "apple_music_id": "1406478676",
+          "apple_music_player_url": "https://genius.com/songs/3839142/apple_music_player",
+          "artist_names": "Madeline Kenney",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_3839142' class='rg_embed_link' data-song-id='3839142'>Read <a href='https://genius.com/Madeline-kenney-perfect-shapes-lyrics'>\u201cPerfect Shapes\u201d by Madeline\u00a0Kenney</a> on Genius</div> <script crossorigin src='//genius.com/songs/3839142/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Perfect Shapes by\u00a0Madeline\u00a0Kenney",
+          "header_image_thumbnail_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+          "id": 3839142,
+          "language": "en",
+          "lyrics_owner_id": 126836,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Madeline-kenney-perfect-shapes-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Madeline-kenney-perfect-shapes-sample",
+          "release_date": "2018-10-05",
+          "release_date_for_display": "October 5, 2018",
+          "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+          "song_art_image_thumbnail_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 2,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Perfect Shapes",
+          "title_with_featured": "Perfect Shapes",
+          "url": "https://genius.com/Madeline-kenney-perfect-shapes-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/445516",
+            "cover_art_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+            "full_title": "Perfect Shapes by Madeline Kenney",
+            "id": 445516,
+            "name": "Perfect Shapes",
+            "release_date_for_display": "October 5, 2018",
+            "url": "https://genius.com/albums/Madeline-kenney/Perfect-shapes",
+            "artist": {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 498964,
+            "annotator_login": "HolUp",
+            "api_path": "/referents/14976478",
+            "classification": "needs_exegesis",
+            "fragment": "Perfect Shapes",
+            "id": 14976478,
+            "is_description": true,
+            "path": "/14976478/Madeline-kenney-perfect-shapes/Perfect-shapes",
+            "range": {
+              "content": "Perfect Shapes"
+            },
+            "song_id": 3839142,
+            "url": "https://genius.com/14976478/Madeline-kenney-perfect-shapes/Perfect-shapes",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3839142",
+              "client_timestamps": {
+                "updated_by_human_at": 1655847139,
+                "lyrics_updated_at": 1655847139
+              },
+              "context": "Madeline Kenney",
+              "id": 3839142,
+              "image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+              "link_title": "Perfect Shapes by\u00a0Madeline\u00a0Kenney",
+              "title": "Perfect Shapes",
+              "type": "Song",
+              "url": "https://genius.com/Madeline-kenney-perfect-shapes-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/14976478",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 14976478,
+                "pinned": false,
+                "share_url": "https://genius.com/14976478",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/14976478/Madeline-kenney-perfect-shapes/Perfect-shapes",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/498964",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/04d9f897a040e0d109321c079123e87a",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/04d9f897a040e0d109321c079123e87a",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/04d9f897a040e0d109321c079123e87a",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/04d9f897a040e0d109321c079123e87a",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/04d9f897a040e0d109321c079123e87a",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 498964,
+                      "iq": 1869248,
+                      "login": "HolUp",
+                      "name": "HolUp",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/HolUp",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/667331",
+            "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+            "id": 667331,
+            "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Madeline Kenney",
+            "url": "https://genius.com/artists/Madeline-kenney"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "0wtU6xePJ15dxrNj0JOoZ0",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6643113",
+        "artist_names": "Madeline Kenney",
+        "full_title": "Wasted Time by\u00a0Madeline\u00a0Kenney",
+        "header_image_thumbnail_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.700x700x1.jpg",
+        "id": 6643113,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 11730987,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1616885551,
+        "path": "/Madeline-kenney-wasted-time-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Madeline-kenney-wasted-time-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 1,
+          "day": 22
+        },
+        "release_date_for_display": "January 22, 2021",
+        "release_date_with_abbreviated_month_for_display": "Jan. 22, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Wasted Time",
+        "title_with_featured": "Wasted Time",
+        "updated_by_human_at": 1616885551,
+        "url": "https://genius.com/Madeline-kenney-wasted-time-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/667331",
+          "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+          "id": 667331,
+          "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Madeline Kenney",
+          "slug": "Madeline-kenney",
+          "url": "https://genius.com/artists/Madeline-kenney"
+        },
+        "artist": "Madeline Kenney",
+        "lyrics": "Wasted Time LyricsSo far, I belittle everything\nI care but only when I'm sufferin'\nSo what? I wanna make a livin' now\nOn the shit that just kinda falls out of my mouth\n\nTell me, I know I don't get the voices lined up right\nI can pay by the line\nIt was sittin' in the corner of my innocent mind\nOn all that wasted time\n\n(Come on and waste my time\nCome on and waste my time)\nI want you and what they want from me\nAh, ah oh\n\n\nTell me, I know I don't get the voices lined up right (Ah, ah oh)\nAll that wasted time\nSittin' in the corner of my innocent mind\n(Ah, ah, ah, ah)You might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6643113",
+          "apple_music_id": "1544268203",
+          "apple_music_player_url": "https://genius.com/songs/6643113/apple_music_player",
+          "artist_names": "Madeline Kenney",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6643113' class='rg_embed_link' data-song-id='6643113'>Read <a href='https://genius.com/Madeline-kenney-wasted-time-lyrics'>\u201cWasted Time\u201d by Madeline\u00a0Kenney</a> on Genius</div> <script crossorigin src='//genius.com/songs/6643113/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Wasted Time by\u00a0Madeline\u00a0Kenney",
+          "header_image_thumbnail_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.700x700x1.jpg",
+          "id": 6643113,
+          "language": "en",
+          "lyrics_owner_id": 11730987,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Madeline-kenney-wasted-time-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Madeline-kenney-wasted-time-sample",
+          "release_date": "2021-01-22",
+          "release_date_for_display": "January 22, 2021",
+          "release_date_with_abbreviated_month_for_display": "Jan. 22, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Wasted Time",
+          "title_with_featured": "Wasted Time",
+          "url": "https://genius.com/Madeline-kenney-wasted-time-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/752803",
+            "cover_art_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.700x700x1.jpg",
+            "full_title": "Summer Quarter by Madeline Kenney",
+            "id": 752803,
+            "name": "Summer Quarter",
+            "release_date_for_display": "January 22, 2021",
+            "url": "https://genius.com/albums/Madeline-kenney/Summer-quarter",
+            "artist": {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 11730987,
+            "annotator_login": "I_have_an_addiction_to_this_site",
+            "api_path": "/referents/22577083",
+            "classification": "needs_exegesis",
+            "fragment": "Wasted Time",
+            "id": 22577083,
+            "is_description": true,
+            "path": "/22577083/Madeline-kenney-wasted-time/Wasted-time",
+            "range": {
+              "content": "Wasted Time"
+            },
+            "song_id": 6643113,
+            "url": "https://genius.com/22577083/Madeline-kenney-wasted-time/Wasted-time",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6643113",
+              "client_timestamps": {
+                "updated_by_human_at": 1616885551,
+                "lyrics_updated_at": 1616885551
+              },
+              "context": "Madeline Kenney",
+              "id": 6643113,
+              "image_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.700x700x1.jpg",
+              "link_title": "Wasted Time by\u00a0Madeline\u00a0Kenney",
+              "title": "Wasted Time",
+              "type": "Song",
+              "url": "https://genius.com/Madeline-kenney-wasted-time-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22577083",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22577083,
+                "pinned": false,
+                "share_url": "https://genius.com/22577083",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22577083/Madeline-kenney-wasted-time/Wasted-time",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/11730987",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/503c2f943b94726db39f5d6b93770ddb",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/503c2f943b94726db39f5d6b93770ddb",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/503c2f943b94726db39f5d6b93770ddb",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/503c2f943b94726db39f5d6b93770ddb",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/503c2f943b94726db39f5d6b93770ddb",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 11730987,
+                      "iq": 71393,
+                      "login": "I_have_an_addiction_to_this_site",
+                      "name": "I_have_an_addiction_to_this_site",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/I_have_an_addiction_to_this_site",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=RMUrWLBtvbc"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/667331",
+            "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+            "id": 667331,
+            "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Madeline Kenney",
+            "url": "https://genius.com/artists/Madeline-kenney"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "7aoSpCcn0750InyBp6hfK0",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 1,
+        "api_path": "/songs/5588448",
+        "artist_names": "Madeline Kenney",
+        "full_title": "Picture of You by\u00a0Madeline\u00a0Kenney",
+        "header_image_thumbnail_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+        "id": 5588448,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 10566597,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1599165080,
+        "path": "/Madeline-kenney-picture-of-you-lyrics",
+        "pyongs_count": 1,
+        "relationships_index_url": "https://genius.com/Madeline-kenney-picture-of-you-sample",
+        "release_date_components": {
+          "year": 2020,
+          "month": 7,
+          "day": 21
+        },
+        "release_date_for_display": "July 21, 2020",
+        "release_date_with_abbreviated_month_for_display": "Jul. 21, 2020",
+        "song_art_image_thumbnail_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 1,
+          "hot": false
+        },
+        "title": "Picture of You",
+        "title_with_featured": "Picture of You",
+        "updated_by_human_at": 1660160761,
+        "url": "https://genius.com/Madeline-kenney-picture-of-you-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/667331",
+          "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+          "id": 667331,
+          "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Madeline Kenney",
+          "slug": "Madeline-kenney",
+          "url": "https://genius.com/artists/Madeline-kenney"
+        },
+        "artist": "Madeline Kenney",
+        "lyrics": "Picture of You Lyrics[Verse 1]\nI saw a picture of you\nAs a kid\nAnd I cried\nYour mother didn't know what she\u2005was\u2005doing\nBut she tried\n\n[Chorus]\nWe\u2005work so hard just to get\nOne\u2005phone call when we're missed\n[Verse 2]\nI showed a picture of you\nTo my mom\nAnd she cried\nGrowing up is so hard\nI don't know why\nBut we still fight\n\n[Chorus]\nI work so hard it's like death\nI feel insane when it hits\nPlease, just forget me\nOr at least what I used to be\nJust do that one thing for me\nI know I'll go on\n\n[Outro]\nI'm waiting for this to get easy\n(I'm waiting for this, I'm waiting for this to get easy)\nI'm waiting for this to get easy\n(I'm waiting for this, I'm waiting for this to get easy)\nI'm waiting for this to get easy\n(I'm waiting for this, I'm waiting for this to get easy)You might also like1Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 1,
+          "api_path": "/songs/5588448",
+          "apple_music_id": "1510935655",
+          "apple_music_player_url": "https://genius.com/songs/5588448/apple_music_player",
+          "artist_names": "Madeline Kenney",
+          "description": {
+            "plain": "\u201cI had this brief moment where I was looking at someone I love and I realized that I could never truly know everything they had been through, or understand their whole life and experiences from their perspective, even if by loving them I felt like I was getting so close to that kind of understanding,\u201d Kenney said in a statement. \u201cIt broke my heart in a way. I wish I could know and hold everything for a person but I can\u2019t, and at the same time I wish I could do that for the past versions of myself. Maybe that\u2019s more attainable.\u201d"
+          },
+          "embed_content": "<div id='rg_embed_link_5588448' class='rg_embed_link' data-song-id='5588448'>Read <a href='https://genius.com/Madeline-kenney-picture-of-you-lyrics'>\u201cPicture of You\u201d by Madeline\u00a0Kenney</a> on Genius</div> <script crossorigin src='//genius.com/songs/5588448/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Picture of You by\u00a0Madeline\u00a0Kenney",
+          "header_image_thumbnail_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+          "id": 5588448,
+          "language": "en",
+          "lyrics_owner_id": 10566597,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Madeline-kenney-picture-of-you-lyrics",
+          "pyongs_count": 1,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Madeline-kenney-picture-of-you-sample",
+          "release_date": "2020-07-21",
+          "release_date_for_display": "July 21, 2020",
+          "release_date_with_abbreviated_month_for_display": "Jul. 21, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 7,
+            "iq_earners": 6,
+            "transcribers": 2,
+            "unreviewed_annotations": 1,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Picture of You",
+          "title_with_featured": "Picture of You",
+          "url": "https://genius.com/Madeline-kenney-picture-of-you-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/637748",
+            "cover_art_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+            "full_title": "Sucker\u2019s Lunch by Madeline Kenney",
+            "id": 637748,
+            "name": "Sucker\u2019s Lunch",
+            "release_date_for_display": "July 31, 2020",
+            "url": "https://genius.com/albums/Madeline-kenney/Suckers-lunch",
+            "artist": {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Label",
+              "artists": [
+                {
+                  "api_path": "/artists/1113670",
+                  "header_image_url": "https://images.genius.com/3acf3dac48748b0241c1d168757aefbd.274x184x1.jpg",
+                  "id": 1113670,
+                  "image_url": "https://images.genius.com/e39f6f7efd4fde4f1c3445ebab9f03ee.225x225x1.png",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Carpark Records",
+                  "url": "https://genius.com/artists/Carpark-records"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 4917490,
+            "annotator_login": "susikx",
+            "api_path": "/referents/19893362",
+            "classification": "unreviewed",
+            "fragment": "Picture of You",
+            "id": 19893362,
+            "is_description": true,
+            "path": "/19893362/Madeline-kenney-picture-of-you/Picture-of-you",
+            "range": {
+              "content": "Picture of You"
+            },
+            "song_id": 5588448,
+            "url": "https://genius.com/19893362/Madeline-kenney-picture-of-you/Picture-of-you",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/5588448",
+              "client_timestamps": {
+                "updated_by_human_at": 1660160761,
+                "lyrics_updated_at": 1599165080
+              },
+              "context": "Madeline Kenney",
+              "id": 5588448,
+              "image_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+              "link_title": "Picture of You by\u00a0Madeline\u00a0Kenney",
+              "title": "Picture of You",
+              "type": "Song",
+              "url": "https://genius.com/Madeline-kenney-picture-of-you-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/19893362",
+                "body": {
+                  "plain": "\u201cI had this brief moment where I was looking at someone I love and I realized that I could never truly know everything they had been through, or understand their whole life and experiences from their perspective, even if by loving them I felt like I was getting so close to that kind of understanding,\u201d Kenney said in a statement. \u201cIt broke my heart in a way. I wish I could know and hold everything for a person but I can\u2019t, and at the same time I wish I could do that for the past versions of myself. Maybe that\u2019s more attainable.\u201d"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 19893362,
+                "pinned": false,
+                "share_url": "https://genius.com/19893362",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/19893362/Madeline-kenney-picture-of-you/Picture-of-you",
+                "verified": false,
+                "votes_total": 1,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/4917490",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/07a9db215afd4bce6985b213103d0584",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/07a9db215afd4bce6985b213103d0584",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/07a9db215afd4bce6985b213103d0584",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/07a9db215afd4bce6985b213103d0584",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/07a9db215afd4bce6985b213103d0584",
+                      "human_readable_role_for_display": null,
+                      "id": 4917490,
+                      "iq": 242,
+                      "login": "susikx",
+                      "name": "susikx",
+                      "role_for_display": null,
+                      "url": "https://genius.com/susikx",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": {
+            "api_path": "/users/7650027",
+            "avatar": {
+              "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 16,
+                  "height": 16
+                }
+              },
+              "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 32,
+                  "height": 32
+                }
+              },
+              "small": {
+                "url": "https://images.genius.com/avatars/small/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 100,
+                  "height": 100
+                }
+              },
+              "medium": {
+                "url": "https://images.genius.com/avatars/medium/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 300,
+                  "height": 400
+                }
+              }
+            },
+            "header_image_url": "https://images.genius.com/94d13e1979801cdeb4d0cc7a103eb5eb.1000x664x1.jpg",
+            "human_readable_role_for_display": "Staff",
+            "id": 7650027,
+            "iq": 333552,
+            "login": "worstofalltime",
+            "name": "\u200bworstofalltime",
+            "role_for_display": "staff",
+            "url": "https://genius.com/worstofalltime",
+            "current_user_metadata": {
+              "permissions": [],
+              "excluded_permissions": [
+                "follow"
+              ],
+              "interactions": {
+                "following": false
+              }
+            }
+          },
+          "media": [
+            {
+              "native_uri": "spotify:track:1S4S4861YQUWQi5fwT2JwI",
+              "provider": "spotify",
+              "type": "audio",
+              "url": "https://open.spotify.com/track/1S4S4861YQUWQi5fwT2JwI"
+            },
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=l4HcjGUC54k"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/667331",
+            "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+            "id": 667331,
+            "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Madeline Kenney",
+            "url": "https://genius.com/artists/Madeline-kenney"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": []
+    },
+    {
+      "spotify_id": "0PS7LHzbzXB2X51vlgFMnx",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6643159",
+        "artist_names": "Madeline Kenney",
+        "full_title": "Summer Quarter by\u00a0Madeline\u00a0Kenney",
+        "header_image_thumbnail_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.700x700x1.jpg",
+        "id": 6643159,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 11730987,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1616886353,
+        "path": "/Madeline-kenney-summer-quarter-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Madeline-kenney-summer-quarter-sample",
+        "release_date_components": {
+          "year": 2021,
+          "month": 1,
+          "day": 22
+        },
+        "release_date_for_display": "January 22, 2021",
+        "release_date_with_abbreviated_month_for_display": "Jan. 22, 2021",
+        "song_art_image_thumbnail_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Summer Quarter",
+        "title_with_featured": "Summer Quarter",
+        "updated_by_human_at": 1616886353,
+        "url": "https://genius.com/Madeline-kenney-summer-quarter-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/667331",
+          "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+          "id": 667331,
+          "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Madeline Kenney",
+          "slug": "Madeline-kenney",
+          "url": "https://genius.com/artists/Madeline-kenney"
+        },
+        "artist": "Madeline Kenney",
+        "lyrics": "Summer Quarter LyricsSummer makes me uneven\nCherries on the floor, no visitor\nStuck in what you could call a feelin'\nI can't beat the rhythm right\nNot like you\n\nTalkin', kinda without a reason\nJust to make my mouth do somethin'\nI swear I'm gonna say the right thing\nNot to you\nSo get me on the phone, I'm sufferin'\nYou know I can't be alone like that\nNot like you\nI'm not like you\n\nI just wanna be small and underwhelming\nCherries on the floor, blood on my bed\n\nSo get me on the phone, I'm sufferin'\nYou know I can't be alone like that\nIn someon\u0435 else's home, I'm not lik\u0435 youYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6643159",
+          "apple_music_id": "1544268198",
+          "apple_music_player_url": "https://genius.com/songs/6643159/apple_music_player",
+          "artist_names": "Madeline Kenney",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6643159' class='rg_embed_link' data-song-id='6643159'>Read <a href='https://genius.com/Madeline-kenney-summer-quarter-lyrics'>\u201cSummer Quarter\u201d by Madeline\u00a0Kenney</a> on Genius</div> <script crossorigin src='//genius.com/songs/6643159/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Summer Quarter by\u00a0Madeline\u00a0Kenney",
+          "header_image_thumbnail_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.700x700x1.jpg",
+          "id": 6643159,
+          "language": "en",
+          "lyrics_owner_id": 11730987,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Madeline-kenney-summer-quarter-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Madeline-kenney-summer-quarter-sample",
+          "release_date": "2021-01-22",
+          "release_date_for_display": "January 22, 2021",
+          "release_date_with_abbreviated_month_for_display": "Jan. 22, 2021",
+          "song_art_image_thumbnail_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Summer Quarter",
+          "title_with_featured": "Summer Quarter",
+          "url": "https://genius.com/Madeline-kenney-summer-quarter-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/752803",
+            "cover_art_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.700x700x1.jpg",
+            "full_title": "Summer Quarter by Madeline Kenney",
+            "id": 752803,
+            "name": "Summer Quarter",
+            "release_date_for_display": "January 22, 2021",
+            "url": "https://genius.com/albums/Madeline-kenney/Summer-quarter",
+            "artist": {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 11730987,
+            "annotator_login": "I_have_an_addiction_to_this_site",
+            "api_path": "/referents/22577176",
+            "classification": "needs_exegesis",
+            "fragment": "Summer Quarter",
+            "id": 22577176,
+            "is_description": true,
+            "path": "/22577176/Madeline-kenney-summer-quarter/Summer-quarter",
+            "range": {
+              "content": "Summer Quarter"
+            },
+            "song_id": 6643159,
+            "url": "https://genius.com/22577176/Madeline-kenney-summer-quarter/Summer-quarter",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6643159",
+              "client_timestamps": {
+                "updated_by_human_at": 1616886353,
+                "lyrics_updated_at": 1616886353
+              },
+              "context": "Madeline Kenney",
+              "id": 6643159,
+              "image_url": "https://images.genius.com/51bfd631f34c354b4dc14612a6fbf097.700x700x1.jpg",
+              "link_title": "Summer Quarter by\u00a0Madeline\u00a0Kenney",
+              "title": "Summer Quarter",
+              "type": "Song",
+              "url": "https://genius.com/Madeline-kenney-summer-quarter-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/22577176",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 22577176,
+                "pinned": false,
+                "share_url": "https://genius.com/22577176",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/22577176/Madeline-kenney-summer-quarter/Summer-quarter",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/11730987",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/503c2f943b94726db39f5d6b93770ddb",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/503c2f943b94726db39f5d6b93770ddb",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/503c2f943b94726db39f5d6b93770ddb",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/503c2f943b94726db39f5d6b93770ddb",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/503c2f943b94726db39f5d6b93770ddb",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 11730987,
+                      "iq": 71393,
+                      "login": "I_have_an_addiction_to_this_site",
+                      "name": "I_have_an_addiction_to_this_site",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/I_have_an_addiction_to_this_site",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=RRVeNAArbFw"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/667331",
+            "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+            "id": 667331,
+            "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Madeline Kenney",
+            "url": "https://genius.com/artists/Madeline-kenney"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "6eeYrsr24q0ej9PqrWuWFK",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/3295054",
+        "artist_names": "Madeline Kenney",
+        "full_title": "Big One by\u00a0Madeline\u00a0Kenney",
+        "header_image_thumbnail_url": "https://images.genius.com/cdd209c30334fcde6e37bb0600a94a34.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/cdd209c30334fcde6e37bb0600a94a34.700x700x1.jpg",
+        "id": 3295054,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 5391698,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1509305928,
+        "path": "/Madeline-kenney-big-one-annotated",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Madeline-kenney-big-one-sample",
+        "release_date_components": {
+          "year": 2017,
+          "month": 9,
+          "day": 1
+        },
+        "release_date_for_display": "September 1, 2017",
+        "release_date_with_abbreviated_month_for_display": "Sep. 1, 2017",
+        "song_art_image_thumbnail_url": "https://images.genius.com/cdd209c30334fcde6e37bb0600a94a34.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/cdd209c30334fcde6e37bb0600a94a34.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Big One",
+        "title_with_featured": "Big One",
+        "updated_by_human_at": 1509305928,
+        "url": "https://genius.com/Madeline-kenney-big-one-annotated",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/667331",
+          "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+          "id": 667331,
+          "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Madeline Kenney",
+          "slug": "Madeline-kenney",
+          "url": "https://genius.com/artists/Madeline-kenney"
+        },
+        "artist": "Madeline Kenney",
+        "lyrics": "Big One LyricsMy other car is your face\nIt drives me wild to see you out again\n\nMy other house is your mouth\nI come inside and make myself at home\n\n[Chorus (2x)]\nThis is the big one\nThis is the big one\n\nWhat has become of my life?\nI'm stretched out, the big things and keeping tight [?]\nI call you every night\nI'm shackled on your inside\n\n[Chorus]\nThis is the big one\nThis is the big one\nI know it when I see it\nThis is the big one\nThis is the big one\n\nIt looks good\n\nAnd we like the sound\nAnd we like the sound\nAnd we like the sound\nAnd we like...Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/3295054",
+          "apple_music_id": null,
+          "apple_music_player_url": "https://genius.com/songs/3295054/apple_music_player",
+          "artist_names": "Madeline Kenney",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_3295054' class='rg_embed_link' data-song-id='3295054'>Read <a href='https://genius.com/Madeline-kenney-big-one-annotated'>\u201cBig One\u201d by Madeline\u00a0Kenney</a> on Genius</div> <script crossorigin src='//genius.com/songs/3295054/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Big One by\u00a0Madeline\u00a0Kenney",
+          "header_image_thumbnail_url": "https://images.genius.com/cdd209c30334fcde6e37bb0600a94a34.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/cdd209c30334fcde6e37bb0600a94a34.700x700x1.jpg",
+          "id": 3295054,
+          "language": "en",
+          "lyrics_owner_id": 5391698,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Madeline-kenney-big-one-annotated",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Madeline-kenney-big-one-sample",
+          "release_date": "2017-09-01",
+          "release_date_for_display": "September 1, 2017",
+          "release_date_with_abbreviated_month_for_display": "Sep. 1, 2017",
+          "song_art_image_thumbnail_url": "https://images.genius.com/cdd209c30334fcde6e37bb0600a94a34.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/cdd209c30334fcde6e37bb0600a94a34.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 2,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Big One",
+          "title_with_featured": "Big One",
+          "url": "https://genius.com/Madeline-kenney-big-one-annotated",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_recommendations",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/366496",
+            "cover_art_url": "https://images.genius.com/cdd209c30334fcde6e37bb0600a94a34.700x700x1.jpg",
+            "full_title": "Night Night At The First Landing by Madeline Kenney",
+            "id": 366496,
+            "name": "Night Night At The First Landing",
+            "release_date_for_display": "September 1, 2017",
+            "url": "https://genius.com/albums/Madeline-kenney/Night-night-at-the-first-landing",
+            "artist": {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 5391698,
+            "annotator_login": "wilda_the_goat",
+            "api_path": "/referents/12950759",
+            "classification": "needs_exegesis",
+            "fragment": "Big One",
+            "id": 12950759,
+            "is_description": true,
+            "path": "/12950759/Madeline-kenney-big-one/Big-one",
+            "range": {
+              "content": "Big One"
+            },
+            "song_id": 3295054,
+            "url": "https://genius.com/12950759/Madeline-kenney-big-one/Big-one",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3295054",
+              "client_timestamps": {
+                "updated_by_human_at": 1509305928,
+                "lyrics_updated_at": 1509305928
+              },
+              "context": "Madeline Kenney",
+              "id": 3295054,
+              "image_url": "https://images.genius.com/cdd209c30334fcde6e37bb0600a94a34.700x700x1.jpg",
+              "link_title": "Big One by\u00a0Madeline\u00a0Kenney",
+              "title": "Big One",
+              "type": "Song",
+              "url": "https://genius.com/Madeline-kenney-big-one-annotated"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/12950759",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 12950759,
+                "pinned": false,
+                "share_url": "https://genius.com/12950759",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/12950759/Madeline-kenney-big-one/Big-one",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/5391698",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8ad7bc72b46bdeaf10947b326670d682",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8ad7bc72b46bdeaf10947b326670d682",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8ad7bc72b46bdeaf10947b326670d682",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8ad7bc72b46bdeaf10947b326670d682",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/8ad7bc72b46bdeaf10947b326670d682",
+                      "human_readable_role_for_display": null,
+                      "id": 5391698,
+                      "iq": 121,
+                      "login": "wilda_the_goat",
+                      "name": "wilda_the_goat",
+                      "role_for_display": null,
+                      "url": "https://genius.com/wilda_the_goat",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=pdpDa2emzAk"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/667331",
+            "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+            "id": 667331,
+            "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Madeline Kenney",
+            "url": "https://genius.com/artists/Madeline-kenney"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "4o1MueoYC8JAbZWB9AetVs",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/5588452",
+        "artist_names": "Madeline Kenney",
+        "full_title": "Double Hearted by\u00a0Madeline\u00a0Kenney",
+        "header_image_thumbnail_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+        "id": 5588452,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 10566597,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1596404774,
+        "path": "/Madeline-kenney-double-hearted-lyrics",
+        "pyongs_count": 1,
+        "relationships_index_url": "https://genius.com/Madeline-kenney-double-hearted-sample",
+        "release_date_components": {
+          "year": 2020,
+          "month": 6,
+          "day": 30
+        },
+        "release_date_for_display": "June 30, 2020",
+        "release_date_with_abbreviated_month_for_display": "Jun. 30, 2020",
+        "song_art_image_thumbnail_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Double Hearted",
+        "title_with_featured": "Double Hearted",
+        "updated_by_human_at": 1660160808,
+        "url": "https://genius.com/Madeline-kenney-double-hearted-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/667331",
+          "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+          "id": 667331,
+          "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Madeline Kenney",
+          "slug": "Madeline-kenney",
+          "url": "https://genius.com/artists/Madeline-kenney"
+        },
+        "artist": "Madeline Kenney",
+        "lyrics": "Double Hearted Lyrics[Verse 1]\nI knew right when it started\nI knew, double hearted\nWho let you open the garden?\nYou took\u2005too,\u2005now I'm starvin'\n\n[Chorus]\nVoices\u2005get me high\nI'd do anything\nVoices get\u2005me high\nI'm doing nothing\n[Verse 2]\nWho knew that I'm a sucker for nothin'?\nI want you to come and fuck up the garden\nI wanna fuck up the garden\nI wanna fuck up the\n\n[Chorus]\nVoices get me high\nI'd do anything\nVoices get me high\nI don't wanna do anything\n\n[Outro]\n(Double hearted, double hearted)\n(Voices get me high)\n(Double, double, double hearted)You might also like1Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/5588452",
+          "apple_music_id": "1510935661",
+          "apple_music_player_url": "https://genius.com/songs/5588452/apple_music_player",
+          "artist_names": "Madeline Kenney",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_5588452' class='rg_embed_link' data-song-id='5588452'>Read <a href='https://genius.com/Madeline-kenney-double-hearted-lyrics'>\u201cDouble Hearted\u201d by Madeline\u00a0Kenney</a> on Genius</div> <script crossorigin src='//genius.com/songs/5588452/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Double Hearted by\u00a0Madeline\u00a0Kenney",
+          "header_image_thumbnail_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+          "id": 5588452,
+          "language": "en",
+          "lyrics_owner_id": 10566597,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Madeline-kenney-double-hearted-lyrics",
+          "pyongs_count": 1,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Madeline-kenney-double-hearted-sample",
+          "release_date": "2020-06-30",
+          "release_date_for_display": "June 30, 2020",
+          "release_date_with_abbreviated_month_for_display": "Jun. 30, 2020",
+          "song_art_image_thumbnail_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 4,
+            "iq_earners": 4,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Double Hearted",
+          "title_with_featured": "Double Hearted",
+          "url": "https://genius.com/Madeline-kenney-double-hearted-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/637748",
+            "cover_art_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+            "full_title": "Sucker\u2019s Lunch by Madeline Kenney",
+            "id": 637748,
+            "name": "Sucker\u2019s Lunch",
+            "release_date_for_display": "July 31, 2020",
+            "url": "https://genius.com/albums/Madeline-kenney/Suckers-lunch",
+            "artist": {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          },
+          "custom_performances": [
+            {
+              "label": "Label",
+              "artists": [
+                {
+                  "api_path": "/artists/1113670",
+                  "header_image_url": "https://images.genius.com/3acf3dac48748b0241c1d168757aefbd.274x184x1.jpg",
+                  "id": 1113670,
+                  "image_url": "https://images.genius.com/e39f6f7efd4fde4f1c3445ebab9f03ee.225x225x1.png",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Carpark Records",
+                  "url": "https://genius.com/artists/Carpark-records"
+                }
+              ]
+            }
+          ],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 1197226,
+            "annotator_login": "SethMishne",
+            "api_path": "/referents/19893366",
+            "classification": "needs_exegesis",
+            "fragment": "Double Hearted",
+            "id": 19893366,
+            "is_description": true,
+            "path": "/19893366/Madeline-kenney-double-hearted/Double-hearted",
+            "range": {
+              "content": "Double Hearted"
+            },
+            "song_id": 5588452,
+            "url": "https://genius.com/19893366/Madeline-kenney-double-hearted/Double-hearted",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/5588452",
+              "client_timestamps": {
+                "updated_by_human_at": 1660160808,
+                "lyrics_updated_at": 1596404774
+              },
+              "context": "Madeline Kenney",
+              "id": 5588452,
+              "image_url": "https://images.genius.com/111654d6f34674f45f2c2c3ce403b01a.1000x1000x1.jpg",
+              "link_title": "Double Hearted by\u00a0Madeline\u00a0Kenney",
+              "title": "Double Hearted",
+              "type": "Song",
+              "url": "https://genius.com/Madeline-kenney-double-hearted-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/19893366",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 19893366,
+                "pinned": false,
+                "share_url": "https://genius.com/19893366",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/19893366/Madeline-kenney-double-hearted/Double-hearted",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/1197226",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.rapgenius.com/avatars/tiny/f17a02cfb139548f1c6fe0647fd0dc87",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.rapgenius.com/avatars/thumb/f17a02cfb139548f1c6fe0647fd0dc87",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.rapgenius.com/avatars/small/f17a02cfb139548f1c6fe0647fd0dc87",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.rapgenius.com/avatars/medium/f17a02cfb139548f1c6fe0647fd0dc87",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.rapgenius.com/avatars/medium/f17a02cfb139548f1c6fe0647fd0dc87",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 1197226,
+                      "iq": 4012,
+                      "login": "SethMishne",
+                      "name": "SethMishne",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/SethMishne",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=Lrwr3peRCRY"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/667331",
+            "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+            "id": 667331,
+            "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Madeline Kenney",
+            "url": "https://genius.com/artists/Madeline-kenney"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "4okmo6Gmvh7e5ubz52eqKe",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/3839133",
+        "artist_names": "Madeline Kenney",
+        "full_title": "Overhead by\u00a0Madeline\u00a0Kenney",
+        "header_image_thumbnail_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+        "id": 3839133,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 126836,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1655847559,
+        "path": "/Madeline-kenney-overhead-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Madeline-kenney-overhead-sample",
+        "release_date_components": {
+          "year": 2018,
+          "month": 10,
+          "day": 5
+        },
+        "release_date_for_display": "October 5, 2018",
+        "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+        "song_art_image_thumbnail_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Overhead",
+        "title_with_featured": "Overhead",
+        "updated_by_human_at": 1655847559,
+        "url": "https://genius.com/Madeline-kenney-overhead-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/667331",
+          "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+          "id": 667331,
+          "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+          "index_character": "m",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Madeline Kenney",
+          "slug": "Madeline-kenney",
+          "url": "https://genius.com/artists/Madeline-kenney"
+        },
+        "artist": "Madeline Kenney",
+        "lyrics": "Overhead Lyrics[Verse 1]\nOverhead\nThey're calling me empty\nJust because I know my own limits\nBut now you should come over\n\n[Pre-Chorus]\nIt's enough to hear you agree\nI'm in it now\n\n[Verse 2]\nGo ahead and keep your distance\nI've got demons now\nAnd I still don't understand what gets me shaken\n[Pre-Chorus]\nIt's enough for me\n\n[Chorus]\nI'm in it now\nThinking out loud\nI'm in it now\nThinking out loud\n\n[Bridge]\nSo now what's the light I'm living in?\nNo sound, just the colors coming in\nSo now what's the light I'm living in?\nNo sound, just the colors coming in\n\n[Outro]\nSo what's the light I'm living in?\nSo what's the light I'm living in?\nSo what's the light I'm living in?\nI'm in it nowYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/3839133",
+          "apple_music_id": "1406478549",
+          "apple_music_player_url": "https://genius.com/songs/3839133/apple_music_player",
+          "artist_names": "Madeline Kenney",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_3839133' class='rg_embed_link' data-song-id='3839133'>Read <a href='https://genius.com/Madeline-kenney-overhead-lyrics'>\u201cOverhead\u201d by Madeline\u00a0Kenney</a> on Genius</div> <script crossorigin src='//genius.com/songs/3839133/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Overhead by\u00a0Madeline\u00a0Kenney",
+          "header_image_thumbnail_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+          "id": 3839133,
+          "language": "en",
+          "lyrics_owner_id": 126836,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Madeline-kenney-overhead-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Madeline-kenney-overhead-sample",
+          "release_date": "2018-10-05",
+          "release_date_for_display": "October 5, 2018",
+          "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+          "song_art_image_thumbnail_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 2,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Overhead",
+          "title_with_featured": "Overhead",
+          "url": "https://genius.com/Madeline-kenney-overhead-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/445516",
+            "cover_art_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+            "full_title": "Perfect Shapes by Madeline Kenney",
+            "id": 445516,
+            "name": "Perfect Shapes",
+            "release_date_for_display": "October 5, 2018",
+            "url": "https://genius.com/albums/Madeline-kenney/Perfect-shapes",
+            "artist": {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 498964,
+            "annotator_login": "HolUp",
+            "api_path": "/referents/14976463",
+            "classification": "needs_exegesis",
+            "fragment": "Overhead",
+            "id": 14976463,
+            "is_description": true,
+            "path": "/14976463/Madeline-kenney-overhead/Overhead",
+            "range": {
+              "content": "Overhead"
+            },
+            "song_id": 3839133,
+            "url": "https://genius.com/14976463/Madeline-kenney-overhead/Overhead",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/3839133",
+              "client_timestamps": {
+                "updated_by_human_at": 1655847559,
+                "lyrics_updated_at": 1655847559
+              },
+              "context": "Madeline Kenney",
+              "id": 3839133,
+              "image_url": "https://images.genius.com/05ced10f8dd5257bf81a78d717cc0b56.1000x1000x1.jpg",
+              "link_title": "Overhead by\u00a0Madeline\u00a0Kenney",
+              "title": "Overhead",
+              "type": "Song",
+              "url": "https://genius.com/Madeline-kenney-overhead-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/14976463",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 14976463,
+                "pinned": false,
+                "share_url": "https://genius.com/14976463",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/14976463/Madeline-kenney-overhead/Overhead",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/498964",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/04d9f897a040e0d109321c079123e87a",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/04d9f897a040e0d109321c079123e87a",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/04d9f897a040e0d109321c079123e87a",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/04d9f897a040e0d109321c079123e87a",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/04d9f897a040e0d109321c079123e87a",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 498964,
+                      "iq": 1869248,
+                      "login": "HolUp",
+                      "name": "HolUp",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/HolUp",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/667331",
+            "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+            "id": 667331,
+            "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Madeline Kenney",
+            "url": "https://genius.com/artists/Madeline-kenney"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/667331",
+              "header_image_url": "https://images.genius.com/666e5d3ff3422549c674ce799aa321e2.1000x733x1.jpg",
+              "id": 667331,
+              "image_url": "https://images.genius.com/004a6d161b24b0ade54756b1185ab090.1000x1000x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Madeline Kenney",
+              "url": "https://genius.com/artists/Madeline-kenney"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    }
+  ]
+}

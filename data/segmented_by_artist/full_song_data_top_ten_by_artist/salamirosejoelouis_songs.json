@@ -1,0 +1,4233 @@
+{
+  "artist_name": "Salami Rose Joe Louis",
+  "spotify_id": "6EHS9kZ9PpeXaJ4wZO3FSX",
+  "songs": [
+    {
+      "spotify_id": "4aTWEZ7f71SeAB5SS8wakt",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/7272270",
+        "artist_names": "Salami Rose Joe Louis",
+        "full_title": "Cosmic Dawn/Eighth Dimension by\u00a0Salami\u00a0Rose Joe Louis",
+        "header_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+        "id": 7272270,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 4556540,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1633740464,
+        "path": "/Salami-rose-joe-louis-cosmic-dawn-eighth-dimension-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-cosmic-dawn-eighth-dimension-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 8,
+          "day": 29
+        },
+        "release_date_for_display": "August 29, 2019",
+        "release_date_with_abbreviated_month_for_display": "Aug. 29, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Cosmic Dawn/Eighth Dimension",
+        "title_with_featured": "Cosmic Dawn/Eighth Dimension",
+        "updated_by_human_at": 1633740464,
+        "url": "https://genius.com/Salami-rose-joe-louis-cosmic-dawn-eighth-dimension-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1164405",
+          "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "id": 1164405,
+          "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "index_character": "s",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Salami Rose Joe Louis",
+          "slug": "Salami-rose-joe-louis",
+          "url": "https://genius.com/artists/Salami-rose-joe-louis"
+        },
+        "artist": "Salami Rose Joe Louis",
+        "lyrics": "Cosmic Dawn/Eighth Dimension LyricsKnow your fear\nAnd I want to know your fear\nAnd I want to take over my consciousness\n[?]\nTo be somethingYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/7272270",
+          "apple_music_id": "1469654594",
+          "apple_music_player_url": "https://genius.com/songs/7272270/apple_music_player",
+          "artist_names": "Salami Rose Joe Louis",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_7272270' class='rg_embed_link' data-song-id='7272270'>Read <a href='https://genius.com/Salami-rose-joe-louis-cosmic-dawn-eighth-dimension-lyrics'>\u201cCosmic Dawn/Eighth Dimension\u201d by Salami\u00a0Rose Joe Louis</a> on Genius</div> <script crossorigin src='//genius.com/songs/7272270/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Cosmic Dawn/Eighth Dimension by\u00a0Salami\u00a0Rose Joe Louis",
+          "header_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+          "id": 7272270,
+          "language": "en",
+          "lyrics_owner_id": 4556540,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Salami-rose-joe-louis-cosmic-dawn-eighth-dimension-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-cosmic-dawn-eighth-dimension-sample",
+          "release_date": "2019-08-29",
+          "release_date_for_display": "August 29, 2019",
+          "release_date_with_abbreviated_month_for_display": "Aug. 29, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Cosmic Dawn/Eighth Dimension",
+          "title_with_featured": "Cosmic Dawn/Eighth Dimension",
+          "url": "https://genius.com/Salami-rose-joe-louis-cosmic-dawn-eighth-dimension-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/594887",
+            "cover_art_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+            "full_title": "Zdenka 2080 by Salami Rose Joe Louis",
+            "id": 594887,
+            "name": "Zdenka 2080",
+            "release_date_for_display": "2019",
+            "url": "https://genius.com/albums/Salami-rose-joe-louis/Zdenka-2080",
+            "artist": {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 4556540,
+            "annotator_login": "bliplox",
+            "api_path": "/referents/24129724",
+            "classification": "needs_exegesis",
+            "fragment": "Cosmic Dawn/Eighth Dimension",
+            "id": 24129724,
+            "is_description": true,
+            "path": "/24129724/Salami-rose-joe-louis-cosmic-dawn-eighth-dimension/Cosmic-dawn-eighth-dimension",
+            "range": {
+              "content": "Cosmic Dawn/Eighth Dimension"
+            },
+            "song_id": 7272270,
+            "url": "https://genius.com/24129724/Salami-rose-joe-louis-cosmic-dawn-eighth-dimension/Cosmic-dawn-eighth-dimension",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7272270",
+              "client_timestamps": {
+                "updated_by_human_at": 1633740464,
+                "lyrics_updated_at": 1633740464
+              },
+              "context": "Salami Rose Joe Louis",
+              "id": 7272270,
+              "image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+              "link_title": "Cosmic Dawn/Eighth Dimension by\u00a0Salami\u00a0Rose Joe Louis",
+              "title": "Cosmic Dawn/Eighth Dimension",
+              "type": "Song",
+              "url": "https://genius.com/Salami-rose-joe-louis-cosmic-dawn-eighth-dimension-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/24129724",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 24129724,
+                "pinned": false,
+                "share_url": "https://genius.com/24129724",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/24129724/Salami-rose-joe-louis-cosmic-dawn-eighth-dimension/Cosmic-dawn-eighth-dimension",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/4556540",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f9vkpjk0r7c",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 4556540,
+                      "iq": 78996,
+                      "login": "bliplox",
+                      "name": "bliplox",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/bliplox",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1164405",
+            "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "id": 1164405,
+            "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Salami Rose Joe Louis",
+            "url": "https://genius.com/artists/Salami-rose-joe-louis"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "5tdtOKe2N9b2K20ajt3Y1f",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/4400899",
+        "artist_names": "Salami Rose Joe Louis",
+        "full_title": "Nostalgic Montage by\u00a0Salami\u00a0Rose Joe Louis",
+        "header_image_thumbnail_url": "https://images.genius.com/f3a8adaf458b72a9ff245c7d526deb09.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/f3a8adaf458b72a9ff245c7d526deb09.1000x1000x1.jpg",
+        "id": 4400899,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 8134229,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1633740072,
+        "path": "/Salami-rose-joe-louis-nostalgic-montage-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-nostalgic-montage-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 3,
+          "day": 14
+        },
+        "release_date_for_display": "March 14, 2019",
+        "release_date_with_abbreviated_month_for_display": "Mar. 14, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/f3a8adaf458b72a9ff245c7d526deb09.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/f3a8adaf458b72a9ff245c7d526deb09.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Nostalgic Montage",
+        "title_with_featured": "Nostalgic Montage",
+        "updated_by_human_at": 1633740072,
+        "url": "https://genius.com/Salami-rose-joe-louis-nostalgic-montage-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1164405",
+          "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "id": 1164405,
+          "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "index_character": "s",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Salami Rose Joe Louis",
+          "slug": "Salami-rose-joe-louis",
+          "url": "https://genius.com/artists/Salami-rose-joe-louis"
+        },
+        "artist": "Salami Rose Joe Louis",
+        "lyrics": "Nostalgic Montage LyricsFalling through the cumulous wormhole\nShe wakes up in her old friend, the Octagonal Room\nWhat splendors will she find here?\nDimensions?\n\n[Verse]\nIf I were a bird\nI would travel far\nVisit my old friends\nTell them what i saw\nLooking for the warmth\nThat we used to feel\nLost in other worlds\nWondering if it's real\n[Bridge]\nWonder if it's real\nWonder if it's real\n\n[Chorus]\nI wonder if I'll ever return\nHope you will hope you will\nBut what does returning even mean?\nI really can't say\nI wonder if I'll ever return\nI hope you do hope you do\nBut what does returning even mean?\nI really can't sayYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/4400899",
+          "apple_music_id": "1455439571",
+          "apple_music_player_url": "https://genius.com/songs/4400899/apple_music_player",
+          "artist_names": "Salami Rose Joe Louis",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_4400899' class='rg_embed_link' data-song-id='4400899'>Read <a href='https://genius.com/Salami-rose-joe-louis-nostalgic-montage-lyrics'>\u201cNostalgic Montage\u201d by Salami\u00a0Rose Joe Louis</a> on Genius</div> <script crossorigin src='//genius.com/songs/4400899/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Nostalgic Montage by\u00a0Salami\u00a0Rose Joe Louis",
+          "header_image_thumbnail_url": "https://images.genius.com/f3a8adaf458b72a9ff245c7d526deb09.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/f3a8adaf458b72a9ff245c7d526deb09.1000x1000x1.jpg",
+          "id": 4400899,
+          "language": "en",
+          "lyrics_owner_id": 8134229,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Salami-rose-joe-louis-nostalgic-montage-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-nostalgic-montage-sample",
+          "release_date": "2019-03-14",
+          "release_date_for_display": "March 14, 2019",
+          "release_date_with_abbreviated_month_for_display": "Mar. 14, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/f3a8adaf458b72a9ff245c7d526deb09.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/f3a8adaf458b72a9ff245c7d526deb09.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 2,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Nostalgic Montage",
+          "title_with_featured": "Nostalgic Montage",
+          "url": "https://genius.com/Salami-rose-joe-louis-nostalgic-montage-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/594887",
+            "cover_art_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+            "full_title": "Zdenka 2080 by Salami Rose Joe Louis",
+            "id": 594887,
+            "name": "Zdenka 2080",
+            "release_date_for_display": "2019",
+            "url": "https://genius.com/albums/Salami-rose-joe-louis/Zdenka-2080",
+            "artist": {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 8134229,
+            "annotator_login": "phxxxxxxx",
+            "api_path": "/referents/16737075",
+            "classification": "needs_exegesis",
+            "fragment": "Nostalgic Montage",
+            "id": 16737075,
+            "is_description": true,
+            "path": "/16737075/Salami-rose-joe-louis-nostalgic-montage/Nostalgic-montage",
+            "range": {
+              "content": "Nostalgic Montage"
+            },
+            "song_id": 4400899,
+            "url": "https://genius.com/16737075/Salami-rose-joe-louis-nostalgic-montage/Nostalgic-montage",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/4400899",
+              "client_timestamps": {
+                "updated_by_human_at": 1633740072,
+                "lyrics_updated_at": 1633740072
+              },
+              "context": "Salami Rose Joe Louis",
+              "id": 4400899,
+              "image_url": "https://images.genius.com/f3a8adaf458b72a9ff245c7d526deb09.1000x1000x1.jpg",
+              "link_title": "Nostalgic Montage by\u00a0Salami\u00a0Rose Joe Louis",
+              "title": "Nostalgic Montage",
+              "type": "Song",
+              "url": "https://genius.com/Salami-rose-joe-louis-nostalgic-montage-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/16737075",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 16737075,
+                "pinned": false,
+                "share_url": "https://genius.com/16737075",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/16737075/Salami-rose-joe-louis-nostalgic-montage/Nostalgic-montage",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/8134229",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/b1da0555cf02d13ac1f68991bab1ef37",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/b1da0555cf02d13ac1f68991bab1ef37",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/b1da0555cf02d13ac1f68991bab1ef37",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/b1da0555cf02d13ac1f68991bab1ef37",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/b1da0555cf02d13ac1f68991bab1ef37",
+                      "human_readable_role_for_display": null,
+                      "id": 8134229,
+                      "iq": 113,
+                      "login": "phxxxxxxx",
+                      "name": "phxxxxxxx",
+                      "role_for_display": null,
+                      "url": "https://genius.com/phxxxxxxx",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "attribution": "brainfeeder",
+              "provider": "soundcloud",
+              "type": "audio",
+              "url": "https://soundcloud.com/brainfeeder/salami-rose-joe-louis-nostalgic-montage"
+            },
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=W7t-pCnkKv0"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1164405",
+            "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "id": 1164405,
+            "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Salami Rose Joe Louis",
+            "url": "https://genius.com/artists/Salami-rose-joe-louis"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "341nbKUAxzQ4MWsAVmSpu1",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6265665",
+        "artist_names": "Salami Rose Joe Louis",
+        "full_title": "I Stay in Bed These Days Too Much by\u00a0Salami\u00a0Rose Joe Louis",
+        "header_image_thumbnail_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.1000x1000x1.jpg",
+        "id": 6265665,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 7650027,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1607973183,
+        "path": "/Salami-rose-joe-louis-i-stay-in-bed-these-days-too-much-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-i-stay-in-bed-these-days-too-much-sample",
+        "release_date_components": null,
+        "release_date_for_display": null,
+        "release_date_with_abbreviated_month_for_display": null,
+        "song_art_image_thumbnail_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "I Stay in Bed These Days Too Much",
+        "title_with_featured": "I Stay in Bed These Days Too Much",
+        "updated_by_human_at": 1607976981,
+        "url": "https://genius.com/Salami-rose-joe-louis-i-stay-in-bed-these-days-too-much-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1164405",
+          "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "id": 1164405,
+          "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "index_character": "s",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Salami Rose Joe Louis",
+          "slug": "Salami-rose-joe-louis",
+          "url": "https://genius.com/artists/Salami-rose-joe-louis"
+        },
+        "artist": "Salami Rose Joe Louis",
+        "lyrics": "I Stay in Bed These Days Too Much LyricsI stay in bed these days too much\nI'm afraid that I am losing steam\nI stay in bed these days too much\nI'm afraid that I am losing steam\n\nKeep the courage now in your heart\nOpen a window\nAnd get rid of your foolish thoughts\n\nBe\nBe\nBe\nBeYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6265665",
+          "apple_music_id": "1540269737",
+          "apple_music_player_url": "https://genius.com/songs/6265665/apple_music_player",
+          "artist_names": "Salami Rose Joe Louis",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6265665' class='rg_embed_link' data-song-id='6265665'>Read <a href='https://genius.com/Salami-rose-joe-louis-i-stay-in-bed-these-days-too-much-lyrics'>\u201cI Stay in Bed These Days Too Much\u201d by Salami\u00a0Rose Joe Louis</a> on Genius</div> <script crossorigin src='//genius.com/songs/6265665/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "I Stay in Bed These Days Too Much by\u00a0Salami\u00a0Rose Joe Louis",
+          "header_image_thumbnail_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.1000x1000x1.jpg",
+          "id": 6265665,
+          "language": "en",
+          "lyrics_owner_id": 7650027,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Salami-rose-joe-louis-i-stay-in-bed-these-days-too-much-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-i-stay-in-bed-these-days-too-much-sample",
+          "release_date": null,
+          "release_date_for_display": null,
+          "release_date_with_abbreviated_month_for_display": null,
+          "song_art_image_thumbnail_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 2,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "I Stay in Bed These Days Too Much",
+          "title_with_featured": "I Stay in Bed These Days Too Much",
+          "url": "https://genius.com/Salami-rose-joe-louis-i-stay-in-bed-these-days-too-much-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/710720",
+            "cover_art_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.1000x1000x1.jpg",
+            "full_title": "Chapters of Zdenka by Salami Rose Joe Louis",
+            "id": 710720,
+            "name": "Chapters of Zdenka",
+            "release_date_for_display": "December 11, 2020",
+            "url": "https://genius.com/albums/Salami-rose-joe-louis/Chapters-of-zdenka",
+            "artist": {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 104344,
+            "annotator_login": "streetlights",
+            "api_path": "/referents/21583957",
+            "classification": "needs_exegesis",
+            "fragment": "I Stay in Bed These Days Too Much",
+            "id": 21583957,
+            "is_description": true,
+            "path": "/21583957/Salami-rose-joe-louis-i-stay-in-bed-these-days-too-much/I-stay-in-bed-these-days-too-much",
+            "range": {
+              "content": "I Stay in Bed These Days Too Much"
+            },
+            "song_id": 6265665,
+            "url": "https://genius.com/21583957/Salami-rose-joe-louis-i-stay-in-bed-these-days-too-much/I-stay-in-bed-these-days-too-much",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6265665",
+              "client_timestamps": {
+                "updated_by_human_at": 1607976981,
+                "lyrics_updated_at": 1607973183
+              },
+              "context": "Salami Rose Joe Louis",
+              "id": 6265665,
+              "image_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.1000x1000x1.jpg",
+              "link_title": "I Stay in Bed These Days Too Much by\u00a0Salami\u00a0Rose Joe Louis",
+              "title": "I Stay in Bed These Days Too Much",
+              "type": "Song",
+              "url": "https://genius.com/Salami-rose-joe-louis-i-stay-in-bed-these-days-too-much-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/21583957",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 21583957,
+                "pinned": false,
+                "share_url": "https://genius.com/21583957",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/21583957/Salami-rose-joe-louis-i-stay-in-bed-these-days-too-much/I-stay-in-bed-these-days-too-much",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/104344",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+                      "human_readable_role_for_display": "Staff",
+                      "id": 104344,
+                      "iq": 3060807,
+                      "login": "streetlights",
+                      "name": "\u200bstreetlights",
+                      "role_for_display": "staff",
+                      "url": "https://genius.com/streetlights",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": {
+            "api_path": "/users/7650027",
+            "avatar": {
+              "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 16,
+                  "height": 16
+                }
+              },
+              "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 32,
+                  "height": 32
+                }
+              },
+              "small": {
+                "url": "https://images.genius.com/avatars/small/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 100,
+                  "height": 100
+                }
+              },
+              "medium": {
+                "url": "https://images.genius.com/avatars/medium/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                  "width": 300,
+                  "height": 400
+                }
+              }
+            },
+            "header_image_url": "https://images.genius.com/94d13e1979801cdeb4d0cc7a103eb5eb.1000x664x1.jpg",
+            "human_readable_role_for_display": "Staff",
+            "id": 7650027,
+            "iq": 333552,
+            "login": "worstofalltime",
+            "name": "\u200bworstofalltime",
+            "role_for_display": "staff",
+            "url": "https://genius.com/worstofalltime",
+            "current_user_metadata": {
+              "permissions": [],
+              "excluded_permissions": [
+                "follow"
+              ],
+              "interactions": {
+                "following": false
+              }
+            }
+          },
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1164405",
+            "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "id": 1164405,
+            "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Salami Rose Joe Louis",
+            "url": "https://genius.com/artists/Salami-rose-joe-louis"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "6ahcprEQ414ecRGODsVCU6",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/4997682",
+        "artist_names": "Salami Rose Joe Louis",
+        "full_title": "Tell Meeeee by\u00a0Salami\u00a0Rose Joe Louis",
+        "header_image_thumbnail_url": "https://images.genius.com/0e9f1cec3ea6278e5f0779f778178301.300x300x1.png",
+        "header_image_url": "https://images.genius.com/0e9f1cec3ea6278e5f0779f778178301.1000x1000x1.png",
+        "id": 4997682,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 5531391,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1672913950,
+        "path": "/Salami-rose-joe-louis-tell-meeeee-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-tell-meeeee-sample",
+        "release_date_components": {
+          "year": 2016,
+          "month": 3,
+          "day": 23
+        },
+        "release_date_for_display": "March 23, 2016",
+        "release_date_with_abbreviated_month_for_display": "Mar. 23, 2016",
+        "song_art_image_thumbnail_url": "https://images.genius.com/0e9f1cec3ea6278e5f0779f778178301.300x300x1.png",
+        "song_art_image_url": "https://images.genius.com/0e9f1cec3ea6278e5f0779f778178301.1000x1000x1.png",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Tell Meeeee",
+        "title_with_featured": "Tell Meeeee",
+        "updated_by_human_at": 1672913950,
+        "url": "https://genius.com/Salami-rose-joe-louis-tell-meeeee-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1164405",
+          "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "id": 1164405,
+          "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "index_character": "s",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Salami Rose Joe Louis",
+          "slug": "Salami-rose-joe-louis",
+          "url": "https://genius.com/artists/Salami-rose-joe-louis"
+        },
+        "artist": "Salami Rose Joe Louis",
+        "lyrics": "Tell Meeeee Lyrics[Chorus]\nTell me\nWhatever you may need\nYou know I am your love\n\nTell me\nWhatever you may need\nYou know\u2005I\u2005am your love\n\nTell\u2005me\nWhatever you may need\nYou know I\u2005am your love\nTell me\nWhatever you may need\nYou know I am your love\n\nTell me\nWhatever you may need\nYou know I am your loveYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/4997682",
+          "apple_music_id": "1325300635",
+          "apple_music_player_url": "https://genius.com/songs/4997682/apple_music_player",
+          "artist_names": "Salami Rose Joe Louis",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_4997682' class='rg_embed_link' data-song-id='4997682'>Read <a href='https://genius.com/Salami-rose-joe-louis-tell-meeeee-lyrics'>\u201cTell Meeeee\u201d by Salami\u00a0Rose Joe Louis</a> on Genius</div> <script crossorigin src='//genius.com/songs/4997682/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Tell Meeeee by\u00a0Salami\u00a0Rose Joe Louis",
+          "header_image_thumbnail_url": "https://images.genius.com/0e9f1cec3ea6278e5f0779f778178301.300x300x1.png",
+          "header_image_url": "https://images.genius.com/0e9f1cec3ea6278e5f0779f778178301.1000x1000x1.png",
+          "id": 4997682,
+          "language": "en",
+          "lyrics_owner_id": 5531391,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Salami-rose-joe-louis-tell-meeeee-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-tell-meeeee-sample",
+          "release_date": "2016-03-23",
+          "release_date_for_display": "March 23, 2016",
+          "release_date_with_abbreviated_month_for_display": "Mar. 23, 2016",
+          "song_art_image_thumbnail_url": "https://images.genius.com/0e9f1cec3ea6278e5f0779f778178301.300x300x1.png",
+          "song_art_image_url": "https://images.genius.com/0e9f1cec3ea6278e5f0779f778178301.1000x1000x1.png",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 3,
+            "iq_earners": 3,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Tell Meeeee",
+          "title_with_featured": "Tell Meeeee",
+          "url": "https://genius.com/Salami-rose-joe-louis-tell-meeeee-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/389061",
+            "cover_art_url": "https://images.genius.com/0e9f1cec3ea6278e5f0779f778178301.1000x1000x1.png",
+            "full_title": "son of a sauce! by Salami Rose Joe Louis",
+            "id": 389061,
+            "name": "son of a sauce!",
+            "release_date_for_display": "March 23, 2016",
+            "url": "https://genius.com/albums/Salami-rose-joe-louis/Son-of-a-sauce",
+            "artist": {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 5531391,
+            "annotator_login": "obscurity_avenger",
+            "api_path": "/referents/18378825",
+            "classification": "needs_exegesis",
+            "fragment": "Tell Meeeee",
+            "id": 18378825,
+            "is_description": true,
+            "path": "/18378825/Salami-rose-joe-louis-tell-meeeee/Tell-meeeee",
+            "range": {
+              "content": "Tell Meeeee"
+            },
+            "song_id": 4997682,
+            "url": "https://genius.com/18378825/Salami-rose-joe-louis-tell-meeeee/Tell-meeeee",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/4997682",
+              "client_timestamps": {
+                "updated_by_human_at": 1672913950,
+                "lyrics_updated_at": 1672913950
+              },
+              "context": "Salami Rose Joe Louis",
+              "id": 4997682,
+              "image_url": "https://images.genius.com/0e9f1cec3ea6278e5f0779f778178301.1000x1000x1.png",
+              "link_title": "Tell Meeeee by\u00a0Salami\u00a0Rose Joe Louis",
+              "title": "Tell Meeeee",
+              "type": "Song",
+              "url": "https://genius.com/Salami-rose-joe-louis-tell-meeeee-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/18378825",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 18378825,
+                "pinned": false,
+                "share_url": "https://genius.com/18378825",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/18378825/Salami-rose-joe-louis-tell-meeeee/Tell-meeeee",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/5531391",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/9b542902b7013dd67e1b8ccf05af5e25",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/9b542902b7013dd67e1b8ccf05af5e25",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/9b542902b7013dd67e1b8ccf05af5e25",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/9b542902b7013dd67e1b8ccf05af5e25",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/9b542902b7013dd67e1b8ccf05af5e25",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 5531391,
+                      "iq": 4785,
+                      "login": "obscurity_avenger",
+                      "name": "obscurity_avenger",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/obscurity_avenger",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "attribution": "salami rose joe louis",
+              "provider": "soundcloud",
+              "type": "audio",
+              "url": "https://soundcloud.com/salami-rose-joe-louis/tell-meeee-tiny-idea"
+            },
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=3s3emiNXp5c"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1164405",
+            "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "id": 1164405,
+            "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Salami Rose Joe Louis",
+            "url": "https://genius.com/artists/Salami-rose-joe-louis"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "1WSk1shhQYm32d2jPdlm1E",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/7271102",
+        "artist_names": "Salami Rose Joe Louis",
+        "full_title": "A Brief Intermission by\u00a0Salami\u00a0Rose Joe Louis",
+        "header_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+        "id": 7271102,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 4556540,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1633716410,
+        "path": "/Salami-rose-joe-louis-a-brief-intermission-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-a-brief-intermission-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 8,
+          "day": 29
+        },
+        "release_date_for_display": "August 29, 2019",
+        "release_date_with_abbreviated_month_for_display": "Aug. 29, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "A Brief Intermission",
+        "title_with_featured": "A Brief Intermission",
+        "updated_by_human_at": 1633716410,
+        "url": "https://genius.com/Salami-rose-joe-louis-a-brief-intermission-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1164405",
+          "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "id": 1164405,
+          "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "index_character": "s",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Salami Rose Joe Louis",
+          "slug": "Salami-rose-joe-louis",
+          "url": "https://genius.com/artists/Salami-rose-joe-louis"
+        },
+        "artist": "Salami Rose Joe Louis",
+        "lyrics": "A Brief Intermission LyricsNow, we will take a brief intermission\nPlease stick around for side B\n\n[Instrumental]You might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/7271102",
+          "apple_music_id": "1469654583",
+          "apple_music_player_url": "https://genius.com/songs/7271102/apple_music_player",
+          "artist_names": "Salami Rose Joe Louis",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_7271102' class='rg_embed_link' data-song-id='7271102'>Read <a href='https://genius.com/Salami-rose-joe-louis-a-brief-intermission-lyrics'>\u201cA Brief Intermission\u201d by Salami\u00a0Rose Joe Louis</a> on Genius</div> <script crossorigin src='//genius.com/songs/7271102/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "A Brief Intermission by\u00a0Salami\u00a0Rose Joe Louis",
+          "header_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+          "id": 7271102,
+          "language": "en",
+          "lyrics_owner_id": 4556540,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Salami-rose-joe-louis-a-brief-intermission-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-a-brief-intermission-sample",
+          "release_date": "2019-08-29",
+          "release_date_for_display": "August 29, 2019",
+          "release_date_with_abbreviated_month_for_display": "Aug. 29, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "A Brief Intermission",
+          "title_with_featured": "A Brief Intermission",
+          "url": "https://genius.com/Salami-rose-joe-louis-a-brief-intermission-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/594887",
+            "cover_art_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+            "full_title": "Zdenka 2080 by Salami Rose Joe Louis",
+            "id": 594887,
+            "name": "Zdenka 2080",
+            "release_date_for_display": "2019",
+            "url": "https://genius.com/albums/Salami-rose-joe-louis/Zdenka-2080",
+            "artist": {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 4556540,
+            "annotator_login": "bliplox",
+            "api_path": "/referents/24126658",
+            "classification": "needs_exegesis",
+            "fragment": "A Brief Intermission",
+            "id": 24126658,
+            "is_description": true,
+            "path": "/24126658/Salami-rose-joe-louis-a-brief-intermission/A-brief-intermission",
+            "range": {
+              "content": "A Brief Intermission"
+            },
+            "song_id": 7271102,
+            "url": "https://genius.com/24126658/Salami-rose-joe-louis-a-brief-intermission/A-brief-intermission",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7271102",
+              "client_timestamps": {
+                "updated_by_human_at": 1633716410,
+                "lyrics_updated_at": 1633716410
+              },
+              "context": "Salami Rose Joe Louis",
+              "id": 7271102,
+              "image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+              "link_title": "A Brief Intermission by\u00a0Salami\u00a0Rose Joe Louis",
+              "title": "A Brief Intermission",
+              "type": "Song",
+              "url": "https://genius.com/Salami-rose-joe-louis-a-brief-intermission-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/24126658",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 24126658,
+                "pinned": false,
+                "share_url": "https://genius.com/24126658",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/24126658/Salami-rose-joe-louis-a-brief-intermission/A-brief-intermission",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/4556540",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f9vkpjk0r7c",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 4556540,
+                      "iq": 78996,
+                      "login": "bliplox",
+                      "name": "bliplox",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/bliplox",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1164405",
+            "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "id": 1164405,
+            "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Salami Rose Joe Louis",
+            "url": "https://genius.com/artists/Salami-rose-joe-louis"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "060uvmnlbk8VayJpMiIPy3",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/7271072",
+        "artist_names": "Salami Rose Joe Louis",
+        "full_title": "Suddenly by\u00a0Salami\u00a0Rose Joe Louis",
+        "header_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+        "id": 7271072,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 4556540,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1633715915,
+        "path": "/Salami-rose-joe-louis-suddenly-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-suddenly-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 8,
+          "day": 29
+        },
+        "release_date_for_display": "August 29, 2019",
+        "release_date_with_abbreviated_month_for_display": "Aug. 29, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Suddenly",
+        "title_with_featured": "Suddenly",
+        "updated_by_human_at": 1633715943,
+        "url": "https://genius.com/Salami-rose-joe-louis-suddenly-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1164405",
+          "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "id": 1164405,
+          "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "index_character": "s",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Salami Rose Joe Louis",
+          "slug": "Salami-rose-joe-louis",
+          "url": "https://genius.com/artists/Salami-rose-joe-louis"
+        },
+        "artist": "Salami Rose Joe Louis",
+        "lyrics": "Suddenly LyricsSuddenly she finds life\nChallenging, stripping her\nOf her given light\nIt happened so fast\nAnd it takes her twice as long\nTo climb up the path\n\nSuddenly she finds life\nChallenging, stripping her\nOf her given light\nIt happened\u205fso\u205ffast\nAnd\u205fit takes her\u205ftwice as long\nTo\u205fclimb up the pathYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/7271072",
+          "apple_music_id": "1469654122",
+          "apple_music_player_url": "https://genius.com/songs/7271072/apple_music_player",
+          "artist_names": "Salami Rose Joe Louis",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_7271072' class='rg_embed_link' data-song-id='7271072'>Read <a href='https://genius.com/Salami-rose-joe-louis-suddenly-lyrics'>\u201cSuddenly\u201d by Salami\u00a0Rose Joe Louis</a> on Genius</div> <script crossorigin src='//genius.com/songs/7271072/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Suddenly by\u00a0Salami\u00a0Rose Joe Louis",
+          "header_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+          "id": 7271072,
+          "language": "en",
+          "lyrics_owner_id": 4556540,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Salami-rose-joe-louis-suddenly-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-suddenly-sample",
+          "release_date": "2019-08-29",
+          "release_date_for_display": "August 29, 2019",
+          "release_date_with_abbreviated_month_for_display": "Aug. 29, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Suddenly",
+          "title_with_featured": "Suddenly",
+          "url": "https://genius.com/Salami-rose-joe-louis-suddenly-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/594887",
+            "cover_art_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+            "full_title": "Zdenka 2080 by Salami Rose Joe Louis",
+            "id": 594887,
+            "name": "Zdenka 2080",
+            "release_date_for_display": "2019",
+            "url": "https://genius.com/albums/Salami-rose-joe-louis/Zdenka-2080",
+            "artist": {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 4556540,
+            "annotator_login": "bliplox",
+            "api_path": "/referents/24126599",
+            "classification": "needs_exegesis",
+            "fragment": "Suddenly",
+            "id": 24126599,
+            "is_description": true,
+            "path": "/24126599/Salami-rose-joe-louis-suddenly/Suddenly",
+            "range": {
+              "content": "Suddenly"
+            },
+            "song_id": 7271072,
+            "url": "https://genius.com/24126599/Salami-rose-joe-louis-suddenly/Suddenly",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7271072",
+              "client_timestamps": {
+                "updated_by_human_at": 1633715943,
+                "lyrics_updated_at": 1633715915
+              },
+              "context": "Salami Rose Joe Louis",
+              "id": 7271072,
+              "image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+              "link_title": "Suddenly by\u00a0Salami\u00a0Rose Joe Louis",
+              "title": "Suddenly",
+              "type": "Song",
+              "url": "https://genius.com/Salami-rose-joe-louis-suddenly-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/24126599",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 24126599,
+                "pinned": false,
+                "share_url": "https://genius.com/24126599",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/24126599/Salami-rose-joe-louis-suddenly/Suddenly",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/4556540",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f9vkpjk0r7c",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 4556540,
+                      "iq": 78996,
+                      "login": "bliplox",
+                      "name": "bliplox",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/bliplox",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1164405",
+            "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "id": 1164405,
+            "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Salami Rose Joe Louis",
+            "url": "https://genius.com/artists/Salami-rose-joe-louis"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "5byhrMTNyYYCSBmAtLpanr",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/4810295",
+        "artist_names": "Salami Rose Joe Louis",
+        "full_title": "Dorkiest Jam Since Dawn of Time by\u00a0Salami\u00a0Rose Joe Louis",
+        "header_image_thumbnail_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+        "id": 4810295,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 9204904,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1566629856,
+        "path": "/Salami-rose-joe-louis-dorkiest-jam-since-dawn-of-time-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-dorkiest-jam-since-dawn-of-time-sample",
+        "release_date_components": {
+          "year": 2017,
+          "month": 4,
+          "day": 18
+        },
+        "release_date_for_display": "April 18, 2017",
+        "release_date_with_abbreviated_month_for_display": "Apr. 18, 2017",
+        "song_art_image_thumbnail_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Dorkiest Jam Since Dawn of Time",
+        "title_with_featured": "Dorkiest Jam Since Dawn of Time",
+        "updated_by_human_at": 1566629906,
+        "url": "https://genius.com/Salami-rose-joe-louis-dorkiest-jam-since-dawn-of-time-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1164405",
+          "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "id": 1164405,
+          "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "index_character": "s",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Salami Rose Joe Louis",
+          "slug": "Salami-rose-joe-louis",
+          "url": "https://genius.com/artists/Salami-rose-joe-louis"
+        },
+        "artist": "Salami Rose Joe Louis",
+        "lyrics": "Dorkiest Jam Since Dawn of Time LyricsI take off my cool\n(take off your cool)\nNow you know my blue\n(So very blue)\nThen you\u2005decide\nYou\u2005like my style\nAnd\u2005I am grateful to you, yes\u2005it's true\n\nI never know just where I stand with you\n(but that's alright)\n'Cuz I like what you doYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/4810295",
+          "apple_music_id": "1343122171",
+          "apple_music_player_url": "https://genius.com/songs/4810295/apple_music_player",
+          "artist_names": "Salami Rose Joe Louis",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_4810295' class='rg_embed_link' data-song-id='4810295'>Read <a href='https://genius.com/Salami-rose-joe-louis-dorkiest-jam-since-dawn-of-time-lyrics'>\u201cDorkiest Jam Since Dawn of Time\u201d by Salami\u00a0Rose Joe Louis</a> on Genius</div> <script crossorigin src='//genius.com/songs/4810295/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Dorkiest Jam Since Dawn of Time by\u00a0Salami\u00a0Rose Joe Louis",
+          "header_image_thumbnail_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "id": 4810295,
+          "language": "en",
+          "lyrics_owner_id": 9204904,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Salami-rose-joe-louis-dorkiest-jam-since-dawn-of-time-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-dorkiest-jam-since-dawn-of-time-sample",
+          "release_date": "2017-04-18",
+          "release_date_for_display": "April 18, 2017",
+          "release_date_with_abbreviated_month_for_display": "Apr. 18, 2017",
+          "song_art_image_thumbnail_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Dorkiest Jam Since Dawn of Time",
+          "title_with_featured": "Dorkiest Jam Since Dawn of Time",
+          "url": "https://genius.com/Salami-rose-joe-louis-dorkiest-jam-since-dawn-of-time-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": null,
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 9204904,
+            "annotator_login": "fishinthemail",
+            "api_path": "/referents/17887812",
+            "classification": "needs_exegesis",
+            "fragment": "Dorkiest Jam Since Dawn of Time",
+            "id": 17887812,
+            "is_description": true,
+            "path": "/17887812/Salami-rose-joe-louis-dorkiest-jam-since-dawn-of-time/Dorkiest-jam-since-dawn-of-time",
+            "range": {
+              "content": "Dorkiest Jam Since Dawn of Time"
+            },
+            "song_id": 4810295,
+            "url": "https://genius.com/17887812/Salami-rose-joe-louis-dorkiest-jam-since-dawn-of-time/Dorkiest-jam-since-dawn-of-time",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/4810295",
+              "client_timestamps": {
+                "updated_by_human_at": 1566629906,
+                "lyrics_updated_at": 1566629856
+              },
+              "context": "Salami Rose Joe Louis",
+              "id": 4810295,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "link_title": "Dorkiest Jam Since Dawn of Time by\u00a0Salami\u00a0Rose Joe Louis",
+              "title": "Dorkiest Jam Since Dawn of Time",
+              "type": "Song",
+              "url": "https://genius.com/Salami-rose-joe-louis-dorkiest-jam-since-dawn-of-time-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/17887812",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 17887812,
+                "pinned": false,
+                "share_url": "https://genius.com/17887812",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/17887812/Salami-rose-joe-louis-dorkiest-jam-since-dawn-of-time/Dorkiest-jam-since-dawn-of-time",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/9204904",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/d0b295fbb9b04edafda471b617432f00",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/d0b295fbb9b04edafda471b617432f00",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/d0b295fbb9b04edafda471b617432f00",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/d0b295fbb9b04edafda471b617432f00",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/avatars/medium/d0b295fbb9b04edafda471b617432f00",
+                      "human_readable_role_for_display": null,
+                      "id": 9204904,
+                      "iq": 206,
+                      "login": "fishinthemail",
+                      "name": "fishinthemail",
+                      "role_for_display": null,
+                      "url": "https://genius.com/fishinthemail",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1164405",
+            "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "id": 1164405,
+            "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Salami Rose Joe Louis",
+            "url": "https://genius.com/artists/Salami-rose-joe-louis"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "6EEVxk4gqOuFlPOsIGh3DS",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/7271154",
+        "artist_names": "Salami Rose Joe Louis",
+        "full_title": "Earth Creature by\u00a0Salami\u00a0Rose Joe Louis",
+        "header_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+        "id": 7271154,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 4556540,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1633717696,
+        "path": "/Salami-rose-joe-louis-earth-creature-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-earth-creature-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 8,
+          "day": 19
+        },
+        "release_date_for_display": "August 19, 2019",
+        "release_date_with_abbreviated_month_for_display": "Aug. 19, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Earth Creature",
+        "title_with_featured": "Earth Creature",
+        "updated_by_human_at": 1633717696,
+        "url": "https://genius.com/Salami-rose-joe-louis-earth-creature-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1164405",
+          "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "id": 1164405,
+          "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "index_character": "s",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Salami Rose Joe Louis",
+          "slug": "Salami-rose-joe-louis",
+          "url": "https://genius.com/artists/Salami-rose-joe-louis"
+        },
+        "artist": "Salami Rose Joe Louis",
+        "lyrics": "Earth Creature LyricsOkay, let me get this straight\nSo, if the Octagonal Room is the brain of the Earth Creature, does that imply that human existence is just the thoughts of the Earth Creature?\n\nThere are times that you feel a little weird\nDon't lose your hope, my dear\n\nThere are times that you feel a little weird\nDon\u2019t lose your hope, my dear\n\nAh, yes, here's the scoop, my little bloopy-bloop:\nHuman beings are not simply the thoughts of the Earth Creature- Although, that's a wonderful hypothesis-\nIn fact, we are the cells of the Earth Creature\nThe Octagonal Room and the eight paintings and the coinciding eight dimensions are indeed the thoughts of the Earth Creature\nThose, in turn, mold and influence the actions of the human beings\nAs we carry out the wills and desires of the Earth Creature\nThere is...\nThe artist decides the picture\nThat influences the mind of the Earth Creature\nBecause each picture\nIs a thought in the mind of the\nEarth Creature\nEarth Creature\nEarth Creature\nEarth Creature\nEarth Creature\nEarth CreatureYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/7271154",
+          "apple_music_id": "1469654585",
+          "apple_music_player_url": "https://genius.com/songs/7271154/apple_music_player",
+          "artist_names": "Salami Rose Joe Louis",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_7271154' class='rg_embed_link' data-song-id='7271154'>Read <a href='https://genius.com/Salami-rose-joe-louis-earth-creature-lyrics'>\u201cEarth Creature\u201d by Salami\u00a0Rose Joe Louis</a> on Genius</div> <script crossorigin src='//genius.com/songs/7271154/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Earth Creature by\u00a0Salami\u00a0Rose Joe Louis",
+          "header_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+          "id": 7271154,
+          "language": "en",
+          "lyrics_owner_id": 4556540,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Salami-rose-joe-louis-earth-creature-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-earth-creature-sample",
+          "release_date": "2019-08-19",
+          "release_date_for_display": "August 19, 2019",
+          "release_date_with_abbreviated_month_for_display": "Aug. 19, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 1,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Earth Creature",
+          "title_with_featured": "Earth Creature",
+          "url": "https://genius.com/Salami-rose-joe-louis-earth-creature-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/594887",
+            "cover_art_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+            "full_title": "Zdenka 2080 by Salami Rose Joe Louis",
+            "id": 594887,
+            "name": "Zdenka 2080",
+            "release_date_for_display": "2019",
+            "url": "https://genius.com/albums/Salami-rose-joe-louis/Zdenka-2080",
+            "artist": {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 4556540,
+            "annotator_login": "bliplox",
+            "api_path": "/referents/24126785",
+            "classification": "needs_exegesis",
+            "fragment": "Earth Creature",
+            "id": 24126785,
+            "is_description": true,
+            "path": "/24126785/Salami-rose-joe-louis-earth-creature/Earth-creature",
+            "range": {
+              "content": "Earth Creature"
+            },
+            "song_id": 7271154,
+            "url": "https://genius.com/24126785/Salami-rose-joe-louis-earth-creature/Earth-creature",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/7271154",
+              "client_timestamps": {
+                "updated_by_human_at": 1633717696,
+                "lyrics_updated_at": 1633717696
+              },
+              "context": "Salami Rose Joe Louis",
+              "id": 7271154,
+              "image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+              "link_title": "Earth Creature by\u00a0Salami\u00a0Rose Joe Louis",
+              "title": "Earth Creature",
+              "type": "Song",
+              "url": "https://genius.com/Salami-rose-joe-louis-earth-creature-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/24126785",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 24126785,
+                "pinned": false,
+                "share_url": "https://genius.com/24126785",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/24126785/Salami-rose-joe-louis-earth-creature/Earth-creature",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/4556540",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/8874f0b1aa2f2af461dc9de2e45bfebf",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f9vkpjk0r7c",
+                      "human_readable_role_for_display": "Editor",
+                      "id": 4556540,
+                      "iq": 78996,
+                      "login": "bliplox",
+                      "name": "bliplox",
+                      "role_for_display": "editor",
+                      "url": "https://genius.com/bliplox",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1164405",
+            "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "id": 1164405,
+            "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Salami Rose Joe Louis",
+            "url": "https://genius.com/artists/Salami-rose-joe-louis"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "6JxeeCjNMXrKquxSqviMzD",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/6265652",
+        "artist_names": "Salami Rose Joe Louis",
+        "full_title": "We're Dumb by\u00a0Salami\u00a0Rose Joe Louis",
+        "header_image_thumbnail_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.1000x1000x1.jpg",
+        "id": 6265652,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 7650027,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1607972821,
+        "path": "/Salami-rose-joe-louis-were-dumb-lyrics",
+        "pyongs_count": null,
+        "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-were-dumb-sample",
+        "release_date_components": null,
+        "release_date_for_display": null,
+        "release_date_with_abbreviated_month_for_display": null,
+        "song_art_image_thumbnail_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.1000x1000x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "We\u2019re Dumb",
+        "title_with_featured": "We're Dumb",
+        "updated_by_human_at": 1607972821,
+        "url": "https://genius.com/Salami-rose-joe-louis-were-dumb-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1164405",
+          "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "id": 1164405,
+          "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "index_character": "s",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Salami Rose Joe Louis",
+          "slug": "Salami-rose-joe-louis",
+          "url": "https://genius.com/artists/Salami-rose-joe-louis"
+        },
+        "artist": "Salami Rose Joe Louis",
+        "lyrics": "We\u2019re Dumb LyricsI don\u2019t know\nWhat happened\n(Capitalism)\nHow could we be so\n(Capitalism)\nSo backwards\nAnd stupid\n(Capitalism)\nAnd evil?\nI don\u2019t know\nWhat happened\n(Capitalism)\nHow could we be so\n(Capitalism)\nSo backwards\nAnd stupid\n(Capitalism)\nAnd evil?\nWhy are we so?\nHow are so?\nWe sell our soulsYou might also likeEmbed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/6265652",
+          "apple_music_id": "1540269729",
+          "apple_music_player_url": "https://genius.com/songs/6265652/apple_music_player",
+          "artist_names": "Salami Rose Joe Louis",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_6265652' class='rg_embed_link' data-song-id='6265652'>Read <a href='https://genius.com/Salami-rose-joe-louis-were-dumb-lyrics'>\u201cWe're Dumb\u201d by Salami\u00a0Rose Joe Louis</a> on Genius</div> <script crossorigin src='//genius.com/songs/6265652/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "We're Dumb by\u00a0Salami\u00a0Rose Joe Louis",
+          "header_image_thumbnail_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.1000x1000x1.jpg",
+          "id": 6265652,
+          "language": "en",
+          "lyrics_owner_id": 7650027,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Salami-rose-joe-louis-were-dumb-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-were-dumb-sample",
+          "release_date": null,
+          "release_date_for_display": null,
+          "release_date_with_abbreviated_month_for_display": null,
+          "song_art_image_thumbnail_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.1000x1000x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 1,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "We\u2019re Dumb",
+          "title_with_featured": "We're Dumb",
+          "url": "https://genius.com/Salami-rose-joe-louis-were-dumb-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/710720",
+            "cover_art_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.1000x1000x1.jpg",
+            "full_title": "Chapters of Zdenka by Salami Rose Joe Louis",
+            "id": 710720,
+            "name": "Chapters of Zdenka",
+            "release_date_for_display": "December 11, 2020",
+            "url": "https://genius.com/albums/Salami-rose-joe-louis/Chapters-of-zdenka",
+            "artist": {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 104344,
+            "annotator_login": "streetlights",
+            "api_path": "/referents/21583926",
+            "classification": "needs_exegesis",
+            "fragment": "We\u2019re Dumb",
+            "id": 21583926,
+            "is_description": true,
+            "path": "/21583926/Salami-rose-joe-louis-were-dumb/Were-dumb",
+            "range": {
+              "content": "We're Dumb"
+            },
+            "song_id": 6265652,
+            "url": "https://genius.com/21583926/Salami-rose-joe-louis-were-dumb/Were-dumb",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/6265652",
+              "client_timestamps": {
+                "updated_by_human_at": 1607972821,
+                "lyrics_updated_at": 1607972821
+              },
+              "context": "Salami Rose Joe Louis",
+              "id": 6265652,
+              "image_url": "https://images.genius.com/3db878f7566e1589fdb03295b2e5a471.1000x1000x1.jpg",
+              "link_title": "We\u2019re Dumb by\u00a0Salami\u00a0Rose Joe Louis",
+              "title": "We're Dumb",
+              "type": "Song",
+              "url": "https://genius.com/Salami-rose-joe-louis-were-dumb-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/21583926",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 21583926,
+                "pinned": false,
+                "share_url": "https://genius.com/21583926",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/21583926/Salami-rose-joe-louis-were-dumb/Were-dumb",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/104344",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+                      "human_readable_role_for_display": "Staff",
+                      "id": 104344,
+                      "iq": 3060807,
+                      "login": "streetlights",
+                      "name": "\u200bstreetlights",
+                      "role_for_display": "staff",
+                      "url": "https://genius.com/streetlights",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [],
+          "primary_artist": {
+            "api_path": "/artists/1164405",
+            "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "id": 1164405,
+            "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Salami Rose Joe Louis",
+            "url": "https://genius.com/artists/Salami-rose-joe-louis"
+          },
+          "producer_artists": [],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": []
+        }
+      },
+      "annotations": false
+    },
+    {
+      "spotify_id": "79o1LccPYdjx1GMeDiTKY0",
+      "search_results": {
+        "_type": "song",
+        "annotation_count": 0,
+        "api_path": "/songs/5985765",
+        "artist_names": "Salami Rose Joe Louis",
+        "full_title": "Cumulous Potion (For the Clouds to Sing) by\u00a0Salami\u00a0Rose Joe Louis",
+        "header_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+        "id": 5985765,
+        "instrumental": false,
+        "language": "en",
+        "lyrics_owner_id": 5753553,
+        "lyrics_state": "complete",
+        "lyrics_updated_at": 1600742984,
+        "path": "/Salami-rose-joe-louis-cumulous-potion-for-the-clouds-to-sing-lyrics",
+        "pyongs_count": 1,
+        "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-cumulous-potion-for-the-clouds-to-sing-sample",
+        "release_date_components": {
+          "year": 2019,
+          "month": 8,
+          "day": 30
+        },
+        "release_date_for_display": "August 30, 2019",
+        "release_date_with_abbreviated_month_for_display": "Aug. 30, 2019",
+        "song_art_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+        "song_art_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+        "stats": {
+          "unreviewed_annotations": 0,
+          "hot": false
+        },
+        "title": "Cumulous Potion (For the Clouds to Sing)",
+        "title_with_featured": "Cumulous Potion (For the Clouds to Sing)",
+        "updated_by_human_at": 1667025032,
+        "url": "https://genius.com/Salami-rose-joe-louis-cumulous-potion-for-the-clouds-to-sing-lyrics",
+        "featured_artists": [],
+        "primary_artist": {
+          "_type": "artist",
+          "api_path": "/artists/1164405",
+          "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "id": 1164405,
+          "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+          "index_character": "s",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Salami Rose Joe Louis",
+          "slug": "Salami-rose-joe-louis",
+          "url": "https://genius.com/artists/Salami-rose-joe-louis"
+        },
+        "artist": "Salami Rose Joe Louis",
+        "lyrics": "Cumulous Potion (For the Clouds to Sing) LyricsIt's a cumulus potion\nFor the clouds to sing\nConducted by a starship\nFrom another galaxy\n\nIt's a cumulus potion\nFor the clouds to sing\nConducted by a starship\nFrom another galaxy\n\nConducted by a starship\nConducted by a starship\nConducted by a starship\nConducted by a starshipYou might also like1Embed"
+      },
+      "full_song_data": {
+        "song": {
+          "annotation_count": 0,
+          "api_path": "/songs/5985765",
+          "apple_music_id": "1469654579",
+          "apple_music_player_url": "https://genius.com/songs/5985765/apple_music_player",
+          "artist_names": "Salami Rose Joe Louis",
+          "description": {
+            "plain": "?"
+          },
+          "embed_content": "<div id='rg_embed_link_5985765' class='rg_embed_link' data-song-id='5985765'>Read <a href='https://genius.com/Salami-rose-joe-louis-cumulous-potion-for-the-clouds-to-sing-lyrics'>\u201cCumulous Potion (For the Clouds to Sing)\u201d by Salami\u00a0Rose Joe Louis</a> on Genius</div> <script crossorigin src='//genius.com/songs/5985765/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Cumulous Potion (For the Clouds to Sing) by\u00a0Salami\u00a0Rose Joe Louis",
+          "header_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+          "id": 5985765,
+          "language": "en",
+          "lyrics_owner_id": 5753553,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Salami-rose-joe-louis-cumulous-potion-for-the-clouds-to-sing-lyrics",
+          "pyongs_count": 1,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Salami-rose-joe-louis-cumulous-potion-for-the-clouds-to-sing-sample",
+          "release_date": "2019-08-30",
+          "release_date_for_display": "August 30, 2019",
+          "release_date_with_abbreviated_month_for_display": "Aug. 30, 2019",
+          "song_art_image_thumbnail_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+          "stats": {
+            "accepted_annotations": 0,
+            "contributors": 2,
+            "iq_earners": 2,
+            "transcribers": 1,
+            "unreviewed_annotations": 0,
+            "verified_annotations": 0,
+            "hot": false
+          },
+          "title": "Cumulous Potion (For the Clouds to Sing)",
+          "title_with_featured": "Cumulous Potion (For the Clouds to Sing)",
+          "url": "https://genius.com/Salami-rose-joe-louis-cumulous-potion-for-the-clouds-to-sing-lyrics",
+          "current_user_metadata": {
+            "permissions": [
+              "view_apple_music_player",
+              "view_recommendations",
+              "view_song_story_gallery"
+            ],
+            "excluded_permissions": [
+              "follow",
+              "award_transcription_iq",
+              "remove_transcription_iq",
+              "see_pageviews",
+              "pyong",
+              "edit_lyrics",
+              "view_annotation_engagement_data",
+              "publish",
+              "unpublish",
+              "edit_spotify_details",
+              "hide",
+              "unhide",
+              "toggle_featured_video",
+              "add_pinned_annotation_to",
+              "add_community_annotation_to",
+              "destroy",
+              "mark_as_not_spam",
+              "edit_spotify_annotations_for",
+              "verify_lyrics",
+              "unverify_lyrics",
+              "edit_anything",
+              "edit_any_media",
+              "edit",
+              "rename",
+              "edit_tags",
+              "reindex",
+              "view_lyrics_synchronization",
+              "enable_media",
+              "disable_media",
+              "edit_lyrics_or_annotation_brackets",
+              "see_editorial_indicators",
+              "view_attribution_visualization",
+              "edit_annotation_brackets",
+              "preview_lyrics_for_export",
+              "hide_apple_player",
+              "unhide_apple_player",
+              "trigger_apple_match",
+              "mark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_staff_approved",
+              "unmark_lyrics_evaluation_as_complete",
+              "mark_lyrics_evaluation_as_un_staff_approved",
+              "view_transcriber_media_player",
+              "override_apple_match",
+              "set_song_color_gradient",
+              "mark_as_hot",
+              "unmark_as_hot",
+              "view_relationships_page",
+              "edit_youtube_url",
+              "edit_soundcloud_url",
+              "edit_spotify_uuid",
+              "edit_vevo_url",
+              "create_comment",
+              "moderate_annotations",
+              "create_annotation",
+              "see_short_id",
+              "manage_chart_item",
+              "create_tag",
+              "propose_lyrics_edit",
+              "view_lyrics_edit_proposals_on_song",
+              "create_question"
+            ],
+            "interactions": {
+              "pyong": false,
+              "following": false
+            },
+            "relationships": {},
+            "iq_by_action": {}
+          },
+          "album": {
+            "api_path": "/albums/594887",
+            "cover_art_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+            "full_title": "Zdenka 2080 by Salami Rose Joe Louis",
+            "id": 594887,
+            "name": "Zdenka 2080",
+            "release_date_for_display": "2019",
+            "url": "https://genius.com/albums/Salami-rose-joe-louis/Zdenka-2080",
+            "artist": {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          },
+          "custom_performances": [],
+          "description_annotation": {
+            "_type": "referent",
+            "annotator_id": 5753553,
+            "annotator_login": "AhmadWhitaker",
+            "api_path": "/referents/20878613",
+            "classification": "needs_exegesis",
+            "fragment": "Cumulous Potion (For the Clouds to Sing)",
+            "id": 20878613,
+            "is_description": true,
+            "path": "/20878613/Salami-rose-joe-louis-cumulous-potion-for-the-clouds-to-sing/Cumulous-potion-for-the-clouds-to-sing",
+            "range": {
+              "content": "Cumulous Potion (For the Clouds to Sing)"
+            },
+            "song_id": 5985765,
+            "url": "https://genius.com/20878613/Salami-rose-joe-louis-cumulous-potion-for-the-clouds-to-sing/Cumulous-potion-for-the-clouds-to-sing",
+            "verified_annotator_ids": [],
+            "annotatable": {
+              "api_path": "/songs/5985765",
+              "client_timestamps": {
+                "updated_by_human_at": 1667025032,
+                "lyrics_updated_at": 1600742984
+              },
+              "context": "Salami Rose Joe Louis",
+              "id": 5985765,
+              "image_url": "https://images.genius.com/d8024ceb390e147a98eb6cdb40b43194.700x700x1.jpg",
+              "link_title": "Cumulous Potion (For the Clouds to Sing) by\u00a0Salami\u00a0Rose Joe Louis",
+              "title": "Cumulous Potion (For the Clouds to Sing)",
+              "type": "Song",
+              "url": "https://genius.com/Salami-rose-joe-louis-cumulous-potion-for-the-clouds-to-sing-lyrics"
+            },
+            "annotations": [
+              {
+                "api_path": "/annotations/20878613",
+                "body": {
+                  "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 20878613,
+                "pinned": false,
+                "share_url": "https://genius.com/20878613",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/20878613/Salami-rose-joe-louis-cumulous-potion-for-the-clouds-to-sing/Cumulous-potion-for-the-clouds-to-sing",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                  "permissions": [],
+                  "excluded_permissions": [
+                    "vote",
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "propose_edit_to",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview",
+                    "create_comment"
+                  ],
+                  "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                  },
+                  "iq_by_action": {}
+                },
+                "authors": [
+                  {
+                    "attribution": 1.0,
+                    "pinned_role": null,
+                    "user": {
+                      "api_path": "/users/5753553",
+                      "avatar": {
+                        "tiny": {
+                          "url": "https://images.genius.com/avatars/tiny/4c2dd2339c45c3fd15cdcd21f9950a90",
+                          "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                          }
+                        },
+                        "thumb": {
+                          "url": "https://images.genius.com/avatars/thumb/4c2dd2339c45c3fd15cdcd21f9950a90",
+                          "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                          }
+                        },
+                        "small": {
+                          "url": "https://images.genius.com/avatars/small/4c2dd2339c45c3fd15cdcd21f9950a90",
+                          "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                          }
+                        },
+                        "medium": {
+                          "url": "https://images.genius.com/avatars/medium/4c2dd2339c45c3fd15cdcd21f9950a90",
+                          "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                          }
+                        }
+                      },
+                      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/mykvd9v7ukk",
+                      "human_readable_role_for_display": "Contributor",
+                      "id": 5753553,
+                      "iq": 2960,
+                      "login": "AhmadWhitaker",
+                      "name": "AhmadWhitaker",
+                      "role_for_display": "contributor",
+                      "url": "https://genius.com/AhmadWhitaker",
+                      "current_user_metadata": {
+                        "permissions": [],
+                        "excluded_permissions": [
+                          "follow"
+                        ],
+                        "interactions": {
+                          "following": false
+                        }
+                      }
+                    }
+                  }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+              }
+            ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+            {
+              "attribution": "salami rose joe louis",
+              "provider": "soundcloud",
+              "type": "audio",
+              "url": "https://soundcloud.com/salami-rose-joe-louis/cumulous-potion-for-the-clouds"
+            },
+            {
+              "provider": "youtube",
+              "start": 0,
+              "type": "video",
+              "url": "http://www.youtube.com/watch?v=89IC8MQjKqw"
+            }
+          ],
+          "primary_artist": {
+            "api_path": "/artists/1164405",
+            "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "id": 1164405,
+            "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Salami Rose Joe Louis",
+            "url": "https://genius.com/artists/Salami-rose-joe-louis"
+          },
+          "producer_artists": [
+            {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          ],
+          "song_relationships": [
+            {
+              "relationship_type": "samples",
+              "type": "samples",
+              "songs": []
+            },
+            {
+              "relationship_type": "sampled_in",
+              "type": "sampled_in",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolates",
+              "type": "interpolates",
+              "songs": []
+            },
+            {
+              "relationship_type": "interpolated_by",
+              "type": "interpolated_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "cover_of",
+              "type": "cover_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "covered_by",
+              "type": "covered_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "remix_of",
+              "type": "remix_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "remixed_by",
+              "type": "remixed_by",
+              "songs": []
+            },
+            {
+              "relationship_type": "live_version_of",
+              "type": "live_version_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "performed_live_as",
+              "type": "performed_live_as",
+              "songs": []
+            },
+            {
+              "relationship_type": "translation_of",
+              "type": "translation_of",
+              "songs": []
+            },
+            {
+              "relationship_type": "translations",
+              "type": "translations",
+              "songs": []
+            }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+            {
+              "api_path": "/artists/1164405",
+              "header_image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "id": 1164405,
+              "image_url": "https://images.genius.com/5b97dfacff013d9a1e4c13f084ca7f1b.450x450x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Salami Rose Joe Louis",
+              "url": "https://genius.com/artists/Salami-rose-joe-louis"
+            }
+          ]
+        }
+      },
+      "annotations": false
+    }
+  ]
+}
