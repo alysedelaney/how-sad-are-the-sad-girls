@@ -11,7 +11,7 @@ import re
 
 #--API Setup------------------------------------------
 
-user_token = "HA_bejJPPswn7Oi-ehqP-q9Ka2kkqJDppHjWSuXC4eyaVUYkaYQyR-xV-6FJXTnj"
+user_token = "USER TOKEN HERE"
 genius = lyricsgenius.Genius(user_token,sleep_time=0.5,timeout=5, retries=3)
 
 #--*** Search Input Here ***--------------------------

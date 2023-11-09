@@ -12,8 +12,8 @@ import time
 
 # Spotify API Set Up ------------------------------------------------------
 
-client_id = "5bae1e05720d486a8bef2310f63cdb05"
-client_secret = "8a701744762d47ae801d7bebf730e489"
+client_id = "ENTER client_id HERE"
+client_secret = "ENTER client_secret HERE"
 
 url = 'https://accounts.spotify.com/api/token'
 
